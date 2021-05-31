@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+5447,Wolfsburg,Bayern Munich,1.19842,2.57012,1,2,a,2014-08-22 19:30:00
+5461,Wolfsburg,Eintracht Frankfurt,1.00484,1.59633,2,2,h,2014-08-30 14:30:00
+5412,Wolfsburg,Hoffenheim,1.63553,1.15845,1,1,a,2014-09-13 14:30:00
+5427,Wolfsburg,Bayer Leverkusen,1.55879,0.616799,4,1,h,2014-09-21 14:30:00
+5437,Wolfsburg,Hertha Berlin,0.855691,0.428365,0,1,a,2014-09-24 19:00:00
+5444,Wolfsburg,Werder Bremen,1.24302,0.32535,2,1,h,2014-09-27 17:30:00
+5390,Wolfsburg,Augsburg,0.684001,0.666035,1,0,h,2014-10-05 14:30:00
+5395,Wolfsburg,Freiburg,1.45969,1.00939,2,1,a,2014-10-18 14:30:00
+5408,Wolfsburg,Mainz 05,4.06466,1.6222,3,0,h,2014-10-26 14:30:00
+5350,Wolfsburg,VfB Stuttgart,2.69946,0.924949,4,0,a,2014-11-01 14:30:00
+5363,Wolfsburg,Hamburger SV,1.95442,0.488693,2,0,h,2014-11-09 14:30:00
+5366,Wolfsburg,Schalke 04,1.23361,1.12048,2,3,a,2014-11-22 14:30:00
+5381,Wolfsburg,Borussia M.Gladbach,1.69265,0.606945,1,0,h,2014-11-30 14:30:00
+5314,Wolfsburg,Hannover 96,1.85576,1.6788,3,1,a,2014-12-06 14:30:00
+5329,Wolfsburg,Paderborn,3.22294,0.996117,1,1,h,2014-12-14 16:30:00
+5335,Wolfsburg,Borussia Dortmund,1.38959,1.30339,2,2,a,2014-12-17 19:00:00
+5345,Wolfsburg,FC Cologne,0.527607,0.401914,2,1,h,2014-12-20 17:30:00
+5305,Wolfsburg,Bayern Munich,2.18248,1.91633,4,1,h,2015-01-30 19:30:00
+5263,Wolfsburg,Eintracht Frankfurt,1.8612,0.948078,1,1,a,2015-02-03 19:00:00
+5276,Wolfsburg,Hoffenheim,1.37453,1.39639,3,0,h,2015-02-07 14:30:00
+5282,Wolfsburg,Bayer Leverkusen,2.08631,1.98748,5,4,a,2015-02-14 14:30:00
+5297,Wolfsburg,Hertha Berlin,1.77626,0.563215,2,1,h,2015-02-22 16:30:00
+5232,Wolfsburg,Werder Bremen,2.5513,1.44281,5,3,a,2015-03-01 16:30:00
+5235,Wolfsburg,Augsburg,0.390951,1.44291,0,1,a,2015-03-07 14:30:00
+5249,Wolfsburg,Freiburg,2.68949,1.21009,3,0,h,2015-03-15 14:30:00
+5258,Wolfsburg,Mainz 05,0.811129,1.02675,1,1,a,2015-03-22 14:30:00
+5200,Wolfsburg,VfB Stuttgart,3.74206,1.92469,3,1,h,2015-04-04 14:30:00
+5210,Wolfsburg,Hamburger SV,2.16383,0.141435,2,0,a,2015-04-11 17:30:00
+5221,Wolfsburg,Schalke 04,1.08185,0.285232,1,1,h,2015-04-19 16:30:00
+5230,Wolfsburg,Borussia M.Gladbach,0.422562,1.65493,0,1,a,2015-04-26 16:30:00
+5160,Wolfsburg,Hannover 96,1.52891,1.41691,2,2,h,2015-05-02 14:30:00
+5175,Wolfsburg,Paderborn,1.68486,1.26876,3,1,a,2015-05-10 14:30:00
+5179,Wolfsburg,Borussia Dortmund,1.65992,1.77219,2,1,h,2015-05-16 14:30:00
+5186,Wolfsburg,FC Cologne,2.05941,0.909494,2,2,a,2015-05-23 14:30:00

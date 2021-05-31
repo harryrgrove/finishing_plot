@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+10337,Bayern Munich,Hoffenheim,3.08883,0.697274,3,1,h,2018-08-24 21:30:00
+10352,Bayern Munich,VfB Stuttgart,1.71434,0.0990837,3,0,a,2018-09-01 16:30:00
+10360,Bayern Munich,Bayer Leverkusen,1.40345,0.784725,3,1,h,2018-09-15 13:30:00
+10370,Bayern Munich,Schalke 04,2.58882,0.358342,2,0,a,2018-09-22 16:30:00
+10376,Bayern Munich,Augsburg,1.43314,1.32512,1,1,h,2018-09-25 18:30:00
+10382,Bayern Munich,Hertha Berlin,2.40599,1.48921,0,2,a,2018-09-28 18:30:00
+10391,Bayern Munich,Borussia M.Gladbach,0.595523,0.559058,0,3,h,2018-10-06 16:30:00
+10407,Bayern Munich,Wolfsburg,2.75811,0.815476,3,1,a,2018-10-20 13:30:00
+10415,Bayern Munich,Mainz 05,2.15695,0.592384,2,1,a,2018-10-27 13:30:00
+10422,Bayern Munich,Freiburg,1.8539,0.592458,1,1,h,2018-11-03 14:30:00
+10428,Bayern Munich,Borussia Dortmund,1.84247,2.56191,2,3,a,2018-11-10 17:30:00
+10436,Bayern Munich,Fortuna Duesseldorf,2.81107,1.36755,3,3,h,2018-11-24 14:30:00
+10450,Bayern Munich,Werder Bremen,3.29433,0.637321,2,1,a,2018-12-01 14:30:00
+10454,Bayern Munich,Nuernberg,2.8246,0.191129,3,0,h,2018-12-08 14:30:00
+10469,Bayern Munich,Hannover 96,4.18084,0.628893,4,0,a,2018-12-15 14:30:00
+10472,Bayern Munich,RasenBallsport Leipzig,1.81321,0.721767,1,0,h,2018-12-19 19:30:00
+10487,Bayern Munich,Eintracht Frankfurt,2.04036,1.31242,3,0,a,2018-12-22 17:30:00
+10497,Bayern Munich,Hoffenheim,3.31311,1.1596,3,1,a,2019-01-18 19:30:00
+10499,Bayern Munich,VfB Stuttgart,3.41668,0.361664,4,1,h,2019-01-27 14:30:00
+10508,Bayern Munich,Bayer Leverkusen,1.868,1.2769,1,3,a,2019-02-02 14:30:00
+10517,Bayern Munich,Schalke 04,2.35845,1.39766,3,1,h,2019-02-09 17:30:00
+10531,Bayern Munich,Augsburg,2.20232,0.510867,3,2,a,2019-02-15 19:30:00
+10535,Bayern Munich,Hertha Berlin,0.989434,0.279649,1,0,h,2019-02-23 14:30:00
+10548,Bayern Munich,Borussia M.Gladbach,5.94023,0.58281,5,1,a,2019-03-02 17:30:00
+10553,Bayern Munich,Wolfsburg,3.77617,0.159247,6,0,h,2019-03-09 14:30:00
+10565,Bayern Munich,Mainz 05,2.66818,0.302976,6,0,h,2019-03-17 17:00:00
+10578,Bayern Munich,Freiburg,3.23843,0.719026,1,1,a,2019-03-30 14:30:00
+10580,Bayern Munich,Borussia Dortmund,4.30876,0.478204,5,0,h,2019-04-06 17:30:00
+10596,Bayern Munich,Fortuna Duesseldorf,3.34878,0.972295,4,1,a,2019-04-14 14:30:00
+10598,Bayern Munich,Werder Bremen,2.60771,0.134891,1,0,h,2019-04-20 14:30:00
+10615,Bayern Munich,Nuernberg,1.68788,1.90716,1,1,a,2019-04-28 17:00:00
+10616,Bayern Munich,Hannover 96,5.36034,0.871424,3,1,h,2019-05-04 14:30:00
+10628,Bayern Munich,RasenBallsport Leipzig,1.72176,0.609829,0,0,a,2019-05-11 14:30:00
+10635,Bayern Munich,Eintracht Frankfurt,4.62869,0.954021,5,1,h,2019-05-18 13:30:00

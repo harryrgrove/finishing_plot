@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+5452,Hamburger SV,FC Cologne,0.913337,0.522276,0,0,a,2014-08-23 14:30:00
+5459,Hamburger SV,Paderborn,1.14049,2.37004,0,3,h,2014-08-30 14:30:00
+5419,Hamburger SV,Hannover 96,0.976735,2.22631,0,2,a,2014-09-14 16:30:00
+5422,Hamburger SV,Bayern Munich,0.203118,1.03519,0,0,h,2014-09-20 14:30:00
+5435,Hamburger SV,Borussia M.Gladbach,0.560569,2.38906,0,1,a,2014-09-24 19:00:00
+5446,Hamburger SV,Eintracht Frankfurt,1.09327,0.232889,1,2,h,2014-09-28 16:30:00
+5386,Hamburger SV,Borussia Dortmund,1.42953,1.20017,1,0,a,2014-10-04 14:30:00
+5399,Hamburger SV,Hoffenheim,1.82378,1.55868,1,1,h,2014-10-19 14:30:00
+5405,Hamburger SV,Hertha Berlin,0.784655,2.51297,0,3,a,2014-10-25 14:30:00
+5351,Hamburger SV,Bayer Leverkusen,1.33863,0.426376,1,0,h,2014-11-01 14:30:00
+5363,Hamburger SV,Wolfsburg,0.488693,1.95442,0,2,a,2014-11-09 14:30:00
+5372,Hamburger SV,Werder Bremen,2.60596,1.14769,2,0,h,2014-11-23 14:30:00
+5375,Hamburger SV,Augsburg,1.12309,2.79213,1,3,a,2014-11-29 14:30:00
+5319,Hamburger SV,Mainz 05,2.03325,1.02472,2,1,h,2014-12-07 14:30:00
+5326,Hamburger SV,Freiburg,0.518828,1.46439,0,0,a,2014-12-13 14:30:00
+5331,Hamburger SV,VfB Stuttgart,0.436429,1.36453,0,1,h,2014-12-16 19:00:00
+5342,Hamburger SV,Schalke 04,1.3688,1.52587,0,0,a,2014-12-20 14:30:00
+5309,Hamburger SV,FC Cologne,0.601293,1.16042,0,2,h,2015-01-31 14:30:00
+5268,Hamburger SV,Paderborn,2.21275,0.81246,3,0,a,2015-02-04 19:00:00
+5277,Hamburger SV,Hannover 96,0.674771,2.24545,2,1,h,2015-02-07 17:30:00
+5285,Hamburger SV,Bayern Munich,0.230619,4.17851,0,8,a,2015-02-14 14:30:00
+5296,Hamburger SV,Borussia M.Gladbach,1.04376,0.657812,1,1,h,2015-02-22 14:30:00
+5304,Hamburger SV,Eintracht Frankfurt,1.43145,2.21323,1,2,a,2015-02-28 17:30:00
+5234,Hamburger SV,Borussia Dortmund,0.735406,0.505015,0,0,h,2015-03-07 14:30:00
+5244,Hamburger SV,Hoffenheim,0.438761,2.66878,0,3,a,2015-03-14 14:30:00
+5251,Hamburger SV,Hertha Berlin,0.482112,0.7084,0,1,h,2015-03-20 19:30:00
+5199,Hamburger SV,Bayer Leverkusen,0.35348,3.81979,0,4,a,2015-04-04 14:30:00
+5210,Hamburger SV,Wolfsburg,0.141435,2.16383,0,2,h,2015-04-11 17:30:00
+5220,Hamburger SV,Werder Bremen,0.433841,1.3478,0,1,a,2015-04-19 14:30:00
+5225,Hamburger SV,Augsburg,1.7695,1.44372,3,2,h,2015-04-25 14:30:00
+5166,Hamburger SV,Mainz 05,0.602455,0.667039,2,1,a,2015-05-03 14:30:00
+5168,Hamburger SV,Freiburg,1.56791,1.88887,1,1,h,2015-05-08 19:30:00
+5184,Hamburger SV,VfB Stuttgart,0.197392,2.50374,1,2,a,2015-05-16 14:30:00
+5187,Hamburger SV,Schalke 04,1.10308,1.09683,2,0,h,2015-05-23 14:30:00

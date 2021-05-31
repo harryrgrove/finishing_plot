@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+10345,Borussia Dortmund,RasenBallsport Leipzig,1.96153,1.46268,4,1,h,2018-08-26 19:00:00
+10346,Borussia Dortmund,Hannover 96,0.842511,0.462033,0,0,a,2018-08-31 21:30:00
+10355,Borussia Dortmund,Eintracht Frankfurt,1.95503,0.199314,3,1,h,2018-09-14 18:30:00
+10365,Borussia Dortmund,Hoffenheim,1.4456,1.92814,1,1,a,2018-09-22 13:30:00
+10378,Borussia Dortmund,Nuernberg,2.18746,0.154216,7,0,h,2018-09-26 18:30:00
+10388,Borussia Dortmund,Bayer Leverkusen,2.98145,1.34044,4,2,a,2018-09-29 16:30:00
+10393,Borussia Dortmund,Augsburg,2.09977,3.18937,4,3,h,2018-10-06 13:30:00
+10402,Borussia Dortmund,VfB Stuttgart,0.952768,1.03693,4,0,a,2018-10-20 13:30:00
+10410,Borussia Dortmund,Hertha Berlin,3.57277,2.04279,2,2,h,2018-10-27 13:30:00
+10421,Borussia Dortmund,Wolfsburg,1.19435,0.44332,1,0,a,2018-11-03 14:30:00
+10428,Borussia Dortmund,Bayern Munich,2.56191,1.84247,3,2,h,2018-11-10 17:30:00
+10443,Borussia Dortmund,Mainz 05,1.08217,1.05805,2,1,a,2018-11-24 14:30:00
+10446,Borussia Dortmund,Freiburg,2.69109,0.143781,2,0,h,2018-12-01 14:30:00
+10455,Borussia Dortmund,Schalke 04,0.898668,1.44761,2,1,a,2018-12-08 14:30:00
+10464,Borussia Dortmund,Werder Bremen,2.89288,0.461208,2,1,h,2018-12-15 17:30:00
+10478,Borussia Dortmund,Fortuna Duesseldorf,1.29548,1.3731,1,2,a,2018-12-18 19:30:00
+10483,Borussia Dortmund,Borussia M.Gladbach,1.79527,0.517203,2,1,h,2018-12-21 19:30:00
+10490,Borussia Dortmund,RasenBallsport Leipzig,1.02216,0.778946,1,0,a,2019-01-19 17:30:00
+10500,Borussia Dortmund,Hannover 96,2.89598,0.819503,5,1,h,2019-01-26 14:30:00
+10510,Borussia Dortmund,Eintracht Frankfurt,1.8842,1.44338,1,1,a,2019-02-02 14:30:00
+10518,Borussia Dortmund,Hoffenheim,1.99653,2.47538,3,3,h,2019-02-09 14:30:00
+10533,Borussia Dortmund,Nuernberg,0.930531,0.498008,0,0,a,2019-02-18 19:30:00
+10536,Borussia Dortmund,Bayer Leverkusen,1.05083,1.26295,3,2,h,2019-02-24 17:00:00
+10550,Borussia Dortmund,Augsburg,2.85445,0.961029,1,2,a,2019-03-01 19:30:00
+10555,Borussia Dortmund,VfB Stuttgart,2.5589,0.897914,3,1,h,2019-03-09 14:30:00
+10568,Borussia Dortmund,Hertha Berlin,2.23731,2.20854,3,2,a,2019-03-16 17:30:00
+10572,Borussia Dortmund,Wolfsburg,1.45093,0.171788,2,0,h,2019-03-30 14:30:00
+10580,Borussia Dortmund,Bayern Munich,0.478204,4.30876,0,5,a,2019-04-06 17:30:00
+10590,Borussia Dortmund,Mainz 05,2.13802,2.93676,2,1,h,2019-04-13 17:30:00
+10601,Borussia Dortmund,Freiburg,2.91662,0.536271,4,0,a,2019-04-21 14:30:00
+10607,Borussia Dortmund,Schalke 04,1.10244,1.12367,2,4,h,2019-04-27 14:30:00
+10621,Borussia Dortmund,Werder Bremen,2.6708,0.642264,2,2,a,2019-05-04 17:30:00
+10626,Borussia Dortmund,Fortuna Duesseldorf,2.03631,2.07768,3,2,h,2019-05-11 14:30:00
+10639,Borussia Dortmund,Borussia M.Gladbach,2.35948,0.629959,2,0,a,2019-05-18 13:30:00

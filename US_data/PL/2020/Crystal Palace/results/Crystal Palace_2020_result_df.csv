@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+14087,Crystal Palace,Southampton,1.39569,1.26267,1,0,h,2020-09-12 14:00:00
+14098,Crystal Palace,Manchester United,1.91456,1.09737,3,1,a,2020-09-19 16:30:00
+14107,Crystal Palace,Everton,0.443115,2.27189,1,2,h,2020-09-26 14:00:00
+14467,Crystal Palace,Chelsea,0.103249,2.51433,0,4,a,2020-10-03 11:30:00
+14476,Crystal Palace,Brighton,0.761169,1.0935,1,1,h,2020-10-18 13:00:00
+14489,Crystal Palace,Fulham,2.81049,1.05258,2,1,a,2020-10-24 14:00:00
+14504,Crystal Palace,Wolverhampton Wanderers,0.802767,1.34895,0,2,a,2020-10-30 20:00:00
+14508,Crystal Palace,Leeds,1.30169,0.847913,4,1,h,2020-11-07 15:00:00
+14516,Crystal Palace,Burnley,1.28331,1.75343,0,1,a,2020-11-23 17:30:00
+14530,Crystal Palace,Newcastle United,0.534893,1.27929,0,2,h,2020-11-27 20:00:00
+14543,Crystal Palace,West Bromwich Albion,1.68656,0.567234,5,1,a,2020-12-06 12:00:00
+14545,Crystal Palace,Tottenham,1.84443,1.40792,1,1,h,2020-12-13 14:15:00
+14561,Crystal Palace,West Ham,1.09108,0.449469,1,1,a,2020-12-16 20:00:00
+14568,Crystal Palace,Liverpool,0.489318,2.86902,0,7,h,2020-12-19 12:30:00
+14576,Crystal Palace,Aston Villa,0.849086,4.58214,0,3,a,2020-12-26 15:00:00
+14594,Crystal Palace,Leicester,0.321348,1.72132,1,1,h,2020-12-28 15:00:00
+14604,Crystal Palace,Sheffield United,0.598888,0.323158,2,0,h,2021-01-02 15:00:00
+14605,Crystal Palace,Arsenal,0.709634,0.368554,0,0,a,2021-01-14 20:00:00
+14621,Crystal Palace,Manchester City,0.0515836,0.961088,0,4,a,2021-01-17 19:15:00
+14634,Crystal Palace,West Ham,0.629033,3.30321,2,3,h,2021-01-26 18:00:00
+14638,Crystal Palace,Wolverhampton Wanderers,1.36877,0.450907,1,0,h,2021-01-30 15:00:00
+14652,Crystal Palace,Newcastle United,0.809312,1.90755,2,1,a,2021-02-02 20:15:00
+14658,Crystal Palace,Leeds,0.370278,2.64769,0,2,a,2021-02-08 20:00:00
+14668,Crystal Palace,Burnley,0.645616,1.95502,0,3,h,2021-02-13 15:00:00
+14677,Crystal Palace,Brighton,0.179886,2.59204,2,1,a,2021-02-22 20:00:00
+14687,Crystal Palace,Fulham,0.0880148,0.813134,0,0,h,2021-02-28 12:00:00
+14717,Crystal Palace,Manchester United,0.742397,0.584016,0,0,h,2021-03-03 20:15:00
+14702,Crystal Palace,Tottenham,0.559383,2.24159,1,4,a,2021-03-07 19:15:00
+14706,Crystal Palace,West Bromwich Albion,1.30694,0.513439,1,0,h,2021-03-13 15:00:00
+14728,Crystal Palace,Everton,0.603749,2.53386,1,1,a,2021-04-05 17:00:00
+14737,Crystal Palace,Chelsea,0.602167,3.85472,1,4,h,2021-04-10 16:30:00
+14759,Crystal Palace,Leicester,0.723112,1.23419,1,2,a,2021-04-26 19:00:00
+14768,Crystal Palace,Manchester City,0.361866,2.04443,0,2,h,2021-05-01 11:30:00
+14782,Crystal Palace,Sheffield United,2.25382,0.639325,2,0,a,2021-05-08 14:00:00
+14753,Crystal Palace,Southampton,1.32586,1.58872,1,3,a,2021-05-11 21:00:00
+14794,Crystal Palace,Aston Villa,1.95285,1.2303,3,2,h,2021-05-16 11:00:00
+14798,Crystal Palace,Arsenal,0.998377,1.7945,1,3,h,2021-05-19 18:00:00
+14810,Crystal Palace,Liverpool,0.772317,2.20348,0,2,a,2021-05-23 15:00:00

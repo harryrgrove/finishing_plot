@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+5835,Rayo Vallecano,Atletico Madrid,0.357337,0.901586,0,0,h,2014-08-25 21:00:00
+5843,Rayo Vallecano,Deportivo La Coruna,2.23586,1.89944,2,2,a,2014-08-31 20:00:00
+5791,Rayo Vallecano,Elche,1.42044,0.570631,2,3,h,2014-09-14 11:00:00
+5802,Rayo Vallecano,Villarreal,1.40506,4.38395,2,4,a,2014-09-21 16:00:00
+5809,Rayo Vallecano,Athletic Club,3.17965,1.06179,2,1,h,2014-09-24 19:00:00
+5821,Rayo Vallecano,Levante,1.39355,0.637848,2,0,a,2014-09-27 21:00:00
+5756,Rayo Vallecano,Barcelona,0.515599,2.97834,0,2,h,2014-10-04 17:00:00
+5764,Rayo Vallecano,Granada,0.471785,0.432469,1,0,a,2014-10-17 20:00:00
+5780,Rayo Vallecano,Malaga,0.395055,3.90394,0,4,a,2014-10-26 11:00:00
+5724,Rayo Vallecano,Eibar,1.21559,2.50481,2,3,h,2014-11-03 19:45:00
+5728,Rayo Vallecano,Real Madrid,0.843676,2.69643,1,5,a,2014-11-08 19:00:00
+5740,Rayo Vallecano,Celta Vigo,0.865947,0.704494,1,0,h,2014-11-23 11:00:00
+5686,Rayo Vallecano,Almeria,1.25863,0.80016,1,0,a,2014-12-01 19:45:00
+5691,Rayo Vallecano,Sevilla,1.41398,1.58437,0,1,h,2014-12-07 11:00:00
+5699,Rayo Vallecano,Valencia,0.603533,3.01549,0,3,a,2014-12-13 17:00:00
+5711,Rayo Vallecano,Espanyol,1.37834,2.25875,1,3,h,2014-12-20 21:00:00
+5647,Rayo Vallecano,Getafe,2.5901,0.518609,2,1,a,2015-01-04 11:00:00
+5661,Rayo Vallecano,Cordoba,1.78825,0.573866,0,1,h,2015-01-12 19:45:00
+5663,Rayo Vallecano,Real Sociedad,0.710475,0.569536,1,0,a,2015-01-17 15:00:00
+5674,Rayo Vallecano,Atletico Madrid,0.696507,1.4904,1,3,a,2015-01-24 19:00:00
+5682,Rayo Vallecano,Deportivo La Coruna,1.31894,2.38957,1,2,h,2015-01-30 19:45:00
+5617,Rayo Vallecano,Elche,0.406262,2.96514,0,2,a,2015-02-09 19:45:00
+5625,Rayo Vallecano,Villarreal,1.25027,2.06078,2,0,h,2015-02-15 18:00:00
+5634,Rayo Vallecano,Athletic Club,0.144942,1.93713,0,1,a,2015-02-22 16:00:00
+5640,Rayo Vallecano,Levante,2.10446,1.5619,4,2,h,2015-02-28 17:00:00
+5576,Rayo Vallecano,Barcelona,0.955753,5.199,1,6,a,2015-03-08 11:00:00
+5584,Rayo Vallecano,Granada,3.07872,1.13426,3,1,h,2015-03-14 19:00:00
+5593,Rayo Vallecano,Malaga,0.578125,0.787002,1,0,h,2015-03-21 17:00:00
+5505,Rayo Vallecano,Eibar,1.33096,1.32137,2,1,a,2015-04-03 19:45:00
+5521,Rayo Vallecano,Real Madrid,1.19622,1.94497,0,2,h,2015-04-08 21:00:00
+5529,Rayo Vallecano,Celta Vigo,0.962212,6.56908,1,6,a,2015-04-11 21:00:00
+5540,Rayo Vallecano,Almeria,2.62824,0.372844,2,0,h,2015-04-19 11:00:00
+5552,Rayo Vallecano,Sevilla,1.37722,3.21575,0,2,a,2015-04-26 18:00:00
+5563,Rayo Vallecano,Valencia,0.486759,1.25767,1,1,h,2015-04-30 19:00:00
+5470,Rayo Vallecano,Espanyol,0.614259,0.760792,1,1,a,2015-05-03 11:00:00
+5484,Rayo Vallecano,Getafe,1.40202,0.866413,2,0,h,2015-05-11 19:45:00
+5490,Rayo Vallecano,Cordoba,2.20767,1.05152,2,1,a,2015-05-17 18:00:00
+5501,Rayo Vallecano,Real Sociedad,1.0083,1.55136,2,4,h,2015-05-23 17:30:00

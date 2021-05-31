@@ -1,0 +1,31 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+8949,Dinamo Moscow,Arsenal Tula,0.419816,0.530811,0,0,a,2018-07-29 16:30:00
+8953,Dinamo Moscow,Rubin Kazan,0.728525,0.460211,1,1,h,2018-08-03 19:30:00
+8961,Dinamo Moscow,Ural,1.15631,0.985309,1,1,a,2018-08-10 17:30:00
+8976,Dinamo Moscow,FC Ufa,0.958973,0.145577,3,0,h,2018-08-20 19:30:00
+8980,Dinamo Moscow,Spartak Moscow,0.36489,2.22604,1,2,a,2018-08-25 19:00:00
+8990,Dinamo Moscow,FC Orenburg,1.12944,0.173048,2,0,h,2018-09-02 13:30:00
+9000,Dinamo Moscow,Lokomotiv Moscow,1.56513,1.84517,1,1,a,2018-09-14 16:30:00
+9008,Dinamo Moscow,Anzhi Makhachkala,2.57615,0.23284,0,1,h,2018-09-22 11:00:00
+9009,Dinamo Moscow,FC Krasnodar,0.379643,0.950003,0,3,a,2018-09-30 13:30:00
+9017,Dinamo Moscow,Krylya Sovetov Samara,0.68679,0.784774,0,1,a,2018-10-06 11:00:00
+9029,Dinamo Moscow,Zenit St. Petersburg,1.49294,0.635123,1,0,h,2018-10-21 11:00:00
+9040,Dinamo Moscow,FK Akhmat,0.318388,0.29429,0,0,a,2018-10-28 12:30:00
+9047,Dinamo Moscow,CSKA Moscow,0.631578,1.6277,0,0,h,2018-11-03 13:30:00
+9055,Dinamo Moscow,FC Rostov,0.200329,0.617807,0,0,a,2018-11-10 16:00:00
+9059,Dinamo Moscow,FC Yenisey Krasnoyarsk,1.60905,0.925541,1,2,h,2018-11-24 11:00:00
+9069,Dinamo Moscow,Rubin Kazan,0.39678,0.498392,1,1,a,2018-11-30 16:30:00
+9078,Dinamo Moscow,Ural,1.76965,0.505537,4,0,h,2018-12-09 11:00:00
+9086,Dinamo Moscow,FC Ufa,1.50425,0.770885,2,1,a,2019-03-03 08:30:00
+9094,Dinamo Moscow,Spartak Moscow,0.56364,0.957899,0,1,h,2019-03-10 16:00:00
+9103,Dinamo Moscow,FC Orenburg,2.2016,1.1428,0,1,a,2019-03-16 08:30:00
+9111,Dinamo Moscow,Lokomotiv Moscow,0.934754,1.1451,0,1,h,2019-03-30 11:00:00
+9120,Dinamo Moscow,Anzhi Makhachkala,2.80375,0.531895,1,1,a,2019-04-06 12:00:00
+9128,Dinamo Moscow,FC Krasnodar,0.540879,2.05317,1,1,h,2019-04-14 12:00:00
+9129,Dinamo Moscow,Krylya Sovetov Samara,0.484811,0.135033,1,0,h,2019-04-20 14:30:00
+9142,Dinamo Moscow,Zenit St. Petersburg,0.457098,2.15566,0,2,a,2019-04-24 19:00:00
+9152,Dinamo Moscow,FK Akhmat,0.758146,0.343873,0,0,h,2019-04-27 17:00:00
+9159,Dinamo Moscow,CSKA Moscow,1.43623,0.898059,2,2,a,2019-05-05 14:30:00
+9162,Dinamo Moscow,FC Rostov,1.33059,0.108324,0,0,h,2019-05-10 12:00:00
+9171,Dinamo Moscow,FC Yenisey Krasnoyarsk,2.75632,1.06877,2,2,a,2019-05-19 11:00:00
+9180,Dinamo Moscow,Arsenal Tula,2.18574,0.995894,3,3,h,2019-05-26 11:00:00

@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1029,FC Cologne,VfB Stuttgart,1.85087,2.98558,3,1,a,2015-08-16 19:30:00
+1034,FC Cologne,Wolfsburg,1.37825,2.14017,1,1,h,2015-08-22 17:30:00
+1042,FC Cologne,Hamburger SV,1.67081,1.44461,2,1,h,2015-08-29 17:30:00
+1054,FC Cologne,Eintracht Frankfurt,0.902695,2.93005,2,6,a,2015-09-12 20:30:00
+1062,FC Cologne,Borussia M.Gladbach,0.541995,0.4042,1,0,h,2015-09-19 17:30:00
+1067,FC Cologne,Hertha Berlin,0.853586,1.34684,0,2,a,2015-09-22 22:00:00
+1075,FC Cologne,Ingolstadt,1.3352,0.638071,1,1,h,2015-09-25 22:30:00
+1090,FC Cologne,Schalke 04,1.32,1.11607,3,0,a,2015-10-04 17:30:00
+1100,FC Cologne,Hannover 96,1.52116,1.26113,0,1,h,2015-10-18 17:30:00
+1107,FC Cologne,Bayern Munich,0.230279,3.69101,0,4,a,2015-10-24 17:30:00
+1112,FC Cologne,Hoffenheim,1.33774,0.90728,0,0,h,2015-10-31 18:30:00
+1123,FC Cologne,Bayer Leverkusen,2.03601,0.457253,2,1,a,2015-11-07 18:30:00
+1132,FC Cologne,Mainz 05,0.868247,0.315868,0,0,h,2015-11-21 18:30:00
+1138,FC Cologne,Darmstadt,0.933778,0.508721,0,0,a,2015-11-27 23:30:00
+1150,FC Cologne,Augsburg,2.36543,2.1005,0,1,h,2015-12-05 18:30:00
+1159,FC Cologne,Werder Bremen,1.22073,1.34869,1,1,a,2015-12-12 18:30:00
+1169,FC Cologne,Borussia Dortmund,0.769926,0.750674,2,1,h,2015-12-19 18:30:00
+1175,FC Cologne,VfB Stuttgart,2.33406,2.63662,1,3,h,2016-01-23 18:30:00
+1190,FC Cologne,Wolfsburg,0.698473,2.04894,1,1,a,2016-01-31 18:30:00
+1199,FC Cologne,Hamburger SV,1.37214,0.197661,1,1,a,2016-02-07 18:30:00
+1207,FC Cologne,Eintracht Frankfurt,2.27377,0.606015,3,1,h,2016-02-13 21:30:00
+1215,FC Cologne,Borussia M.Gladbach,0.568002,0.907861,0,1,a,2016-02-20 18:30:00
+1219,FC Cologne,Hertha Berlin,0.787942,0.842565,0,1,h,2016-02-26 23:30:00
+1229,FC Cologne,Ingolstadt,1.14458,1.40092,1,1,a,2016-03-01 23:00:00
+1241,FC Cologne,Schalke 04,2.44466,2.23816,1,3,h,2016-03-05 18:30:00
+1251,FC Cologne,Hannover 96,1.12909,0.988474,2,0,a,2016-03-12 18:30:00
+1259,FC Cologne,Bayern Munich,1.00667,0.343724,0,1,h,2016-03-19 18:30:00
+1272,FC Cologne,Hoffenheim,1.09032,1.04133,1,1,a,2016-04-03 19:30:00
+1281,FC Cologne,Bayer Leverkusen,0.731816,1.36907,0,2,h,2016-04-10 19:30:00
+1290,FC Cologne,Mainz 05,1.14393,1.80923,3,2,a,2016-04-17 19:30:00
+1294,FC Cologne,Darmstadt,2.56591,1.03362,4,1,h,2016-04-23 17:30:00
+1300,FC Cologne,Augsburg,0.257362,0.88211,0,0,a,2016-04-29 22:30:00
+1314,FC Cologne,Werder Bremen,0.578238,0.585339,0,0,h,2016-05-07 17:30:00
+1321,FC Cologne,Borussia Dortmund,1.60855,1.15049,2,2,a,2016-05-14 17:30:00

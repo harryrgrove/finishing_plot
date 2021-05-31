@@ -1,0 +1,31 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+6472,Lokomotiv Moscow,Arsenal Tula,0.795425,1.43059,1,0,h,2017-07-18 17:30:00
+6474,Lokomotiv Moscow,CSKA Moscow,1.81275,1.13727,3,1,a,2017-07-21 17:30:00
+6490,Lokomotiv Moscow,Anzhi Makhachkala,2.14578,0.474898,1,0,h,2017-07-30 15:30:00
+6496,Lokomotiv Moscow,SKA-Khabarovsk,2.22768,0.195413,1,0,h,2017-08-05 18:00:00
+6506,Lokomotiv Moscow,Rubin Kazan,0.669892,1.16512,1,1,a,2017-08-09 18:00:00
+6513,Lokomotiv Moscow,Tosno,0.627448,0.763116,0,2,h,2017-08-13 15:30:00
+6519,Lokomotiv Moscow,Spartak Moscow,1.77424,1.26535,4,3,a,2017-08-19 15:30:00
+6528,Lokomotiv Moscow,Ural,1.12984,0.660035,2,1,h,2017-08-26 18:00:00
+6535,Lokomotiv Moscow,FK Akhmat,0.377664,0.6249,1,1,a,2017-09-10 17:00:00
+6542,Lokomotiv Moscow,Amkar,0.641286,0.224735,0,1,h,2017-09-18 17:30:00
+6550,Lokomotiv Moscow,FC Rostov,0.878536,0.586955,1,0,a,2017-09-24 14:30:00
+6558,Lokomotiv Moscow,Dinamo Moscow,2.09584,0.675557,3,0,h,2017-10-01 14:30:00
+6566,Lokomotiv Moscow,FC Ufa,0.318912,0.779794,0,1,a,2017-10-15 12:00:00
+6574,Lokomotiv Moscow,FC Krasnodar,1.19868,0.381655,2,0,h,2017-10-23 17:30:00
+6582,Lokomotiv Moscow,Zenit St. Petersburg,1.82005,1.63683,3,0,a,2017-10-29 13:30:00
+6589,Lokomotiv Moscow,CSKA Moscow,1.78701,0.692279,2,2,h,2017-11-05 13:30:00
+6597,Lokomotiv Moscow,Anzhi Makhachkala,0.801309,0.167547,1,0,a,2017-11-19 11:00:00
+6611,Lokomotiv Moscow,SKA-Khabarovsk,2.48658,0.218721,2,1,a,2017-11-27 09:00:00
+6614,Lokomotiv Moscow,Rubin Kazan,0.708148,0.87875,1,0,h,2017-12-02 13:30:00
+6623,Lokomotiv Moscow,Tosno,1.78786,1.30907,3,1,a,2017-12-11 16:30:00
+6635,Lokomotiv Moscow,Spartak Moscow,0.513635,0.627805,0,0,h,2018-03-04 13:30:00
+6638,Lokomotiv Moscow,Ural,2.27356,0.47662,2,0,a,2018-03-12 14:00:00
+6654,Lokomotiv Moscow,Amkar,1.23768,1.73977,1,2,a,2018-03-31 00:00:00
+6662,Lokomotiv Moscow,FC Rostov,0.787603,0.119793,1,0,h,2018-04-08 13:30:00
+6670,Lokomotiv Moscow,Dinamo Moscow,2.32272,0.396484,4,0,a,2018-04-14 11:00:00
+6646,Lokomotiv Moscow,FK Akhmat,0.823536,0.305573,0,0,h,2018-04-18 16:30:00
+6678,Lokomotiv Moscow,FC Ufa,0.793999,0.225728,0,0,h,2018-04-22 16:00:00
+6691,Lokomotiv Moscow,FC Krasnodar,0.680177,2.47148,0,2,a,2018-04-30 16:00:00
+6694,Lokomotiv Moscow,Zenit St. Petersburg,0.794572,0.161738,1,0,h,2018-05-05 14:30:00
+6702,Lokomotiv Moscow,Arsenal Tula,0.10444,1.49568,0,2,a,2018-05-13 12:00:00

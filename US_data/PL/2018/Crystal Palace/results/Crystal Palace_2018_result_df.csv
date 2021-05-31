@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+9201,Crystal Palace,Fulham,1.07816,0.638076,2,0,a,2018-08-11 17:00:00
+9216,Crystal Palace,Liverpool,0.368608,2.82183,0,2,h,2018-08-20 22:00:00
+9224,Crystal Palace,Watford,1.21905,1.14596,1,2,a,2018-08-26 15:30:00
+9230,Crystal Palace,Southampton,2.35193,3.13612,0,2,h,2018-09-01 14:00:00
+9240,Crystal Palace,Huddersfield,0.746631,0.87744,1,0,a,2018-09-15 14:00:00
+9251,Crystal Palace,Newcastle United,0.930793,0.229309,0,0,h,2018-09-22 14:00:00
+9266,Crystal Palace,Bournemouth,0.385841,1.97143,1,2,a,2018-10-01 19:00:00
+9271,Crystal Palace,Wolverhampton Wanderers,1.03714,0.755654,0,1,h,2018-10-06 14:00:00
+9285,Crystal Palace,Everton,1.50174,1.92794,0,2,a,2018-10-21 15:00:00
+9294,Crystal Palace,Arsenal,2.38115,0.845197,2,2,h,2018-10-28 12:30:00
+9305,Crystal Palace,Chelsea,0.454547,1.88741,1,3,a,2018-11-04 16:00:00
+9312,Crystal Palace,Tottenham,0.688016,1.55381,0,1,h,2018-11-10 17:30:00
+9319,Crystal Palace,Manchester United,1.05292,1.34245,0,0,a,2018-11-24 15:00:00
+9333,Crystal Palace,Burnley,2.03785,0.302477,2,0,h,2018-12-01 15:00:00
+9337,Crystal Palace,Brighton,1.5329,1.2521,1,3,a,2018-12-04 19:45:00
+9347,Crystal Palace,West Ham,0.934613,1.53635,2,3,a,2018-12-08 15:00:00
+9365,Crystal Palace,Leicester,0.39698,0.895305,1,0,h,2018-12-15 15:00:00
+9370,Crystal Palace,Manchester City,1.14609,1.27118,3,2,a,2018-12-22 15:00:00
+9384,Crystal Palace,Cardiff,2.43202,1.05926,0,0,h,2018-12-26 15:00:00
+9394,Crystal Palace,Chelsea,0.199002,0.741471,0,1,h,2018-12-30 12:00:00
+9397,Crystal Palace,Wolverhampton Wanderers,1.94658,0.656255,2,0,a,2019-01-02 19:45:00
+9412,Crystal Palace,Watford,1.1617,1.56262,1,2,h,2019-01-12 15:00:00
+9422,Crystal Palace,Liverpool,0.695213,2.8299,3,4,a,2019-01-19 15:00:00
+9433,Crystal Palace,Southampton,1.53294,1.33257,1,1,a,2019-01-30 19:45:00
+9442,Crystal Palace,Fulham,2.19582,0.560836,2,0,h,2019-02-02 15:00:00
+9448,Crystal Palace,West Ham,2.68412,1.74711,1,1,h,2019-02-09 15:00:00
+9460,Crystal Palace,Leicester,1.57739,0.946697,4,1,a,2019-02-23 17:30:00
+9471,Crystal Palace,Manchester United,1.69334,1.54089,1,3,h,2019-02-27 20:00:00
+9484,Crystal Palace,Burnley,0.706284,1.90872,3,1,a,2019-03-02 15:00:00
+9493,Crystal Palace,Brighton,1.44291,0.129312,1,2,h,2019-03-09 12:30:00
+9513,Crystal Palace,Huddersfield,2.84701,0.926991,2,0,h,2019-03-30 15:00:00
+9500,Crystal Palace,Tottenham,0.564317,2.57376,0,2,a,2019-04-03 19:45:00
+9521,Crystal Palace,Newcastle United,0.907988,0.943175,1,0,a,2019-04-06 15:00:00
+9534,Crystal Palace,Manchester City,0.318169,2.86236,1,3,h,2019-04-14 14:05:00
+9546,Crystal Palace,Arsenal,2.56216,1.54245,3,2,a,2019-04-21 16:00:00
+9554,Crystal Palace,Everton,0.261344,1.15217,0,0,h,2019-04-27 15:00:00
+9564,Crystal Palace,Cardiff,1.80991,1.4996,3,2,a,2019-05-04 16:30:00
+9574,Crystal Palace,Bournemouth,2.85899,1.8981,5,3,h,2019-05-12 14:00:00

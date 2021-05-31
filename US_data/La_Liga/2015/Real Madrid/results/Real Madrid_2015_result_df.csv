@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1405,Real Madrid,Sporting Gijon,1.54271,0.333248,0,0,a,2015-08-23 22:30:00
+1413,Real Madrid,Real Betis,3.14512,0.941159,5,0,h,2015-08-30 00:30:00
+1420,Real Madrid,Espanyol,4.38766,1.47918,6,0,a,2015-09-12 18:00:00
+1430,Real Madrid,Granada,3.03758,1.7661,1,0,h,2015-09-19 18:00:00
+1445,Real Madrid,Athletic Club,2.93805,1.17616,2,1,a,2015-09-23 23:00:00
+1451,Real Madrid,Malaga,3.18828,0.638418,0,0,h,2015-09-26 20:15:00
+1468,Real Madrid,Atletico Madrid,0.792017,2.38708,1,1,a,2015-10-04 22:30:00
+1469,Real Madrid,Levante,1.60293,1.5507,3,0,h,2015-10-17 18:00:00
+1480,Real Madrid,Celta Vigo,1.9616,1.57638,3,1,a,2015-10-24 18:00:00
+1490,Real Madrid,Las Palmas,2.80269,0.562561,3,1,h,2015-10-31 19:00:00
+1508,Real Madrid,Sevilla,1.25807,2.39505,2,3,a,2015-11-08 23:30:00
+1510,Real Madrid,Barcelona,1.2581,3.27692,0,4,h,2015-11-21 21:15:00
+1526,Real Madrid,Eibar,2.29034,0.28097,2,0,a,2015-11-29 19:00:00
+1529,Real Madrid,Getafe,1.87007,0.24488,4,1,h,2015-12-05 19:00:00
+1548,Real Madrid,Villarreal,1.45508,0.940499,0,1,a,2015-12-13 23:30:00
+1553,Real Madrid,Rayo Vallecano,5.71778,0.93456,10,2,h,2015-12-20 19:00:00
+1558,Real Madrid,Real Sociedad,3.42264,0.580977,3,1,h,2015-12-30 19:00:00
+1576,Real Madrid,Valencia,1.20246,2.45563,2,2,a,2016-01-03 23:30:00
+1581,Real Madrid,Deportivo La Coruna,3.52924,0.989088,5,0,h,2016-01-09 23:30:00
+1593,Real Madrid,Sporting Gijon,3.1536,0.691816,5,1,h,2016-01-17 19:00:00
+1606,Real Madrid,Real Betis,3.34615,0.211024,1,1,a,2016-01-24 23:30:00
+1616,Real Madrid,Espanyol,2.76612,1.46627,6,0,h,2016-01-31 23:30:00
+1626,Real Madrid,Granada,1.67636,0.751196,2,1,a,2016-02-07 23:30:00
+1629,Real Madrid,Athletic Club,2.09005,1.50136,4,2,h,2016-02-13 19:00:00
+1645,Real Madrid,Malaga,1.76313,1.68623,1,1,a,2016-02-21 19:00:00
+1650,Real Madrid,Atletico Madrid,0.984203,0.695343,0,1,h,2016-02-27 19:00:00
+1665,Real Madrid,Levante,2.04124,1.07575,3,1,a,2016-03-03 00:00:00
+1669,Real Madrid,Celta Vigo,2.39112,1.52691,7,1,h,2016-03-05 19:00:00
+1687,Real Madrid,Las Palmas,0.860338,1.29762,2,1,a,2016-03-13 23:30:00
+1698,Real Madrid,Sevilla,4.08121,1.03777,4,0,h,2016-03-20 23:30:00
+1702,Real Madrid,Barcelona,1.56537,0.882445,2,1,a,2016-04-02 22:30:00
+1710,Real Madrid,Eibar,2.83938,1.60526,4,0,h,2016-04-09 18:00:00
+1720,Real Madrid,Getafe,3.07047,1.0366,5,1,a,2016-04-16 18:00:00
+1736,Real Madrid,Villarreal,1.75884,0.226133,3,0,h,2016-04-21 00:00:00
+1740,Real Madrid,Rayo Vallecano,2.6433,1.56205,3,2,a,2016-04-23 18:00:00
+1750,Real Madrid,Real Sociedad,1.58863,0.496976,1,0,a,2016-04-30 18:00:00
+1765,Real Madrid,Valencia,2.52264,2.3222,3,2,h,2016-05-08 19:00:00
+1770,Real Madrid,Deportivo La Coruna,1.90958,0.651269,2,0,a,2016-05-14 19:00:00

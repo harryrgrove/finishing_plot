@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1027,Borussia M.Gladbach,Borussia Dortmund,0.18521,2.42013,0,4,a,2015-08-15 20:30:00
+1038,Borussia M.Gladbach,Mainz 05,1.22742,2.01071,1,2,h,2015-08-23 19:30:00
+1047,Borussia M.Gladbach,Werder Bremen,0.755739,3.23257,1,2,a,2015-08-30 19:30:00
+1048,Borussia M.Gladbach,Hamburger SV,0.436066,1.02932,0,3,h,2015-09-11 22:30:00
+1062,Borussia M.Gladbach,FC Cologne,0.4042,0.541995,0,1,a,2015-09-19 17:30:00
+1073,Borussia M.Gladbach,Augsburg,2.84575,1.92244,4,2,h,2015-09-23 22:00:00
+1077,Borussia M.Gladbach,VfB Stuttgart,1.18534,2.45923,3,1,a,2015-09-26 17:30:00
+1085,Borussia M.Gladbach,Wolfsburg,1.45907,0.813505,2,0,h,2015-10-03 17:30:00
+1099,Borussia M.Gladbach,Eintracht Frankfurt,3.50891,0.990091,5,1,a,2015-10-17 20:30:00
+1110,Borussia M.Gladbach,Schalke 04,2.25814,0.767714,3,1,h,2015-10-25 20:30:00
+1113,Borussia M.Gladbach,Hertha Berlin,1.29051,2.31638,4,1,a,2015-10-31 18:30:00
+1124,Borussia M.Gladbach,Ingolstadt,1.28313,0.939938,0,0,h,2015-11-07 18:30:00
+1133,Borussia M.Gladbach,Hannover 96,2.61888,2.19568,2,1,h,2015-11-21 18:30:00
+1141,Borussia M.Gladbach,Hoffenheim,1.66132,2.07714,3,3,a,2015-11-28 18:30:00
+1148,Borussia M.Gladbach,Bayern Munich,2.15779,2.28915,3,1,h,2015-12-05 18:30:00
+1162,Borussia M.Gladbach,Bayer Leverkusen,0.376285,2.75163,0,5,a,2015-12-12 21:30:00
+1173,Borussia M.Gladbach,Darmstadt,1.0366,2.23006,3,2,h,2015-12-20 20:30:00
+1180,Borussia M.Gladbach,Borussia Dortmund,0.969724,2.60367,1,3,h,2016-01-23 21:30:00
+1183,Borussia M.Gladbach,Mainz 05,1.91691,0.852232,0,1,a,2016-01-29 23:30:00
+1192,Borussia M.Gladbach,Werder Bremen,3.16316,1.67818,5,1,h,2016-02-05 23:30:00
+1208,Borussia M.Gladbach,Hamburger SV,2.07387,1.48178,2,3,a,2016-02-14 18:30:00
+1215,Borussia M.Gladbach,FC Cologne,0.907861,0.568002,1,0,h,2016-02-20 18:30:00
+1224,Borussia M.Gladbach,Augsburg,1.80962,1.80948,2,2,a,2016-02-28 18:30:00
+1236,Borussia M.Gladbach,VfB Stuttgart,3.23676,0.281312,4,0,h,2016-03-02 23:00:00
+1242,Borussia M.Gladbach,Wolfsburg,1.0738,0.863815,1,2,a,2016-03-05 18:30:00
+1250,Borussia M.Gladbach,Eintracht Frankfurt,1.87363,0.0789648,3,0,h,2016-03-12 18:30:00
+1255,Borussia M.Gladbach,Schalke 04,2.14568,0.10538,1,2,a,2016-03-18 23:30:00
+1271,Borussia M.Gladbach,Hertha Berlin,2.41386,0.280578,5,0,h,2016-04-03 17:30:00
+1274,Borussia M.Gladbach,Ingolstadt,0.311628,2.04687,0,1,a,2016-04-09 17:30:00
+1282,Borussia M.Gladbach,Hannover 96,0.732627,1.64388,0,2,a,2016-04-15 22:30:00
+1298,Borussia M.Gladbach,Hoffenheim,2.90034,1.18468,3,1,h,2016-04-24 17:30:00
+1305,Borussia M.Gladbach,Bayern Munich,0.337244,0.283796,1,1,a,2016-04-30 17:30:00
+1310,Borussia M.Gladbach,Bayer Leverkusen,1.24034,1.96166,2,1,h,2016-05-07 17:30:00
+1326,Borussia M.Gladbach,Darmstadt,1.87154,0.357258,2,0,a,2016-05-14 17:30:00

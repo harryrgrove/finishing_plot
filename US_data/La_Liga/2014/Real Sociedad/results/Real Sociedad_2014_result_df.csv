@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+5830,Real Sociedad,Eibar,0.975523,0.465398,0,1,a,2014-08-24 18:00:00
+5844,Real Sociedad,Real Madrid,2.74099,2.31574,4,2,h,2014-08-31 20:00:00
+5790,Real Sociedad,Celta Vigo,1.30012,2.85395,2,2,a,2014-09-13 21:00:00
+5801,Real Sociedad,Almeria,1.67935,0.603236,1,2,h,2014-09-21 11:00:00
+5811,Real Sociedad,Sevilla,0.248733,2.02336,0,1,a,2014-09-24 21:00:00
+5824,Real Sociedad,Valencia,0.762877,0.554817,1,1,h,2014-09-28 18:00:00
+5762,Real Sociedad,Espanyol,0.481761,1.39473,0,2,a,2014-10-05 18:00:00
+5773,Real Sociedad,Getafe,1.29417,1.19816,1,2,h,2014-10-20 19:45:00
+5778,Real Sociedad,Cordoba,0.967731,2.09938,1,1,a,2014-10-25 21:00:00
+5719,Real Sociedad,Malaga,0.112869,1.46771,0,1,h,2014-11-01 21:00:00
+5734,Real Sociedad,Atletico Madrid,0.896143,0.594573,2,1,h,2014-11-09 20:00:00
+5739,Real Sociedad,Deportivo La Coruna,0.629175,0.431861,0,0,a,2014-11-22 21:00:00
+5745,Real Sociedad,Elche,1.32833,0.749825,3,0,h,2014-11-28 19:45:00
+5693,Real Sociedad,Villarreal,0.336566,1.76594,0,4,a,2014-12-07 18:00:00
+5705,Real Sociedad,Athletic Club,1.86676,0.932204,1,1,h,2014-12-14 20:00:00
+5709,Real Sociedad,Levante,0.150209,1.21074,1,1,a,2014-12-20 17:00:00
+5650,Real Sociedad,Barcelona,0.636981,0.900848,1,0,h,2015-01-04 20:00:00
+5659,Real Sociedad,Granada,1.15464,2.64609,1,1,a,2015-01-11 18:00:00
+5663,Real Sociedad,Rayo Vallecano,0.569536,0.710475,0,1,h,2015-01-17 15:00:00
+5675,Real Sociedad,Eibar,0.845464,0.511777,1,0,h,2015-01-24 21:00:00
+5683,Real Sociedad,Real Madrid,1.0602,4.01477,1,4,a,2015-01-31 15:00:00
+5612,Real Sociedad,Celta Vigo,0.981892,0.574985,1,1,h,2015-02-07 21:00:00
+5618,Real Sociedad,Almeria,0.912368,1.1247,2,2,a,2015-02-13 19:45:00
+5633,Real Sociedad,Sevilla,2.13723,2.49215,4,3,h,2015-02-22 11:00:00
+5566,Real Sociedad,Valencia,0.377908,1.34535,0,2,a,2015-03-01 11:00:00
+5577,Real Sociedad,Espanyol,0.740356,0.445724,1,0,h,2015-03-08 16:00:00
+5590,Real Sociedad,Getafe,0.440657,1.18559,1,0,a,2015-03-16 19:45:00
+5599,Real Sociedad,Cordoba,1.48367,0.6619,3,1,h,2015-03-22 18:00:00
+5509,Real Sociedad,Malaga,0.432609,1.94239,1,1,a,2015-04-04 21:00:00
+5515,Real Sociedad,Atletico Madrid,0.436442,1.31813,0,2,a,2015-04-07 19:00:00
+5532,Real Sociedad,Deportivo La Coruna,1.01446,1.50991,2,2,h,2015-04-12 18:00:00
+5544,Real Sociedad,Elche,0.240527,0.635837,0,1,a,2015-04-20 19:45:00
+5549,Real Sociedad,Villarreal,0.648718,1.91558,0,0,h,2015-04-25 21:00:00
+5556,Real Sociedad,Athletic Club,0.41352,1.32188,1,1,a,2015-04-28 21:00:00
+5465,Real Sociedad,Levante,1.12737,0.469938,3,0,h,2015-05-01 19:45:00
+5477,Real Sociedad,Barcelona,0.231803,2.17671,0,2,a,2015-05-09 17:00:00
+5489,Real Sociedad,Granada,0.276179,1.58346,0,3,h,2015-05-17 18:00:00
+5501,Real Sociedad,Rayo Vallecano,1.55136,1.0083,4,2,a,2015-05-23 17:30:00

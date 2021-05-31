@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+14181,Wolfsburg,Bayer Leverkusen,1.27652,0.441229,0,0,h,2020-09-20 16:00:00
+14190,Wolfsburg,Freiburg,0.413442,0.92465,1,1,a,2020-09-27 16:00:00
+15165,Wolfsburg,Augsburg,1.31989,1.80757,0,0,h,2020-10-04 13:30:00
+15173,Wolfsburg,Borussia M.Gladbach,1.34469,2.11077,1,1,a,2020-10-17 18:30:00
+15182,Wolfsburg,Arminia Bielefeld,2.77748,0.664903,2,1,h,2020-10-25 14:30:00
+15192,Wolfsburg,Hertha Berlin,0.397923,1.25246,1,1,a,2020-11-01 17:00:00
+15201,Wolfsburg,Hoffenheim,2.65255,2.63695,2,1,h,2020-11-08 14:30:00
+15206,Wolfsburg,Schalke 04,2.66289,1.00376,2,0,a,2020-11-21 14:30:00
+15216,Wolfsburg,Werder Bremen,1.53686,0.860897,5,3,h,2020-11-27 19:30:00
+15227,Wolfsburg,FC Cologne,1.90682,1.08565,2,2,a,2020-12-05 14:30:00
+15234,Wolfsburg,Eintracht Frankfurt,2.81209,1.51392,2,1,h,2020-12-11 19:30:00
+15245,Wolfsburg,Bayern Munich,1.10816,1.26746,1,2,a,2020-12-16 19:30:00
+15251,Wolfsburg,VfB Stuttgart,1.67526,1.10934,1,0,h,2020-12-20 17:00:00
+15258,Wolfsburg,Borussia Dortmund,1.21991,2.00235,0,2,a,2021-01-03 14:30:00
+15270,Wolfsburg,Union Berlin,1.89061,1.00289,2,2,a,2021-01-09 14:30:00
+15278,Wolfsburg,RasenBallsport Leipzig,0.806904,2.41624,2,2,h,2021-01-16 14:30:00
+15290,Wolfsburg,Mainz 05,0.989418,0.372223,2,0,a,2021-01-19 19:30:00
+15294,Wolfsburg,Bayer Leverkusen,1.0586,0.572384,1,0,a,2021-01-23 14:30:00
+15305,Wolfsburg,Freiburg,2.00557,0.684054,3,0,h,2021-01-31 17:00:00
+15318,Wolfsburg,Augsburg,2.19806,0.384821,2,0,a,2021-02-06 14:30:00
+15324,Wolfsburg,Borussia M.Gladbach,0.641105,0.663321,0,0,h,2021-02-14 17:00:00
+15337,Wolfsburg,Arminia Bielefeld,1.67634,0.319638,3,0,a,2021-02-19 19:30:00
+15342,Wolfsburg,Hertha Berlin,0.620957,1.18868,2,0,h,2021-02-27 14:30:00
+15353,Wolfsburg,Hoffenheim,1.82597,0.989132,1,2,a,2021-03-06 14:30:00
+15359,Wolfsburg,Schalke 04,2.50491,0.241952,5,0,h,2021-03-13 14:30:00
+15372,Wolfsburg,Werder Bremen,1.20287,1.06983,2,1,a,2021-03-20 14:30:00
+15378,Wolfsburg,FC Cologne,0.729338,1.20907,1,0,h,2021-04-03 13:30:00
+15385,Wolfsburg,Eintracht Frankfurt,1.69595,0.748811,3,4,a,2021-04-10 13:30:00
+15396,Wolfsburg,Bayern Munich,1.25011,1.72716,2,3,h,2021-04-17 13:30:00
+15409,Wolfsburg,VfB Stuttgart,1.70299,1.77065,3,1,a,2021-04-21 18:30:00
+15413,Wolfsburg,Borussia Dortmund,1.36199,1.04957,0,2,h,2021-04-24 13:30:00
+15422,Wolfsburg,Union Berlin,1.94262,0.577025,3,0,h,2021-05-08 13:30:00
+15428,Wolfsburg,RasenBallsport Leipzig,1.07835,1.9175,2,2,a,2021-05-16 18:30:00
+15440,Wolfsburg,Mainz 05,1.30713,1.57286,2,3,h,2021-05-22 13:30:00

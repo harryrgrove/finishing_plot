@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+467,Sunderland,Manchester City,1.09877,1.95479,1,2,a,2016-08-13 20:30:00
+479,Sunderland,Middlesbrough,1.4645,0.854908,1,2,h,2016-08-21 16:30:00
+484,Sunderland,Southampton,1.39142,0.613743,1,1,a,2016-08-27 18:00:00
+500,Sunderland,Everton,1.0404,2.84526,0,3,h,2016-09-12 23:00:00
+510,Sunderland,Tottenham,0.960821,2.52591,0,1,a,2016-09-18 19:30:00
+514,Sunderland,Crystal Palace,1.51457,1.7887,2,3,h,2016-09-24 18:00:00
+523,Sunderland,West Bromwich Albion,1.19268,0.88211,1,1,h,2016-10-01 18:00:00
+535,Sunderland,Stoke,0.587572,2.29543,0,2,a,2016-10-15 18:00:00
+542,Sunderland,West Ham,0.808339,1.19585,0,1,a,2016-10-22 18:00:00
+2677,Sunderland,Arsenal,0.853434,2.48348,1,4,h,2016-10-29 15:30:00
+2687,Sunderland,Bournemouth,1.13672,2.6457,2,1,a,2016-11-05 19:00:00
+2700,Sunderland,Hull,0.951511,1.25065,3,0,h,2016-11-19 19:00:00
+2710,Sunderland,Liverpool,0.291073,2.02461,0,2,a,2016-11-26 19:00:00
+3108,Sunderland,Leicester,1.4282,1.13791,2,1,h,2016-12-03 15:00:00
+3117,Sunderland,Swansea,0.672058,2.18185,0,3,a,2016-12-10 19:00:00
+3128,Sunderland,Chelsea,0.473979,1.22459,0,1,h,2016-12-14 23:45:00
+3139,Sunderland,Watford,1.13526,1.07552,1,0,h,2016-12-17 19:00:00
+3147,Sunderland,Manchester United,0.488541,2.32117,1,3,a,2016-12-26 19:00:00
+3157,Sunderland,Burnley,0.465701,2.72471,1,4,a,2016-12-31 19:00:00
+3334,Sunderland,Liverpool,1.91057,2.332,2,2,h,2017-01-02 19:00:00
+3342,Sunderland,Stoke,1.1365,1.22897,1,3,h,2017-01-14 19:00:00
+3355,Sunderland,West Bromwich Albion,0.440887,1.3279,0,2,a,2017-01-21 18:00:00
+3364,Sunderland,Tottenham,0.228009,0.682758,0,0,h,2017-01-31 22:45:00
+3371,Sunderland,Crystal Palace,0.837361,2.45994,4,0,a,2017-02-04 15:00:00
+3384,Sunderland,Southampton,0.197925,1.72717,0,4,h,2017-02-11 15:00:00
+3393,Sunderland,Everton,0.505952,1.70366,0,2,a,2017-02-25 15:00:00
+3404,Sunderland,Manchester City,0.737758,2.48022,0,2,h,2017-03-05 16:00:00
+3423,Sunderland,Burnley,1.03287,1.18742,0,0,h,2017-03-18 15:00:00
+3439,Sunderland,Watford,0.349699,1.95828,0,1,a,2017-04-01 15:00:00
+3445,Sunderland,Leicester,0.7012,0.929134,0,2,a,2017-04-04 19:45:00
+3452,Sunderland,Manchester United,0.977316,1.6943,0,3,h,2017-04-09 13:30:00
+3464,Sunderland,West Ham,1.14121,1.42815,2,2,h,2017-04-15 15:00:00
+3413,Sunderland,Middlesbrough,0.445766,0.825839,0,1,a,2017-04-26 19:45:00
+3486,Sunderland,Bournemouth,1.6667,1.53094,0,1,h,2017-04-29 15:00:00
+3494,Sunderland,Hull,1.95502,1.21734,2,0,a,2017-05-06 15:00:00
+3506,Sunderland,Swansea,1.03765,0.344096,0,2,h,2017-05-13 15:00:00
+3470,Sunderland,Arsenal,0.271744,3.83905,0,2,a,2017-05-16 19:45:00
+3512,Sunderland,Chelsea,0.693994,2.73947,1,5,a,2017-05-21 15:00:00

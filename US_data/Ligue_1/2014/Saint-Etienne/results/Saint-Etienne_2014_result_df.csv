@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+6188,Saint-Etienne,Guingamp,1.49532,0.63294,2,0,a,2014-08-09 20:00:00
+6203,Saint-Etienne,Reims,2.42892,0.285467,3,1,h,2014-08-17 16:00:00
+6213,Saint-Etienne,Rennes,1.16489,0.364811,0,0,h,2014-08-24 16:00:00
+6224,Saint-Etienne,Paris Saint Germain,0.384577,1.60888,0,5,a,2014-08-31 20:00:00
+6147,Saint-Etienne,Caen,1.40877,0.54212,1,0,h,2014-09-13 19:00:00
+6162,Saint-Etienne,Lens,1.03801,0.880858,1,0,a,2014-09-21 16:00:00
+6174,Saint-Etienne,Bordeaux,2.12624,1.03818,1,1,h,2014-09-25 20:00:00
+6184,Saint-Etienne,Marseille,0.348437,1.12373,1,2,a,2014-09-28 20:00:00
+6120,Saint-Etienne,Toulouse,1.29929,0.821394,0,1,h,2014-10-05 13:00:00
+6125,Saint-Etienne,Lorient,1.46047,0.179886,1,0,a,2014-10-18 16:00:00
+6141,Saint-Etienne,Metz,1.08553,0.3693,1,0,h,2014-10-26 16:00:00
+6079,Saint-Etienne,Lille,1.51419,1.57174,1,1,a,2014-11-01 19:00:00
+6093,Saint-Etienne,Monaco,0.805668,0.589202,1,1,h,2014-11-09 16:00:00
+6101,Saint-Etienne,Nantes,1.47305,1.0617,0,0,a,2014-11-23 13:00:00
+6113,Saint-Etienne,Lyon,2.12258,1.85216,3,0,h,2014-11-30 20:00:00
+6039,Saint-Etienne,Montpellier,1.36398,0.402363,2,0,a,2014-12-03 18:00:00
+6049,Saint-Etienne,SC Bastia,0.855599,1.38223,1,0,h,2014-12-06 19:00:00
+6062,Saint-Etienne,Nice,0.297555,0.190566,0,0,a,2014-12-14 13:00:00
+6074,Saint-Etienne,Evian Thonon Gaillard,1.3033,0.321493,3,0,h,2014-12-21 16:00:00
+6005,Saint-Etienne,Reims,1.25903,1.23747,2,1,a,2015-01-10 19:00:00
+6017,Saint-Etienne,Rennes,0.533585,0.604093,0,0,a,2015-01-18 16:00:00
+6028,Saint-Etienne,Paris Saint Germain,0.351107,2.36079,0,1,h,2015-01-25 20:00:00
+5960,Saint-Etienne,Caen,1.00315,2.22468,0,1,a,2015-02-01 13:00:00
+5963,Saint-Etienne,Lens,1.53111,1.66725,3,3,h,2015-02-06 19:30:00
+5979,Saint-Etienne,Bordeaux,0.943341,1.07309,0,1,a,2015-02-15 13:00:00
+5990,Saint-Etienne,Marseille,1.7567,1.5275,2,2,h,2015-02-22 20:00:00
+5997,Saint-Etienne,Toulouse,1.01274,0.400404,1,1,a,2015-02-28 19:00:00
+5937,Saint-Etienne,Lorient,1.79838,0.42515,2,0,h,2015-03-08 13:00:00
+5942,Saint-Etienne,Metz,1.48298,1.85037,3,2,a,2015-03-14 16:00:00
+5957,Saint-Etienne,Lille,1.21521,0.234061,2,0,h,2015-03-22 13:00:00
+5885,Saint-Etienne,Monaco,0.651043,0.824897,1,1,a,2015-04-03 19:30:00
+5897,Saint-Etienne,Nantes,0.359586,0.44705,1,0,h,2015-04-12 13:00:00
+5914,Saint-Etienne,Lyon,1.93102,2.17269,2,2,a,2015-04-19 20:00:00
+5922,Saint-Etienne,Montpellier,0.664788,1.05147,1,0,h,2015-04-26 13:00:00
+5850,Saint-Etienne,SC Bastia,0.301232,1.46257,0,1,a,2015-05-02 19:00:00
+5863,Saint-Etienne,Nice,2.78089,0.866729,5,0,h,2015-05-10 16:00:00
+5867,Saint-Etienne,Evian Thonon Gaillard,1.84086,1.24292,2,1,a,2015-05-16 20:00:00
+5882,Saint-Etienne,Guingamp,1.10029,1.35229,2,1,h,2015-05-23 20:00:00

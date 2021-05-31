@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+468,Manchester United,Bournemouth,1.91105,0.522847,3,1,a,2016-08-14 16:30:00
+471,Manchester United,Southampton,1.36553,0.613233,2,0,h,2016-08-19 23:00:00
+488,Manchester United,Hull,2.47208,0.268815,1,0,a,2016-08-27 20:30:00
+491,Manchester United,Manchester City,1.01013,1.88688,1,2,h,2016-09-10 15:30:00
+507,Manchester United,Watford,1.41359,1.74506,1,3,a,2016-09-18 15:00:00
+511,Manchester United,Leicester,2.45604,0.286966,4,1,h,2016-09-24 15:30:00
+527,Manchester United,Stoke,2.80988,1.20043,1,1,h,2016-10-02 15:00:00
+540,Manchester United,Liverpool,0.537762,0.270441,0,0,a,2016-10-17 23:00:00
+550,Manchester United,Chelsea,0.742805,2.25192,0,4,a,2016-10-23 19:00:00
+2682,Manchester United,Burnley,2.72391,0.327957,0,0,h,2016-10-29 18:00:00
+2695,Manchester United,Swansea,1.00006,0.51266,3,1,a,2016-11-06 19:00:00
+2697,Manchester United,Arsenal,0.511462,0.575813,1,1,h,2016-11-19 16:30:00
+2716,Manchester United,West Ham,1.44452,0.749388,1,1,h,2016-11-27 20:30:00
+3113,Manchester United,Everton,0.541299,1.64985,1,1,a,2016-12-04 20:00:00
+3122,Manchester United,Tottenham,1.04894,0.720341,1,0,h,2016-12-11 18:15:00
+3130,Manchester United,Crystal Palace,1.27306,0.710324,2,1,a,2016-12-15 00:00:00
+3140,Manchester United,West Bromwich Albion,0.983306,0.600426,2,0,a,2016-12-17 21:30:00
+3147,Manchester United,Sunderland,2.32117,0.488541,3,1,h,2016-12-26 19:00:00
+3159,Manchester United,Middlesbrough,2.53996,0.64492,2,1,h,2016-12-31 15:00:00
+3335,Manchester United,West Ham,1.64905,0.799911,2,0,a,2017-01-02 21:15:00
+3349,Manchester United,Liverpool,1.03178,1.46058,1,1,h,2017-01-15 16:00:00
+3354,Manchester United,Stoke,1.74295,0.353777,1,1,a,2017-01-21 18:00:00
+3368,Manchester United,Hull,1.48151,0.395896,0,0,h,2017-02-01 23:00:00
+3379,Manchester United,Leicester,1.98688,0.492009,3,0,a,2017-02-05 16:00:00
+3381,Manchester United,Watford,2.627,0.641058,2,0,h,2017-02-11 15:00:00
+3402,Manchester United,Bournemouth,2.5377,0.816172,1,1,h,2017-03-04 12:30:00
+3425,Manchester United,Middlesbrough,2.47484,1.09037,3,1,a,2017-03-19 12:00:00
+3436,Manchester United,West Bromwich Albion,0.986683,0.200297,0,0,h,2017-04-01 15:00:00
+3446,Manchester United,Everton,1.67424,0.589122,1,1,h,2017-04-04 20:00:00
+3452,Manchester United,Sunderland,1.6943,0.977316,3,0,a,2017-04-09 13:30:00
+3460,Manchester United,Chelsea,0.807128,0.132913,2,0,h,2017-04-16 16:00:00
+3472,Manchester United,Burnley,2.24747,0.342829,2,0,a,2017-04-23 14:15:00
+3398,Manchester United,Manchester City,0.421251,1.41537,0,0,a,2017-04-27 20:00:00
+3482,Manchester United,Swansea,1.99224,0.775713,1,1,h,2017-04-30 12:00:00
+3490,Manchester United,Arsenal,0.576173,1.03986,0,2,a,2017-05-07 16:00:00
+3507,Manchester United,Tottenham,1.03696,2.10698,1,2,a,2017-05-14 16:30:00
+3412,Manchester United,Southampton,0.45805,1.66533,0,0,a,2017-05-17 19:45:00
+3516,Manchester United,Crystal Palace,1.0386,0.3016,2,0,h,2017-05-21 15:00:00

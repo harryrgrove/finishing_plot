@@ -1,0 +1,31 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+2356,Kuban Krasnodar,Ural,0.43496,2.27953,0,2,h,2015-07-20 21:00:00
+2360,Kuban Krasnodar,FK Akhmat,0.130666,1.05145,1,1,a,2015-07-25 22:00:00
+2365,Kuban Krasnodar,FC Ufa,0.660127,0.749518,1,1,h,2015-07-31 21:00:00
+2380,Kuban Krasnodar,FC Krasnodar,0.524728,0.838512,1,1,a,2015-08-10 21:15:00
+2384,Kuban Krasnodar,Rubin Kazan,1.09512,2.53373,0,1,h,2015-08-15 22:30:00
+2396,Kuban Krasnodar,Krylya Sovetov Samara,0.528926,2.15899,0,3,a,2015-08-24 20:00:00
+2404,Kuban Krasnodar,CSKA Moscow,1.2331,1.61607,0,1,h,2015-08-30 21:00:00
+2406,Kuban Krasnodar,Amkar,1.04268,0.693941,1,1,a,2015-09-12 17:30:00
+2415,Kuban Krasnodar,Spartak Moscow,2.63784,1.13929,3,0,h,2015-09-19 20:00:00
+2428,Kuban Krasnodar,FC Rostov,1.0957,1.60065,1,2,a,2015-09-28 20:00:00
+2432,Kuban Krasnodar,Anzhi Makhachkala,2.25792,0.364723,1,1,h,2015-10-03 20:30:00
+2439,Kuban Krasnodar,Zenit St. Petersburg,1.40546,1.75192,2,2,h,2015-10-17 17:30:00
+2447,Kuban Krasnodar,Mordovya,0.831405,2.19879,1,1,a,2015-10-24 15:30:00
+2457,Kuban Krasnodar,Lokomotiv Moscow,1.50769,2.72959,6,2,h,2015-11-01 20:00:00
+2464,Kuban Krasnodar,Dinamo Moscow,0.662093,1.4022,1,2,a,2015-11-07 19:30:00
+2474,Kuban Krasnodar,FK Akhmat,0.679094,1.43046,2,2,h,2015-11-22 18:00:00
+2478,Kuban Krasnodar,FC Ufa,1.61979,2.20311,2,2,a,2015-11-28 13:30:00
+2488,Kuban Krasnodar,FC Krasnodar,0.997974,2.31085,2,3,h,2015-12-04 20:00:00
+2494,Kuban Krasnodar,Rubin Kazan,0.428794,2.10691,0,1,a,2016-03-05 18:00:00
+2501,Kuban Krasnodar,Krylya Sovetov Samara,1.71925,1.40918,2,0,h,2016-03-11 20:00:00
+2513,Kuban Krasnodar,CSKA Moscow,0.00903018,3.06283,0,2,a,2016-03-19 20:30:00
+2519,Kuban Krasnodar,Amkar,1.3367,2.51749,1,1,h,2016-04-02 18:00:00
+2531,Kuban Krasnodar,Spartak Moscow,1.98395,1.3979,2,2,a,2016-04-10 20:30:00
+2539,Kuban Krasnodar,FC Rostov,0.244687,1.75833,0,1,h,2016-04-17 20:30:00
+2547,Kuban Krasnodar,Anzhi Makhachkala,0.461313,1.61587,0,1,a,2016-04-24 20:30:00
+2550,Kuban Krasnodar,Zenit St. Petersburg,0.147224,2.69676,1,4,a,2016-04-28 20:30:00
+2561,Kuban Krasnodar,Mordovya,0.615194,0.485436,1,2,h,2016-05-07 18:00:00
+2569,Kuban Krasnodar,Lokomotiv Moscow,0.884096,1.7929,1,0,a,2016-05-11 20:30:00
+2578,Kuban Krasnodar,Dinamo Moscow,1.21163,0.503754,1,0,h,2016-05-16 20:30:00
+2586,Kuban Krasnodar,Ural,0.911888,1.67679,0,2,a,2016-05-21 14:30:00

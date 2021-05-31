@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+9205,Liverpool,West Ham,4.34421,0.404253,4,0,h,2018-08-12 15:30:00
+9216,Liverpool,Crystal Palace,2.82183,0.368608,2,0,a,2018-08-20 22:00:00
+9223,Liverpool,Brighton,1.81412,0.535616,1,0,h,2018-08-25 19:30:00
+9227,Liverpool,Leicester,1.22722,0.981217,2,1,a,2018-09-01 11:30:00
+9237,Liverpool,Tottenham,3.01015,0.788168,2,1,a,2018-09-15 11:30:00
+9249,Liverpool,Southampton,1.77893,0.310467,3,0,h,2018-09-22 14:00:00
+9264,Liverpool,Chelsea,1.74071,1.77638,1,1,a,2018-09-29 16:30:00
+9276,Liverpool,Manchester City,0.433994,1.07481,0,0,h,2018-10-07 15:30:00
+9284,Liverpool,Huddersfield,0.663819,0.638341,1,0,a,2018-10-20 16:30:00
+9288,Liverpool,Cardiff,2.30176,0.643117,4,1,h,2018-10-27 14:00:00
+9303,Liverpool,Arsenal,1.19558,1.62321,1,1,a,2018-11-03 17:30:00
+9313,Liverpool,Fulham,2.22417,0.571301,2,0,h,2018-11-11 12:00:00
+9318,Liverpool,Watford,1.45314,0.673382,3,0,a,2018-11-24 15:00:00
+9330,Liverpool,Everton,3.07574,1.23014,1,0,h,2018-12-02 16:15:00
+9343,Liverpool,Burnley,2.73897,1.05809,3,1,a,2018-12-05 19:45:00
+9355,Liverpool,Bournemouth,1.80619,0.279142,4,0,a,2018-12-08 12:30:00
+9362,Liverpool,Manchester United,2.60435,0.658049,3,1,h,2018-12-16 16:00:00
+9367,Liverpool,Wolverhampton Wanderers,2.16356,0.763821,2,0,a,2018-12-21 20:00:00
+9381,Liverpool,Newcastle United,3.24988,0.456309,4,0,h,2018-12-26 15:00:00
+9391,Liverpool,Arsenal,3.7053,1.08186,5,1,h,2018-12-29 17:30:00
+9400,Liverpool,Manchester City,1.3801,1.00357,1,2,a,2019-01-03 20:00:00
+9416,Liverpool,Brighton,2.2665,0.384198,1,0,a,2019-01-12 15:00:00
+9422,Liverpool,Crystal Palace,2.8299,0.695213,4,3,h,2019-01-19 15:00:00
+9436,Liverpool,Leicester,0.576336,1.1272,1,1,h,2019-01-30 20:00:00
+9437,Liverpool,West Ham,1.12475,0.791319,1,1,a,2019-02-04 20:00:00
+9455,Liverpool,Bournemouth,2.53003,0.390995,3,0,h,2019-02-09 15:00:00
+9459,Liverpool,Manchester United,0.380519,0.474869,0,0,a,2019-02-24 14:05:00
+9476,Liverpool,Watford,2.74266,0.630423,5,0,h,2019-02-27 20:00:00
+9483,Liverpool,Everton,0.811272,0.241879,0,0,a,2019-03-03 16:15:00
+9490,Liverpool,Burnley,4.12341,0.471571,4,2,h,2019-03-10 12:00:00
+9502,Liverpool,Fulham,2.73437,0.915765,2,1,a,2019-03-17 14:15:00
+9510,Liverpool,Tottenham,1.0931,1.04822,2,1,h,2019-03-31 15:30:00
+9520,Liverpool,Southampton,2.00654,0.718394,3,1,a,2019-04-05 20:00:00
+9531,Liverpool,Chelsea,1.30839,0.873177,2,0,h,2019-04-14 16:30:00
+9544,Liverpool,Cardiff,2.42404,1.1187,2,0,a,2019-04-21 16:00:00
+9551,Liverpool,Huddersfield,3.58922,0.1624,5,0,h,2019-04-26 20:00:00
+9559,Liverpool,Newcastle United,1.48081,1.29707,3,2,a,2019-05-04 18:45:00
+9571,Liverpool,Wolverhampton Wanderers,1.70197,0.883861,2,0,h,2019-05-12 14:00:00

@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+4754,Tottenham,West Ham,1.01706,1.8531,1,0,a,2014-08-16 15:00:00
+4766,Tottenham,Queens Park Rangers,2.38894,1.07617,4,0,h,2014-08-24 13:30:00
+4777,Tottenham,Liverpool,0.48592,2.74317,0,3,h,2014-08-31 13:30:00
+4724,Tottenham,Sunderland,2.03694,0.338966,2,2,a,2014-09-13 15:00:00
+4735,Tottenham,West Bromwich Albion,0.438596,1.08401,0,1,h,2014-09-21 13:30:00
+4746,Tottenham,Arsenal,0.673535,1.2647,1,1,a,2014-09-27 17:30:00
+4696,Tottenham,Southampton,0.898735,1.14587,1,0,h,2014-10-05 14:05:00
+4699,Tottenham,Manchester City,2.32314,3.75041,1,4,a,2014-10-18 12:45:00
+4715,Tottenham,Newcastle United,2.03729,0.73967,1,2,h,2014-10-26 13:30:00
+4657,Tottenham,Aston Villa,2.54173,0.872267,2,1,a,2014-11-02 16:00:00
+4666,Tottenham,Stoke,1.28384,1.24867,1,2,h,2014-11-09 13:30:00
+4677,Tottenham,Hull,2.16438,0.94244,2,1,a,2014-11-23 16:00:00
+4688,Tottenham,Everton,1.13109,0.934335,2,1,h,2014-11-30 16:00:00
+4595,Tottenham,Chelsea,0.289204,1.71947,0,3,a,2014-12-03 19:45:00
+4602,Tottenham,Crystal Palace,0.958788,1.17369,0,0,h,2014-12-06 15:00:00
+4617,Tottenham,Swansea,0.731022,1.67826,2,1,a,2014-12-14 16:00:00
+4621,Tottenham,Burnley,1.77346,0.655135,2,1,h,2014-12-20 15:00:00
+4637,Tottenham,Leicester,1.35719,1.47301,2,1,a,2014-12-26 15:00:00
+4639,Tottenham,Manchester United,0.888,2.2613,0,0,h,2014-12-28 12:00:00
+4560,Tottenham,Chelsea,1.82436,3.03274,5,3,h,2015-01-01 17:30:00
+4568,Tottenham,Crystal Palace,0.919178,2.85997,1,2,a,2015-01-10 17:30:00
+4576,Tottenham,Sunderland,0.931537,1.19577,2,1,h,2015-01-17 15:00:00
+4586,Tottenham,West Bromwich Albion,1.34429,0.808495,3,0,a,2015-01-31 15:00:00
+4515,Tottenham,Arsenal,1.2754,0.834136,2,1,h,2015-02-07 12:45:00
+4528,Tottenham,Liverpool,1.71247,2.76444,2,3,a,2015-02-10 20:00:00
+4542,Tottenham,West Ham,2.17554,2.20831,2,2,h,2015-02-22 12:00:00
+4489,Tottenham,Swansea,2.13485,0.708217,3,2,h,2015-03-04 19:45:00
+4492,Tottenham,Queens Park Rangers,2.62405,1.49775,2,1,a,2015-03-07 15:00:00
+4501,Tottenham,Manchester United,0.206431,1.02781,0,3,a,2015-03-15 16:00:00
+4505,Tottenham,Leicester,2.82935,2.722,4,3,h,2015-03-21 15:00:00
+4447,Tottenham,Burnley,0.377376,1.51355,0,0,a,2015-04-05 13:30:00
+4455,Tottenham,Aston Villa,0.621738,0.860976,0,1,h,2015-04-11 15:00:00
+4467,Tottenham,Newcastle United,1.99862,0.938886,3,1,a,2015-04-19 16:00:00
+4468,Tottenham,Southampton,0.531276,1.39327,2,2,a,2015-04-25 12:45:00
+4407,Tottenham,Manchester City,2.07027,1.80612,0,1,h,2015-05-03 16:00:00
+4414,Tottenham,Stoke,0.298008,2.138,0,3,a,2015-05-09 15:00:00
+4422,Tottenham,Hull,1.70119,1.13285,2,0,h,2015-05-16 15:00:00
+4434,Tottenham,Everton,1.39049,0.646215,1,0,a,2015-05-24 15:00:00

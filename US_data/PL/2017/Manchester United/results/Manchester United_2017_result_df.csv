@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+7128,Manchester United,West Ham,2.63853,0.62654,4,0,h,2017-08-13 16:00:00
+7129,Manchester United,Swansea,3.41021,0.304164,4,0,a,2017-08-19 12:30:00
+7145,Manchester United,Leicester,2.73725,0.670573,2,0,h,2017-08-26 17:30:00
+7155,Manchester United,Stoke,1.96635,1.49928,2,2,a,2017-09-09 17:30:00
+7168,Manchester United,Everton,3.28722,1.06298,4,0,h,2017-09-17 16:00:00
+7172,Manchester United,Southampton,1.07247,0.802062,1,0,a,2017-09-23 15:00:00
+7180,Manchester United,Crystal Palace,3.47508,0.244321,4,0,h,2017-09-30 15:00:00
+7193,Manchester United,Liverpool,0.230358,1.92702,0,0,a,2017-10-14 12:30:00
+7201,Manchester United,Huddersfield,0.807135,1.26744,1,2,a,2017-10-21 15:00:00
+7218,Manchester United,Tottenham,0.943496,1.08708,1,0,h,2017-10-28 12:30:00
+7219,Manchester United,Chelsea,0.773586,1.8417,0,1,a,2017-11-05 16:30:00
+7232,Manchester United,Newcastle United,2.57424,1.08708,4,1,h,2017-11-18 17:30:00
+7243,Manchester United,Brighton,1.50148,0.565072,1,0,h,2017-11-25 15:00:00
+7251,Manchester United,Watford,1.63491,1.29277,4,2,a,2017-11-28 20:00:00
+7266,Manchester United,Arsenal,2.06831,4.24057,3,1,a,2017-12-02 17:30:00
+7276,Manchester United,Manchester City,1.43756,2.03041,1,2,h,2017-12-10 16:30:00
+7283,Manchester United,Bournemouth,1.24043,0.815792,1,0,h,2017-12-13 20:00:00
+7295,Manchester United,West Bromwich Albion,0.898984,1.076,2,1,a,2017-12-17 14:15:00
+7302,Manchester United,Leicester,2.15281,1.56465,2,2,a,2017-12-23 19:45:00
+7314,Manchester United,Burnley,1.80763,0.786214,2,2,h,2017-12-26 15:00:00
+7324,Manchester United,Southampton,1.87247,0.85013,0,0,h,2017-12-30 17:30:00
+7333,Manchester United,Everton,1.26247,1.23952,2,0,a,2018-01-01 17:30:00
+7344,Manchester United,Stoke,1.9485,1.47603,3,0,h,2018-01-15 20:00:00
+7351,Manchester United,Burnley,0.860828,0.568215,1,0,a,2018-01-20 15:00:00
+7367,Manchester United,Tottenham,0.817997,2.0117,0,2,a,2018-01-31 20:00:00
+7376,Manchester United,Huddersfield,1.63389,0.13049,2,0,h,2018-02-03 15:00:00
+7383,Manchester United,Newcastle United,1.71995,0.676656,0,1,a,2018-02-11 14:15:00
+7393,Manchester United,Chelsea,1.30036,1.68958,2,1,h,2018-02-25 14:05:00
+7401,Manchester United,Crystal Palace,1.25439,0.74138,3,2,a,2018-03-05 20:00:00
+7414,Manchester United,Liverpool,0.845051,0.777089,2,1,h,2018-03-10 12:30:00
+7435,Manchester United,Swansea,2.14368,0.138813,2,0,h,2018-03-31 15:00:00
+7445,Manchester United,Manchester City,1.21683,3.42967,3,2,a,2018-04-07 16:30:00
+7453,Manchester United,West Bromwich Albion,0.639748,0.824508,0,1,h,2018-04-15 15:00:00
+7463,Manchester United,Bournemouth,1.61597,1.18301,2,0,a,2018-04-18 18:45:00
+7473,Manchester United,Arsenal,1.54667,0.651541,2,1,h,2018-04-29 15:30:00
+7484,Manchester United,Brighton,0.652444,0.922771,0,1,a,2018-05-04 20:00:00
+7428,Manchester United,West Ham,0.596075,0.783043,0,0,a,2018-05-10 19:45:00
+7496,Manchester United,Watford,0.45805,0.654288,1,0,h,2018-05-13 15:00:00

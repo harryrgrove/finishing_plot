@@ -1,0 +1,31 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+6423,Lokomotiv Moscow,FC Krasnodar,0.793814,0.733761,0,0,h,2014-08-03 18:30:00
+6432,Lokomotiv Moscow,Arsenal Tula,2.19601,0.793735,2,0,a,2014-08-10 16:30:00
+6438,Lokomotiv Moscow,FC Rostov,1.13475,1.13306,2,1,h,2014-08-14 15:30:00
+6445,Lokomotiv Moscow,Rubin Kazan,0.530823,1.32708,1,1,a,2014-08-17 15:30:00
+6455,Lokomotiv Moscow,Kuban Krasnodar,1.801,0.797377,1,2,a,2014-08-24 16:30:00
+6463,Lokomotiv Moscow,Zenit St. Petersburg,0.712147,1.15499,0,1,h,2014-08-31 15:00:00
+6394,Lokomotiv Moscow,Mordovya,1.80768,0.413487,1,1,h,2014-09-13 13:00:00
+6406,Lokomotiv Moscow,CSKA Moscow,0.614898,1.606,0,1,a,2014-09-21 10:30:00
+6413,Lokomotiv Moscow,Amkar,2.01062,0.242173,3,1,h,2014-09-28 13:00:00
+6379,Lokomotiv Moscow,FK Akhmat,1.19945,0.833496,2,1,h,2014-10-18 16:30:00
+6387,Lokomotiv Moscow,Spartak Moscow,0.585647,0.73552,1,1,a,2014-10-26 10:30:00
+6347,Lokomotiv Moscow,Dinamo Moscow,2.95174,1.00497,4,2,h,2014-11-02 10:30:00
+6355,Lokomotiv Moscow,Torpedo Moscow,1.27999,0.314293,1,0,a,2014-11-08 13:00:00
+6368,Lokomotiv Moscow,FC Ufa,0.855049,0.418921,0,0,h,2014-11-24 16:00:00
+6374,Lokomotiv Moscow,Spartak Moscow,0.730688,0.66282,1,0,h,2014-11-30 10:30:00
+6333,Lokomotiv Moscow,Ural,1.19765,0.437603,1,0,h,2014-12-03 16:00:00
+6340,Lokomotiv Moscow,FK Akhmat,0.630929,0.467206,0,0,a,2014-12-07 10:30:00
+6310,Lokomotiv Moscow,FC Rostov,0.169735,0.35234,1,0,a,2015-03-08 15:30:00
+6317,Lokomotiv Moscow,Arsenal Tula,1.57195,1.30875,0,1,h,2015-03-14 16:00:00
+6328,Lokomotiv Moscow,Mordovya,1.0462,0.477091,0,0,a,2015-03-22 13:00:00
+6266,Lokomotiv Moscow,Dinamo Moscow,2.20665,1.84654,2,2,a,2015-04-04 12:15:00
+6277,Lokomotiv Moscow,Torpedo Moscow,2.4246,1.09486,2,0,h,2015-04-08 18:00:00
+6285,Lokomotiv Moscow,Ural,0.665073,1.49313,0,2,a,2015-04-13 13:00:00
+6289,Lokomotiv Moscow,FC Ufa,0.763692,1.65378,0,1,a,2015-04-18 11:00:00
+6301,Lokomotiv Moscow,FC Krasnodar,0.39614,0.902975,0,1,a,2015-04-25 17:00:00
+6228,Lokomotiv Moscow,Amkar,0.858432,1.09576,1,1,a,2015-05-03 14:00:00
+6235,Lokomotiv Moscow,CSKA Moscow,0.12453,1.66472,1,3,h,2015-05-10 11:30:00
+6244,Lokomotiv Moscow,Rubin Kazan,1.23943,0.663985,3,0,h,2015-05-16 17:00:00
+6255,Lokomotiv Moscow,Kuban Krasnodar,0.683241,1.38381,1,1,h,2015-05-25 16:30:00
+6257,Lokomotiv Moscow,Zenit St. Petersburg,0.10698,1.65971,0,1,a,2015-05-30 11:30:00

@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1022,Bayer Leverkusen,Hoffenheim,3.52773,0.483949,2,1,h,2015-08-15 17:30:00
+1035,Bayer Leverkusen,Hannover 96,1.37365,0.0975496,1,0,a,2015-08-22 17:30:00
+1045,Bayer Leverkusen,Bayern Munich,0.420202,3.52476,0,3,a,2015-08-29 20:30:00
+1053,Bayer Leverkusen,Darmstadt,1.3554,0.284787,0,1,h,2015-09-12 17:30:00
+1065,Bayer Leverkusen,Borussia Dortmund,0.927753,4.08165,0,3,a,2015-09-20 19:30:00
+1072,Bayer Leverkusen,Mainz 05,1.74157,0.476793,1,0,h,2015-09-23 22:00:00
+1079,Bayer Leverkusen,Werder Bremen,1.3026,0.326706,3,0,a,2015-09-26 17:30:00
+1091,Bayer Leverkusen,Augsburg,1.98173,0.119117,1,1,h,2015-10-04 19:30:00
+1098,Bayer Leverkusen,Hamburger SV,0.875048,0.469945,0,0,a,2015-10-17 17:30:00
+1106,Bayer Leverkusen,VfB Stuttgart,2.87154,2.40291,4,3,h,2015-10-24 17:30:00
+1117,Bayer Leverkusen,Wolfsburg,1.31846,2.11288,1,2,a,2015-10-31 21:30:00
+1123,Bayer Leverkusen,FC Cologne,0.457253,2.03601,1,2,h,2015-11-07 18:30:00
+1131,Bayer Leverkusen,Eintracht Frankfurt,1.67235,0.620149,3,1,a,2015-11-21 18:30:00
+1145,Bayer Leverkusen,Schalke 04,2.13995,0.949254,1,1,h,2015-11-29 20:30:00
+1151,Bayer Leverkusen,Hertha Berlin,1.2452,1.02556,1,2,a,2015-12-05 18:30:00
+1162,Bayer Leverkusen,Borussia M.Gladbach,2.75163,0.376285,5,0,h,2015-12-12 21:30:00
+1166,Bayer Leverkusen,Ingolstadt,0.717973,0.461211,1,0,a,2015-12-19 18:30:00
+1178,Bayer Leverkusen,Hoffenheim,1.82105,0.756054,1,1,a,2016-01-23 18:30:00
+1186,Bayer Leverkusen,Hannover 96,1.96768,0.177765,3,0,h,2016-01-30 18:30:00
+1198,Bayer Leverkusen,Bayern Munich,0.288974,1.17556,0,0,h,2016-02-06 21:30:00
+1202,Bayer Leverkusen,Darmstadt,1.5656,1.07695,2,1,a,2016-02-13 18:30:00
+1216,Bayer Leverkusen,Borussia Dortmund,0.788355,1.25829,0,1,h,2016-02-21 18:30:00
+1226,Bayer Leverkusen,Mainz 05,0.81358,2.61685,1,3,a,2016-02-28 20:30:00
+1235,Bayer Leverkusen,Werder Bremen,1.00958,1.88024,1,4,h,2016-03-02 23:00:00
+1238,Bayer Leverkusen,Augsburg,1.46029,1.63701,3,3,a,2016-03-05 18:30:00
+1253,Bayer Leverkusen,Hamburger SV,1.46364,1.03957,1,0,h,2016-03-13 18:30:00
+1262,Bayer Leverkusen,VfB Stuttgart,2.29012,0.64082,2,0,a,2016-03-20 18:30:00
+1264,Bayer Leverkusen,Wolfsburg,0.705961,0.572215,3,0,h,2016-04-01 22:30:00
+1281,Bayer Leverkusen,FC Cologne,1.36907,0.731816,2,0,a,2016-04-10 19:30:00
+1285,Bayer Leverkusen,Eintracht Frankfurt,1.12161,0.878427,3,0,h,2016-04-16 17:30:00
+1297,Bayer Leverkusen,Schalke 04,1.52773,2.42823,3,2,a,2016-04-23 20:30:00
+1307,Bayer Leverkusen,Hertha Berlin,2.98724,0.344918,2,1,h,2016-04-30 20:30:00
+1310,Bayer Leverkusen,Borussia M.Gladbach,1.96166,1.24034,1,2,a,2016-05-07 17:30:00
+1323,Bayer Leverkusen,Ingolstadt,3.08569,2.93125,3,2,h,2016-05-14 17:30:00

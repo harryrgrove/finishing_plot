@@ -1,0 +1,31 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+2590,Anzhi Makhachkala,CSKA Moscow,0.198839,1.18828,0,0,h,2016-07-30 21:00:00
+2600,Anzhi Makhachkala,Amkar,0.279843,2.1208,0,2,a,2016-08-07 17:30:00
+2610,Anzhi Makhachkala,Arsenal Tula,0.574041,1.02833,1,0,h,2016-08-14 21:00:00
+2613,Anzhi Makhachkala,Rubin Kazan,0.968127,1.74836,2,1,a,2016-08-19 20:30:00
+2628,Anzhi Makhachkala,Spartak Moscow,1.10356,1.94536,0,2,h,2016-08-28 22:30:00
+2631,Anzhi Makhachkala,FC Orenburg,0.576329,0.30175,0,0,a,2016-09-10 19:00:00
+2639,Anzhi Makhachkala,Ural,0.209932,0.534521,1,0,a,2016-09-17 17:30:00
+2650,Anzhi Makhachkala,Zenit St. Petersburg,0.969078,1.67139,2,2,h,2016-09-25 20:30:00
+2654,Anzhi Makhachkala,Krylya Sovetov Samara,0.447609,0.628813,1,2,a,2016-10-01 15:30:00
+2668,Anzhi Makhachkala,FK Akhmat,0.649103,1.26264,0,0,h,2016-10-17 20:30:00
+2670,Anzhi Makhachkala,Tom Tomsk,0.896404,0.759527,3,0,a,2016-10-22 13:00:00
+2966,Anzhi Makhachkala,FC Krasnodar,0.478123,0.576885,0,0,h,2016-10-30 20:30:00
+2720,Anzhi Makhachkala,Lokomotiv Moscow,0.542057,2.37717,0,4,a,2016-11-05 19:30:00
+2728,Anzhi Makhachkala,FC Ufa,0.194057,0.310773,0,1,h,2016-11-19 18:00:00
+2739,Anzhi Makhachkala,FC Rostov,1.22221,2.30438,0,2,a,2016-11-27 17:30:00
+3272,Anzhi Makhachkala,Amkar,1.52266,0.789904,3,1,h,2016-12-01 21:30:00
+3280,Anzhi Makhachkala,Arsenal Tula,0.157968,0.892702,0,1,a,2016-12-05 20:30:00
+4296,Anzhi Makhachkala,Rubin Kazan,1.23294,0.18488,0,1,h,2017-03-06 16:30:00
+4305,Anzhi Makhachkala,Spartak Moscow,0.442768,1.5351,0,1,a,2017-03-12 13:30:00
+4313,Anzhi Makhachkala,FC Orenburg,0.597659,0.517353,1,0,h,2017-03-17 16:00:00
+4326,Anzhi Makhachkala,Ural,1.5111,1.99366,2,3,h,2017-03-31 17:30:00
+4327,Anzhi Makhachkala,Zenit St. Petersburg,0.78695,1.01174,1,1,a,2017-04-08 17:00:00
+4338,Anzhi Makhachkala,Krylya Sovetov Samara,1.82005,0.518749,1,3,h,2017-04-15 15:00:00
+4346,Anzhi Makhachkala,FK Akhmat,0.878967,0.355267,1,0,a,2017-04-22 17:00:00
+4354,Anzhi Makhachkala,Tom Tomsk,4.09545,1.29389,3,3,h,2017-04-27 17:30:00
+4363,Anzhi Makhachkala,FC Krasnodar,0.320035,0.502484,0,0,a,2017-05-01 16:00:00
+4369,Anzhi Makhachkala,Lokomotiv Moscow,0.476421,0.514887,0,0,h,2017-05-08 15:00:00
+4379,Anzhi Makhachkala,FC Ufa,0.537194,0.352166,1,2,a,2017-05-14 14:30:00
+4385,Anzhi Makhachkala,FC Rostov,0.558171,1.36593,1,2,h,2017-05-17 17:30:00
+4395,Anzhi Makhachkala,CSKA Moscow,0.117066,1.82669,0,4,a,2017-05-21 13:00:00

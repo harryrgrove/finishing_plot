@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1406,Celta Vigo,Levante,1.80598,0.485771,2,1,a,2015-08-24 00:00:00
+1412,Celta Vigo,Rayo Vallecano,1.7022,0.0816438,3,0,h,2015-08-30 00:00:00
+1426,Celta Vigo,Las Palmas,3.52742,1.29875,3,3,h,2015-09-13 20:15:00
+1434,Celta Vigo,Sevilla,0.84576,1.52622,2,1,a,2015-09-20 14:00:00
+1443,Celta Vigo,Barcelona,2.22577,2.51546,4,1,h,2015-09-23 22:00:00
+1454,Celta Vigo,Eibar,1.08234,1.20938,1,1,a,2015-09-27 00:05:00
+1459,Celta Vigo,Getafe,1.48902,1.32092,0,0,h,2015-10-02 22:30:00
+1474,Celta Vigo,Villarreal,1.62408,0.995361,2,1,a,2015-10-18 14:00:00
+1480,Celta Vigo,Real Madrid,1.57638,1.9616,1,3,h,2015-10-24 18:00:00
+1494,Celta Vigo,Real Sociedad,1.43886,1.13516,3,2,a,2015-11-01 01:05:00
+1500,Celta Vigo,Valencia,1.6317,1.48214,1,5,h,2015-11-07 19:00:00
+1513,Celta Vigo,Deportivo La Coruna,0.886052,1.02848,0,2,a,2015-11-22 01:05:00
+1524,Celta Vigo,Sporting Gijon,1.14376,0.664946,2,1,h,2015-11-29 01:05:00
+1533,Celta Vigo,Real Betis,0.535918,2.41831,1,1,a,2015-12-06 01:05:00
+1541,Celta Vigo,Espanyol,1.23164,0.166852,1,0,h,2015-12-12 21:15:00
+1555,Celta Vigo,Granada,2.25068,0.340342,2,0,a,2015-12-20 21:15:00
+1565,Celta Vigo,Athletic Club,0.414056,1.09564,0,1,h,2015-12-30 23:30:00
+1570,Celta Vigo,Malaga,1.0569,3.03854,0,2,a,2016-01-03 01:05:00
+1587,Celta Vigo,Atletico Madrid,0.213705,1.07666,0,2,h,2016-01-10 23:30:00
+1589,Celta Vigo,Levante,2.1571,1.42901,4,3,h,2016-01-16 21:15:00
+1602,Celta Vigo,Rayo Vallecano,0.133975,3.20178,0,3,a,2016-01-24 01:05:00
+1615,Celta Vigo,Las Palmas,0.376974,2.12188,1,2,a,2016-01-31 21:15:00
+1625,Celta Vigo,Sevilla,2.37006,0.922926,1,1,h,2016-02-07 21:15:00
+1637,Celta Vigo,Barcelona,1.49242,5.54249,1,6,a,2016-02-14 23:30:00
+1643,Celta Vigo,Eibar,2.5831,1.4201,3,2,h,2016-02-21 01:05:00
+1651,Celta Vigo,Getafe,1.60224,0.863924,1,0,a,2016-02-27 21:15:00
+1663,Celta Vigo,Villarreal,0.846173,0.328383,0,0,h,2016-03-02 23:00:00
+1669,Celta Vigo,Real Madrid,1.52691,2.39112,1,7,a,2016-03-05 19:00:00
+1681,Celta Vigo,Real Sociedad,0.377845,0.559876,1,0,h,2016-03-12 21:15:00
+1697,Celta Vigo,Valencia,2.19927,0.646205,2,0,a,2016-03-20 21:15:00
+1703,Celta Vigo,Deportivo La Coruna,0.36047,0.864408,1,1,h,2016-04-03 00:05:00
+1714,Celta Vigo,Sporting Gijon,1.03986,0.814767,1,0,a,2016-04-10 14:00:00
+1723,Celta Vigo,Real Betis,1.74985,1.54169,1,1,h,2016-04-17 00:05:00
+1729,Celta Vigo,Espanyol,0.502009,0.873164,1,1,a,2016-04-19 22:00:00
+1748,Celta Vigo,Granada,1.96923,0.740282,2,1,h,2016-04-25 22:30:00
+1754,Celta Vigo,Athletic Club,0.470176,1.64739,1,2,a,2016-05-01 14:00:00
+1760,Celta Vigo,Malaga,1.25876,0.981005,1,0,h,2016-05-08 19:00:00
+1773,Celta Vigo,Atletico Madrid,0.504827,1.24915,0,2,a,2016-05-14 21:30:00

@@ -1,0 +1,31 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+2596,FC Krasnodar,Tom Tomsk,1.98579,0.158377,3,0,h,2016-08-01 20:30:00
+2603,FC Krasnodar,FK Akhmat,1.78248,0.381362,4,0,h,2016-08-08 20:30:00
+2607,FC Krasnodar,Krylya Sovetov Samara,0.665069,0.729801,1,1,a,2016-08-13 19:00:00
+2618,FC Krasnodar,Spartak Moscow,0.615712,1.52985,0,2,a,2016-08-21 19:00:00
+2627,FC Krasnodar,Lokomotiv Moscow,1.22349,1.563,1,2,h,2016-08-28 20:15:00
+2633,FC Krasnodar,FC Ufa,0.377297,0.0843245,0,0,a,2016-09-11 15:00:00
+2643,FC Krasnodar,FC Rostov,2.03214,0.428456,2,1,h,2016-09-18 21:00:00
+2645,FC Krasnodar,CSKA Moscow,0.477177,1.05506,1,1,a,2016-09-24 18:00:00
+2660,FC Krasnodar,Rubin Kazan,0.413244,0.207567,1,0,h,2016-10-02 20:00:00
+2667,FC Krasnodar,Arsenal Tula,0.990291,0.4008,0,0,a,2016-10-16 20:00:00
+2675,FC Krasnodar,Amkar,1.45616,0.330617,1,0,h,2016-10-23 20:00:00
+2966,FC Krasnodar,Anzhi Makhachkala,0.576885,0.478123,0,0,a,2016-10-30 20:30:00
+2724,FC Krasnodar,FC Orenburg,1.20411,0.380994,3,3,h,2016-11-06 20:30:00
+2729,FC Krasnodar,Ural,0.969496,0.103506,3,0,h,2016-11-20 15:30:00
+2740,FC Krasnodar,Zenit St. Petersburg,0.929763,1.29248,2,1,h,2016-11-27 20:00:00
+3269,FC Krasnodar,FK Akhmat,0.231879,1.07989,1,2,a,2016-12-01 19:00:00
+3278,FC Krasnodar,Krylya Sovetov Samara,0.869653,0.857209,1,1,h,2016-12-05 20:00:00
+4295,FC Krasnodar,Spartak Moscow,1.04975,0.88513,2,2,h,2017-03-05 13:30:00
+4310,FC Krasnodar,Lokomotiv Moscow,1.14356,1.21144,2,1,a,2017-03-13 16:30:00
+4317,FC Krasnodar,FC Ufa,1.03734,0.141867,0,0,h,2017-03-19 13:30:00
+4322,FC Krasnodar,FC Rostov,0.487343,0.635029,0,0,a,2017-04-03 17:30:00
+4333,FC Krasnodar,CSKA Moscow,1.1082,1.12286,1,1,h,2017-04-09 14:30:00
+4337,FC Krasnodar,Rubin Kazan,0.72169,0.691265,1,0,a,2017-04-15 17:30:00
+4348,FC Krasnodar,Arsenal Tula,0.861916,0.707111,2,0,h,2017-04-23 15:00:00
+4356,FC Krasnodar,Amkar,1.6679,0.66652,2,0,a,2017-04-27 15:00:00
+4363,FC Krasnodar,Anzhi Makhachkala,0.502484,0.320035,0,0,h,2017-05-01 16:00:00
+4370,FC Krasnodar,FC Orenburg,0.583116,1.24665,0,1,a,2017-05-07 12:00:00
+4376,FC Krasnodar,Ural,1.34532,0.286603,1,1,a,2017-05-13 10:00:00
+4389,FC Krasnodar,Zenit St. Petersburg,0.470888,1.57059,0,1,a,2017-05-17 17:30:00
+4391,FC Krasnodar,Tom Tomsk,3.54603,0.909306,5,1,a,2017-05-21 13:00:00

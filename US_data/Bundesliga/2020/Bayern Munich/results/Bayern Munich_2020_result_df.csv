@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+14173,Bayern Munich,Schalke 04,4.62088,0.14975,8,0,h,2020-09-18 18:30:00
+14189,Bayern Munich,Hoffenheim,1.17311,2.52339,1,4,a,2020-09-27 13:30:00
+15166,Bayern Munich,Hertha Berlin,3.99311,1.24509,4,3,h,2020-10-04 16:00:00
+15172,Bayern Munich,Arminia Bielefeld,3.29447,1.21235,4,1,a,2020-10-17 16:30:00
+15180,Bayern Munich,Eintracht Frankfurt,3.80823,0.429229,5,0,h,2020-10-24 13:30:00
+15186,Bayern Munich,FC Cologne,0.992927,0.681548,2,1,a,2020-10-31 14:30:00
+15200,Bayern Munich,Borussia Dortmund,1.33621,2.30881,3,2,a,2020-11-07 17:30:00
+15203,Bayern Munich,Werder Bremen,1.6736,1.63104,1,1,h,2020-11-21 14:30:00
+15220,Bayern Munich,VfB Stuttgart,0.889035,1.38666,3,1,a,2020-11-28 14:30:00
+15221,Bayern Munich,RasenBallsport Leipzig,1.00047,1.56492,3,3,h,2020-12-05 17:30:00
+15236,Bayern Munich,Union Berlin,1.06474,1.08682,1,1,a,2020-12-12 17:30:00
+15245,Bayern Munich,Wolfsburg,1.26746,1.10816,2,1,h,2020-12-16 19:30:00
+15250,Bayern Munich,Bayer Leverkusen,1.41401,0.307742,2,1,a,2020-12-19 17:30:00
+15257,Bayern Munich,Mainz 05,4.11014,1.1937,5,2,h,2021-01-03 17:00:00
+15267,Bayern Munich,Borussia M.Gladbach,1.32717,0.96923,2,3,a,2021-01-08 19:30:00
+15275,Bayern Munich,Freiburg,3.01697,0.76215,2,1,h,2021-01-17 14:30:00
+15291,Bayern Munich,Augsburg,1.98194,1.21994,1,0,a,2021-01-20 19:30:00
+15298,Bayern Munich,Schalke 04,3.12798,0.937959,4,0,a,2021-01-24 14:30:00
+15302,Bayern Munich,Hoffenheim,1.94572,1.87397,4,1,h,2021-01-30 14:30:00
+15315,Bayern Munich,Hertha Berlin,1.8015,1.24698,1,0,a,2021-02-05 19:30:00
+15320,Bayern Munich,Arminia Bielefeld,2.29294,1.71797,3,3,h,2021-02-15 19:30:00
+15332,Bayern Munich,Eintracht Frankfurt,1.5483,1.9074,1,2,a,2021-02-20 14:30:00
+15338,Bayern Munich,FC Cologne,2.40221,0.985369,5,1,h,2021-02-27 14:30:00
+15351,Bayern Munich,Borussia Dortmund,2.69537,0.723629,4,2,h,2021-03-06 17:30:00
+15363,Bayern Munich,Werder Bremen,3.96745,0.76636,3,1,a,2021-03-13 14:30:00
+15365,Bayern Munich,VfB Stuttgart,2.6153,1.12324,4,0,h,2021-03-20 14:30:00
+15375,Bayern Munich,RasenBallsport Leipzig,0.597457,0.486813,1,0,a,2021-04-03 16:30:00
+15383,Bayern Munich,Union Berlin,0.809251,0.908459,1,1,h,2021-04-10 13:30:00
+15396,Bayern Munich,Wolfsburg,1.72716,1.25011,3,2,a,2021-04-17 13:30:00
+15401,Bayern Munich,Bayer Leverkusen,1.89266,0.540312,2,0,h,2021-04-20 18:30:00
+15417,Bayern Munich,Mainz 05,1.16918,1.1149,1,2,a,2021-04-24 13:30:00
+15419,Bayern Munich,Borussia M.Gladbach,3.02349,0.806609,6,0,h,2021-05-08 16:30:00
+15431,Bayern Munich,Freiburg,2.49234,0.964354,2,2,a,2021-05-15 13:30:00
+15437,Bayern Munich,Augsburg,4.85963,1.73838,5,2,h,2021-05-22 13:30:00

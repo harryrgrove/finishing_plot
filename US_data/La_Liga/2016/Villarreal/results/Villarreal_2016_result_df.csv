@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1782,Villarreal,Granada,1.75881,0.977176,1,1,a,2016-08-20 22:15:00
+1798,Villarreal,Sevilla,0.580165,0.161483,0,0,h,2016-08-29 00:15:00
+1803,Villarreal,Malaga,2.47884,1.05974,2,0,a,2016-09-10 20:15:00
+1816,Villarreal,Real Sociedad,1.42126,1.03528,2,1,h,2016-09-18 20:30:00
+1821,Villarreal,Real Madrid,1.0322,1.34367,1,1,a,2016-09-21 22:00:00
+1836,Villarreal,Osasuna,2.9887,1.7961,3,1,h,2016-09-25 20:30:00
+1847,Villarreal,Espanyol,0.696855,0.351825,0,0,a,2016-10-02 20:30:00
+1857,Villarreal,Celta Vigo,1.79979,0.258037,5,0,h,2016-10-16 22:45:00
+1867,Villarreal,Las Palmas,1.67294,0.5357,2,1,h,2016-10-23 20:30:00
+3313,Villarreal,Eibar,1.49906,1.4571,1,2,a,2016-10-30 15:00:00
+2784,Villarreal,Real Betis,1.38858,0.28961,2,0,h,2016-11-06 21:30:00
+2794,Villarreal,Athletic Club,0.173272,2.15189,0,1,a,2016-11-20 23:45:00
+2801,Villarreal,Alaves,1.92523,1.58373,0,2,h,2016-11-27 15:00:00
+3165,Villarreal,Leganes,0.296192,0.679532,0,0,a,2016-12-03 21:30:00
+3182,Villarreal,Atletico Madrid,1.25177,0.725735,3,0,h,2016-12-12 23:45:00
+3184,Villarreal,Sporting Gijon,3.11803,1.18555,3,1,a,2016-12-17 16:00:00
+3892,Villarreal,Barcelona,0.358089,1.07063,1,1,h,2017-01-08 23:45:00
+3897,Villarreal,Deportivo La Coruna,0.144553,0.523704,0,0,a,2017-01-14 23:45:00
+3908,Villarreal,Valencia,1.21498,1.46798,0,2,h,2017-01-21 22:45:00
+3915,Villarreal,Granada,2.4514,0.317825,2,0,h,2017-01-28 15:00:00
+3930,Villarreal,Sevilla,0.999917,1.67146,0,0,a,2017-02-05 11:00:00
+3941,Villarreal,Malaga,1.12992,0.439488,1,1,h,2017-02-12 11:00:00
+3951,Villarreal,Real Sociedad,0.998736,0.993635,1,0,a,2017-02-19 11:00:00
+3962,Villarreal,Real Madrid,1.12868,3.35567,2,3,h,2017-02-26 19:45:00
+3966,Villarreal,Osasuna,2.12981,2.04719,4,1,a,2017-03-01 18:30:00
+3975,Villarreal,Espanyol,1.62938,0.841776,2,0,h,2017-03-04 17:30:00
+3992,Villarreal,Celta Vigo,0.795635,0.5028,1,0,a,2017-03-12 17:30:00
+3996,Villarreal,Las Palmas,0.339418,1.57565,0,1,a,2017-03-17 19:45:00
+4012,Villarreal,Eibar,1.21195,1.99175,2,3,h,2017-04-01 12:00:00
+4016,Villarreal,Real Betis,1.45363,0.752025,1,0,a,2017-04-04 20:30:00
+4031,Villarreal,Athletic Club,1.58988,0.771423,3,1,h,2017-04-07 19:45:00
+4041,Villarreal,Alaves,1.33363,1.31518,1,2,a,2017-04-17 19:45:00
+4054,Villarreal,Leganes,0.763096,0.747073,2,1,h,2017-04-22 15:15:00
+4060,Villarreal,Atletico Madrid,0.857961,1.32237,1,0,a,2017-04-25 20:30:00
+4070,Villarreal,Sporting Gijon,3.91003,1.03449,3,1,h,2017-04-28 19:45:00
+4075,Villarreal,Barcelona,1.17809,3.26258,1,4,a,2017-05-06 17:30:00
+4089,Villarreal,Deportivo La Coruna,1.5957,0.0795451,0,0,h,2017-05-14 19:00:00
+4096,Villarreal,Valencia,0.932558,1.48798,3,1,a,2017-05-21 15:45:00

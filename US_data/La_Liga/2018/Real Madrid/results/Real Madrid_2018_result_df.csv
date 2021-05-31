@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+9964,Real Madrid,Getafe,1.16219,0.188446,2,0,h,2018-08-19 23:15:00
+9974,Real Madrid,Girona,4.09404,0.502361,4,1,a,2018-08-26 23:15:00
+9982,Real Madrid,Leganes,2.31092,1.00157,4,1,h,2018-09-01 18:45:00
+9991,Real Madrid,Athletic Club,1.95843,1.45129,1,1,a,2018-09-15 18:45:00
+9998,Real Madrid,Espanyol,1.08701,0.424687,1,0,h,2018-09-22 18:45:00
+10016,Real Madrid,Sevilla,1.55351,2.29262,0,3,a,2018-09-26 20:00:00
+10022,Real Madrid,Atletico Madrid,1.13552,0.661567,0,0,h,2018-09-29 18:45:00
+10027,Real Madrid,Alaves,0.872949,1.16947,0,1,a,2018-10-06 16:30:00
+10046,Real Madrid,Levante,3.02601,1.83965,1,2,h,2018-10-20 11:00:00
+10047,Real Madrid,Barcelona,2.11339,3.15939,1,5,a,2018-10-28 14:15:00
+10065,Real Madrid,Real Valladolid,1.93382,1.1095,2,0,h,2018-11-03 15:15:00
+10074,Real Madrid,Celta Vigo,2.7089,0.698688,4,2,a,2018-11-11 19:45:00
+10084,Real Madrid,Eibar,1.10765,3.98937,0,3,a,2018-11-24 12:00:00
+10092,Real Madrid,Valencia,0.966947,0.974267,2,0,h,2018-12-01 19:45:00
+10103,Real Madrid,SD Huesca,0.460413,1.04156,1,0,a,2018-12-09 15:15:00
+10116,Real Madrid,Rayo Vallecano,1.25069,0.588603,1,0,h,2018-12-15 17:30:00
+10126,Real Madrid,Villarreal,1.39918,1.01914,2,2,a,2019-01-03 20:30:00
+10133,Real Madrid,Real Sociedad,2.2027,2.29324,0,2,h,2019-01-06 17:30:00
+10143,Real Madrid,Real Betis,0.757727,0.688888,2,1,a,2019-01-13 19:45:00
+10150,Real Madrid,Sevilla,1.59927,0.396637,2,0,h,2019-01-19 15:15:00
+10163,Real Madrid,Espanyol,2.37579,1.20349,4,2,a,2019-01-27 19:45:00
+10172,Real Madrid,Alaves,2.9864,0.665729,3,0,h,2019-02-03 19:45:00
+10177,Real Madrid,Atletico Madrid,1.4515,1.02136,3,1,a,2019-02-09 15:15:00
+10189,Real Madrid,Girona,1.74859,3.23428,1,2,h,2019-02-17 11:00:00
+10199,Real Madrid,Levante,2.7512,1.43781,2,1,a,2019-02-24 19:45:00
+10207,Real Madrid,Barcelona,0.7937,1.25228,0,1,h,2019-03-02 19:45:00
+10218,Real Madrid,Real Valladolid,2.61033,2.02975,4,1,a,2019-03-10 19:45:00
+10231,Real Madrid,Celta Vigo,3.02092,0.32231,2,0,h,2019-03-16 15:15:00
+10246,Real Madrid,SD Huesca,4.62852,1.37203,3,2,h,2019-03-31 18:45:00
+10256,Real Madrid,Valencia,0.852925,1.76708,1,2,a,2019-04-03 20:30:00
+10260,Real Madrid,Eibar,1.70378,0.679412,2,1,h,2019-04-06 15:15:00
+10275,Real Madrid,Leganes,1.20942,0.651235,1,1,a,2019-04-15 20:00:00
+10279,Real Madrid,Athletic Club,1.94223,0.536637,3,0,h,2019-04-21 15:15:00
+10294,Real Madrid,Getafe,1.53593,0.56694,0,0,a,2019-04-25 20:30:00
+10302,Real Madrid,Rayo Vallecano,0.460117,1.54574,0,1,a,2019-04-28 19:45:00
+10312,Real Madrid,Villarreal,3.13671,0.641476,3,2,h,2019-05-05 15:15:00
+10326,Real Madrid,Real Sociedad,0.901711,2.53737,1,3,a,2019-05-12 17:30:00
+10328,Real Madrid,Real Betis,0.843734,1.71988,0,2,h,2019-05-19 10:00:00

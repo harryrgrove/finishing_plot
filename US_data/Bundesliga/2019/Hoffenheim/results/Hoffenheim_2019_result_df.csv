@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+12410,Hoffenheim,Eintracht Frankfurt,0.634831,1.8214,0,1,a,2019-08-18 14:30:00
+12414,Hoffenheim,Werder Bremen,1.05096,0.841426,3,2,h,2019-08-24 14:30:00
+12426,Hoffenheim,Bayer Leverkusen,0.450548,0.936475,0,0,a,2019-08-31 14:30:00
+12437,Hoffenheim,Freiburg,1.10385,1.78643,0,3,h,2019-09-15 13:30:00
+12447,Hoffenheim,Wolfsburg,0.743288,0.941782,1,1,a,2019-09-23 18:30:00
+12453,Hoffenheim,Borussia M.Gladbach,1.30868,2.83647,0,3,h,2019-09-28 13:30:00
+12461,Hoffenheim,Bayern Munich,0.723738,1.77327,2,1,a,2019-10-05 14:30:00
+12473,Hoffenheim,Schalke 04,0.973105,0.859284,2,0,h,2019-10-20 17:00:00
+12482,Hoffenheim,Hertha Berlin,2.93074,2.37055,3,2,a,2019-10-26 14:30:00
+12489,Hoffenheim,Paderborn,1.89547,0.464343,3,0,h,2019-11-01 19:30:00
+12498,Hoffenheim,FC Cologne,1.6191,0.638731,2,1,a,2019-11-08 19:30:00
+12506,Hoffenheim,Mainz 05,2.15404,2.10482,1,5,h,2019-11-24 17:00:00
+12518,Hoffenheim,Fortuna Duesseldorf,2.69182,0.884323,1,1,h,2019-11-30 14:30:00
+12521,Hoffenheim,RasenBallsport Leipzig,1.28019,3.5887,1,3,a,2019-12-07 14:30:00
+12531,Hoffenheim,Augsburg,1.75727,2.22713,2,4,h,2019-12-13 19:30:00
+12546,Hoffenheim,Union Berlin,0.819222,1.53884,2,0,a,2019-12-17 19:30:00
+12549,Hoffenheim,Borussia Dortmund,1.33628,2.04502,2,1,h,2019-12-20 19:30:00
+12557,Hoffenheim,Eintracht Frankfurt,1.00395,1.83811,1,2,h,2020-01-18 14:30:00
+12571,Hoffenheim,Werder Bremen,1.16702,0.908592,3,0,a,2020-01-26 14:30:00
+12576,Hoffenheim,Bayer Leverkusen,2.58436,3.11718,2,1,h,2020-02-01 14:30:00
+12590,Hoffenheim,Freiburg,1.86364,2.24593,0,1,a,2020-02-08 14:30:00
+12594,Hoffenheim,Wolfsburg,2.88142,3.49709,2,3,h,2020-02-15 14:30:00
+12603,Hoffenheim,Borussia M.Gladbach,1.98292,2.39606,1,1,a,2020-02-22 14:30:00
+12613,Hoffenheim,Bayern Munich,0.554679,4.77962,0,6,h,2020-02-29 14:30:00
+12626,Hoffenheim,Schalke 04,0.801078,1.1061,1,1,a,2020-03-07 14:30:00
+12632,Hoffenheim,Hertha Berlin,2.79087,1.55073,0,3,h,2020-05-16 13:30:00
+12637,Hoffenheim,Paderborn,1.92541,0.964535,1,1,a,2020-05-23 13:30:00
+12648,Hoffenheim,FC Cologne,1.26471,2.24859,3,1,h,2020-05-27 18:30:00
+12659,Hoffenheim,Mainz 05,1.7133,1.07747,1,0,a,2020-05-30 13:30:00
+12669,Hoffenheim,Fortuna Duesseldorf,1.44523,2.46304,2,2,a,2020-06-06 13:30:00
+12675,Hoffenheim,RasenBallsport Leipzig,1.75723,1.36763,0,2,h,2020-06-12 18:30:00
+12689,Hoffenheim,Augsburg,3.15146,0.486229,3,1,a,2020-06-17 18:30:00
+12693,Hoffenheim,Union Berlin,2.44299,0.917327,4,0,h,2020-06-20 13:30:00
+12700,Hoffenheim,Borussia Dortmund,3.85732,0.127933,4,0,a,2020-06-27 13:30:00

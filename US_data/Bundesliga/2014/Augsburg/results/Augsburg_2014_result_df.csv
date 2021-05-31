@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+5448,Augsburg,Hoffenheim,0.280777,1.52873,0,2,a,2014-08-23 14:30:00
+5456,Augsburg,Borussia Dortmund,1.00422,2.30342,2,3,h,2014-08-29 19:30:00
+5418,Augsburg,Eintracht Frankfurt,1.00028,0.845902,1,0,a,2014-09-14 14:30:00
+5425,Augsburg,Werder Bremen,2.91201,2.02462,4,2,h,2014-09-20 14:30:00
+5434,Augsburg,Bayer Leverkusen,0.571159,1.65235,0,1,a,2014-09-24 19:00:00
+5445,Augsburg,Hertha Berlin,1.25743,0.283655,1,0,h,2014-09-28 14:30:00
+5390,Augsburg,Wolfsburg,0.666035,0.684001,0,1,a,2014-10-05 14:30:00
+5393,Augsburg,Mainz 05,1.03873,1.06245,1,2,a,2014-10-18 14:30:00
+5403,Augsburg,Freiburg,2.2412,0.909372,2,0,h,2014-10-25 14:30:00
+5410,Augsburg,Schalke 04,0.688487,1.71186,0,1,a,2014-10-31 19:30:00
+5357,Augsburg,Paderborn,1.66135,0.968616,3,0,h,2014-11-08 14:30:00
+5373,Augsburg,VfB Stuttgart,2.06226,0.382848,1,0,a,2014-11-23 16:30:00
+5375,Augsburg,Hamburger SV,2.79213,1.12309,3,1,h,2014-11-29 14:30:00
+5317,Augsburg,FC Cologne,1.35221,1.19112,2,1,a,2014-12-06 14:30:00
+5324,Augsburg,Bayern Munich,0.286173,2.21868,0,4,h,2014-12-13 14:30:00
+5330,Augsburg,Hannover 96,0.693534,1.33926,0,2,a,2014-12-16 19:00:00
+5340,Augsburg,Borussia M.Gladbach,1.65561,2.17588,2,1,h,2014-12-20 14:30:00
+5261,Augsburg,Hoffenheim,2.39464,0.609254,3,1,h,2015-02-01 16:30:00
+5266,Augsburg,Borussia Dortmund,1.04603,0.943193,1,0,a,2015-02-04 19:00:00
+5279,Augsburg,Eintracht Frankfurt,1.76193,2.01179,2,2,h,2015-02-08 16:30:00
+5284,Augsburg,Werder Bremen,0.585109,2.62945,2,3,a,2015-02-14 14:30:00
+5291,Augsburg,Bayer Leverkusen,1.92692,1.93428,2,2,h,2015-02-21 14:30:00
+5303,Augsburg,Hertha Berlin,0.663246,1.26944,0,1,a,2015-02-28 14:30:00
+5235,Augsburg,Wolfsburg,1.44291,0.390951,1,0,h,2015-03-07 14:30:00
+5243,Augsburg,Mainz 05,0.94984,1.62842,0,2,h,2015-03-14 14:30:00
+5255,Augsburg,Freiburg,1.10909,2.10189,0,2,a,2015-03-21 14:30:00
+5202,Augsburg,Schalke 04,0.927284,0.933294,0,0,h,2015-04-05 14:30:00
+5209,Augsburg,Paderborn,0.637449,2.35597,1,2,a,2015-04-11 14:30:00
+5219,Augsburg,VfB Stuttgart,1.14401,2.41152,2,1,h,2015-04-18 17:30:00
+5225,Augsburg,Hamburger SV,1.44372,1.7695,2,3,a,2015-04-25 14:30:00
+5161,Augsburg,FC Cologne,1.43037,0.292827,0,0,h,2015-05-02 14:30:00
+5169,Augsburg,Bayern Munich,2.58299,1.17797,1,0,a,2015-05-09 14:30:00
+5180,Augsburg,Hannover 96,1.03797,0.466165,1,2,h,2015-05-16 14:30:00
+5191,Augsburg,Borussia M.Gladbach,0.664595,1.32784,3,1,a,2015-05-23 14:30:00

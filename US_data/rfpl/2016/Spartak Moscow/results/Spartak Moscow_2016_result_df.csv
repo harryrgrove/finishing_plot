@@ -1,0 +1,31 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+2593,Spartak Moscow,Arsenal Tula,1.96655,0.801512,4,0,h,2016-07-31 19:00:00
+2604,Spartak Moscow,Krylya Sovetov Samara,2.29214,0.212558,1,0,h,2016-08-08 20:30:00
+2608,Spartak Moscow,Rubin Kazan,0.436448,0.824549,1,1,a,2016-08-13 21:30:00
+2618,Spartak Moscow,FC Krasnodar,1.52985,0.615712,2,0,h,2016-08-21 19:00:00
+2628,Spartak Moscow,Anzhi Makhachkala,1.94536,1.10356,2,0,a,2016-08-28 22:30:00
+2634,Spartak Moscow,Lokomotiv Moscow,0.694676,0.552429,1,0,h,2016-09-11 17:30:00
+2637,Spartak Moscow,FC Orenburg,0.733279,1.13048,3,1,a,2016-09-16 18:00:00
+2649,Spartak Moscow,FC Ufa,1.29097,1.00118,0,1,h,2016-09-25 18:00:00
+2658,Spartak Moscow,Zenit St. Petersburg,1.27448,3.22068,2,4,a,2016-10-02 17:30:00
+2664,Spartak Moscow,FC Rostov,1.1701,0.885809,1,0,h,2016-10-15 20:30:00
+2672,Spartak Moscow,Ural,0.24217,0.455802,1,0,a,2016-10-22 18:00:00
+2962,Spartak Moscow,CSKA Moscow,1.05709,1.3646,3,1,h,2016-10-29 19:00:00
+2717,Spartak Moscow,Tom Tomsk,0.759305,0.281579,1,0,a,2016-11-05 12:00:00
+2730,Spartak Moscow,Amkar,0.780001,0.0454105,1,0,h,2016-11-20 18:00:00
+2737,Spartak Moscow,FK Akhmat,0.240366,0.702234,1,0,a,2016-11-26 19:00:00
+3270,Spartak Moscow,Krylya Sovetov Samara,0.700589,2.37564,0,4,a,2016-12-01 19:00:00
+3279,Spartak Moscow,Rubin Kazan,1.353,0.87465,2,1,h,2016-12-05 20:30:00
+4295,Spartak Moscow,FC Krasnodar,0.88513,1.04975,2,2,a,2017-03-05 13:30:00
+4305,Spartak Moscow,Anzhi Makhachkala,1.5351,0.442768,1,0,h,2017-03-12 13:30:00
+4311,Spartak Moscow,Lokomotiv Moscow,0.633868,0.346391,1,1,a,2017-03-18 13:30:00
+4324,Spartak Moscow,FC Orenburg,1.34167,1.2491,3,2,h,2017-04-03 17:30:00
+4329,Spartak Moscow,FC Ufa,3.09405,1.33516,3,1,a,2017-04-09 12:00:00
+4335,Spartak Moscow,Zenit St. Petersburg,1.50157,1.41758,2,1,h,2017-04-16 18:00:00
+4344,Spartak Moscow,FC Rostov,0.134405,1.84496,0,3,a,2017-04-22 14:30:00
+4351,Spartak Moscow,Ural,0.828408,0.250018,1,0,h,2017-04-25 17:30:00
+4361,Spartak Moscow,CSKA Moscow,3.26685,1.50148,2,1,a,2017-04-30 15:00:00
+4367,Spartak Moscow,Tom Tomsk,1.98632,0.406117,1,0,h,2017-05-06 17:00:00
+4377,Spartak Moscow,Amkar,0.709238,0.753704,1,0,a,2017-05-13 12:30:00
+4383,Spartak Moscow,FK Akhmat,0.941401,0.61298,3,0,h,2017-05-17 17:30:00
+4393,Spartak Moscow,Arsenal Tula,0.351353,2.65454,0,3,a,2017-05-21 13:00:00

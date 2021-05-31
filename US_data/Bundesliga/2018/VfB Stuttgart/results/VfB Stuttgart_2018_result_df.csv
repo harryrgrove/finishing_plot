@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+10344,VfB Stuttgart,Mainz 05,1.07847,1.28621,0,1,a,2018-08-26 16:30:00
+10352,VfB Stuttgart,Bayern Munich,0.0990837,1.71434,0,3,h,2018-09-01 16:30:00
+10363,VfB Stuttgart,Freiburg,1.19724,1.20784,3,3,a,2018-09-16 16:00:00
+10364,VfB Stuttgart,Fortuna Duesseldorf,1.39372,1.23964,0,0,h,2018-09-21 18:30:00
+10379,VfB Stuttgart,RasenBallsport Leipzig,0.640951,3.13273,0,2,a,2018-09-26 18:30:00
+10383,VfB Stuttgart,Werder Bremen,2.43649,0.656694,2,1,h,2018-09-29 13:30:00
+10396,VfB Stuttgart,Hannover 96,0.69495,2.0396,1,3,a,2018-10-06 13:30:00
+10402,VfB Stuttgart,Borussia Dortmund,1.03693,0.952768,0,4,h,2018-10-20 13:30:00
+10409,VfB Stuttgart,Hoffenheim,0.253449,2.93243,0,4,a,2018-10-27 16:30:00
+10425,VfB Stuttgart,Eintracht Frankfurt,1.02365,3.33128,0,3,h,2018-11-02 19:30:00
+10435,VfB Stuttgart,Nuernberg,1.54977,0.434841,2,0,a,2018-11-10 14:30:00
+10438,VfB Stuttgart,Bayer Leverkusen,0.393762,2.62916,0,2,a,2018-11-23 19:30:00
+10448,VfB Stuttgart,Augsburg,0.710341,1.64707,1,0,h,2018-12-01 14:30:00
+10457,VfB Stuttgart,Borussia M.Gladbach,0.678537,2.61136,0,3,a,2018-12-09 17:00:00
+10466,VfB Stuttgart,Hertha Berlin,1.43807,1.53719,2,1,h,2018-12-15 14:30:00
+10477,VfB Stuttgart,Wolfsburg,0.333514,1.584,0,2,a,2018-12-18 19:30:00
+10486,VfB Stuttgart,Schalke 04,1.22362,2.42656,1,3,h,2018-12-22 14:30:00
+10491,VfB Stuttgart,Mainz 05,3.20149,1.17715,2,3,h,2019-01-19 14:30:00
+10499,VfB Stuttgart,Bayern Munich,0.361664,3.41668,1,4,a,2019-01-27 14:30:00
+10509,VfB Stuttgart,Freiburg,0.850155,2.53349,2,2,h,2019-02-03 17:00:00
+10525,VfB Stuttgart,Fortuna Duesseldorf,1.1803,1.64721,0,3,a,2019-02-10 17:00:00
+10528,VfB Stuttgart,RasenBallsport Leipzig,1.36671,1.32163,1,3,h,2019-02-16 14:30:00
+10539,VfB Stuttgart,Werder Bremen,0.946008,1.23401,1,1,a,2019-02-22 19:30:00
+10546,VfB Stuttgart,Hannover 96,2.6743,0.613856,5,1,h,2019-03-03 14:30:00
+10555,VfB Stuttgart,Borussia Dortmund,0.897914,2.5589,1,3,a,2019-03-09 14:30:00
+10562,VfB Stuttgart,Hoffenheim,1.35935,2.90274,1,1,h,2019-03-16 14:30:00
+10574,VfB Stuttgart,Eintracht Frankfurt,0.569489,2.00509,0,3,a,2019-03-31 16:00:00
+10583,VfB Stuttgart,Nuernberg,1.62221,2.37695,1,1,h,2019-04-06 14:30:00
+10592,VfB Stuttgart,Bayer Leverkusen,0.444283,2.53521,0,1,h,2019-04-13 14:30:00
+10602,VfB Stuttgart,Augsburg,1.38001,2.39187,0,6,a,2019-04-20 14:30:00
+10610,VfB Stuttgart,Borussia M.Gladbach,1.59767,1.30221,1,0,h,2019-04-27 17:30:00
+10620,VfB Stuttgart,Hertha Berlin,1.39423,2.28859,1,3,a,2019-05-04 14:30:00
+10629,VfB Stuttgart,Wolfsburg,0.680306,0.340041,3,0,h,2019-05-11 14:30:00
+10634,VfB Stuttgart,Schalke 04,0.668898,0.688908,0,0,a,2019-05-18 13:30:00

@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+12411,Union Berlin,RasenBallsport Leipzig,0.782907,3.93387,0,4,h,2019-08-18 17:00:00
+12417,Union Berlin,Augsburg,0.891198,1.37579,1,1,a,2019-08-24 14:30:00
+12427,Union Berlin,Borussia Dortmund,1.4209,1.60213,3,1,h,2019-08-31 17:30:00
+12434,Union Berlin,Werder Bremen,1.98106,2.14722,1,2,h,2019-09-14 13:30:00
+12443,Union Berlin,Bayer Leverkusen,0.125413,1.55742,0,2,a,2019-09-21 13:30:00
+12448,Union Berlin,Eintracht Frankfurt,0.7564,2.31283,1,2,h,2019-09-27 18:30:00
+12463,Union Berlin,Wolfsburg,0.511105,1.80334,0,1,a,2019-10-06 14:30:00
+12468,Union Berlin,Freiburg,1.47678,0.565578,2,0,h,2019-10-19 14:30:00
+12476,Union Berlin,Bayern Munich,1.7324,2.88476,1,2,a,2019-10-26 14:30:00
+12492,Union Berlin,Hertha Berlin,1.31187,0.415645,1,0,h,2019-11-02 17:30:00
+12495,Union Berlin,Mainz 05,1.5394,2.04684,3,2,a,2019-11-09 14:30:00
+12509,Union Berlin,Borussia M.Gladbach,1.49758,0.95814,2,0,h,2019-11-23 14:30:00
+12515,Union Berlin,Schalke 04,1.65551,1.27089,1,2,a,2019-11-29 19:30:00
+12528,Union Berlin,FC Cologne,1.7912,0.772348,2,0,h,2019-12-08 14:30:00
+12537,Union Berlin,Paderborn,1.79415,1.3758,1,1,a,2019-12-14 14:30:00
+12546,Union Berlin,Hoffenheim,1.53884,0.819222,0,2,h,2019-12-17 19:30:00
+12550,Union Berlin,Fortuna Duesseldorf,1.9614,1.17089,1,2,a,2019-12-22 14:30:00
+12556,Union Berlin,RasenBallsport Leipzig,1.02267,1.34573,1,3,a,2020-01-18 17:30:00
+12573,Union Berlin,Augsburg,1.19907,2.47924,2,0,h,2020-01-25 14:30:00
+12574,Union Berlin,Borussia Dortmund,0.560146,3.29375,0,5,a,2020-02-01 14:30:00
+12588,Union Berlin,Werder Bremen,2.25796,1.24914,2,0,a,2020-02-08 14:30:00
+12600,Union Berlin,Bayer Leverkusen,2.02125,1.55179,2,3,h,2020-02-15 14:30:00
+12605,Union Berlin,Eintracht Frankfurt,1.03525,2.42046,2,1,a,2020-02-24 19:30:00
+12618,Union Berlin,Wolfsburg,1.04208,1.95508,2,2,h,2020-03-01 12:30:00
+12625,Union Berlin,Freiburg,0.805309,1.62613,1,3,a,2020-03-07 14:30:00
+12636,Union Berlin,Bayern Munich,0.548769,1.39334,0,2,h,2020-05-17 16:00:00
+12641,Union Berlin,Hertha Berlin,0.273771,2.51634,0,4,a,2020-05-22 18:30:00
+12651,Union Berlin,Mainz 05,0.772053,0.594984,1,1,h,2020-05-27 18:30:00
+12656,Union Berlin,Borussia M.Gladbach,0.719923,2.16238,1,4,a,2020-05-31 13:30:00
+12672,Union Berlin,Schalke 04,2.39933,0.166933,1,1,h,2020-06-07 13:30:00
+12680,Union Berlin,FC Cologne,0.527425,1.342,2,1,a,2020-06-13 13:30:00
+12690,Union Berlin,Paderborn,1.51574,0.396234,1,0,h,2020-06-16 18:30:00
+12693,Union Berlin,Hoffenheim,0.917327,2.44299,0,4,a,2020-06-20 13:30:00
+12708,Union Berlin,Fortuna Duesseldorf,1.19115,0.992638,3,0,h,2020-06-27 13:30:00

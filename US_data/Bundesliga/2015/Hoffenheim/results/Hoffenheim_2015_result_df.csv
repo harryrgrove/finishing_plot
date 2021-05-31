@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1022,Hoffenheim,Bayer Leverkusen,0.483949,3.52773,1,2,a,2015-08-15 17:30:00
+1031,Hoffenheim,Bayern Munich,1.29953,2.53588,1,2,h,2015-08-22 17:30:00
+1044,Hoffenheim,Darmstadt,1.3935,0.287238,0,0,a,2015-08-29 17:30:00
+1055,Hoffenheim,Werder Bremen,0.694948,2.2128,1,3,h,2015-09-13 17:30:00
+1057,Hoffenheim,Mainz 05,1.01304,1.27625,1,3,a,2015-09-18 22:30:00
+1070,Hoffenheim,Borussia Dortmund,1.18726,1.63998,1,1,h,2015-09-23 22:00:00
+1078,Hoffenheim,Augsburg,1.5923,1.94324,3,1,a,2015-09-26 17:30:00
+1088,Hoffenheim,VfB Stuttgart,1.90929,2.36648,2,2,h,2015-10-03 17:30:00
+1097,Hoffenheim,Wolfsburg,1.07639,2.80506,2,4,a,2015-10-17 17:30:00
+1102,Hoffenheim,Hamburger SV,0.586765,3.11642,0,1,h,2015-10-23 22:30:00
+1112,Hoffenheim,FC Cologne,0.90728,1.33774,0,0,a,2015-10-31 18:30:00
+1121,Hoffenheim,Eintracht Frankfurt,0.680401,1.60253,0,0,h,2015-11-07 18:30:00
+1136,Hoffenheim,Hertha Berlin,0.328805,0.100337,0,1,a,2015-11-22 18:30:00
+1141,Hoffenheim,Borussia M.Gladbach,2.07714,1.66132,3,3,h,2015-11-28 18:30:00
+1152,Hoffenheim,Ingolstadt,1.12887,0.489495,1,1,a,2015-12-05 18:30:00
+1160,Hoffenheim,Hannover 96,1.55239,1.3987,1,0,h,2015-12-12 18:30:00
+1165,Hoffenheim,Schalke 04,0.870611,0.722775,0,1,a,2015-12-18 23:30:00
+1178,Hoffenheim,Bayer Leverkusen,0.756054,1.82105,1,1,h,2016-01-23 18:30:00
+1191,Hoffenheim,Bayern Munich,0.463233,3.08952,0,2,a,2016-01-31 20:30:00
+1200,Hoffenheim,Darmstadt,0.584715,2.06675,0,2,h,2016-02-07 20:30:00
+1206,Hoffenheim,Werder Bremen,0.57006,1.83283,1,1,a,2016-02-13 18:30:00
+1213,Hoffenheim,Mainz 05,1.83746,1.16619,3,2,h,2016-02-20 18:30:00
+1225,Hoffenheim,Borussia Dortmund,0.88117,2.47417,1,3,a,2016-02-28 20:30:00
+1232,Hoffenheim,Augsburg,1.60086,1.8142,2,1,h,2016-03-02 23:00:00
+1237,Hoffenheim,VfB Stuttgart,0.918227,3.82557,1,5,a,2016-03-05 18:30:00
+1247,Hoffenheim,Wolfsburg,1.40359,0.680487,1,0,h,2016-03-12 18:30:00
+1257,Hoffenheim,Hamburger SV,2.21883,2.27762,3,1,a,2016-03-19 18:30:00
+1272,Hoffenheim,FC Cologne,1.04133,1.09032,1,1,h,2016-04-03 19:30:00
+1278,Hoffenheim,Eintracht Frankfurt,1.3548,0.581161,2,0,a,2016-04-09 17:30:00
+1283,Hoffenheim,Hertha Berlin,1.31625,1.09114,2,1,h,2016-04-16 17:30:00
+1298,Hoffenheim,Borussia M.Gladbach,1.18468,2.90034,1,3,a,2016-04-24 17:30:00
+1302,Hoffenheim,Ingolstadt,1.82345,2.37831,2,1,h,2016-04-30 17:30:00
+1315,Hoffenheim,Hannover 96,1.39948,0.689753,0,1,a,2016-05-07 17:30:00
+1322,Hoffenheim,Schalke 04,1.41779,1.60217,1,4,h,2016-05-14 17:30:00

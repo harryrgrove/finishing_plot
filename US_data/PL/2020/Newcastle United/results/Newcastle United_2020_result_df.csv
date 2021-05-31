@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+14091,Newcastle United,West Ham,1.65911,0.861445,2,0,a,2020-09-12 19:00:00
+14101,Newcastle United,Brighton,0.520678,1.8766,0,3,h,2020-09-20 13:00:00
+14111,Newcastle United,Tottenham,0.942726,3.18765,1,1,a,2020-09-27 13:00:00
+14472,Newcastle United,Burnley,1.95629,0.438849,3,1,h,2020-10-03 19:00:00
+14481,Newcastle United,Manchester United,0.867496,2.21729,1,4,h,2020-10-17 19:00:00
+14494,Newcastle United,Wolverhampton Wanderers,0.253685,0.758626,1,1,a,2020-10-25 16:30:00
+14501,Newcastle United,Everton,2.6311,1.21805,2,1,h,2020-11-01 14:00:00
+14512,Newcastle United,Southampton,0.175633,0.985828,0,2,a,2020-11-06 20:00:00
+14521,Newcastle United,Chelsea,0.368286,1.81923,0,2,h,2020-11-21 12:30:00
+14530,Newcastle United,Crystal Palace,1.27929,0.534893,2,0,a,2020-11-27 20:00:00
+14550,Newcastle United,West Bromwich Albion,0.904163,0.57319,2,1,h,2020-12-12 15:00:00
+14558,Newcastle United,Leeds,1.44437,2.95137,2,5,a,2020-12-16 18:00:00
+14571,Newcastle United,Fulham,1.26725,1.10645,1,1,h,2020-12-19 20:00:00
+14581,Newcastle United,Manchester City,0.200953,3.19575,0,2,a,2020-12-26 20:00:00
+14591,Newcastle United,Liverpool,0.817935,1.32047,0,0,h,2020-12-30 20:00:00
+14597,Newcastle United,Leicester,0.264584,0.702081,1,2,h,2021-01-03 14:15:00
+14610,Newcastle United,Sheffield United,1.04745,2.01315,0,1,a,2021-01-12 18:00:00
+14615,Newcastle United,Arsenal,0.168796,2.30744,0,3,a,2021-01-18 20:00:00
+14535,Newcastle United,Aston Villa,0.400364,2.6026,0,2,a,2021-01-23 20:00:00
+14631,Newcastle United,Leeds,1.1364,0.785914,1,2,h,2021-01-26 18:00:00
+14644,Newcastle United,Everton,2.08832,0.966012,2,0,a,2021-01-30 12:30:00
+14652,Newcastle United,Crystal Palace,1.90755,0.809312,1,2,h,2021-02-02 20:15:00
+14661,Newcastle United,Southampton,0.910553,1.43445,3,2,h,2021-02-06 15:00:00
+14667,Newcastle United,Chelsea,0.432603,2.5428,0,2,a,2021-02-15 20:00:00
+14681,Newcastle United,Manchester United,0.341778,1.7256,1,3,a,2021-02-21 19:00:00
+14688,Newcastle United,Wolverhampton Wanderers,1.9519,1.27827,1,1,h,2021-02-27 20:00:00
+14703,Newcastle United,West Bromwich Albion,0.454577,1.46503,0,0,a,2021-03-07 12:00:00
+14712,Newcastle United,Aston Villa,0.873171,0.748665,1,1,h,2021-03-12 20:00:00
+14715,Newcastle United,Brighton,0.100945,0.951921,0,3,a,2021-03-20 20:00:00
+14732,Newcastle United,Tottenham,3.30098,2.43683,2,2,h,2021-04-04 13:05:00
+14736,Newcastle United,Burnley,1.34279,1.84262,2,1,a,2021-04-11 11:00:00
+14752,Newcastle United,West Ham,2.4314,2.06741,3,2,h,2021-04-17 11:30:00
+14760,Newcastle United,Liverpool,0.860694,2.84708,1,1,a,2021-04-24 11:30:00
+14771,Newcastle United,Arsenal,0.172988,1.78751,0,2,h,2021-05-02 13:00:00
+14779,Newcastle United,Leicester,2.87261,2.315,4,2,a,2021-05-07 19:00:00
+14791,Newcastle United,Manchester City,2.18312,1.477,3,4,h,2021-05-14 19:00:00
+14801,Newcastle United,Sheffield United,1.82508,0.882242,1,0,h,2021-05-19 17:00:00
+14807,Newcastle United,Fulham,1.60157,0.98902,2,0,a,2021-05-23 15:00:00

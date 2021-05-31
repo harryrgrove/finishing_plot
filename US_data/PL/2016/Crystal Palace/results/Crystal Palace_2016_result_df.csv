@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+462,Crystal Palace,West Bromwich Albion,0.990062,0.684593,0,1,h,2016-08-13 18:00:00
+475,Crystal Palace,Tottenham,0.357943,2.25623,0,1,a,2016-08-20 18:00:00
+486,Crystal Palace,Bournemouth,2.659,0.974014,1,1,h,2016-08-27 18:00:00
+492,Crystal Palace,Middlesbrough,1.12437,0.611959,2,1,a,2016-09-10 18:00:00
+508,Crystal Palace,Stoke,1.31366,1.20308,4,1,h,2016-09-18 17:15:00
+514,Crystal Palace,Sunderland,1.7887,1.51457,3,2,a,2016-09-24 18:00:00
+521,Crystal Palace,Everton,0.47692,1.1542,1,1,a,2016-09-30 23:00:00
+537,Crystal Palace,West Ham,1.94599,0.874219,0,1,h,2016-10-15 20:30:00
+544,Crystal Palace,Leicester,1.656,1.7041,1,3,a,2016-10-22 18:00:00
+2683,Crystal Palace,Liverpool,0.496044,2.26056,2,4,h,2016-10-29 20:30:00
+2688,Crystal Palace,Burnley,2.05902,2.25738,2,3,a,2016-11-05 19:00:00
+2703,Crystal Palace,Manchester City,0.431559,1.39421,1,2,h,2016-11-19 19:00:00
+2709,Crystal Palace,Swansea,2.28156,3.3955,4,5,a,2016-11-26 19:00:00
+3106,Crystal Palace,Southampton,2.20073,0.764357,3,0,h,2016-12-03 19:00:00
+3116,Crystal Palace,Hull,1.50059,2.16649,3,3,a,2016-12-10 19:00:00
+3130,Crystal Palace,Manchester United,0.710324,1.27306,1,2,h,2016-12-15 00:00:00
+3135,Crystal Palace,Chelsea,0.356331,0.81444,0,1,h,2016-12-17 16:30:00
+3145,Crystal Palace,Watford,1.53834,0.959496,1,1,a,2016-12-26 16:30:00
+3329,Crystal Palace,Arsenal,0.221469,1.67138,0,2,a,2017-01-01 20:00:00
+3337,Crystal Palace,Swansea,0.331276,1.18905,1,2,h,2017-01-04 00:00:00
+3346,Crystal Palace,West Ham,1.06181,1.72338,0,3,a,2017-01-14 19:00:00
+3353,Crystal Palace,Everton,0.463733,0.949561,0,1,h,2017-01-21 18:00:00
+3361,Crystal Palace,Bournemouth,1.60667,0.32099,2,0,a,2017-01-31 22:45:00
+3371,Crystal Palace,Sunderland,2.45994,0.837361,0,4,h,2017-02-04 15:00:00
+3383,Crystal Palace,Stoke,0.202159,0.720883,0,1,a,2017-02-11 15:00:00
+3392,Crystal Palace,Middlesbrough,0.808522,0.82885,1,0,h,2017-02-25 15:00:00
+3408,Crystal Palace,West Bromwich Albion,1.39171,0.3746,2,0,a,2017-03-04 15:00:00
+3428,Crystal Palace,Watford,0.376326,0.190648,1,0,h,2017-03-18 15:00:00
+3432,Crystal Palace,Chelsea,1.57423,3.16805,2,1,a,2017-04-01 15:00:00
+3447,Crystal Palace,Southampton,1.73055,3.34327,1,3,a,2017-04-05 19:45:00
+3459,Crystal Palace,Arsenal,2.15968,0.44226,3,0,h,2017-04-10 20:00:00
+3468,Crystal Palace,Leicester,1.67894,0.467725,2,2,h,2017-04-15 15:00:00
+3476,Crystal Palace,Liverpool,1.21741,0.89449,2,1,a,2017-04-23 16:30:00
+3415,Crystal Palace,Tottenham,0.321722,1.00589,0,1,h,2017-04-26 20:00:00
+3480,Crystal Palace,Burnley,0.633469,1.38569,0,2,h,2017-04-29 17:30:00
+3497,Crystal Palace,Manchester City,0.241571,2.69837,0,5,a,2017-05-06 12:30:00
+3501,Crystal Palace,Hull,2.73274,0.518148,4,0,h,2017-05-14 12:00:00
+3516,Crystal Palace,Manchester United,0.3016,1.0386,0,2,a,2017-05-21 15:00:00

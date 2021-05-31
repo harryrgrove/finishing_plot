@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+14179,Borussia M.Gladbach,Borussia Dortmund,0.510293,1.70398,0,3,a,2020-09-19 16:30:00
+14186,Borussia M.Gladbach,Union Berlin,1.47627,0.771461,1,1,h,2020-09-26 13:30:00
+15159,Borussia M.Gladbach,FC Cologne,2.0629,0.244959,3,1,a,2020-10-03 13:30:00
+15173,Borussia M.Gladbach,Wolfsburg,2.11077,1.34469,1,1,h,2020-10-17 18:30:00
+15178,Borussia M.Gladbach,Mainz 05,3.07629,1.90042,3,2,a,2020-10-24 13:30:00
+15190,Borussia M.Gladbach,RasenBallsport Leipzig,0.615287,0.695278,1,0,h,2020-10-31 17:30:00
+15202,Borussia M.Gladbach,Bayer Leverkusen,3.02085,1.53904,3,4,a,2020-11-08 17:00:00
+15204,Borussia M.Gladbach,Augsburg,1.70506,0.813971,1,1,h,2020-11-21 14:30:00
+15214,Borussia M.Gladbach,Schalke 04,3.15544,0.734533,4,1,h,2020-11-28 17:30:00
+15223,Borussia M.Gladbach,Freiburg,1.66853,4.02129,2,2,a,2020-12-05 14:30:00
+15232,Borussia M.Gladbach,Hertha Berlin,1.35982,0.36509,1,1,h,2020-12-12 14:30:00
+15247,Borussia M.Gladbach,Eintracht Frankfurt,1.14256,2.12722,3,3,a,2020-12-15 17:30:00
+15249,Borussia M.Gladbach,Hoffenheim,2.12823,2.28754,1,2,h,2020-12-19 14:30:00
+15264,Borussia M.Gladbach,Arminia Bielefeld,1.88594,0.707828,1,0,a,2021-01-02 14:30:00
+15267,Borussia M.Gladbach,Bayern Munich,0.96923,1.32717,3,2,h,2021-01-08 19:30:00
+15283,Borussia M.Gladbach,VfB Stuttgart,1.43375,1.63795,2,2,a,2021-01-16 17:30:00
+15285,Borussia M.Gladbach,Werder Bremen,0.645527,0.813286,1,0,h,2021-01-19 17:30:00
+15293,Borussia M.Gladbach,Borussia Dortmund,2.33235,1.93273,4,2,h,2021-01-22 19:30:00
+15307,Borussia M.Gladbach,Union Berlin,0.580509,0.691595,1,1,a,2021-01-30 14:30:00
+15311,Borussia M.Gladbach,FC Cologne,0.42778,0.816611,1,2,h,2021-02-06 17:30:00
+15324,Borussia M.Gladbach,Wolfsburg,0.663321,0.641105,0,0,a,2021-02-14 17:00:00
+15329,Borussia M.Gladbach,Mainz 05,0.659888,0.665514,1,2,h,2021-02-20 14:30:00
+15340,Borussia M.Gladbach,RasenBallsport Leipzig,1.94164,1.89119,2,3,a,2021-02-27 17:30:00
+15352,Borussia M.Gladbach,Bayer Leverkusen,0.544034,1.36843,0,1,h,2021-03-06 14:30:00
+15362,Borussia M.Gladbach,Augsburg,2.30606,1.14857,1,3,a,2021-03-12 19:30:00
+15370,Borussia M.Gladbach,Schalke 04,2.06675,0.185724,3,0,a,2021-03-20 17:30:00
+15376,Borussia M.Gladbach,Freiburg,1.48872,1.96748,2,1,h,2021-04-03 18:30:00
+15386,Borussia M.Gladbach,Hertha Berlin,1.24723,1.41784,2,2,a,2021-04-10 13:30:00
+15394,Borussia M.Gladbach,Eintracht Frankfurt,2.95451,0.609687,4,0,h,2021-04-17 13:30:00
+15403,Borussia M.Gladbach,Hoffenheim,0.8843,2.31017,2,3,a,2021-04-21 18:30:00
+15411,Borussia M.Gladbach,Arminia Bielefeld,3.75166,0.594905,5,0,h,2021-04-25 16:00:00
+15419,Borussia M.Gladbach,Bayern Munich,0.806609,3.02349,0,6,a,2021-05-08 16:30:00
+15429,Borussia M.Gladbach,VfB Stuttgart,0.491123,0.532199,1,2,h,2021-05-15 13:30:00
+15444,Borussia M.Gladbach,Werder Bremen,1.99606,1.88004,4,2,a,2021-05-22 13:30:00

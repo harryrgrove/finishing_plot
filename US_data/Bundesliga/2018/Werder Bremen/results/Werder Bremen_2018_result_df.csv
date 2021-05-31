@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+10341,Werder Bremen,Hannover 96,1.91197,0.840127,1,1,h,2018-08-25 16:30:00
+10348,Werder Bremen,Eintracht Frankfurt,1.34271,1.25306,2,1,a,2018-09-01 13:30:00
+10362,Werder Bremen,Nuernberg,0.700449,0.514375,1,1,h,2018-09-16 13:30:00
+10367,Werder Bremen,Augsburg,1.39048,2.11259,3,2,a,2018-09-22 13:30:00
+10373,Werder Bremen,Hertha Berlin,2.51866,0.94148,3,1,h,2018-09-25 16:30:00
+10383,Werder Bremen,VfB Stuttgart,0.656694,2.43649,1,2,a,2018-09-29 13:30:00
+10395,Werder Bremen,Wolfsburg,1.10209,0.351604,2,0,h,2018-10-05 18:30:00
+10400,Werder Bremen,Schalke 04,0.399747,0.966026,2,0,a,2018-10-20 16:30:00
+10412,Werder Bremen,Bayer Leverkusen,1.49927,4.07211,2,6,h,2018-10-28 16:00:00
+10420,Werder Bremen,Mainz 05,1.25758,1.54801,1,2,a,2018-11-04 17:00:00
+10431,Werder Bremen,Borussia M.Gladbach,1.50955,2.73709,1,3,h,2018-11-10 14:30:00
+10442,Werder Bremen,Freiburg,2.13569,2.98264,1,1,a,2018-11-25 14:30:00
+10450,Werder Bremen,Bayern Munich,0.637321,3.29433,1,2,h,2018-12-01 14:30:00
+10459,Werder Bremen,Fortuna Duesseldorf,2.83748,1.37827,3,1,h,2018-12-07 19:30:00
+10464,Werder Bremen,Borussia Dortmund,0.461208,2.89288,1,2,a,2018-12-15 17:30:00
+10474,Werder Bremen,Hoffenheim,2.39195,1.90654,1,1,h,2018-12-19 19:30:00
+10485,Werder Bremen,RasenBallsport Leipzig,2.10073,1.93805,2,3,a,2018-12-22 14:30:00
+10494,Werder Bremen,Hannover 96,2.168,0.516442,1,0,a,2019-01-19 14:30:00
+10503,Werder Bremen,Eintracht Frankfurt,2.6,1.64974,2,2,h,2019-01-26 17:30:00
+10514,Werder Bremen,Nuernberg,1.10992,1.09967,1,1,a,2019-02-02 14:30:00
+10521,Werder Bremen,Augsburg,1.66903,1.05801,4,0,h,2019-02-10 14:30:00
+10530,Werder Bremen,Hertha Berlin,0.390094,1.09705,1,1,a,2019-02-16 17:30:00
+10539,Werder Bremen,VfB Stuttgart,1.23401,0.946008,1,1,h,2019-02-22 19:30:00
+10551,Werder Bremen,Wolfsburg,1.83543,1.16809,1,1,a,2019-03-03 17:00:00
+10557,Werder Bremen,Schalke 04,2.44765,1.53919,4,2,h,2019-03-08 19:30:00
+10563,Werder Bremen,Bayer Leverkusen,1.31225,0.917302,3,1,a,2019-03-17 12:30:00
+10576,Werder Bremen,Mainz 05,1.22854,0.998556,3,1,h,2019-03-30 14:30:00
+10584,Werder Bremen,Borussia M.Gladbach,1.05039,1.99752,1,1,a,2019-04-07 17:00:00
+10594,Werder Bremen,Freiburg,1.81623,0.55263,2,1,h,2019-04-13 14:30:00
+10598,Werder Bremen,Bayern Munich,0.134891,2.60771,0,1,a,2019-04-20 14:30:00
+10614,Werder Bremen,Fortuna Duesseldorf,2.73602,2.06935,1,4,a,2019-04-27 14:30:00
+10621,Werder Bremen,Borussia Dortmund,0.642264,2.6708,2,2,h,2019-05-04 17:30:00
+10625,Werder Bremen,Hoffenheim,0.931751,1.80986,1,0,a,2019-05-11 14:30:00
+10637,Werder Bremen,RasenBallsport Leipzig,1.20038,1.84544,2,1,h,2019-05-18 13:30:00

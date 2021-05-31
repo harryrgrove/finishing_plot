@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+14176,Hoffenheim,FC Cologne,2.9032,2.40801,3,2,a,2020-09-19 13:30:00
+14189,Hoffenheim,Bayern Munich,2.52339,1.17311,4,1,h,2020-09-27 13:30:00
+15163,Hoffenheim,Eintracht Frankfurt,0.769689,3.57344,1,2,a,2020-10-03 13:30:00
+15167,Hoffenheim,Borussia Dortmund,0.877373,1.84829,0,1,h,2020-10-17 13:30:00
+15183,Hoffenheim,Werder Bremen,0.870978,0.229596,1,1,a,2020-10-25 17:00:00
+15193,Hoffenheim,Union Berlin,1.49329,3.66229,1,3,h,2020-11-02 19:30:00
+15201,Hoffenheim,Wolfsburg,2.63695,2.65255,1,2,a,2020-11-08 14:30:00
+15205,Hoffenheim,VfB Stuttgart,1.75486,1.45618,3,3,h,2020-11-21 14:30:00
+15218,Hoffenheim,Mainz 05,1.1082,1.78391,1,1,a,2020-11-29 17:00:00
+15222,Hoffenheim,Augsburg,1.45954,0.793064,3,1,h,2020-12-07 19:30:00
+15233,Hoffenheim,Bayer Leverkusen,1.67451,2.12151,1,4,a,2020-12-13 17:00:00
+15246,Hoffenheim,RasenBallsport Leipzig,0.752599,0.476324,0,1,h,2020-12-16 19:30:00
+15249,Hoffenheim,Borussia M.Gladbach,2.28754,2.12823,2,1,a,2020-12-19 14:30:00
+15259,Hoffenheim,Freiburg,1.14476,2.08,1,3,h,2021-01-02 14:30:00
+15271,Hoffenheim,Schalke 04,1.84328,2.13307,0,4,a,2021-01-09 14:30:00
+15277,Hoffenheim,Arminia Bielefeld,0.655307,0.596397,0,0,h,2021-01-16 14:30:00
+15288,Hoffenheim,Hertha Berlin,1.07527,1.33502,3,0,a,2021-01-19 19:30:00
+15295,Hoffenheim,FC Cologne,2.66263,2.28505,3,0,h,2021-01-24 17:00:00
+15302,Hoffenheim,Bayern Munich,1.87397,1.94572,1,4,a,2021-01-30 14:30:00
+15313,Hoffenheim,Eintracht Frankfurt,0.637718,1.26357,1,3,h,2021-02-07 14:30:00
+15321,Hoffenheim,Borussia Dortmund,2.19249,1.19058,2,2,a,2021-02-13 14:30:00
+15330,Hoffenheim,Werder Bremen,2.66057,0.109963,4,0,h,2021-02-21 17:00:00
+15343,Hoffenheim,Union Berlin,1.53526,0.958613,1,1,a,2021-02-28 12:30:00
+15353,Hoffenheim,Wolfsburg,0.989132,1.82597,2,1,h,2021-03-06 14:30:00
+15364,Hoffenheim,VfB Stuttgart,0.97511,1.03802,0,2,a,2021-03-14 17:00:00
+15366,Hoffenheim,Mainz 05,1.05065,3.20297,1,2,h,2021-03-21 12:30:00
+15382,Hoffenheim,Augsburg,0.754596,0.560474,1,2,a,2021-04-03 13:30:00
+15384,Hoffenheim,Bayer Leverkusen,0.0916581,0.32178,0,0,h,2021-04-12 18:30:00
+15393,Hoffenheim,RasenBallsport Leipzig,0.179248,1.43967,0,0,a,2021-04-16 18:30:00
+15403,Hoffenheim,Borussia M.Gladbach,2.31017,0.8843,3,2,h,2021-04-21 18:30:00
+15414,Hoffenheim,Freiburg,1.55721,1.31762,1,1,a,2021-04-24 13:30:00
+15421,Hoffenheim,Schalke 04,1.53696,0.816991,4,2,h,2021-05-08 13:30:00
+15436,Hoffenheim,Arminia Bielefeld,1.57706,1.65894,1,1,a,2021-05-15 13:30:00
+15439,Hoffenheim,Hertha Berlin,1.90885,1.60949,2,1,h,2021-05-22 13:30:00

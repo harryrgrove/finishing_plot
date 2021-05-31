@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1787,Celta Vigo,Leganes,0.64855,0.908454,0,1,h,2016-08-22 22:00:00
+1793,Celta Vigo,Real Madrid,0.241185,2.02091,1,2,a,2016-08-27 22:15:00
+1800,Celta Vigo,Atletico Madrid,0.701483,2.42263,0,4,h,2016-09-10 15:00:00
+1814,Celta Vigo,Osasuna,0.683638,0.259738,0,0,a,2016-09-18 14:00:00
+1822,Celta Vigo,Sporting Gijon,1.38706,0.847147,2,1,h,2016-09-21 22:00:00
+1837,Celta Vigo,Espanyol,0.705192,0.542865,2,0,a,2016-09-25 22:45:00
+1848,Celta Vigo,Barcelona,1.53201,2.27848,4,3,h,2016-10-02 22:45:00
+1857,Celta Vigo,Villarreal,0.258037,1.79979,0,5,a,2016-10-16 22:45:00
+1864,Celta Vigo,Deportivo La Coruna,1.82791,0.72415,4,1,h,2016-10-23 14:00:00
+3316,Celta Vigo,Las Palmas,1.23697,2.07556,3,3,a,2016-10-30 23:45:00
+2783,Celta Vigo,Valencia,0.571273,1.44482,2,1,h,2016-11-06 19:15:00
+2789,Celta Vigo,Eibar,0.589399,0.911921,0,1,a,2016-11-19 21:30:00
+2803,Celta Vigo,Granada,2.10383,0.761557,3,1,h,2016-11-27 21:30:00
+3167,Celta Vigo,Real Betis,1.49435,2.0817,3,3,a,2016-12-04 15:00:00
+3179,Celta Vigo,Sevilla,0.710134,2.58541,0,3,h,2016-12-11 19:15:00
+3191,Celta Vigo,Athletic Club,1.79023,1.74819,1,2,a,2016-12-19 23:45:00
+3891,Celta Vigo,Malaga,1.81695,0.713817,3,1,h,2017-01-08 21:30:00
+3899,Celta Vigo,Alaves,1.4187,0.558191,1,0,h,2017-01-15 19:15:00
+3913,Celta Vigo,Real Sociedad,0.664992,1.37408,0,1,a,2017-01-22 20:30:00
+3918,Celta Vigo,Leganes,0.831373,0.665632,2,0,a,2017-01-28 22:45:00
+3943,Celta Vigo,Atletico Madrid,1.47065,2.48076,2,3,a,2017-02-12 19:45:00
+3944,Celta Vigo,Osasuna,1.31171,0.476623,3,0,h,2017-02-19 17:30:00
+3961,Celta Vigo,Sporting Gijon,1.18161,2.32319,1,1,a,2017-02-26 17:30:00
+3968,Celta Vigo,Espanyol,0.725904,0.46046,2,2,h,2017-03-01 20:30:00
+3984,Celta Vigo,Barcelona,0.71755,2.8423,0,5,a,2017-03-04 19:45:00
+3992,Celta Vigo,Villarreal,0.5028,0.795635,0,1,h,2017-03-12 17:30:00
+3997,Celta Vigo,Deportivo La Coruna,0.868296,0.806674,1,0,a,2017-03-19 17:30:00
+4013,Celta Vigo,Las Palmas,1.96679,0.943845,3,1,h,2017-04-03 19:45:00
+4017,Celta Vigo,Valencia,1.68539,2.06746,2,3,a,2017-04-06 20:30:00
+4025,Celta Vigo,Eibar,0.626267,0.521772,0,2,h,2017-04-09 15:15:00
+4043,Celta Vigo,Granada,1.79036,0.936087,3,0,a,2017-04-16 19:45:00
+4046,Celta Vigo,Real Betis,0.67659,1.41484,0,1,h,2017-04-23 15:15:00
+4064,Celta Vigo,Sevilla,1.17988,2.31049,1,2,a,2017-04-27 19:30:00
+4073,Celta Vigo,Athletic Club,0.231412,2.1267,0,3,h,2017-04-30 19:45:00
+4084,Celta Vigo,Malaga,0.582102,2.20858,0,3,a,2017-05-07 19:45:00
+4093,Celta Vigo,Alaves,1.54197,1.45961,1,3,a,2017-05-14 15:00:00
+3924,Celta Vigo,Real Madrid,0.901276,3.64315,1,4,h,2017-05-17 20:00:00
+4104,Celta Vigo,Real Sociedad,1.30693,1.43204,2,2,h,2017-05-21 15:45:00

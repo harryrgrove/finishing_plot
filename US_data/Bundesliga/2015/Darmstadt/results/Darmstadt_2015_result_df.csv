@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1026,Darmstadt,Hannover 96,1.80912,1.85731,2,2,h,2015-08-15 17:30:00
+1032,Darmstadt,Schalke 04,0.790379,1.05775,1,1,a,2015-08-22 17:30:00
+1044,Darmstadt,Hoffenheim,0.287238,1.3935,0,0,h,2015-08-29 17:30:00
+1053,Darmstadt,Bayer Leverkusen,0.284787,1.3554,1,0,a,2015-09-12 17:30:00
+1058,Darmstadt,Bayern Munich,0.204756,1.71752,0,3,h,2015-09-19 17:30:00
+1069,Darmstadt,Werder Bremen,1.91868,1.19628,2,1,h,2015-09-22 22:00:00
+1083,Darmstadt,Borussia Dortmund,0.508638,1.97055,2,2,a,2015-09-27 19:30:00
+1084,Darmstadt,Mainz 05,1.86109,1.45155,2,3,h,2015-10-02 22:30:00
+1094,Darmstadt,Augsburg,2.54284,1.42706,2,0,a,2015-10-17 17:30:00
+1104,Darmstadt,Wolfsburg,0.594469,0.976111,0,1,h,2015-10-24 17:30:00
+1118,Darmstadt,VfB Stuttgart,1.08627,2.13203,0,2,a,2015-11-01 18:30:00
+1126,Darmstadt,Hamburger SV,1.6995,1.15876,1,1,h,2015-11-07 21:30:00
+1137,Darmstadt,Ingolstadt,0.58372,2.73623,1,3,a,2015-11-22 20:40:00
+1138,Darmstadt,FC Cologne,0.508721,0.933778,0,0,h,2015-11-27 23:30:00
+1155,Darmstadt,Eintracht Frankfurt,1.55006,1.0568,1,0,a,2015-12-06 20:30:00
+1157,Darmstadt,Hertha Berlin,0.26179,1.99133,0,4,h,2015-12-12 18:30:00
+1173,Darmstadt,Borussia M.Gladbach,2.23006,1.0366,2,3,a,2015-12-20 20:30:00
+1176,Darmstadt,Hannover 96,2.76698,1.28887,2,1,a,2016-01-23 18:30:00
+1184,Darmstadt,Schalke 04,0.0939969,1.56117,0,2,h,2016-01-30 18:30:00
+1200,Darmstadt,Hoffenheim,2.06675,0.584715,2,0,a,2016-02-07 20:30:00
+1202,Darmstadt,Bayer Leverkusen,1.07695,1.5656,1,2,h,2016-02-13 18:30:00
+1211,Darmstadt,Bayern Munich,0.61234,3.08206,1,3,a,2016-02-20 18:30:00
+1220,Darmstadt,Werder Bremen,1.16123,2.2106,2,2,a,2016-02-27 18:30:00
+1230,Darmstadt,Borussia Dortmund,0.422078,3.36158,0,2,h,2016-03-02 23:00:00
+1244,Darmstadt,Mainz 05,1.02252,1.18471,0,0,a,2016-03-06 18:30:00
+1249,Darmstadt,Augsburg,1.35865,1.28135,2,2,h,2016-03-12 18:30:00
+1256,Darmstadt,Wolfsburg,1.3773,1.31288,1,1,a,2016-03-19 18:30:00
+1268,Darmstadt,VfB Stuttgart,2.21695,0.480572,2,2,h,2016-04-02 17:30:00
+1275,Darmstadt,Hamburger SV,1.04297,0.70616,2,1,a,2016-04-09 17:30:00
+1284,Darmstadt,Ingolstadt,1.24602,0.351721,2,0,h,2016-04-16 17:30:00
+1294,Darmstadt,FC Cologne,1.03362,2.56591,1,4,a,2016-04-23 17:30:00
+1304,Darmstadt,Eintracht Frankfurt,1.19136,0.846611,1,2,h,2016-04-30 17:30:00
+1316,Darmstadt,Hertha Berlin,1.26224,1.35682,2,1,a,2016-05-07 17:30:00
+1326,Darmstadt,Borussia M.Gladbach,0.357258,1.87154,0,2,h,2016-05-14 17:30:00

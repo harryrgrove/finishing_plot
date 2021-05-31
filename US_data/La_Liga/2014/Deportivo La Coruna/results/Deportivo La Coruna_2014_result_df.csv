@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+5828,Deportivo La Coruna,Granada,0.379371,0.548351,1,2,a,2014-08-23 20:00:00
+5843,Deportivo La Coruna,Rayo Vallecano,1.89944,2.23586,2,2,h,2014-08-31 20:00:00
+5795,Deportivo La Coruna,Eibar,0.672578,0.412722,1,0,a,2014-09-15 19:45:00
+5797,Deportivo La Coruna,Real Madrid,1.74836,2.05644,2,8,h,2014-09-20 15:00:00
+5807,Deportivo La Coruna,Celta Vigo,1.04057,1.19299,1,2,a,2014-09-23 21:00:00
+5823,Deportivo La Coruna,Almeria,0.957268,0.72135,0,1,h,2014-09-28 16:00:00
+5760,Deportivo La Coruna,Sevilla,0.227817,3.9035,1,4,a,2014-10-05 11:00:00
+5770,Deportivo La Coruna,Valencia,0.994809,0.56407,3,0,h,2014-10-19 16:00:00
+5781,Deportivo La Coruna,Espanyol,0.0932128,0.410527,0,0,a,2014-10-26 16:00:00
+5784,Deportivo La Coruna,Getafe,0.760639,1.5836,1,2,h,2014-10-31 19:45:00
+5725,Deportivo La Coruna,Cordoba,0.217729,1.22585,0,0,a,2014-11-07 19:45:00
+5739,Deportivo La Coruna,Real Sociedad,0.431861,0.629175,0,0,h,2014-11-22 21:00:00
+5750,Deportivo La Coruna,Atletico Madrid,0.103816,1.07451,0,2,a,2014-11-30 11:00:00
+5690,Deportivo La Coruna,Malaga,2.64447,0.375388,0,1,h,2014-12-06 21:00:00
+5706,Deportivo La Coruna,Elche,0.761893,0.909314,1,0,h,2014-12-15 19:45:00
+5712,Deportivo La Coruna,Villarreal,0.669743,2.74975,0,3,a,2014-12-21 11:00:00
+5645,Deportivo La Coruna,Athletic Club,0.604346,0.999235,1,0,h,2015-01-03 21:00:00
+5652,Deportivo La Coruna,Levante,1.07012,0.766293,0,0,a,2015-01-09 19:45:00
+5669,Deportivo La Coruna,Barcelona,0.582376,2.25001,0,4,h,2015-01-18 18:00:00
+5677,Deportivo La Coruna,Granada,1.86738,0.264957,2,2,h,2015-01-25 11:00:00
+5682,Deportivo La Coruna,Rayo Vallecano,2.38957,1.31894,2,1,a,2015-01-30 19:45:00
+5608,Deportivo La Coruna,Eibar,2.24001,0.0956199,2,0,h,2015-02-06 19:45:00
+5620,Deportivo La Coruna,Real Madrid,0.618923,1.47812,0,2,a,2015-02-14 17:00:00
+5632,Deportivo La Coruna,Celta Vigo,1.08256,1.92739,0,2,h,2015-02-21 21:00:00
+5641,Deportivo La Coruna,Almeria,1.93328,0.385643,0,0,a,2015-02-28 19:00:00
+5572,Deportivo La Coruna,Sevilla,2.49167,3.0458,3,4,h,2015-03-07 15:00:00
+5581,Deportivo La Coruna,Valencia,0.181554,2.87108,0,2,a,2015-03-13 19:45:00
+5597,Deportivo La Coruna,Espanyol,0.89593,1.551,0,0,h,2015-03-22 11:00:00
+5512,Deportivo La Coruna,Getafe,1.16571,1.29359,1,2,a,2015-04-05 18:00:00
+5519,Deportivo La Coruna,Cordoba,0.469966,1.36851,1,1,h,2015-04-08 19:00:00
+5532,Deportivo La Coruna,Real Sociedad,1.50991,1.01446,2,2,a,2015-04-12 18:00:00
+5537,Deportivo La Coruna,Atletico Madrid,0.838632,1.51593,1,2,h,2015-04-18 17:00:00
+5550,Deportivo La Coruna,Malaga,1.16186,1.32081,1,1,a,2015-04-26 11:00:00
+5561,Deportivo La Coruna,Elche,0.734613,3.21848,0,4,a,2015-04-29 21:00:00
+5469,Deportivo La Coruna,Villarreal,0.610146,0.418168,1,1,h,2015-05-02 21:00:00
+5479,Deportivo La Coruna,Athletic Club,0.443144,0.764287,1,1,a,2015-05-09 21:00:00
+5487,Deportivo La Coruna,Levante,0.77058,0.0802943,2,0,h,2015-05-17 18:00:00
+5496,Deportivo La Coruna,Barcelona,0.605381,2.43729,2,2,a,2015-05-23 17:30:00

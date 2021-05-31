@@ -1,0 +1,31 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+6468,SKA-Khabarovsk,Zenit St. Petersburg,0.687438,1.38915,0,2,h,2017-07-16 09:00:00
+6484,SKA-Khabarovsk,Arsenal Tula,0.240787,1.33248,0,1,a,2017-07-24 17:30:00
+6485,SKA-Khabarovsk,CSKA Moscow,0.119905,3.01512,0,2,a,2017-07-29 13:00:00
+6496,SKA-Khabarovsk,Lokomotiv Moscow,0.195413,2.22768,0,1,a,2017-08-05 18:00:00
+6501,SKA-Khabarovsk,Anzhi Makhachkala,1.02721,1.33058,2,0,h,2017-08-08 09:00:00
+6512,SKA-Khabarovsk,Rubin Kazan,0.265854,0.817477,1,1,h,2017-08-13 09:00:00
+6517,SKA-Khabarovsk,Tosno,0.135992,0.783145,0,0,a,2017-08-18 17:30:00
+6529,SKA-Khabarovsk,Spartak Moscow,0.110547,1.97545,0,0,h,2017-08-27 09:00:00
+6536,SKA-Khabarovsk,Ural,0.837002,2.0703,1,1,a,2017-09-11 15:30:00
+6543,SKA-Khabarovsk,FK Akhmat,1.58421,1.30638,2,2,h,2017-09-17 09:00:00
+6551,SKA-Khabarovsk,Amkar,0.287675,1.25935,0,3,a,2017-09-25 15:00:00
+6559,SKA-Khabarovsk,FC Rostov,1.07025,1.12945,2,1,h,2017-09-30 09:30:00
+6567,SKA-Khabarovsk,Dinamo Moscow,0.465276,1.24976,0,2,a,2017-10-14 12:00:00
+6576,SKA-Khabarovsk,FC Ufa,1.33457,1.10873,2,2,h,2017-10-21 09:30:00
+6583,SKA-Khabarovsk,FC Krasnodar,1.23727,3.67763,1,4,a,2017-10-29 16:00:00
+6590,SKA-Khabarovsk,Arsenal Tula,1.09916,1.44772,1,2,h,2017-11-05 08:00:00
+6604,SKA-Khabarovsk,CSKA Moscow,1.4405,3.87655,2,4,h,2017-11-18 09:00:00
+6611,SKA-Khabarovsk,Lokomotiv Moscow,0.218721,2.48658,1,2,h,2017-11-27 09:00:00
+6613,SKA-Khabarovsk,Anzhi Makhachkala,0.285137,3.4108,0,4,a,2017-12-03 16:00:00
+6621,SKA-Khabarovsk,Rubin Kazan,0.167899,2.12075,1,3,a,2017-12-09 13:30:00
+6634,SKA-Khabarovsk,Tosno,0.352222,0.511257,0,1,h,2018-03-04 08:00:00
+6639,SKA-Khabarovsk,Spartak Moscow,0.0844931,3.15449,0,1,a,2018-03-11 16:00:00
+6647,SKA-Khabarovsk,Ural,0.595298,1.95004,0,3,h,2018-03-17 08:00:00
+6655,SKA-Khabarovsk,FK Akhmat,0.156947,1.32748,0,0,a,2018-03-31 00:00:00
+6663,SKA-Khabarovsk,Amkar,1.00471,2.16628,0,2,h,2018-04-07 08:00:00
+6671,SKA-Khabarovsk,FC Rostov,0.157453,0.74707,0,2,a,2018-04-15 16:00:00
+6679,SKA-Khabarovsk,Dinamo Moscow,0.50464,1.12547,0,1,h,2018-04-22 08:00:00
+6690,SKA-Khabarovsk,FC Ufa,0.324677,1.40336,0,1,a,2018-04-30 08:30:00
+6695,SKA-Khabarovsk,FC Krasnodar,1.80874,1.13936,0,1,h,2018-05-05 09:00:00
+6703,SKA-Khabarovsk,Zenit St. Petersburg,0.210376,4.18534,0,6,a,2018-05-13 12:00:00

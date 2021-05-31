@@ -1,0 +1,31 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+11030,Lokomotiv Moscow,Rubin Kazan,2.41852,1.17237,1,1,h,2019-07-15 17:00:00
+11036,Lokomotiv Moscow,FC Tambov,1.17162,0.767953,2,1,h,2019-07-21 13:30:00
+11045,Lokomotiv Moscow,CSKA Moscow,0.662294,1.22167,0,1,a,2019-07-28 16:00:00
+11048,Lokomotiv Moscow,Krylya Sovetov Samara,3.06176,1.05107,2,1,a,2019-08-03 14:30:00
+11059,Lokomotiv Moscow,Ural,4.59167,0.902241,4,0,h,2019-08-11 14:30:00
+11069,Lokomotiv Moscow,Dinamo Moscow,2.34859,0.484973,2,1,a,2019-08-18 17:00:00
+11073,Lokomotiv Moscow,FC Krasnodar,0.661157,1.15089,1,1,a,2019-08-24 17:00:00
+11082,Lokomotiv Moscow,FC Rostov,2.17999,1.88066,1,2,h,2019-08-31 14:30:00
+11087,Lokomotiv Moscow,PFC Sochi,1.50506,0.696383,1,0,a,2019-09-14 16:00:00
+11100,Lokomotiv Moscow,FC Orenburg,2.89128,1.96201,3,2,a,2019-09-22 08:30:00
+11110,Lokomotiv Moscow,Zenit St. Petersburg,0.760537,0.25472,1,0,h,2019-09-28 16:00:00
+11118,Lokomotiv Moscow,Arsenal Tula,2.15352,0.29411,2,1,h,2019-10-06 12:00:00
+11124,Lokomotiv Moscow,FK Akhmat,1.18386,0.471301,2,0,a,2019-10-18 17:30:00
+11130,Lokomotiv Moscow,Spartak Moscow,0.82244,1.62803,0,3,h,2019-10-27 13:30:00
+11137,Lokomotiv Moscow,FC Ufa,0.866107,1.22456,1,1,a,2019-11-02 11:00:00
+11148,Lokomotiv Moscow,FC Krasnodar,1.02031,1.66904,1,1,h,2019-11-10 16:00:00
+11152,Lokomotiv Moscow,FC Tambov,0.834066,0.618225,3,2,a,2019-11-22 16:30:00
+11163,Lokomotiv Moscow,Dinamo Moscow,1.83064,2.1566,1,2,h,2019-12-01 13:30:00
+11169,Lokomotiv Moscow,Arsenal Tula,1.11084,1.33624,0,4,a,2019-12-06 16:30:00
+11175,Lokomotiv Moscow,Zenit St. Petersburg,0.792557,0.708547,0,0,a,2020-02-29 16:00:00
+11186,Lokomotiv Moscow,FK Akhmat,0.969031,1.33975,1,0,h,2020-03-08 16:00:00
+11192,Lokomotiv Moscow,FC Rostov,1.17601,1.52425,3,1,a,2020-03-15 16:00:00
+11201,Lokomotiv Moscow,FC Orenburg,2.43047,0.352485,1,0,h,2020-06-21 14:30:00
+11212,Lokomotiv Moscow,Rubin Kazan,1.74492,1.46381,2,0,a,2020-06-27 14:30:00
+11218,Lokomotiv Moscow,Krylya Sovetov Samara,1.72223,0.72419,1,1,h,2020-06-30 15:00:00
+11226,Lokomotiv Moscow,PFC Sochi,1.54074,0.372983,0,0,h,2020-07-04 17:30:00
+11232,Lokomotiv Moscow,Spartak Moscow,1.3552,0.389443,1,1,a,2020-07-08 17:30:00
+11242,Lokomotiv Moscow,FC Ufa,1.18442,1.19306,1,1,h,2020-07-12 13:30:00
+11250,Lokomotiv Moscow,CSKA Moscow,1.89755,0.994165,2,1,h,2020-07-16 17:30:00
+11262,Lokomotiv Moscow,Ural,0.864987,0.896077,1,0,a,2020-07-22 16:00:00

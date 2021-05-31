@@ -1,0 +1,31 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+8946,FC Orenburg,Spartak Moscow,0.195363,0.78611,0,1,a,2018-07-28 19:00:00
+8957,FC Orenburg,Krylya Sovetov Samara,1.36694,1.41184,3,0,a,2018-08-05 16:30:00
+8965,FC Orenburg,Lokomotiv Moscow,0.183598,0.681723,1,0,h,2018-08-12 14:00:00
+8969,FC Orenburg,Anzhi Makhachkala,1.22131,0.886545,3,1,a,2018-08-17 19:30:00
+8981,FC Orenburg,FC Krasnodar,2.27389,2.10526,1,1,h,2018-08-26 14:00:00
+8990,FC Orenburg,Dinamo Moscow,0.173048,1.12944,0,2,a,2018-09-02 13:30:00
+8999,FC Orenburg,Zenit St. Petersburg,0.511651,1.07246,1,2,h,2018-09-16 11:00:00
+9005,FC Orenburg,FK Akhmat,0.376319,0.401264,1,1,a,2018-09-22 16:00:00
+9012,FC Orenburg,CSKA Moscow,0.727684,1.91319,0,1,h,2018-09-28 14:30:00
+9018,FC Orenburg,FC Rostov,0.932588,1.45524,1,0,a,2018-10-06 13:30:00
+9027,FC Orenburg,FC Yenisey Krasnoyarsk,0.896855,0.990084,0,0,h,2018-10-20 08:30:00
+9036,FC Orenburg,Arsenal Tula,1.04509,0.442165,2,2,a,2018-10-27 13:30:00
+9045,FC Orenburg,Rubin Kazan,1.7098,0.24388,1,0,h,2018-11-05 11:00:00
+9051,FC Orenburg,Ural,0.848882,1.17802,1,2,a,2018-11-10 11:00:00
+9063,FC Orenburg,FC Ufa,1.18736,0.0518166,1,0,h,2018-11-24 13:30:00
+9073,FC Orenburg,Lokomotiv Moscow,1.65472,1.79516,1,2,a,2018-12-08 14:30:00
+9088,FC Orenburg,Anzhi Makhachkala,1.13185,0.257685,0,1,h,2019-03-01 13:30:00
+9095,FC Orenburg,FC Krasnodar,0.622718,2.33119,2,2,a,2019-03-11 16:30:00
+9103,FC Orenburg,Dinamo Moscow,1.1428,2.2016,1,0,h,2019-03-16 08:30:00
+9110,FC Orenburg,Zenit St. Petersburg,0.937559,1.93845,1,3,a,2019-03-31 12:00:00
+9065,FC Orenburg,Krylya Sovetov Samara,1.33274,2.47748,3,1,h,2019-04-03 15:00:00
+9118,FC Orenburg,FK Akhmat,0.947378,1.19703,1,3,h,2019-04-08 15:00:00
+9125,FC Orenburg,CSKA Moscow,1.33191,1.57161,3,2,a,2019-04-13 12:00:00
+9130,FC Orenburg,FC Rostov,1.09349,0.300724,3,0,h,2019-04-20 12:00:00
+9137,FC Orenburg,FC Yenisey Krasnoyarsk,0.629421,1.61862,1,2,a,2019-04-25 14:00:00
+9148,FC Orenburg,Arsenal Tula,1.89336,0.740761,1,1,h,2019-04-29 15:00:00
+9157,FC Orenburg,Rubin Kazan,0.46233,1.46229,0,2,a,2019-05-03 14:30:00
+9166,FC Orenburg,Ural,2.0486,1.16132,2,2,h,2019-05-10 09:30:00
+9175,FC Orenburg,FC Ufa,1.25986,0.299906,2,0,a,2019-05-18 11:00:00
+9184,FC Orenburg,Spartak Moscow,1.93278,0.836699,2,0,h,2019-05-26 11:00:00

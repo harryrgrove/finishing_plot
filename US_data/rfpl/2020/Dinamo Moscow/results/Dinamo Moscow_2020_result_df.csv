@@ -1,0 +1,31 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+14002,Dinamo Moscow,Ural,1.86852,0.961505,2,0,a,2020-08-10 14:00:00
+14009,Dinamo Moscow,FC Rotor Volgograd,1.48952,0.131569,0,0,h,2020-08-15 12:30:00
+14019,Dinamo Moscow,FC Rostov,1.14852,0.415137,2,0,h,2020-08-19 16:00:00
+14023,Dinamo Moscow,Arsenal Tula,0.799801,1.61554,0,2,a,2020-08-22 14:30:00
+14036,Dinamo Moscow,Zenit St. Petersburg,0.153465,0.737699,1,0,h,2020-08-26 17:45:00
+14040,Dinamo Moscow,FC Ufa,0.577392,0.563216,1,1,a,2020-08-30 11:00:00
+14228,Dinamo Moscow,Rubin Kazan,0.60034,1.58897,0,1,h,2020-09-13 13:30:00
+14240,Dinamo Moscow,FK Akhmat,1.13933,0.851315,1,0,h,2020-09-21 16:00:00
+14248,Dinamo Moscow,Khimki,1.70269,1.58689,0,1,a,2020-09-28 16:00:00
+14304,Dinamo Moscow,FC Krasnodar,1.4769,1.11258,2,0,h,2020-10-04 17:00:00
+14305,Dinamo Moscow,CSKA Moscow,0.536987,1.82946,1,3,a,2020-10-18 13:30:00
+14315,Dinamo Moscow,PFC Sochi,1.21217,0.338913,3,1,h,2020-10-24 11:00:00
+14323,Dinamo Moscow,FC Tambov,2.5361,1.79455,2,1,a,2020-11-01 16:00:00
+14334,Dinamo Moscow,Lokomotiv Moscow,3.55072,0.668049,5,1,h,2020-11-08 16:00:00
+14341,Dinamo Moscow,Spartak Moscow,0.48884,0.914731,1,1,a,2020-11-21 16:00:00
+14351,Dinamo Moscow,FC Rostov,1.20417,3.03175,1,4,a,2020-11-28 16:00:00
+14357,Dinamo Moscow,Arsenal Tula,2.17992,0.585184,1,0,h,2020-12-06 13:30:00
+14361,Dinamo Moscow,Zenit St. Petersburg,1.56597,2.20146,1,3,a,2020-12-12 16:00:00
+14371,Dinamo Moscow,PFC Sochi,0.915738,1.89877,0,2,a,2020-12-16 15:00:00
+14379,Dinamo Moscow,FK Akhmat,1.21256,0.93996,2,1,a,2021-02-28 13:30:00
+14391,Dinamo Moscow,FC Tambov,2.95017,0.247707,2,0,h,2021-03-07 13:30:00
+14393,Dinamo Moscow,Spartak Moscow,1.38983,1.41844,1,2,h,2021-03-13 16:00:00
+14405,Dinamo Moscow,FC Krasnodar,2.83609,1.18693,3,2,a,2021-03-18 16:00:00
+14416,Dinamo Moscow,FC Ufa,2.18868,0.205069,4,0,h,2021-04-03 16:00:00
+14422,Dinamo Moscow,Ural,1.62414,1.3548,2,2,h,2021-04-11 13:30:00
+14426,Dinamo Moscow,FC Rotor Volgograd,2.78987,0.266019,3,0,a,2021-04-17 13:30:00
+14437,Dinamo Moscow,Khimki,1.67222,0.362881,0,1,h,2021-04-24 16:00:00
+14445,Dinamo Moscow,Rubin Kazan,1.05181,0.60277,0,2,a,2021-05-01 11:00:00
+14453,Dinamo Moscow,Lokomotiv Moscow,0.448216,0.978085,0,0,a,2021-05-08 13:30:00
+14459,Dinamo Moscow,CSKA Moscow,1.16718,1.29466,3,2,h,2021-05-16 11:00:00

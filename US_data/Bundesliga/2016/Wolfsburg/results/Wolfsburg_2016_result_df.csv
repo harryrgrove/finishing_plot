@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1328,Wolfsburg,Augsburg,0.711094,0.452708,2,0,a,2016-08-27 17:30:00
+1337,Wolfsburg,FC Cologne,0.914326,1.36943,0,0,h,2016-09-10 17:30:00
+1347,Wolfsburg,Hoffenheim,2.34852,1.93562,0,0,a,2016-09-17 17:30:00
+1354,Wolfsburg,Borussia Dortmund,2.71087,2.34245,1,5,h,2016-09-20 22:00:00
+1369,Wolfsburg,Werder Bremen,0.483419,1.11466,1,2,a,2016-09-24 20:30:00
+1379,Wolfsburg,Mainz 05,1.32308,0.256465,0,0,h,2016-10-02 17:30:00
+1389,Wolfsburg,RasenBallsport Leipzig,0.684268,1.82053,0,1,h,2016-10-16 19:30:00
+1392,Wolfsburg,Darmstadt,0.577877,1.38031,1,3,a,2016-10-22 17:30:00
+3301,Wolfsburg,Bayer Leverkusen,1.1136,2.12119,1,2,h,2016-10-29 17:30:00
+2811,Wolfsburg,Freiburg,2.12583,0.916201,3,0,a,2016-11-05 18:30:00
+2818,Wolfsburg,Schalke 04,0.273387,1.12414,0,1,h,2016-11-19 18:30:00
+2828,Wolfsburg,Ingolstadt,0.504027,3.68791,1,1,a,2016-11-26 18:30:00
+3193,Wolfsburg,Hertha Berlin,1.13683,1.54821,2,3,h,2016-12-03 18:30:00
+3206,Wolfsburg,Bayern Munich,0.422847,2.18433,0,5,a,2016-12-10 18:30:00
+3216,Wolfsburg,Eintracht Frankfurt,1.75441,1.38982,1,0,h,2016-12-17 21:30:00
+3220,Wolfsburg,Borussia M.Gladbach,2.26217,1.53544,2,1,a,2016-12-20 23:00:00
+3724,Wolfsburg,Hamburger SV,1.13564,0.666936,1,0,h,2017-01-21 17:30:00
+3733,Wolfsburg,Augsburg,1.51608,2.03309,1,2,h,2017-01-28 17:30:00
+3741,Wolfsburg,FC Cologne,0.620852,1.1942,0,1,a,2017-02-04 14:30:00
+3756,Wolfsburg,Hoffenheim,2.33121,0.874317,2,1,h,2017-02-12 14:30:00
+3763,Wolfsburg,Borussia Dortmund,0.213682,2.5227,0,3,a,2017-02-18 14:30:00
+3767,Wolfsburg,Werder Bremen,2.1184,1.05277,1,2,h,2017-02-24 19:30:00
+3777,Wolfsburg,Mainz 05,0.753265,0.943015,1,1,a,2017-03-04 14:30:00
+3789,Wolfsburg,RasenBallsport Leipzig,1.70049,0.594929,1,0,a,2017-03-11 14:30:00
+3795,Wolfsburg,Darmstadt,2.27784,0.745708,1,0,h,2017-03-18 14:30:00
+3811,Wolfsburg,Bayer Leverkusen,1.79787,0.779828,3,3,a,2017-04-02 16:30:00
+3819,Wolfsburg,Freiburg,1.9679,0.859006,0,1,h,2017-04-05 19:00:00
+3824,Wolfsburg,Schalke 04,1.59019,1.64298,1,4,a,2017-04-08 14:30:00
+3836,Wolfsburg,Ingolstadt,1.60835,0.155444,3,0,h,2017-04-15 14:30:00
+3843,Wolfsburg,Hertha Berlin,1.57197,1.98048,0,1,a,2017-04-22 14:30:00
+3854,Wolfsburg,Bayern Munich,0.364748,2.26407,0,6,h,2017-04-29 17:30:00
+3857,Wolfsburg,Eintracht Frankfurt,1.41291,1.14243,2,0,a,2017-05-06 14:30:00
+3869,Wolfsburg,Borussia M.Gladbach,1.26549,1.65365,1,1,h,2017-05-13 14:30:00
+3879,Wolfsburg,Hamburger SV,0.872557,0.566862,1,2,a,2017-05-20 14:30:00

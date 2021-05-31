@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1407,Real Betis,Villarreal,1.4954,1.63096,1,1,h,2015-08-24 00:30:00
+1413,Real Betis,Real Madrid,0.941159,3.14512,0,5,a,2015-08-30 00:30:00
+1423,Real Betis,Real Sociedad,0.75201,0.663712,1,0,h,2015-09-13 00:00:00
+1431,Real Betis,Valencia,0.190749,1.81097,0,0,a,2015-09-19 20:15:00
+1448,Real Betis,Deportivo La Coruna,1.11886,0.264158,1,2,h,2015-09-25 00:05:00
+1455,Real Betis,Sporting Gijon,1.65258,1.75847,2,1,a,2015-09-27 14:00:00
+1465,Real Betis,Rayo Vallecano,1.68781,1.2884,2,0,a,2015-10-04 14:00:00
+1473,Real Betis,Espanyol,1.86579,1.85292,1,3,h,2015-10-18 00:05:00
+1481,Real Betis,Granada,1.11054,1.06647,1,1,a,2015-10-24 20:15:00
+1498,Real Betis,Athletic Club,1.23993,4.022,1,3,h,2015-11-01 23:30:00
+1504,Real Betis,Malaga,0.876923,0.890995,1,0,a,2015-11-08 01:05:00
+1517,Real Betis,Atletico Madrid,0.128682,2.26452,0,1,h,2015-11-22 23:30:00
+1519,Real Betis,Levante,0.943363,1.10847,1,0,a,2015-11-27 23:30:00
+1533,Real Betis,Celta Vigo,2.41831,0.535918,1,1,h,2015-12-06 01:05:00
+1544,Real Betis,Las Palmas,0.36831,2.11811,0,1,a,2015-12-13 01:05:00
+1551,Real Betis,Sevilla,0.377247,1.02024,0,0,h,2015-12-19 23:30:00
+1564,Real Betis,Barcelona,0.457226,4.34983,0,4,a,2015-12-30 23:30:00
+1572,Real Betis,Eibar,1.53245,1.49466,0,4,h,2016-01-03 19:00:00
+1580,Real Betis,Getafe,0.602107,1.28639,0,1,a,2016-01-09 21:15:00
+1590,Real Betis,Villarreal,0.839004,0.806178,0,0,a,2016-01-16 23:30:00
+1606,Real Betis,Real Madrid,0.211024,3.34615,1,1,h,2016-01-24 23:30:00
+1612,Real Betis,Real Sociedad,0.773957,1.08259,1,2,a,2016-01-31 01:05:00
+1624,Real Betis,Valencia,1.00904,1.13142,1,0,h,2016-02-07 19:00:00
+1632,Real Betis,Deportivo La Coruna,0.598716,3.22944,2,2,a,2016-02-14 01:05:00
+1642,Real Betis,Sporting Gijon,0.953419,0.408199,1,1,h,2016-02-20 23:30:00
+1653,Real Betis,Rayo Vallecano,2.46401,1.42394,2,2,h,2016-02-27 23:30:00
+1667,Real Betis,Espanyol,1.92223,0.780555,3,0,a,2016-03-03 23:30:00
+1673,Real Betis,Granada,0.844439,0.363768,2,0,h,2016-03-06 15:00:00
+1686,Real Betis,Athletic Club,1.09836,2.14502,1,3,a,2016-03-13 21:15:00
+1694,Real Betis,Malaga,1.65417,1.33486,0,1,h,2016-03-20 01:05:00
+1700,Real Betis,Atletico Madrid,0.68708,4.5488,1,5,a,2016-04-02 18:00:00
+1713,Real Betis,Levante,0.623216,1.17874,1,0,h,2016-04-10 00:05:00
+1723,Real Betis,Celta Vigo,1.54169,1.74985,1,1,a,2016-04-17 00:05:00
+1730,Real Betis,Las Palmas,1.92261,0.217396,1,0,h,2016-04-19 23:00:00
+1745,Real Betis,Sevilla,0.394998,2.03176,0,2,a,2016-04-24 18:00:00
+1752,Real Betis,Barcelona,0.0828961,2.07851,0,2,h,2016-04-30 22:30:00
+1766,Real Betis,Eibar,1.13808,2.67637,1,1,a,2016-05-08 19:00:00
+1776,Real Betis,Getafe,1.59407,1.28875,2,1,h,2016-05-15 21:30:00

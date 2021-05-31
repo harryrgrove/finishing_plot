@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+12404,Fortuna Duesseldorf,Werder Bremen,1.01536,2.0112,3,1,a,2019-08-17 14:30:00
+12415,Fortuna Duesseldorf,Bayer Leverkusen,1.12017,1.82469,1,3,h,2019-08-24 14:30:00
+12429,Fortuna Duesseldorf,Eintracht Frankfurt,0.759809,1.75705,1,2,a,2019-09-01 17:00:00
+12430,Fortuna Duesseldorf,Wolfsburg,0.679763,2.28602,1,1,h,2019-09-13 18:30:00
+12445,Fortuna Duesseldorf,Borussia M.Gladbach,1.27666,4.2854,1,2,a,2019-09-22 13:30:00
+12455,Fortuna Duesseldorf,Freiburg,2.01843,1.67484,1,2,h,2019-09-29 13:30:00
+12459,Fortuna Duesseldorf,Hertha Berlin,1.1795,2.0219,1,3,a,2019-10-04 19:30:00
+12474,Fortuna Duesseldorf,Mainz 05,2.01829,0.236283,1,0,h,2019-10-19 14:30:00
+12477,Fortuna Duesseldorf,Paderborn,1.43646,0.738686,0,2,a,2019-10-26 14:30:00
+12490,Fortuna Duesseldorf,FC Cologne,2.18646,1.03434,2,0,h,2019-11-03 14:30:00
+12497,Fortuna Duesseldorf,Schalke 04,2.06462,1.23132,3,3,a,2019-11-09 14:30:00
+12505,Fortuna Duesseldorf,Bayern Munich,0.443491,3.81728,0,4,h,2019-11-23 14:30:00
+12518,Fortuna Duesseldorf,Hoffenheim,0.884323,2.69182,1,1,a,2019-11-30 14:30:00
+12520,Fortuna Duesseldorf,Borussia Dortmund,0.102341,3.95015,0,5,a,2019-12-07 14:30:00
+12532,Fortuna Duesseldorf,RasenBallsport Leipzig,0.263544,3.98532,0,3,h,2019-12-14 17:30:00
+12545,Fortuna Duesseldorf,Augsburg,0.755838,1.4601,0,3,a,2019-12-17 19:30:00
+12550,Fortuna Duesseldorf,Union Berlin,1.17089,1.9614,2,1,h,2019-12-22 14:30:00
+12558,Fortuna Duesseldorf,Werder Bremen,1.0094,0.669177,0,1,h,2020-01-18 14:30:00
+12567,Fortuna Duesseldorf,Bayer Leverkusen,0.710981,4.50128,0,3,a,2020-01-26 17:00:00
+12577,Fortuna Duesseldorf,Eintracht Frankfurt,0.245794,1.34897,1,1,h,2020-02-01 14:30:00
+12586,Fortuna Duesseldorf,Wolfsburg,0.697949,1.02897,1,1,a,2020-02-08 14:30:00
+12595,Fortuna Duesseldorf,Borussia M.Gladbach,0.804434,2.76945,1,4,h,2020-02-15 17:30:00
+12608,Fortuna Duesseldorf,Freiburg,0.873548,0.972649,2,0,a,2020-02-22 14:30:00
+12614,Fortuna Duesseldorf,Hertha Berlin,1.45773,3.03938,3,3,h,2020-02-28 19:30:00
+12624,Fortuna Duesseldorf,Mainz 05,1.77792,0.974089,1,1,a,2020-03-08 17:00:00
+12633,Fortuna Duesseldorf,Paderborn,1.04877,0.63998,0,0,h,2020-05-16 13:30:00
+12645,Fortuna Duesseldorf,FC Cologne,0.444463,2.24705,2,2,a,2020-05-24 16:00:00
+12649,Fortuna Duesseldorf,Schalke 04,1.73478,0.702054,2,1,h,2020-05-27 18:30:00
+12655,Fortuna Duesseldorf,Bayern Munich,0.723584,3.02763,0,5,a,2020-05-30 16:30:00
+12669,Fortuna Duesseldorf,Hoffenheim,2.46304,1.44523,2,2,h,2020-06-06 13:30:00
+12676,Fortuna Duesseldorf,Borussia Dortmund,0.382339,0.683609,0,1,h,2020-06-13 13:30:00
+12683,Fortuna Duesseldorf,RasenBallsport Leipzig,0.594246,1.25224,2,2,a,2020-06-17 18:30:00
+12694,Fortuna Duesseldorf,Augsburg,0.353005,0.987427,1,1,h,2020-06-20 13:30:00
+12708,Fortuna Duesseldorf,Union Berlin,0.992638,1.19115,0,3,a,2020-06-27 13:30:00

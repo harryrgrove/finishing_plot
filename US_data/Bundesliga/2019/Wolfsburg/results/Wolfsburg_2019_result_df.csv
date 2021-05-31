@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+12408,Wolfsburg,FC Cologne,0.9793,0.662001,2,1,h,2019-08-17 14:30:00
+12420,Wolfsburg,Hertha Berlin,1.33245,0.936557,3,0,a,2019-08-25 17:00:00
+12422,Wolfsburg,Paderborn,0.996067,0.492299,1,1,h,2019-08-31 14:30:00
+12430,Wolfsburg,Fortuna Duesseldorf,2.28602,0.679763,1,1,a,2019-09-13 18:30:00
+12447,Wolfsburg,Hoffenheim,0.941782,0.743288,1,1,h,2019-09-23 18:30:00
+12450,Wolfsburg,Mainz 05,0.994636,1.27755,1,0,a,2019-09-28 13:30:00
+12463,Wolfsburg,Union Berlin,1.80334,0.511105,1,0,h,2019-10-06 14:30:00
+12470,Wolfsburg,RasenBallsport Leipzig,1.69441,1.35769,1,1,a,2019-10-19 14:30:00
+12480,Wolfsburg,Augsburg,0.955818,0.741183,0,0,h,2019-10-27 14:30:00
+12484,Wolfsburg,Borussia Dortmund,1.31443,2.14832,0,3,a,2019-11-02 14:30:00
+12501,Wolfsburg,Bayer Leverkusen,0.571444,1.20713,0,2,h,2019-11-10 14:30:00
+12508,Wolfsburg,Eintracht Frankfurt,1.35049,0.848135,2,0,a,2019-11-23 14:30:00
+12519,Wolfsburg,Werder Bremen,2.7056,1.29088,2,3,h,2019-12-01 17:00:00
+12526,Wolfsburg,Freiburg,1.59205,0.434528,0,1,a,2019-12-07 14:30:00
+12530,Wolfsburg,Borussia M.Gladbach,0.968068,0.502409,2,1,h,2019-12-15 14:30:00
+12541,Wolfsburg,Schalke 04,2.99738,1.73056,1,1,h,2019-12-18 19:30:00
+12547,Wolfsburg,Bayern Munich,0.889656,1.58412,0,2,a,2019-12-21 14:30:00
+12563,Wolfsburg,FC Cologne,1.73137,1.52546,1,3,a,2020-01-18 14:30:00
+12569,Wolfsburg,Hertha Berlin,1.14053,1.71603,1,2,h,2020-01-25 14:30:00
+12582,Wolfsburg,Paderborn,1.8251,1.20103,4,2,a,2020-02-02 17:00:00
+12586,Wolfsburg,Fortuna Duesseldorf,1.02897,0.697949,1,1,h,2020-02-08 14:30:00
+12594,Wolfsburg,Hoffenheim,3.49709,2.88142,3,2,a,2020-02-15 14:30:00
+12604,Wolfsburg,Mainz 05,2.858,0.909603,4,0,h,2020-02-23 17:00:00
+12618,Wolfsburg,Union Berlin,1.95508,1.04208,2,2,a,2020-03-01 12:30:00
+12622,Wolfsburg,RasenBallsport Leipzig,0.597206,1.08959,0,0,h,2020-03-07 14:30:00
+12634,Wolfsburg,Augsburg,1.37909,1.24058,2,1,a,2020-05-16 13:30:00
+12640,Wolfsburg,Borussia Dortmund,0.504702,1.03584,0,2,h,2020-05-23 13:30:00
+12654,Wolfsburg,Bayer Leverkusen,2.99484,1.3302,4,1,a,2020-05-26 18:30:00
+12657,Wolfsburg,Eintracht Frankfurt,2.10016,1.94951,1,2,h,2020-05-30 13:30:00
+12668,Wolfsburg,Werder Bremen,1.84359,0.416576,1,0,a,2020-06-07 11:30:00
+12674,Wolfsburg,Freiburg,2.48484,2.09345,2,2,h,2020-06-13 13:30:00
+12685,Wolfsburg,Borussia M.Gladbach,0.741379,1.73701,0,3,a,2020-06-16 16:30:00
+12697,Wolfsburg,Schalke 04,2.63286,0.670604,4,1,a,2020-06-20 13:30:00
+12703,Wolfsburg,Bayern Munich,0.745741,3.22208,0,4,h,2020-06-27 13:30:00

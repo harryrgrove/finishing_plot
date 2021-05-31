@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+12409,Borussia M.Gladbach,Schalke 04,1.43141,0.760773,0,0,h,2019-08-17 17:30:00
+12416,Borussia M.Gladbach,Mainz 05,2.09431,1.81289,3,1,a,2019-08-24 14:30:00
+12421,Borussia M.Gladbach,RasenBallsport Leipzig,1.4586,3.13131,1,3,h,2019-08-30 19:30:00
+12433,Borussia M.Gladbach,FC Cologne,1.55336,0.841764,1,0,a,2019-09-14 13:30:00
+12445,Borussia M.Gladbach,Fortuna Duesseldorf,4.2854,1.27666,2,1,h,2019-09-22 13:30:00
+12453,Borussia M.Gladbach,Hoffenheim,2.83647,1.30868,3,0,a,2019-09-28 13:30:00
+12465,Borussia M.Gladbach,Augsburg,3.59033,1.35488,5,1,h,2019-10-06 12:30:00
+12469,Borussia M.Gladbach,Borussia Dortmund,3.217,1.62968,0,1,a,2019-10-19 17:30:00
+12479,Borussia M.Gladbach,Eintracht Frankfurt,1.99947,0.997822,4,2,h,2019-10-27 17:00:00
+12486,Borussia M.Gladbach,Bayer Leverkusen,2.05874,2.12992,2,1,a,2019-11-02 14:30:00
+12500,Borussia M.Gladbach,Werder Bremen,2.15941,1.59871,3,1,h,2019-11-10 12:30:00
+12509,Borussia M.Gladbach,Union Berlin,0.95814,1.49758,0,2,a,2019-11-23 14:30:00
+12511,Borussia M.Gladbach,Freiburg,5.28668,1.5268,4,2,h,2019-12-01 14:30:00
+12523,Borussia M.Gladbach,Bayern Munich,1.33084,1.74378,2,1,h,2019-12-07 14:30:00
+12530,Borussia M.Gladbach,Wolfsburg,0.502409,0.968068,1,2,a,2019-12-15 14:30:00
+12540,Borussia M.Gladbach,Paderborn,2.79858,0.508363,2,0,h,2019-12-18 19:30:00
+12551,Borussia M.Gladbach,Hertha Berlin,0.633262,0.804328,0,0,a,2019-12-21 17:30:00
+12561,Borussia M.Gladbach,Schalke 04,0.838626,2.05715,0,2,a,2020-01-17 19:30:00
+12568,Borussia M.Gladbach,Mainz 05,2.997,0.889986,3,1,h,2020-01-25 14:30:00
+12575,Borussia M.Gladbach,RasenBallsport Leipzig,0.973355,1.29026,2,2,a,2020-02-01 17:30:00
+12595,Borussia M.Gladbach,Fortuna Duesseldorf,2.76945,0.804434,4,1,a,2020-02-15 17:30:00
+12603,Borussia M.Gladbach,Hoffenheim,2.39606,1.98292,1,1,h,2020-02-22 14:30:00
+12616,Borussia M.Gladbach,Augsburg,3.18339,1.10383,3,2,a,2020-02-29 14:30:00
+12621,Borussia M.Gladbach,Borussia Dortmund,2.62205,1.20132,1,2,h,2020-03-07 17:30:00
+12585,Borussia M.Gladbach,FC Cologne,1.32979,1.31698,2,1,h,2020-03-11 17:30:00
+12630,Borussia M.Gladbach,Eintracht Frankfurt,2.79227,0.898676,3,1,a,2020-05-16 16:30:00
+12639,Borussia M.Gladbach,Bayer Leverkusen,2.273,3.46649,1,3,h,2020-05-23 13:30:00
+12647,Borussia M.Gladbach,Werder Bremen,0.359767,0.844607,0,0,a,2020-05-26 18:30:00
+12656,Borussia M.Gladbach,Union Berlin,2.16238,0.719923,4,1,h,2020-05-31 13:30:00
+12670,Borussia M.Gladbach,Freiburg,2.15228,1.56293,0,1,a,2020-06-05 18:30:00
+12673,Borussia M.Gladbach,Bayern Munich,0.983991,1.77878,1,2,a,2020-06-13 16:30:00
+12685,Borussia M.Gladbach,Wolfsburg,1.73701,0.741379,3,0,h,2020-06-16 16:30:00
+12699,Borussia M.Gladbach,Paderborn,2.74581,0.67473,3,1,a,2020-06-20 13:30:00
+12702,Borussia M.Gladbach,Hertha Berlin,3.07113,0.827053,2,1,h,2020-06-27 13:30:00

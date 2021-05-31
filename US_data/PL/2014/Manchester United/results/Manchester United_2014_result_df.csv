@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+4749,Manchester United,Swansea,1.16635,0.278076,1,2,h,2014-08-16 12:45:00
+4767,Manchester United,Sunderland,0.941557,0.666489,1,1,a,2014-08-24 16:00:00
+4769,Manchester United,Burnley,0.467281,0.513746,0,0,a,2014-08-30 12:45:00
+4727,Manchester United,Queens Park Rangers,2.20911,0.563524,4,0,h,2014-09-14 16:00:00
+4736,Manchester United,Leicester,1.71191,2.5422,3,5,a,2014-09-21 13:30:00
+4740,Manchester United,West Ham,0.520246,1.27452,2,1,h,2014-09-27 15:00:00
+4695,Manchester United,Everton,1.6239,2.13558,2,1,h,2014-10-05 12:00:00
+4708,Manchester United,West Bromwich Albion,0.934042,0.61662,2,2,a,2014-10-20 20:00:00
+4717,Manchester United,Chelsea,1.84074,0.989916,1,1,h,2014-10-26 16:00:00
+4656,Manchester United,Manchester City,0.727924,2.56723,0,1,a,2014-11-02 13:30:00
+4661,Manchester United,Crystal Palace,0.956776,0.400837,1,0,h,2014-11-08 15:00:00
+4675,Manchester United,Arsenal,1.2791,2.00193,2,1,a,2014-11-22 17:30:00
+4683,Manchester United,Hull,1.76885,0.230407,3,0,h,2014-11-29 15:00:00
+4591,Manchester United,Stoke,1.91104,1.29092,2,1,h,2014-12-02 19:45:00
+4608,Manchester United,Southampton,0.799261,1.8287,2,1,a,2014-12-08 20:00:00
+4616,Manchester United,Liverpool,1.79543,1.87114,3,0,h,2014-12-14 13:30:00
+4624,Manchester United,Aston Villa,1.06851,0.575806,1,1,a,2014-12-20 15:00:00
+4636,Manchester United,Newcastle United,1.86147,1.03151,3,1,h,2014-12-26 15:00:00
+4639,Manchester United,Tottenham,2.2613,0.888,0,0,a,2014-12-28 12:00:00
+4551,Manchester United,Stoke,0.932262,1.4082,1,1,a,2015-01-01 12:45:00
+4570,Manchester United,Southampton,1.19228,1.15706,0,1,h,2015-01-11 16:00:00
+4574,Manchester United,Queens Park Rangers,1.55645,0.929623,2,0,a,2015-01-17 15:00:00
+4583,Manchester United,Leicester,1.7369,0.380882,3,1,h,2015-01-31 15:00:00
+4524,Manchester United,West Ham,1.21344,0.86518,1,1,a,2015-02-08 16:15:00
+4531,Manchester United,Burnley,1.62116,1.85067,3,1,h,2015-02-11 19:45:00
+4539,Manchester United,Swansea,1.47171,1.04218,1,2,a,2015-02-21 15:00:00
+4550,Manchester United,Sunderland,3.03534,0.272806,2,0,h,2015-02-28 15:00:00
+4487,Manchester United,Newcastle United,1.68865,1.19246,1,0,a,2015-03-04 19:45:00
+4501,Manchester United,Tottenham,1.02781,0.206431,3,0,h,2015-03-15 16:00:00
+4510,Manchester United,Liverpool,1.22632,0.557648,2,1,a,2015-03-22 13:30:00
+4443,Manchester United,Aston Villa,1.9836,0.311787,3,1,h,2015-04-04 15:00:00
+4459,Manchester United,Manchester City,2.66017,1.75844,4,2,h,2015-04-12 16:00:00
+4465,Manchester United,Chelsea,0.744613,1.1493,0,1,a,2015-04-18 17:30:00
+4476,Manchester United,Everton,0.750462,1.07922,0,3,a,2015-04-26 13:30:00
+4405,Manchester United,West Bromwich Albion,2.10841,0.317533,0,1,h,2015-05-02 17:30:00
+4415,Manchester United,Crystal Palace,2.29775,1.04344,2,1,a,2015-05-09 17:30:00
+4427,Manchester United,Arsenal,0.715214,1.06814,1,1,h,2015-05-17 16:00:00
+4435,Manchester United,Hull,0.399522,0.984196,0,0,a,2015-05-24 15:00:00

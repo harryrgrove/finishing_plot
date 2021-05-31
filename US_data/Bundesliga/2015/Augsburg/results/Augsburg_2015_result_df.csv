@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1023,Augsburg,Hertha Berlin,1.14869,1.23291,0,1,h,2015-08-15 17:30:00
+1033,Augsburg,Eintracht Frankfurt,1.26112,0.945278,1,1,a,2015-08-22 17:30:00
+1041,Augsburg,Ingolstadt,0.832315,1.24787,0,1,h,2015-08-29 17:30:00
+1049,Augsburg,Bayern Munich,0.15319,3.85642,1,2,a,2015-09-12 17:30:00
+1064,Augsburg,Hannover 96,2.24649,0.56218,2,0,h,2015-09-20 19:30:00
+1073,Augsburg,Borussia M.Gladbach,1.92244,2.84575,2,4,a,2015-09-23 22:00:00
+1078,Augsburg,Hoffenheim,1.94324,1.5923,1,3,h,2015-09-26 17:30:00
+1091,Augsburg,Bayer Leverkusen,0.119117,1.98173,1,1,a,2015-10-04 19:30:00
+1094,Augsburg,Darmstadt,1.42706,2.54284,0,2,h,2015-10-17 17:30:00
+1109,Augsburg,Borussia Dortmund,0.293643,4.21104,1,5,a,2015-10-25 18:30:00
+1114,Augsburg,Mainz 05,2.98084,1.72651,3,3,h,2015-10-31 18:30:00
+1128,Augsburg,Werder Bremen,1.70717,1.31037,1,2,h,2015-11-08 20:30:00
+1130,Augsburg,VfB Stuttgart,2.23123,0.921864,4,0,a,2015-11-21 18:30:00
+1146,Augsburg,Wolfsburg,1.26639,0.559526,0,0,h,2015-11-29 20:30:00
+1150,Augsburg,FC Cologne,2.1005,2.36543,1,0,a,2015-12-05 18:30:00
+1163,Augsburg,Schalke 04,1.2358,1.45492,2,1,h,2015-12-13 18:30:00
+1167,Augsburg,Hamburger SV,2.50129,1.24397,1,0,a,2015-12-19 18:30:00
+1177,Augsburg,Hertha Berlin,0.704125,0.638542,0,0,a,2016-01-23 18:30:00
+1187,Augsburg,Eintracht Frankfurt,0.609193,1.25574,0,0,h,2016-01-30 18:30:00
+1197,Augsburg,Ingolstadt,0.232784,2.8596,1,2,a,2016-02-06 18:30:00
+1209,Augsburg,Bayern Munich,0.310362,2.21151,1,3,h,2016-02-14 20:30:00
+1217,Augsburg,Hannover 96,1.17413,0.433505,1,0,a,2016-02-21 20:30:00
+1224,Augsburg,Borussia M.Gladbach,1.80948,1.80962,2,2,h,2016-02-28 18:30:00
+1232,Augsburg,Hoffenheim,1.8142,1.60086,1,2,a,2016-03-02 23:00:00
+1238,Augsburg,Bayer Leverkusen,1.63701,1.46029,3,3,h,2016-03-05 18:30:00
+1249,Augsburg,Darmstadt,1.28135,1.35865,2,2,a,2016-03-12 18:30:00
+1263,Augsburg,Borussia Dortmund,1.01768,1.52542,1,3,h,2016-03-20 20:30:00
+1266,Augsburg,Mainz 05,0.784999,3.6054,2,4,a,2016-04-02 17:30:00
+1277,Augsburg,Werder Bremen,0.923628,0.716015,2,1,a,2016-04-09 17:30:00
+1286,Augsburg,VfB Stuttgart,1.28148,0.428691,1,0,h,2016-04-16 17:30:00
+1293,Augsburg,Wolfsburg,0.967552,1.38162,2,0,a,2016-04-23 17:30:00
+1300,Augsburg,FC Cologne,0.88211,0.257362,0,0,h,2016-04-29 22:30:00
+1309,Augsburg,Schalke 04,0.557159,1.4111,1,1,a,2016-05-07 17:30:00
+1318,Augsburg,Hamburger SV,1.03269,2.0985,1,3,h,2016-05-14 17:30:00

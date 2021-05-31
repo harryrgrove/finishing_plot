@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+10339,Fortuna Duesseldorf,Augsburg,1.32783,0.755029,1,2,h,2018-08-25 16:30:00
+10353,Fortuna Duesseldorf,RasenBallsport Leipzig,1.43691,2.25033,1,1,a,2018-09-02 13:30:00
+10359,Fortuna Duesseldorf,Hoffenheim,1.78366,2.19977,2,1,h,2018-09-15 13:30:00
+10364,Fortuna Duesseldorf,VfB Stuttgart,1.23964,1.39372,0,0,a,2018-09-21 18:30:00
+10377,Fortuna Duesseldorf,Bayer Leverkusen,1.75244,1.48071,1,2,h,2018-09-26 16:30:00
+10387,Fortuna Duesseldorf,Nuernberg,1.17182,2.42225,0,3,a,2018-09-29 13:30:00
+10399,Fortuna Duesseldorf,Schalke 04,0.557607,1.75802,0,2,h,2018-10-06 13:30:00
+10403,Fortuna Duesseldorf,Eintracht Frankfurt,0.666096,3.51257,1,7,a,2018-10-19 18:30:00
+10416,Fortuna Duesseldorf,Wolfsburg,0.245269,1.74956,0,3,h,2018-10-27 13:30:00
+10426,Fortuna Duesseldorf,Borussia M.Gladbach,0.719516,3.16198,0,3,a,2018-11-04 14:30:00
+10434,Fortuna Duesseldorf,Hertha Berlin,2.89841,0.960102,4,1,h,2018-11-10 14:30:00
+10436,Fortuna Duesseldorf,Bayern Munich,1.36755,2.81107,3,3,a,2018-11-24 14:30:00
+10452,Fortuna Duesseldorf,Mainz 05,1.10941,1.02576,0,1,h,2018-11-30 19:30:00
+10459,Fortuna Duesseldorf,Werder Bremen,1.37827,2.83748,1,3,a,2018-12-07 19:30:00
+10470,Fortuna Duesseldorf,Freiburg,2.59785,0.798948,2,0,h,2018-12-15 14:30:00
+10478,Fortuna Duesseldorf,Borussia Dortmund,1.3731,1.29548,2,1,h,2018-12-18 19:30:00
+10489,Fortuna Duesseldorf,Hannover 96,1.13166,0.6702,1,0,a,2018-12-22 14:30:00
+10493,Fortuna Duesseldorf,Augsburg,1.0413,0.869957,2,1,a,2019-01-19 14:30:00
+10507,Fortuna Duesseldorf,RasenBallsport Leipzig,0.290714,2.02739,0,4,h,2019-01-27 17:00:00
+10515,Fortuna Duesseldorf,Hoffenheim,1.17944,1.63645,1,1,a,2019-02-02 14:30:00
+10525,Fortuna Duesseldorf,VfB Stuttgart,1.64721,1.1803,3,0,h,2019-02-10 17:00:00
+10527,Fortuna Duesseldorf,Bayer Leverkusen,0.209187,1.90354,0,2,a,2019-02-17 17:00:00
+10543,Fortuna Duesseldorf,Nuernberg,1.55152,0.112551,2,1,h,2019-02-23 17:30:00
+10544,Fortuna Duesseldorf,Schalke 04,2.89494,0.708083,4,0,a,2019-03-02 14:30:00
+10558,Fortuna Duesseldorf,Eintracht Frankfurt,0.837274,2.76254,0,3,h,2019-03-11 19:30:00
+10566,Fortuna Duesseldorf,Wolfsburg,1.93907,3.87623,2,5,a,2019-03-16 14:30:00
+10579,Fortuna Duesseldorf,Borussia M.Gladbach,1.66988,1.34223,3,1,h,2019-03-30 14:30:00
+10585,Fortuna Duesseldorf,Hertha Berlin,2.72781,1.90031,2,1,a,2019-04-06 14:30:00
+10596,Fortuna Duesseldorf,Bayern Munich,0.972295,3.34878,1,4,h,2019-04-14 14:30:00
+10606,Fortuna Duesseldorf,Mainz 05,2.5269,3.24326,1,3,a,2019-04-20 14:30:00
+10614,Fortuna Duesseldorf,Werder Bremen,2.06935,2.73602,4,1,h,2019-04-27 14:30:00
+10622,Fortuna Duesseldorf,Freiburg,0.911705,1.2563,1,1,a,2019-05-05 14:30:00
+10626,Fortuna Duesseldorf,Borussia Dortmund,2.07768,2.03631,2,3,a,2019-05-11 14:30:00
+10640,Fortuna Duesseldorf,Hannover 96,2.17162,1.04029,2,1,h,2019-05-18 13:30:00

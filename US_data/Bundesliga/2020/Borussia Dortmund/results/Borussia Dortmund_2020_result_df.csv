@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+14179,Borussia Dortmund,Borussia M.Gladbach,1.70398,0.510293,3,0,h,2020-09-19 16:30:00
+14184,Borussia Dortmund,Augsburg,1.5267,1.44779,0,2,a,2020-09-26 13:30:00
+15162,Borussia Dortmund,Freiburg,2.82762,0.445096,4,0,h,2020-10-03 13:30:00
+15167,Borussia Dortmund,Hoffenheim,1.84829,0.877373,1,0,a,2020-10-17 13:30:00
+15181,Borussia Dortmund,Schalke 04,1.48384,0.236172,3,0,h,2020-10-24 16:30:00
+15188,Borussia Dortmund,Arminia Bielefeld,2.75909,0.255813,2,0,a,2020-10-31 14:30:00
+15200,Borussia Dortmund,Bayern Munich,2.30881,1.33621,2,3,h,2020-11-07 17:30:00
+15209,Borussia Dortmund,Hertha Berlin,2.83449,1.20761,5,2,a,2020-11-21 19:30:00
+15212,Borussia Dortmund,FC Cologne,2.76041,1.59253,1,2,h,2020-11-28 14:30:00
+15224,Borussia Dortmund,Eintracht Frankfurt,1.1385,0.847822,1,1,a,2020-12-05 14:30:00
+15230,Borussia Dortmund,VfB Stuttgart,0.776004,3.07677,1,5,h,2020-12-12 14:30:00
+15242,Borussia Dortmund,Werder Bremen,3.37771,0.14594,2,1,a,2020-12-15 19:30:00
+15253,Borussia Dortmund,Union Berlin,1.1837,1.38214,1,2,a,2020-12-18 19:30:00
+15258,Borussia Dortmund,Wolfsburg,2.00235,1.21991,2,0,h,2021-01-03 14:30:00
+15266,Borussia Dortmund,RasenBallsport Leipzig,2.57475,1.59439,3,1,a,2021-01-09 17:30:00
+15276,Borussia Dortmund,Mainz 05,1.89801,0.536442,1,1,h,2021-01-16 14:30:00
+15286,Borussia Dortmund,Bayer Leverkusen,1.25761,1.82076,1,2,a,2021-01-19 19:30:00
+15293,Borussia Dortmund,Borussia M.Gladbach,1.93273,2.33235,2,4,a,2021-01-22 19:30:00
+15303,Borussia Dortmund,Augsburg,1.92275,0.305739,3,1,h,2021-01-30 14:30:00
+15314,Borussia Dortmund,Freiburg,1.28601,0.167725,1,2,a,2021-02-06 14:30:00
+15321,Borussia Dortmund,Hoffenheim,1.19058,2.19249,2,2,h,2021-02-13 14:30:00
+15334,Borussia Dortmund,Schalke 04,1.85349,0.830269,4,0,a,2021-02-20 17:30:00
+15339,Borussia Dortmund,Arminia Bielefeld,2.50855,0.636679,3,0,h,2021-02-27 14:30:00
+15351,Borussia Dortmund,Bayern Munich,0.723629,2.69537,2,4,a,2021-03-06 17:30:00
+15356,Borussia Dortmund,Hertha Berlin,1.93335,0.0761441,2,0,h,2021-03-13 17:30:00
+15371,Borussia Dortmund,FC Cologne,1.81107,1.32405,2,2,a,2021-03-20 14:30:00
+15374,Borussia Dortmund,Eintracht Frankfurt,2.14799,1.7596,1,2,h,2021-04-03 13:30:00
+15391,Borussia Dortmund,VfB Stuttgart,1.12634,1.51604,3,2,a,2021-04-10 16:30:00
+15392,Borussia Dortmund,Werder Bremen,3.07111,0.973347,4,1,h,2021-04-18 13:30:00
+15402,Borussia Dortmund,Union Berlin,6.37227,0.274853,2,0,h,2021-04-21 18:30:00
+15413,Borussia Dortmund,Wolfsburg,1.04957,1.36199,2,0,a,2021-04-24 13:30:00
+15420,Borussia Dortmund,RasenBallsport Leipzig,2.00128,1.50553,3,2,h,2021-05-08 13:30:00
+15434,Borussia Dortmund,Mainz 05,2.08899,0.780308,3,1,a,2021-05-16 16:00:00
+15438,Borussia Dortmund,Bayer Leverkusen,1.62981,1.56956,3,1,h,2021-05-22 13:30:00

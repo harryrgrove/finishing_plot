@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+465,Middlesbrough,Stoke,1.80523,0.485626,1,1,h,2016-08-13 18:00:00
+479,Middlesbrough,Sunderland,0.854908,1.4645,2,1,a,2016-08-21 16:30:00
+489,Middlesbrough,West Bromwich Albion,0.396816,0.696845,0,0,a,2016-08-28 16:30:00
+492,Middlesbrough,Crystal Palace,0.611959,1.12437,1,2,h,2016-09-10 18:00:00
+506,Middlesbrough,Everton,0.178081,1.17467,1,3,a,2016-09-17 20:30:00
+512,Middlesbrough,Tottenham,0.361508,1.4158,1,2,h,2016-09-24 18:00:00
+526,Middlesbrough,West Ham,0.852603,0.883385,1,1,a,2016-10-01 18:00:00
+538,Middlesbrough,Watford,0.528576,0.0893749,0,1,h,2016-10-16 16:30:00
+547,Middlesbrough,Arsenal,1.55581,0.711811,0,0,a,2016-10-22 18:00:00
+2681,Middlesbrough,Bournemouth,1.44317,1.54599,2,0,h,2016-10-29 18:00:00
+2689,Middlesbrough,Manchester City,0.208762,2.49606,1,1,a,2016-11-05 19:00:00
+2705,Middlesbrough,Chelsea,0.55976,1.68738,0,1,h,2016-11-20 20:00:00
+2711,Middlesbrough,Leicester,0.425252,2.0478,2,2,a,2016-11-26 19:00:00
+3114,Middlesbrough,Hull,1.94961,0.221339,1,0,h,2016-12-06 00:00:00
+3123,Middlesbrough,Southampton,0.493941,1.72919,0,1,a,2016-12-11 18:15:00
+3127,Middlesbrough,Liverpool,0.161583,2.13526,0,3,h,2016-12-14 23:45:00
+3136,Middlesbrough,Swansea,1.71549,0.602249,3,0,h,2016-12-17 19:00:00
+3150,Middlesbrough,Burnley,0.698814,0.275704,0,1,a,2016-12-26 19:00:00
+3159,Middlesbrough,Manchester United,0.64492,2.53996,1,2,a,2016-12-31 15:00:00
+3330,Middlesbrough,Leicester,0.697108,0.477078,0,0,h,2017-01-02 16:30:00
+3341,Middlesbrough,Watford,0.325347,0.835827,0,0,a,2017-01-14 19:00:00
+3351,Middlesbrough,West Ham,0.958825,2.6558,1,3,h,2017-01-21 18:00:00
+3363,Middlesbrough,West Bromwich Albion,1.18135,1.25288,1,1,h,2017-01-31 22:45:00
+3377,Middlesbrough,Tottenham,0.50484,2.10053,0,1,a,2017-02-04 17:30:00
+3382,Middlesbrough,Everton,0.651056,0.831644,0,0,h,2017-02-11 15:00:00
+3392,Middlesbrough,Crystal Palace,0.82885,0.808522,0,1,a,2017-02-25 15:00:00
+3403,Middlesbrough,Stoke,0.274611,2.97584,0,2,a,2017-03-04 15:00:00
+3425,Middlesbrough,Manchester United,1.09037,2.47484,1,3,h,2017-03-19 12:00:00
+3438,Middlesbrough,Swansea,0.748206,0.64382,0,0,a,2017-04-02 13:30:00
+3442,Middlesbrough,Hull,1.30673,2.23261,2,4,a,2017-04-05 19:45:00
+3456,Middlesbrough,Burnley,0.684683,0.809899,0,0,h,2017-04-08 15:00:00
+3461,Middlesbrough,Arsenal,1.72075,1.0689,1,2,h,2017-04-17 20:00:00
+3471,Middlesbrough,Bournemouth,0.2072,3.27712,0,4,a,2017-04-22 15:00:00
+3413,Middlesbrough,Sunderland,0.825839,0.445766,1,0,h,2017-04-26 19:45:00
+3483,Middlesbrough,Manchester City,1.17715,3.10725,2,2,h,2017-04-30 14:05:00
+3493,Middlesbrough,Chelsea,0.0718773,2.28046,0,3,a,2017-05-08 20:00:00
+3504,Middlesbrough,Southampton,1.32885,1.52569,1,2,h,2017-05-13 15:00:00
+3515,Middlesbrough,Liverpool,0.899691,2.16957,0,3,a,2017-05-21 15:00:00

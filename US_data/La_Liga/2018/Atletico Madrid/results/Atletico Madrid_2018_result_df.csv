@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+9965,Atletico Madrid,Valencia,0.979952,1.07885,1,1,a,2018-08-20 21:00:00
+9970,Atletico Madrid,Rayo Vallecano,0.976216,1.48336,1,0,h,2018-08-25 21:15:00
+9980,Atletico Madrid,Celta Vigo,0.432703,0.678086,0,2,a,2018-09-01 16:30:00
+9988,Atletico Madrid,Eibar,2.4656,1.21431,1,1,h,2018-09-15 11:00:00
+9999,Atletico Madrid,Getafe,1.4765,0.580433,2,0,a,2018-09-22 16:30:00
+10014,Atletico Madrid,SD Huesca,1.1563,0.500396,3,0,h,2018-09-25 20:00:00
+10022,Atletico Madrid,Real Madrid,0.661567,1.13552,0,0,a,2018-09-29 18:45:00
+10034,Atletico Madrid,Real Betis,0.573515,0.281257,1,0,h,2018-10-07 14:15:00
+10042,Atletico Madrid,Villarreal,1.62367,1.86233,1,1,a,2018-10-20 16:30:00
+10053,Atletico Madrid,Real Sociedad,1.41243,0.211158,2,0,h,2018-10-27 18:45:00
+10061,Atletico Madrid,Leganes,0.406811,1.35197,1,1,a,2018-11-03 12:00:00
+10069,Atletico Madrid,Athletic Club,1.10416,2.04637,3,2,h,2018-11-10 17:30:00
+10077,Atletico Madrid,Barcelona,0.432553,0.564664,1,1,h,2018-11-24 19:45:00
+10090,Atletico Madrid,Girona,1.60399,1.20781,1,1,a,2018-12-02 15:15:00
+10101,Atletico Madrid,Alaves,2.64303,1.36734,3,0,h,2018-12-08 12:00:00
+10111,Atletico Madrid,Real Valladolid,1.94316,0.691151,3,2,a,2018-12-15 15:15:00
+10118,Atletico Madrid,Espanyol,1.03123,0.71456,1,0,h,2018-12-22 15:15:00
+10131,Atletico Madrid,Sevilla,0.758265,1.57396,1,1,a,2019-01-06 15:15:00
+10145,Atletico Madrid,Levante,2.42604,0.897143,1,0,h,2019-01-13 11:00:00
+10147,Atletico Madrid,SD Huesca,2.74037,1.23016,3,0,a,2019-01-19 17:30:00
+10164,Atletico Madrid,Getafe,1.87881,0.277316,2,0,h,2019-01-26 15:15:00
+10170,Atletico Madrid,Real Betis,0.553708,1.01873,0,1,a,2019-02-03 15:15:00
+10177,Atletico Madrid,Real Madrid,1.02136,1.4515,1,3,h,2019-02-09 15:15:00
+10191,Atletico Madrid,Rayo Vallecano,0.146851,1.07992,1,0,a,2019-02-16 15:15:00
+10204,Atletico Madrid,Villarreal,1.70719,1.4124,2,0,h,2019-02-24 15:15:00
+10209,Atletico Madrid,Real Sociedad,2.1178,0.727428,2,0,a,2019-03-03 17:30:00
+10224,Atletico Madrid,Leganes,1.36052,0.102711,1,0,h,2019-03-09 15:15:00
+10227,Atletico Madrid,Athletic Club,1.02312,1.32158,0,2,a,2019-03-16 17:30:00
+10237,Atletico Madrid,Alaves,1.91501,0.859209,4,0,a,2019-03-30 19:45:00
+10255,Atletico Madrid,Girona,2.67949,0.687163,2,0,h,2019-04-02 18:30:00
+10261,Atletico Madrid,Barcelona,1.02054,2.57608,0,2,a,2019-04-06 19:45:00
+10273,Atletico Madrid,Celta Vigo,1.75463,0.617854,2,0,h,2019-04-13 17:30:00
+10280,Atletico Madrid,Eibar,1.55196,0.860003,1,0,a,2019-04-20 15:15:00
+10295,Atletico Madrid,Valencia,1.7288,2.05808,3,2,h,2019-04-24 18:30:00
+10297,Atletico Madrid,Real Valladolid,0.510006,0.584597,1,0,h,2019-04-27 15:15:00
+10310,Atletico Madrid,Espanyol,0.853337,1.72125,0,3,a,2019-05-04 15:15:00
+10325,Atletico Madrid,Sevilla,1.4302,0.65825,1,1,h,2019-05-12 17:30:00
+10330,Atletico Madrid,Levante,1.77093,2.74916,2,2,a,2019-05-18 11:00:00

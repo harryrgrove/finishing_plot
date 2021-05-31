@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+9198,Newcastle United,Tottenham,0.974497,2.58097,1,2,h,2018-08-11 14:30:00
+9207,Newcastle United,Cardiff,1.55405,1.15521,0,0,a,2018-08-18 14:30:00
+9225,Newcastle United,Chelsea,0.209337,1.49669,1,2,h,2018-08-26 18:00:00
+9234,Newcastle United,Manchester City,0.554763,2.46904,1,2,a,2018-09-01 16:30:00
+9238,Newcastle United,Arsenal,0.412121,0.90461,1,2,h,2018-09-15 14:00:00
+9251,Newcastle United,Crystal Palace,0.229309,0.930793,0,0,a,2018-09-22 14:00:00
+9259,Newcastle United,Leicester,0.397301,1.34341,0,2,h,2018-09-29 14:00:00
+9273,Newcastle United,Manchester United,1.55962,2.40631,2,3,a,2018-10-06 16:30:00
+9280,Newcastle United,Brighton,1.71169,0.675798,0,1,h,2018-10-20 14:00:00
+9292,Newcastle United,Southampton,0.297646,1.19216,0,0,a,2018-10-27 14:00:00
+9299,Newcastle United,Watford,0.691575,2.5452,1,0,h,2018-11-03 15:00:00
+9309,Newcastle United,Bournemouth,2.57545,1.91687,2,1,h,2018-11-10 15:00:00
+9326,Newcastle United,Burnley,1.67701,1.49487,2,1,a,2018-11-26 20:00:00
+9328,Newcastle United,West Ham,1.12583,2.62697,0,3,h,2018-12-01 15:00:00
+9345,Newcastle United,Everton,1.52214,2.10943,1,1,a,2018-12-05 19:45:00
+9348,Newcastle United,Wolverhampton Wanderers,0.4601,1.57799,1,2,h,2018-12-09 16:00:00
+9363,Newcastle United,Huddersfield,0.931041,0.671382,1,0,a,2018-12-15 15:00:00
+9369,Newcastle United,Fulham,0.289508,0.245408,0,0,h,2018-12-22 15:00:00
+9381,Newcastle United,Liverpool,0.456309,3.24988,0,4,a,2018-12-26 15:00:00
+9387,Newcastle United,Watford,0.661713,1.05566,1,1,a,2018-12-29 15:00:00
+9399,Newcastle United,Manchester United,0.691878,2.6754,0,2,h,2019-01-02 20:00:00
+9413,Newcastle United,Chelsea,0.395148,1.32355,1,2,a,2019-01-12 17:30:00
+9420,Newcastle United,Cardiff,2.518,0.255727,3,0,h,2019-01-19 15:00:00
+9434,Newcastle United,Manchester City,0.992326,1.33896,2,1,h,2019-01-29 20:00:00
+9438,Newcastle United,Tottenham,0.400152,3.10409,0,1,a,2019-02-02 12:30:00
+9450,Newcastle United,Wolverhampton Wanderers,0.435263,2.30998,1,1,a,2019-02-11 20:00:00
+9458,Newcastle United,Huddersfield,3.03313,0.133934,2,0,h,2019-02-23 15:00:00
+9473,Newcastle United,Burnley,1.70312,1.74201,2,0,h,2019-02-26 20:00:00
+9478,Newcastle United,West Ham,1.18549,1.88895,0,2,a,2019-03-02 17:30:00
+9488,Newcastle United,Everton,2.37896,1.15114,3,2,h,2019-03-09 15:00:00
+9506,Newcastle United,Bournemouth,1.02847,1.61666,2,2,a,2019-03-16 15:00:00
+9507,Newcastle United,Arsenal,0.0441445,1.04458,0,2,a,2019-04-01 20:00:00
+9521,Newcastle United,Crystal Palace,0.943175,0.907988,0,1,h,2019-04-06 15:00:00
+9532,Newcastle United,Leicester,0.945804,0.877377,1,0,a,2019-04-12 20:00:00
+9539,Newcastle United,Southampton,1.23033,1.27102,3,1,h,2019-04-20 17:30:00
+9556,Newcastle United,Brighton,0.43797,1.20482,1,1,a,2019-04-27 17:30:00
+9559,Newcastle United,Liverpool,1.29707,1.48081,2,3,h,2019-05-04 18:45:00
+9573,Newcastle United,Fulham,1.95921,0.569845,4,0,a,2019-05-12 14:00:00

@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+10338,Wolfsburg,Schalke 04,1.31029,1.86154,2,1,h,2018-08-25 16:30:00
+10351,Wolfsburg,Bayer Leverkusen,2.13508,0.877655,3,1,a,2018-09-01 13:30:00
+10358,Wolfsburg,Hertha Berlin,2.23932,0.590795,2,2,h,2018-09-15 13:30:00
+10368,Wolfsburg,Freiburg,0.826665,2.26733,1,3,h,2018-09-22 13:30:00
+10381,Wolfsburg,Mainz 05,1.19657,0.362483,0,0,a,2018-09-26 18:30:00
+10386,Wolfsburg,Borussia M.Gladbach,0.802752,0.849348,2,2,h,2018-09-29 13:30:00
+10395,Wolfsburg,Werder Bremen,0.351604,1.10209,0,2,a,2018-10-05 18:30:00
+10407,Wolfsburg,Bayern Munich,0.815476,2.75811,1,3,h,2018-10-20 13:30:00
+10416,Wolfsburg,Fortuna Duesseldorf,1.74956,0.245269,3,0,a,2018-10-27 13:30:00
+10421,Wolfsburg,Borussia Dortmund,0.44332,1.19435,0,1,h,2018-11-03 14:30:00
+10432,Wolfsburg,Hannover 96,2.99196,2.08751,1,2,a,2018-11-09 19:30:00
+10444,Wolfsburg,RasenBallsport Leipzig,1.54495,0.647326,1,0,h,2018-11-24 14:30:00
+10449,Wolfsburg,Eintracht Frankfurt,1.72581,1.53625,2,1,a,2018-12-02 17:00:00
+10462,Wolfsburg,Hoffenheim,0.515385,2.10256,2,2,h,2018-12-08 14:30:00
+10471,Wolfsburg,Nuernberg,0.70077,0.601572,2,0,a,2018-12-14 19:30:00
+10477,Wolfsburg,VfB Stuttgart,1.584,0.333514,2,0,h,2018-12-18 19:30:00
+10488,Wolfsburg,Augsburg,2.66718,0.382344,3,2,a,2018-12-23 14:30:00
+10496,Wolfsburg,Schalke 04,1.72547,3.02896,1,2,a,2019-01-20 17:00:00
+10506,Wolfsburg,Bayer Leverkusen,1.19108,3.00387,0,3,h,2019-01-26 14:30:00
+10511,Wolfsburg,Hertha Berlin,1.18244,1.70071,1,0,a,2019-02-02 14:30:00
+10523,Wolfsburg,Freiburg,1.91629,0.818616,3,3,a,2019-02-09 14:30:00
+10532,Wolfsburg,Mainz 05,2.13855,0.719281,3,0,h,2019-02-16 14:30:00
+10538,Wolfsburg,Borussia M.Gladbach,0.794633,1.18063,3,0,a,2019-02-23 14:30:00
+10551,Wolfsburg,Werder Bremen,1.16809,1.83543,1,1,h,2019-03-03 17:00:00
+10553,Wolfsburg,Bayern Munich,0.159247,3.77617,0,6,a,2019-03-09 14:30:00
+10566,Wolfsburg,Fortuna Duesseldorf,3.87623,1.93907,5,2,h,2019-03-16 14:30:00
+10572,Wolfsburg,Borussia Dortmund,0.171788,1.45093,0,2,a,2019-03-30 14:30:00
+10588,Wolfsburg,Hannover 96,1.43754,1.54016,3,1,h,2019-04-06 14:30:00
+10591,Wolfsburg,RasenBallsport Leipzig,0.38877,2.11199,0,2,a,2019-04-13 14:30:00
+10605,Wolfsburg,Eintracht Frankfurt,2.01024,1.62116,1,1,h,2019-04-22 19:30:00
+10608,Wolfsburg,Hoffenheim,2.05348,3.38957,4,1,a,2019-04-28 14:30:00
+10624,Wolfsburg,Nuernberg,1.18184,0.566199,2,0,h,2019-05-04 14:30:00
+10629,Wolfsburg,VfB Stuttgart,0.340041,0.680306,0,3,a,2019-05-11 14:30:00
+10641,Wolfsburg,Augsburg,4.15452,0.672581,8,1,h,2019-05-18 13:30:00

@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+8262,Augsburg,Hamburger SV,0.573987,0.55238,0,1,a,2017-08-19 14:30:00
+8272,Augsburg,Borussia M.Gladbach,2.45658,1.3232,2,2,h,2017-08-26 14:30:00
+8282,Augsburg,FC Cologne,2.27655,0.458374,3,0,h,2017-09-09 14:30:00
+8288,Augsburg,Eintracht Frankfurt,0.72838,1.32498,2,1,a,2017-09-16 14:30:00
+8297,Augsburg,RasenBallsport Leipzig,1.30034,1.00414,1,0,h,2017-09-19 19:30:00
+8305,Augsburg,VfB Stuttgart,0.373592,0.437172,0,0,a,2017-09-23 14:30:00
+8321,Augsburg,Borussia Dortmund,1.04024,1.93835,1,2,h,2017-09-30 14:30:00
+8324,Augsburg,Hoffenheim,0.918991,1.92073,2,2,a,2017-10-14 14:30:00
+8337,Augsburg,Hannover 96,0.864125,0.804724,1,2,h,2017-10-21 14:30:00
+8343,Augsburg,Werder Bremen,2.80574,1.05484,3,0,a,2017-10-29 14:30:00
+8354,Augsburg,Bayer Leverkusen,1.40776,1.16695,1,1,h,2017-11-04 14:30:00
+8358,Augsburg,Bayern Munich,0.28233,1.91503,0,3,a,2017-11-18 14:30:00
+8373,Augsburg,Wolfsburg,2.0989,0.210553,2,1,h,2017-11-25 14:30:00
+8383,Augsburg,Mainz 05,2.18855,0.578034,3,1,a,2017-12-02 14:30:00
+8392,Augsburg,Hertha Berlin,1.63195,0.647387,1,1,h,2017-12-10 17:00:00
+8398,Augsburg,Schalke 04,1.41489,2.60823,2,3,a,2017-12-13 19:30:00
+8406,Augsburg,Freiburg,2.95093,1.76688,3,3,h,2017-12-16 14:30:00
+8418,Augsburg,Hamburger SV,1.32144,0.362892,1,0,h,2018-01-13 14:30:00
+8425,Augsburg,Borussia M.Gladbach,1.31181,1.58577,0,2,a,2018-01-20 14:30:00
+8434,Augsburg,FC Cologne,0.688597,0.9238,1,1,a,2018-01-27 14:30:00
+8443,Augsburg,Eintracht Frankfurt,3.37224,0.35277,3,0,h,2018-02-04 14:30:00
+8453,Augsburg,RasenBallsport Leipzig,0.813412,1.94548,0,2,a,2018-02-09 19:30:00
+8463,Augsburg,VfB Stuttgart,0.321031,1.40418,0,1,h,2018-02-18 14:30:00
+8467,Augsburg,Borussia Dortmund,1.01277,1.19993,1,1,a,2018-02-26 19:30:00
+8481,Augsburg,Hoffenheim,0.52869,1.84153,0,2,h,2018-03-03 14:30:00
+8488,Augsburg,Hannover 96,2.09117,0.741256,3,1,a,2018-03-10 14:30:00
+8501,Augsburg,Werder Bremen,0.547431,2.27046,1,3,h,2018-03-17 14:30:00
+8507,Augsburg,Bayer Leverkusen,0.301791,0.884077,0,0,a,2018-03-31 14:30:00
+8517,Augsburg,Bayern Munich,0.886211,2.32217,1,4,h,2018-04-07 13:30:00
+8527,Augsburg,Wolfsburg,0.213724,0.789397,0,0,a,2018-04-13 18:30:00
+8534,Augsburg,Mainz 05,1.66389,0.293261,2,0,h,2018-04-22 13:30:00
+8540,Augsburg,Hertha Berlin,0.668665,1.46846,2,2,a,2018-04-28 13:30:00
+8547,Augsburg,Schalke 04,0.968124,2.01034,1,2,h,2018-05-05 14:30:00
+8559,Augsburg,Freiburg,0.237381,0.707853,0,2,a,2018-05-12 14:30:00

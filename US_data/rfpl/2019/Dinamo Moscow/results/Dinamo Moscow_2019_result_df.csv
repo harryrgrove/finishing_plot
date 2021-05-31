@@ -1,0 +1,31 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+11023,Dinamo Moscow,Arsenal Tula,0.973431,1.50584,1,1,a,2019-07-12 17:00:00
+11037,Dinamo Moscow,Rubin Kazan,2.51832,1.23967,0,1,h,2019-07-21 16:00:00
+11039,Dinamo Moscow,Ural,1.69636,0.651191,2,0,h,2019-07-26 17:00:00
+11049,Dinamo Moscow,Spartak Moscow,0.844036,0.580905,0,0,a,2019-08-03 17:00:00
+11057,Dinamo Moscow,Zenit St. Petersburg,0.87339,1.80941,0,2,h,2019-08-10 17:00:00
+11069,Dinamo Moscow,Lokomotiv Moscow,0.484973,2.34859,1,2,h,2019-08-18 17:00:00
+11071,Dinamo Moscow,FC Tambov,1.43116,0.8282,2,0,a,2019-08-24 12:00:00
+11079,Dinamo Moscow,Krylya Sovetov Samara,1.3511,0.625301,0,0,a,2019-08-30 18:00:00
+11089,Dinamo Moscow,FC Ufa,2.34021,0.658613,0,0,h,2019-09-16 17:00:00
+11096,Dinamo Moscow,PFC Sochi,0.727353,1.18294,2,3,h,2019-09-22 11:00:00
+11108,Dinamo Moscow,FC Rostov,0.818962,0.988366,0,3,a,2019-09-28 13:30:00
+11115,Dinamo Moscow,FC Orenburg,0.723304,1.81528,0,2,a,2019-10-05 12:00:00
+11123,Dinamo Moscow,FC Krasnodar,1.58437,0.920669,1,1,h,2019-10-20 17:00:00
+11129,Dinamo Moscow,CSKA Moscow,0.860837,1.22876,1,0,a,2019-10-27 13:30:00
+11141,Dinamo Moscow,FK Akhmat,1.01856,1.459,1,1,h,2019-11-02 11:00:00
+11145,Dinamo Moscow,Rubin Kazan,1.57898,0.388284,1,0,a,2019-11-09 11:00:00
+11154,Dinamo Moscow,FC Rostov,2.02484,1.87154,2,1,h,2019-11-23 13:30:00
+11163,Dinamo Moscow,Lokomotiv Moscow,2.1566,1.83064,2,1,a,2019-12-01 13:30:00
+11172,Dinamo Moscow,Zenit St. Petersburg,0.258974,1.27732,0,3,a,2019-12-06 16:30:00
+11179,Dinamo Moscow,Spartak Moscow,0.770056,2.06749,0,2,h,2020-02-29 13:30:00
+11185,Dinamo Moscow,FC Tambov,1.25385,0.6633,1,0,h,2020-03-07 13:30:00
+11195,Dinamo Moscow,FK Akhmat,1.54301,1.15592,3,2,a,2020-03-13 16:30:00
+11210,Dinamo Moscow,CSKA Moscow,0.476279,0.373063,0,0,h,2020-06-27 16:00:00
+11219,Dinamo Moscow,PFC Sochi,1.22408,1.08132,1,1,a,2020-07-01 17:00:00
+11225,Dinamo Moscow,Arsenal Tula,1.66403,1.0745,0,1,h,2020-07-04 13:30:00
+11237,Dinamo Moscow,Ural,1.40271,1.45914,1,2,a,2020-07-09 14:00:00
+11241,Dinamo Moscow,Krylya Sovetov Samara,2.65439,0.77968,2,0,h,2020-07-12 15:30:00
+11253,Dinamo Moscow,FC Ufa,2.23324,0.177016,1,0,a,2020-07-16 15:00:00
+11199,Dinamo Moscow,FC Krasnodar,1.0024,0.262932,2,0,a,2020-07-19 17:30:00
+11258,Dinamo Moscow,FC Orenburg,1.40664,0.515923,0,1,h,2020-07-22 16:00:00

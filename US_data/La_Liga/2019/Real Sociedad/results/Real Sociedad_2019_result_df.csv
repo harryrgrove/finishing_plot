@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+12024,Real Sociedad,Valencia,1.79528,2.31396,1,1,a,2019-08-17 18:00:00
+12040,Real Sociedad,Mallorca,1.59382,0.871995,1,0,a,2019-08-25 16:00:00
+12047,Real Sociedad,Athletic Club,0.217717,1.16451,0,2,a,2019-08-30 21:00:00
+12061,Real Sociedad,Atletico Madrid,2.08851,1.06745,2,0,h,2019-09-14 16:30:00
+12072,Real Sociedad,Espanyol,1.49572,0.701868,3,1,a,2019-09-22 12:00:00
+12077,Real Sociedad,Alaves,3.80899,0.195935,3,0,h,2019-09-26 19:00:00
+12091,Real Sociedad,Sevilla,0.774246,1.60195,2,3,a,2019-09-29 19:00:00
+12100,Real Sociedad,Getafe,0.770489,0.86893,1,2,h,2019-10-06 17:30:00
+12111,Real Sociedad,Real Betis,1.32948,0.63684,3,1,h,2019-10-20 13:00:00
+12114,Real Sociedad,Celta Vigo,0.967791,0.846315,1,0,a,2019-10-27 11:00:00
+12131,Real Sociedad,Levante,1.71528,2.03092,1,2,h,2019-10-30 18:00:00
+12135,Real Sociedad,Granada,1.02564,0.163677,2,1,a,2019-11-03 20:00:00
+12151,Real Sociedad,Leganes,1.19357,0.326909,1,1,h,2019-11-08 20:00:00
+12160,Real Sociedad,Real Madrid,1.41126,1.69928,1,3,a,2019-11-23 20:00:00
+12170,Real Sociedad,Eibar,1.39065,0.605108,4,1,h,2019-11-30 15:00:00
+12182,Real Sociedad,Real Valladolid,1.87222,0.509978,0,0,a,2019-12-08 15:00:00
+12190,Real Sociedad,Barcelona,2.87892,1.18314,2,2,h,2019-12-14 15:00:00
+12199,Real Sociedad,Osasuna,2.29198,3.10563,4,3,a,2019-12-22 13:00:00
+12209,Real Sociedad,Villarreal,1.01062,1.29087,1,2,h,2020-01-05 13:00:00
+12215,Real Sociedad,Real Betis,0.281591,2.26225,0,3,a,2020-01-19 13:00:00
+12229,Real Sociedad,Mallorca,2.6866,0.885045,3,0,h,2020-01-26 17:30:00
+12236,Real Sociedad,Leganes,0.108866,1.42,1,2,a,2020-02-02 11:00:00
+12247,Real Sociedad,Athletic Club,2.27376,0.643736,2,1,h,2020-02-09 13:00:00
+12271,Real Sociedad,Valencia,2.3988,0.25727,3,0,h,2020-02-22 17:30:00
+12280,Real Sociedad,Real Valladolid,2.56307,0.86626,1,0,h,2020-02-28 20:00:00
+12285,Real Sociedad,Barcelona,0.550322,2.2099,0,1,a,2020-03-07 17:30:00
+12255,Real Sociedad,Eibar,1.30335,1.84648,2,1,a,2020-03-10 19:00:00
+12302,Real Sociedad,Osasuna,0.89714,1.1455,1,1,h,2020-06-14 20:00:00
+12303,Real Sociedad,Alaves,0.318266,1.52088,0,2,a,2020-06-18 17:30:00
+12320,Real Sociedad,Real Madrid,0.482127,1.30503,1,2,h,2020-06-21 20:00:00
+12330,Real Sociedad,Celta Vigo,0.628775,0.848154,0,1,h,2020-06-24 17:30:00
+12337,Real Sociedad,Getafe,0.731053,1.3901,1,2,a,2020-06-29 20:00:00
+12350,Real Sociedad,Espanyol,1.38838,0.11827,2,1,h,2020-07-02 17:30:00
+12358,Real Sociedad,Levante,1.06365,1.19147,1,1,a,2020-07-06 17:30:00
+12367,Real Sociedad,Granada,1.18927,0.312385,2,3,h,2020-07-10 17:30:00
+12382,Real Sociedad,Villarreal,1.24702,0.365973,2,1,a,2020-07-13 17:30:00
+12389,Real Sociedad,Sevilla,0.835797,0.611057,0,0,h,2020-07-16 19:00:00
+12394,Real Sociedad,Atletico Madrid,0.335651,1.50008,1,1,a,2020-07-19 19:00:00

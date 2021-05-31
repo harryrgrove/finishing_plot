@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1335,Hoffenheim,RasenBallsport Leipzig,1.15624,2.47526,2,2,h,2016-08-28 19:30:00
+1344,Hoffenheim,Mainz 05,2.26684,0.788235,4,4,a,2016-09-11 19:30:00
+1347,Hoffenheim,Wolfsburg,1.93562,2.34852,0,0,h,2016-09-17 17:30:00
+1356,Hoffenheim,Darmstadt,1.44238,1.62811,1,1,a,2016-09-20 22:00:00
+1370,Hoffenheim,Schalke 04,1.8649,1.04708,2,1,h,2016-09-25 17:30:00
+1375,Hoffenheim,Ingolstadt,3.31162,2.21758,2,1,a,2016-10-01 17:30:00
+1385,Hoffenheim,Freiburg,2.4316,0.860554,2,1,h,2016-10-15 17:30:00
+1395,Hoffenheim,Bayer Leverkusen,2.30615,0.598561,3,0,a,2016-10-22 17:30:00
+3306,Hoffenheim,Hertha Berlin,2.77857,0.251867,1,0,h,2016-10-30 18:30:00
+2809,Hoffenheim,Bayern Munich,0.24666,1.49595,1,1,a,2016-11-05 18:30:00
+2822,Hoffenheim,Hamburger SV,2.31892,1.80116,2,2,h,2016-11-20 18:30:00
+2826,Hoffenheim,Borussia M.Gladbach,0.827583,1.845,1,1,a,2016-11-26 18:30:00
+3196,Hoffenheim,FC Cologne,2.16731,1.83627,4,0,h,2016-12-03 18:30:00
+3201,Hoffenheim,Eintracht Frankfurt,0.212786,0.582927,0,0,a,2016-12-09 23:30:00
+3210,Hoffenheim,Borussia Dortmund,1.54298,1.48937,2,2,h,2016-12-16 19:30:00
+3224,Hoffenheim,Werder Bremen,1.51059,0.546119,1,1,h,2016-12-21 23:00:00
+3725,Hoffenheim,Augsburg,1.89483,0.45179,2,0,a,2017-01-21 17:30:00
+3732,Hoffenheim,RasenBallsport Leipzig,0.793259,1.47923,1,2,a,2017-01-28 17:30:00
+3742,Hoffenheim,Mainz 05,2.43327,0.895123,4,0,h,2017-02-04 14:30:00
+3756,Hoffenheim,Wolfsburg,0.874317,2.33121,1,2,a,2017-02-12 14:30:00
+3760,Hoffenheim,Darmstadt,1.73239,0.316848,2,0,h,2017-02-18 14:30:00
+3775,Hoffenheim,Schalke 04,0.907791,0.282474,1,1,a,2017-02-26 16:30:00
+3780,Hoffenheim,Ingolstadt,2.00625,0.755565,5,2,h,2017-03-04 14:30:00
+3788,Hoffenheim,Freiburg,1.59538,1.14554,1,1,a,2017-03-11 14:30:00
+3799,Hoffenheim,Bayer Leverkusen,1.75958,0.992443,1,0,h,2017-03-18 14:30:00
+3803,Hoffenheim,Hertha Berlin,3.16527,0.269789,3,1,a,2017-03-31 19:30:00
+3815,Hoffenheim,Bayern Munich,0.972676,1.89107,1,0,h,2017-04-04 19:00:00
+3826,Hoffenheim,Hamburger SV,1.40908,0.920754,1,2,a,2017-04-08 14:30:00
+3838,Hoffenheim,Borussia M.Gladbach,2.0053,2.23834,5,3,h,2017-04-15 14:30:00
+3842,Hoffenheim,FC Cologne,1.16684,1.18729,1,1,a,2017-04-21 19:30:00
+3852,Hoffenheim,Eintracht Frankfurt,0.595004,0.172208,1,0,h,2017-04-30 16:30:00
+3860,Hoffenheim,Borussia Dortmund,1.03413,2.58723,1,2,a,2017-05-06 14:30:00
+3871,Hoffenheim,Werder Bremen,1.01187,1.44786,5,3,a,2017-05-13 14:30:00
+3881,Hoffenheim,Augsburg,0.825898,0.264815,0,0,h,2017-05-20 14:30:00

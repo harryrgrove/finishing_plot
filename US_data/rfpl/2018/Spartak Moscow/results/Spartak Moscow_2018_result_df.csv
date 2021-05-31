@@ -1,0 +1,31 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+8946,Spartak Moscow,FC Orenburg,0.78611,0.195363,1,0,h,2018-07-28 19:00:00
+8956,Spartak Moscow,Lokomotiv Moscow,1.47596,0.533667,0,0,a,2018-08-04 19:00:00
+8963,Spartak Moscow,Anzhi Makhachkala,1.77821,0.0220797,1,0,h,2018-08-11 19:00:00
+8971,Spartak Moscow,FC Krasnodar,0.339471,1.0754,1,0,a,2018-08-18 19:00:00
+8980,Spartak Moscow,Dinamo Moscow,2.22604,0.36489,2,1,h,2018-08-25 19:00:00
+8991,Spartak Moscow,Zenit St. Petersburg,0.512206,0.845865,0,0,a,2018-09-02 16:00:00
+8998,Spartak Moscow,FK Akhmat,0.750654,1.60606,1,2,h,2018-09-16 16:00:00
+9006,Spartak Moscow,CSKA Moscow,0.797273,0.823241,1,1,a,2018-09-23 16:00:00
+9015,Spartak Moscow,FC Rostov,0.557661,1.20486,0,1,h,2018-09-30 16:00:00
+9019,Spartak Moscow,FC Yenisey Krasnoyarsk,1.71339,1.61194,3,2,a,2018-10-07 08:30:00
+9028,Spartak Moscow,Arsenal Tula,2.04181,2.12445,2,3,h,2018-10-21 13:30:00
+9037,Spartak Moscow,Rubin Kazan,0.917239,0.88705,1,1,a,2018-10-29 16:30:00
+9046,Spartak Moscow,Ural,1.34706,1.80676,1,2,h,2018-11-04 16:00:00
+9052,Spartak Moscow,FC Ufa,0.447186,1.40675,0,2,a,2018-11-11 11:00:00
+9057,Spartak Moscow,Krylya Sovetov Samara,2.30277,0.548141,3,1,h,2018-11-25 11:00:00
+9070,Spartak Moscow,Lokomotiv Moscow,1.52218,2.67071,2,1,h,2018-12-02 16:00:00
+9080,Spartak Moscow,Anzhi Makhachkala,3.35541,0.971855,3,0,a,2018-12-08 17:00:00
+9087,Spartak Moscow,FC Krasnodar,0.943381,0.912565,1,1,h,2019-03-03 16:00:00
+9094,Spartak Moscow,Dinamo Moscow,0.957899,0.56364,1,0,a,2019-03-10 16:00:00
+9102,Spartak Moscow,Zenit St. Petersburg,2.0275,0.95417,1,1,h,2019-03-17 16:00:00
+9109,Spartak Moscow,FK Akhmat,1.75714,0.674893,3,1,a,2019-03-30 13:30:00
+9117,Spartak Moscow,CSKA Moscow,1.08112,2.3397,0,2,h,2019-04-06 17:00:00
+9122,Spartak Moscow,FC Rostov,1.2092,0.949243,1,2,a,2019-04-14 17:00:00
+9131,Spartak Moscow,FC Yenisey Krasnoyarsk,1.47233,0.174987,2,0,h,2019-04-21 17:00:00
+9138,Spartak Moscow,Arsenal Tula,0.680616,1.74986,0,3,a,2019-04-25 18:30:00
+9149,Spartak Moscow,Rubin Kazan,1.11434,1.39197,1,1,h,2019-04-29 17:30:00
+9158,Spartak Moscow,Ural,1.52085,1.47842,1,0,a,2019-05-04 12:00:00
+9167,Spartak Moscow,FC Ufa,1.12398,0.967868,1,0,h,2019-05-12 14:30:00
+9169,Spartak Moscow,Krylya Sovetov Samara,1.30241,1.31665,2,1,a,2019-05-18 16:00:00
+9184,Spartak Moscow,FC Orenburg,0.836699,1.93278,0,2,a,2019-05-26 11:00:00

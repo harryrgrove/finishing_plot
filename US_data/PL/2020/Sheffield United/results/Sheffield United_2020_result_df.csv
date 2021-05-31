@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+14094,Sheffield United,Wolverhampton Wanderers,0.949316,1.61307,0,2,h,2020-09-14 17:00:00
+14104,Sheffield United,Aston Villa,0.849709,0.80527,0,1,a,2020-09-21 17:00:00
+14110,Sheffield United,Leeds,1.53278,1.46641,0,1,h,2020-09-27 11:00:00
+14465,Sheffield United,Arsenal,0.144994,0.667131,1,2,a,2020-10-04 13:00:00
+14482,Sheffield United,Fulham,1.66363,1.35611,1,1,h,2020-10-18 11:00:00
+14490,Sheffield United,Liverpool,1.39788,2.40286,1,2,a,2020-10-24 19:00:00
+14502,Sheffield United,Manchester City,0.687544,1.89643,0,1,h,2020-10-31 12:30:00
+14507,Sheffield United,Chelsea,0.743967,2.87622,1,4,a,2020-11-07 17:30:00
+14522,Sheffield United,West Ham,0.692374,2.1142,0,1,h,2020-11-22 14:00:00
+14527,Sheffield United,West Bromwich Albion,3.36544,1.71644,0,1,a,2020-11-28 20:00:00
+14541,Sheffield United,Leicester,0.290743,1.3904,1,2,h,2020-12-06 14:15:00
+14551,Sheffield United,Southampton,0.219115,2.27973,0,3,a,2020-12-13 12:00:00
+14560,Sheffield United,Manchester United,1.23525,1.78667,2,3,h,2020-12-17 20:00:00
+14565,Sheffield United,Brighton,1.03713,2.90097,1,1,a,2020-12-20 12:00:00
+14582,Sheffield United,Everton,1.25106,0.568803,0,1,h,2020-12-26 20:00:00
+14587,Sheffield United,Burnley,0.492578,0.973831,0,1,a,2020-12-29 18:00:00
+14604,Sheffield United,Crystal Palace,0.323158,0.598888,0,2,a,2021-01-02 15:00:00
+14610,Sheffield United,Newcastle United,2.01315,1.04745,1,0,h,2021-01-12 18:00:00
+14622,Sheffield United,Tottenham,0.978133,1.28385,1,3,h,2021-01-17 14:00:00
+14628,Sheffield United,Manchester United,0.689548,0.9931,2,1,a,2021-01-27 20:15:00
+14642,Sheffield United,Manchester City,0.154537,1.53116,0,1,a,2021-01-30 15:00:00
+14649,Sheffield United,West Bromwich Albion,1.35804,1.61871,2,1,h,2021-02-02 18:00:00
+14662,Sheffield United,Chelsea,0.623045,1.64144,1,2,h,2021-02-07 19:15:00
+14674,Sheffield United,West Ham,0.926652,2.32735,0,3,a,2021-02-15 18:00:00
+14679,Sheffield United,Fulham,0.977747,1.21006,0,1,a,2021-02-20 20:00:00
+14694,Sheffield United,Liverpool,0.777149,2.80551,0,2,h,2021-02-28 19:15:00
+14721,Sheffield United,Aston Villa,0.716254,1.44176,1,0,h,2021-03-03 18:00:00
+14701,Sheffield United,Southampton,0.908155,2.37386,0,2,h,2021-03-06 15:00:00
+14710,Sheffield United,Leicester,0.0934777,4.54571,0,5,a,2021-03-14 14:00:00
+14729,Sheffield United,Leeds,0.867652,2.50597,1,2,a,2021-04-03 14:00:00
+14741,Sheffield United,Arsenal,0.315121,1.93838,0,3,h,2021-04-11 18:00:00
+14754,Sheffield United,Wolverhampton Wanderers,0.295925,1.22604,0,1,a,2021-04-17 19:15:00
+14762,Sheffield United,Brighton,0.786324,2.06038,1,0,h,2021-04-24 19:00:00
+14773,Sheffield United,Tottenham,0.469026,2.26016,0,4,a,2021-05-02 18:15:00
+14782,Sheffield United,Crystal Palace,0.639325,2.25382,0,2,h,2021-05-08 14:00:00
+14787,Sheffield United,Everton,1.391,1.24609,1,0,a,2021-05-16 18:00:00
+14801,Sheffield United,Newcastle United,0.882242,1.82508,0,1,a,2021-05-19 17:00:00
+14812,Sheffield United,Burnley,0.420006,0.558508,1,0,h,2021-05-23 15:00:00

@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+14140,Real Sociedad,Real Valladolid,0.31178,0.858211,1,1,a,2020-09-13 14:00:00
+14152,Real Sociedad,Real Madrid,0.718119,0.769069,0,0,h,2020-09-20 19:00:00
+14163,Real Sociedad,Elche,3.3738,1.23661,3,0,a,2020-09-26 16:30:00
+14170,Real Sociedad,Valencia,0.589249,0.836796,0,1,h,2020-09-29 17:00:00
+14821,Real Sociedad,Getafe,2.19684,0.315862,3,0,h,2020-10-03 16:30:00
+14827,Real Sociedad,Real Betis,1.58336,0.304528,3,0,a,2020-10-18 19:00:00
+14841,Real Sociedad,SD Huesca,1.79773,0.591473,4,1,h,2020-10-25 20:00:00
+14848,Real Sociedad,Celta Vigo,2.27628,2.12312,4,1,a,2020-11-01 15:00:00
+14860,Real Sociedad,Granada,3.72416,0.780649,2,0,h,2020-11-08 15:15:00
+14869,Real Sociedad,Cadiz,1.90588,0.0824748,1,0,a,2020-11-22 15:15:00
+14881,Real Sociedad,Villarreal,1.91705,1.10165,1,1,h,2020-11-29 20:00:00
+14891,Real Sociedad,Alaves,1.39953,0.249462,0,0,a,2020-12-06 20:00:00
+14904,Real Sociedad,Eibar,1.33912,1.55401,1,1,h,2020-12-13 13:00:00
+14905,Real Sociedad,Barcelona,1.82452,2.58133,1,2,a,2020-12-16 20:00:00
+14914,Real Sociedad,Levante,2.1027,1.52776,1,2,a,2020-12-19 17:30:00
+14926,Real Sociedad,Atletico Madrid,0.230082,0.546595,0,2,h,2020-12-22 18:45:00
+14927,Real Sociedad,Athletic Club,1.84296,0.172341,1,0,a,2020-12-31 13:00:00
+14944,Real Sociedad,Osasuna,0.78536,0.609915,1,1,h,2021-01-03 17:30:00
+14955,Real Sociedad,Sevilla,1.05731,2.9243,2,3,a,2021-01-09 13:00:00
+14970,Real Sociedad,Real Betis,2.24597,0.638534,2,2,h,2021-01-23 17:30:00
+14987,Real Sociedad,Villarreal,1.16681,0.232475,1,1,a,2021-01-30 20:00:00
+14995,Real Sociedad,Cadiz,4.7946,0.354151,4,1,h,2021-02-07 13:00:00
+15001,Real Sociedad,Getafe,1.03317,0.263007,1,0,a,2021-02-14 13:00:00
+15014,Real Sociedad,Alaves,2.50353,0.307378,4,0,h,2021-02-21 15:15:00
+15025,Real Sociedad,Real Madrid,1.21953,1.98534,1,1,a,2021-03-01 20:00:00
+15034,Real Sociedad,Levante,4.95179,0.186229,1,0,h,2021-03-07 17:30:00
+15043,Real Sociedad,Granada,0.306083,0.331961,0,1,a,2021-03-14 15:15:00
+15054,Real Sociedad,Barcelona,0.917148,3.3338,1,6,h,2021-03-21 20:00:00
+15065,Real Sociedad,Athletic Club,0.724498,0.990446,1,1,h,2021-04-07 19:00:00
+15075,Real Sociedad,Valencia,1.13047,2.34115,2,2,a,2021-04-11 14:15:00
+15107,Real Sociedad,Sevilla,0.292775,3.65426,1,2,h,2021-04-18 12:00:00
+15086,Real Sociedad,Celta Vigo,2.19014,0.504303,2,1,h,2021-04-22 19:00:00
+15090,Real Sociedad,Eibar,0.706358,0.729653,1,0,a,2021-04-26 19:00:00
+15116,Real Sociedad,SD Huesca,0.298366,0.446278,0,1,a,2021-05-01 16:30:00
+15125,Real Sociedad,Elche,2.39443,0.0778732,2,0,h,2021-05-07 19:00:00
+15128,Real Sociedad,Atletico Madrid,1.53283,1.7908,1,2,a,2021-05-12 20:00:00
+15145,Real Sociedad,Real Valladolid,1.67996,1.04641,4,1,h,2021-05-16 16:30:00
+15153,Real Sociedad,Osasuna,2.08092,0.41494,1,0,a,2021-05-22 16:00:00

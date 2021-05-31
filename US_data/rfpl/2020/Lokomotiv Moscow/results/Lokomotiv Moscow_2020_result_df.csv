@@ -1,0 +1,31 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+14004,Lokomotiv Moscow,Rubin Kazan,1.17224,1.53148,2,0,a,2020-08-11 17:00:00
+14011,Lokomotiv Moscow,FC Krasnodar,1.53065,1.45114,1,0,h,2020-08-15 16:00:00
+14016,Lokomotiv Moscow,Ural,2.71693,0.582693,1,1,a,2020-08-19 13:00:00
+14028,Lokomotiv Moscow,Spartak Moscow,0.712562,1.56274,1,2,a,2020-08-23 16:00:00
+14032,Lokomotiv Moscow,FK Akhmat,1.92877,1.2382,2,3,h,2020-08-26 15:30:00
+14041,Lokomotiv Moscow,Zenit St. Petersburg,0.3042,0.608877,0,0,h,2020-08-30 13:00:00
+14232,Lokomotiv Moscow,FC Rostov,0.344369,0.933342,0,0,a,2020-09-14 17:30:00
+14239,Lokomotiv Moscow,FC Tambov,1.20872,0.183486,1,0,h,2020-09-20 16:00:00
+14246,Lokomotiv Moscow,CSKA Moscow,2.00638,1.3795,1,0,a,2020-09-27 16:00:00
+14301,Lokomotiv Moscow,Khimki,1.90177,1.24997,2,1,h,2020-10-04 11:00:00
+14309,Lokomotiv Moscow,FC Ufa,0.941078,0.118828,1,0,h,2020-10-17 13:30:00
+14314,Lokomotiv Moscow,FC Rotor Volgograd,1.94666,1.00236,1,2,h,2020-10-24 16:00:00
+14322,Lokomotiv Moscow,PFC Sochi,0.292607,1.09854,1,2,a,2020-10-31 16:00:00
+14334,Lokomotiv Moscow,Dinamo Moscow,0.668049,3.55072,1,5,a,2020-11-08 16:00:00
+14337,Lokomotiv Moscow,Arsenal Tula,1.67947,0.600145,1,0,h,2020-11-21 16:00:00
+14350,Lokomotiv Moscow,FK Akhmat,0.620197,0.85822,0,0,a,2020-11-28 16:00:00
+14356,Lokomotiv Moscow,Rubin Kazan,2.66788,1.11127,3,1,h,2020-12-05 11:00:00
+14368,Lokomotiv Moscow,FC Krasnodar,1.31638,3.04922,0,5,a,2020-12-13 13:30:00
+14369,Lokomotiv Moscow,Khimki,0.975678,2.23888,2,3,a,2020-12-17 15:00:00
+14384,Lokomotiv Moscow,CSKA Moscow,0.24431,2.18374,2,0,h,2021-02-27 16:00:00
+14389,Lokomotiv Moscow,Arsenal Tula,1.20412,0.48557,3,0,a,2021-03-08 11:00:00
+14395,Lokomotiv Moscow,PFC Sochi,1.05727,1.57296,3,1,h,2021-03-14 16:00:00
+14401,Lokomotiv Moscow,FC Ufa,1.98872,0.760411,1,0,a,2021-03-18 14:00:00
+14410,Lokomotiv Moscow,FC Rotor Volgograd,0.75737,0.227982,2,0,a,2021-04-03 11:00:00
+14421,Lokomotiv Moscow,Spartak Moscow,1.44862,1.00703,2,0,h,2021-04-11 16:00:00
+14431,Lokomotiv Moscow,FC Rostov,2.5388,0.572018,4,1,h,2021-04-17 13:30:00
+14436,Lokomotiv Moscow,FC Tambov,2.32545,2.11607,5,2,a,2021-04-24 16:00:00
+14443,Lokomotiv Moscow,Zenit St. Petersburg,1.36126,3.48504,1,6,a,2021-05-02 16:00:00
+14453,Lokomotiv Moscow,Dinamo Moscow,0.978085,0.448216,0,0,h,2021-05-08 13:30:00
+14458,Lokomotiv Moscow,Ural,1.9046,0.0590572,1,0,h,2021-05-16 11:00:00

@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+10343,Bayer Leverkusen,Borussia M.Gladbach,1.05775,3.34179,0,2,a,2018-08-25 19:30:00
+10351,Bayer Leverkusen,Wolfsburg,0.877655,2.13508,1,3,h,2018-09-01 13:30:00
+10360,Bayer Leverkusen,Bayern Munich,0.784725,1.40345,1,3,a,2018-09-15 13:30:00
+10371,Bayer Leverkusen,Mainz 05,1.29357,0.76291,1,0,h,2018-09-23 13:30:00
+10377,Bayer Leverkusen,Fortuna Duesseldorf,1.48071,1.75244,2,1,a,2018-09-26 16:30:00
+10388,Bayer Leverkusen,Borussia Dortmund,1.34044,2.98145,2,4,h,2018-09-29 16:30:00
+10397,Bayer Leverkusen,Freiburg,0.551906,0.501569,0,0,a,2018-10-07 11:30:00
+10401,Bayer Leverkusen,Hannover 96,2.38988,1.0744,2,2,h,2018-10-20 13:30:00
+10412,Bayer Leverkusen,Werder Bremen,4.07211,1.49927,6,2,a,2018-10-28 16:00:00
+10424,Bayer Leverkusen,Hoffenheim,2.21447,1.93557,1,4,h,2018-11-03 14:30:00
+10429,Bayer Leverkusen,RasenBallsport Leipzig,0.443215,2.55127,0,3,a,2018-11-11 14:30:00
+10438,Bayer Leverkusen,VfB Stuttgart,2.62916,0.393762,2,0,h,2018-11-23 19:30:00
+10453,Bayer Leverkusen,Nuernberg,1.39302,0.675448,1,1,a,2018-12-03 19:30:00
+10456,Bayer Leverkusen,Augsburg,1.53502,0.768373,1,0,h,2018-12-08 14:30:00
+10467,Bayer Leverkusen,Eintracht Frankfurt,0.744745,3.59588,1,2,a,2018-12-16 17:00:00
+10473,Bayer Leverkusen,Schalke 04,0.683564,1.84453,2,1,a,2018-12-19 17:30:00
+10484,Bayer Leverkusen,Hertha Berlin,1.82482,1.26734,3,1,h,2018-12-22 14:30:00
+10498,Bayer Leverkusen,Borussia M.Gladbach,1.20925,0.747044,0,1,h,2019-01-19 14:30:00
+10506,Bayer Leverkusen,Wolfsburg,3.00387,1.19108,3,0,a,2019-01-26 14:30:00
+10508,Bayer Leverkusen,Bayern Munich,1.2769,1.868,3,1,h,2019-02-02 14:30:00
+10524,Bayer Leverkusen,Mainz 05,3.30348,1.88457,5,1,a,2019-02-08 19:30:00
+10527,Bayer Leverkusen,Fortuna Duesseldorf,1.90354,0.209187,2,0,h,2019-02-17 17:00:00
+10536,Bayer Leverkusen,Borussia Dortmund,1.26295,1.05083,2,3,a,2019-02-24 17:00:00
+10545,Bayer Leverkusen,Freiburg,3.25987,0.26273,2,0,h,2019-03-02 14:30:00
+10561,Bayer Leverkusen,Hannover 96,2.44206,0.672836,3,2,a,2019-03-10 17:00:00
+10563,Bayer Leverkusen,Werder Bremen,0.917302,1.31225,1,3,h,2019-03-17 12:30:00
+10571,Bayer Leverkusen,Hoffenheim,1.71436,2.4473,1,4,a,2019-03-29 19:30:00
+10582,Bayer Leverkusen,RasenBallsport Leipzig,2.1254,1.44447,2,4,h,2019-04-06 14:30:00
+10592,Bayer Leverkusen,VfB Stuttgart,2.53521,0.444283,1,0,a,2019-04-13 14:30:00
+10599,Bayer Leverkusen,Nuernberg,1.51156,0.245739,2,0,h,2019-04-20 14:30:00
+10612,Bayer Leverkusen,Augsburg,2.9293,0.278207,4,1,a,2019-04-26 19:30:00
+10618,Bayer Leverkusen,Eintracht Frankfurt,2.78767,0.17067,6,1,h,2019-05-05 17:00:00
+10627,Bayer Leverkusen,Schalke 04,1.61536,1.79193,1,1,h,2019-05-11 14:30:00
+10638,Bayer Leverkusen,Hertha Berlin,2.37483,1.20477,5,1,a,2019-05-18 13:30:00

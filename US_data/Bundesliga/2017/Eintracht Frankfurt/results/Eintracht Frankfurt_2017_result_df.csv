@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+8266,Eintracht Frankfurt,Freiburg,1.54296,0.231368,0,0,a,2017-08-20 14:30:00
+8270,Eintracht Frankfurt,Wolfsburg,0.926888,1.07528,0,1,h,2017-08-26 14:30:00
+8281,Eintracht Frankfurt,Borussia M.Gladbach,0.614198,0.632041,1,0,a,2017-09-09 14:30:00
+8288,Eintracht Frankfurt,Augsburg,1.32498,0.72838,1,2,h,2017-09-16 14:30:00
+8299,Eintracht Frankfurt,FC Cologne,1.33101,1.84333,1,0,a,2017-09-20 17:30:00
+8308,Eintracht Frankfurt,RasenBallsport Leipzig,0.539765,1.54654,1,2,a,2017-09-23 14:30:00
+8320,Eintracht Frankfurt,VfB Stuttgart,1.12984,0.884399,2,1,h,2017-09-30 14:30:00
+8329,Eintracht Frankfurt,Hannover 96,0.876712,0.6536,2,1,a,2017-10-14 14:30:00
+8336,Eintracht Frankfurt,Borussia Dortmund,2.74141,2.08809,2,2,h,2017-10-21 14:30:00
+8346,Eintracht Frankfurt,Mainz 05,0.451566,0.284202,1,1,a,2017-10-27 19:30:00
+8353,Eintracht Frankfurt,Werder Bremen,1.92121,1.08479,2,1,h,2017-11-03 19:30:00
+8359,Eintracht Frankfurt,Hoffenheim,0.436613,1.30552,1,1,a,2017-11-18 14:30:00
+8372,Eintracht Frankfurt,Bayer Leverkusen,0.743407,0.943561,0,1,h,2017-11-25 14:30:00
+8378,Eintracht Frankfurt,Hertha Berlin,0.419465,1.14526,2,1,a,2017-12-03 14:30:00
+8391,Eintracht Frankfurt,Bayern Munich,0.486786,0.364594,0,1,h,2017-12-09 14:30:00
+8400,Eintracht Frankfurt,Hamburger SV,1.02455,1.79316,2,1,a,2017-12-12 19:30:00
+8407,Eintracht Frankfurt,Schalke 04,1.53257,1.82598,2,2,h,2017-12-16 14:30:00
+8416,Eintracht Frankfurt,Freiburg,1.81323,0.309107,1,1,h,2018-01-13 14:30:00
+8429,Eintracht Frankfurt,Wolfsburg,1.78303,0.7221,3,1,a,2018-01-20 14:30:00
+8432,Eintracht Frankfurt,Borussia M.Gladbach,1.33681,1.41602,2,0,h,2018-01-26 19:30:00
+8443,Eintracht Frankfurt,Augsburg,0.35277,3.37224,0,3,a,2018-02-04 14:30:00
+8456,Eintracht Frankfurt,FC Cologne,2.44799,1.30881,4,2,h,2018-02-10 14:30:00
+8462,Eintracht Frankfurt,RasenBallsport Leipzig,1.64582,0.650812,2,1,h,2018-02-19 19:30:00
+8471,Eintracht Frankfurt,VfB Stuttgart,0.263378,1.94602,0,1,a,2018-02-24 14:30:00
+8480,Eintracht Frankfurt,Hannover 96,2.17331,0.775015,1,0,h,2018-03-03 14:30:00
+8485,Eintracht Frankfurt,Borussia Dortmund,1.23331,1.28057,2,3,a,2018-03-11 17:00:00
+8495,Eintracht Frankfurt,Mainz 05,2.11519,0.527164,3,0,h,2018-03-17 14:30:00
+8504,Eintracht Frankfurt,Werder Bremen,0.822039,1.06787,1,2,a,2018-04-01 14:30:00
+8516,Eintracht Frankfurt,Hoffenheim,1.82811,0.621143,1,1,h,2018-04-08 16:00:00
+8525,Eintracht Frankfurt,Bayer Leverkusen,0.856191,2.50515,1,4,a,2018-04-14 13:30:00
+8533,Eintracht Frankfurt,Hertha Berlin,1.16277,1.53898,0,3,h,2018-04-21 13:30:00
+8538,Eintracht Frankfurt,Bayern Munich,1.25053,1.89862,1,4,a,2018-04-28 13:30:00
+8555,Eintracht Frankfurt,Hamburger SV,1.64906,0.848806,3,0,h,2018-05-05 14:30:00
+8560,Eintracht Frankfurt,Schalke 04,0.281816,1.69009,0,1,a,2018-05-12 14:30:00

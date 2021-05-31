@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+7122,Southampton,Swansea,2.21748,0.406196,0,0,h,2017-08-12 15:00:00
+7130,Southampton,West Ham,2.1424,1.53269,3,2,h,2017-08-19 15:00:00
+7144,Southampton,Huddersfield,0.795911,1.51605,0,0,a,2017-08-26 15:00:00
+7150,Southampton,Watford,0.331259,0.57794,0,2,h,2017-09-09 15:00:00
+7160,Southampton,Crystal Palace,1.11428,2.03243,1,0,a,2017-09-16 12:30:00
+7172,Southampton,Manchester United,0.802062,1.07247,0,1,h,2017-09-23 15:00:00
+7181,Southampton,Stoke,1.42781,2.68136,1,2,a,2017-09-30 15:00:00
+7195,Southampton,Newcastle United,1.71445,0.950997,2,2,h,2017-10-15 16:00:00
+7204,Southampton,West Bromwich Albion,2.02288,0.504128,1,0,h,2017-10-21 17:30:00
+7211,Southampton,Brighton,0.54364,1.50533,1,1,a,2017-10-29 13:30:00
+7223,Southampton,Burnley,0.789259,0.137743,0,1,h,2017-11-04 15:00:00
+7231,Southampton,Liverpool,0.563886,2.06277,0,3,a,2017-11-18 15:00:00
+7241,Southampton,Everton,1.97034,0.147724,4,1,h,2017-11-26 13:30:00
+7257,Southampton,Manchester City,1.7066,1.64952,1,2,a,2017-11-29 20:00:00
+7267,Southampton,Bournemouth,1.00264,1.11195,1,1,a,2017-12-03 13:30:00
+7278,Southampton,Arsenal,1.21942,0.608352,1,1,h,2017-12-10 12:00:00
+7285,Southampton,Leicester,1.11749,2.24579,1,4,h,2017-12-13 19:45:00
+7292,Southampton,Chelsea,0.587081,1.29018,0,1,a,2017-12-16 15:00:00
+7307,Southampton,Huddersfield,1.73805,1.09381,1,1,h,2017-12-23 15:00:00
+7316,Southampton,Tottenham,0.591118,3.08413,2,5,a,2017-12-26 12:30:00
+7324,Southampton,Manchester United,0.85013,1.87247,0,0,a,2017-12-30 17:30:00
+7336,Southampton,Crystal Palace,0.445301,1.34294,1,2,h,2018-01-02 19:45:00
+7347,Southampton,Watford,0.857637,1.67369,2,2,a,2018-01-13 15:00:00
+7355,Southampton,Tottenham,1.15209,1.30653,1,1,h,2018-01-21 16:00:00
+7363,Southampton,Brighton,1.27393,1.07907,1,1,h,2018-01-31 19:45:00
+7378,Southampton,West Bromwich Albion,0.99695,0.876603,3,2,a,2018-02-03 15:00:00
+7384,Southampton,Liverpool,0.854343,2.35575,0,2,h,2018-02-11 16:30:00
+7398,Southampton,Burnley,0.65898,1.28178,1,1,a,2018-02-24 15:00:00
+7405,Southampton,Stoke,0.982895,0.385303,0,0,h,2018-03-03 15:00:00
+7415,Southampton,Newcastle United,0.496723,1.35847,0,3,a,2018-03-10 15:00:00
+7434,Southampton,West Ham,0.446641,1.44971,0,3,a,2018-03-31 15:00:00
+7439,Southampton,Arsenal,2.16699,1.58895,2,3,a,2018-04-08 13:15:00
+7455,Southampton,Chelsea,1.2922,0.663817,2,3,h,2018-04-14 11:30:00
+7464,Southampton,Leicester,0.651171,0.515248,0,0,a,2018-04-19 18:45:00
+7475,Southampton,Bournemouth,1.72584,1.01741,2,1,h,2018-04-28 14:00:00
+7486,Southampton,Everton,0.634996,0.420891,1,1,a,2018-05-05 17:30:00
+7426,Southampton,Swansea,1.48865,0.389621,1,0,a,2018-05-08 19:45:00
+7498,Southampton,Manchester City,0.506624,0.765614,0,1,h,2018-05-13 15:00:00

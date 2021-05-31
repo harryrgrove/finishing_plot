@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+14092,West Bromwich Albion,Leicester,0.352997,2.95581,0,3,h,2020-09-13 13:00:00
+14096,West Bromwich Albion,Everton,0.315347,4.16254,2,5,a,2020-09-19 11:30:00
+14108,West Bromwich Albion,Chelsea,0.911185,2.36046,3,3,h,2020-09-26 16:30:00
+14473,West Bromwich Albion,Southampton,0.161283,0.949079,0,2,a,2020-10-04 11:00:00
+14484,West Bromwich Albion,Burnley,0.731692,1.08532,0,0,h,2020-10-19 16:30:00
+14487,West Bromwich Albion,Brighton,0.295654,0.546807,1,1,a,2020-10-26 17:30:00
+14497,West Bromwich Albion,Fulham,0.482685,1.62247,0,2,a,2020-11-02 17:30:00
+14513,West Bromwich Albion,Tottenham,0.799352,1.87063,0,1,h,2020-11-08 12:00:00
+14520,West Bromwich Albion,Manchester United,0.438646,2.42994,0,1,a,2020-11-21 20:00:00
+14527,West Bromwich Albion,Sheffield United,1.71644,3.36544,1,0,h,2020-11-28 20:00:00
+14543,West Bromwich Albion,Crystal Palace,0.567234,1.68656,1,5,h,2020-12-06 12:00:00
+14550,West Bromwich Albion,Newcastle United,0.57319,0.904163,1,2,a,2020-12-12 15:00:00
+14564,West Bromwich Albion,Manchester City,0.210243,2.58593,1,1,a,2020-12-15 20:00:00
+14574,West Bromwich Albion,Aston Villa,0.0388442,2.61964,0,3,h,2020-12-20 19:15:00
+14580,West Bromwich Albion,Liverpool,0.739845,1.45485,1,1,a,2020-12-27 16:30:00
+14590,West Bromwich Albion,Leeds,0.43551,1.54225,0,5,h,2020-12-29 18:00:00
+14600,West Bromwich Albion,Arsenal,0.869874,4.03429,0,4,h,2021-01-02 20:00:00
+14624,West Bromwich Albion,Wolverhampton Wanderers,2.46332,1.94358,3,2,a,2021-01-16 12:30:00
+14611,West Bromwich Albion,West Ham,0.464091,2.17512,1,2,a,2021-01-19 18:00:00
+14629,West Bromwich Albion,Manchester City,0.568258,2.24838,0,5,h,2021-01-26 20:15:00
+14640,West Bromwich Albion,Fulham,0.994664,1.52044,2,2,h,2021-01-30 15:00:00
+14649,West Bromwich Albion,Sheffield United,1.61871,1.35804,1,2,a,2021-02-02 18:00:00
+14663,West Bromwich Albion,Tottenham,0.698686,1.92997,0,2,a,2021-02-07 12:00:00
+14673,West Bromwich Albion,Manchester United,0.945964,0.423885,1,1,h,2021-02-14 14:00:00
+14678,West Bromwich Albion,Burnley,1.71922,0.535153,0,0,a,2021-02-20 15:00:00
+14692,West Bromwich Albion,Brighton,0.687091,3.12111,1,0,h,2021-02-27 15:00:00
+14723,West Bromwich Albion,Everton,1.02038,1.40789,0,1,h,2021-03-04 18:00:00
+14703,West Bromwich Albion,Newcastle United,1.46503,0.454577,0,0,h,2021-03-07 12:00:00
+14706,West Bromwich Albion,Crystal Palace,0.513439,1.30694,0,1,a,2021-03-13 15:00:00
+14727,West Bromwich Albion,Chelsea,1.38315,2.55917,5,2,a,2021-04-03 11:30:00
+14743,West Bromwich Albion,Southampton,2.77089,1.5002,3,0,h,2021-04-12 17:00:00
+14750,West Bromwich Albion,Leicester,0.277126,2.6712,0,3,a,2021-04-22 19:00:00
+14756,West Bromwich Albion,Aston Villa,1.56764,2.65394,2,2,a,2021-04-25 18:00:00
+14774,West Bromwich Albion,Wolverhampton Wanderers,1.07133,0.844138,1,1,h,2021-05-03 17:00:00
+14775,West Bromwich Albion,Arsenal,1.83076,1.07042,1,3,a,2021-05-09 18:00:00
+14789,West Bromwich Albion,Liverpool,1.14202,2.07854,1,2,h,2021-05-16 15:30:00
+14804,West Bromwich Albion,West Ham,1.10741,3.56991,1,3,h,2021-05-19 19:15:00
+14808,West Bromwich Albion,Leeds,1.02209,2.49009,1,3,a,2021-05-23 15:00:00

@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1785,Real Sociedad,Real Madrid,0.270003,2.73735,0,3,h,2016-08-21 22:15:00
+1791,Real Sociedad,Osasuna,0.758033,0.342253,2,0,a,2016-08-27 20:15:00
+1799,Real Sociedad,Espanyol,0.303769,0.0708424,1,1,h,2016-09-09 22:45:00
+1816,Real Sociedad,Villarreal,1.03528,1.42126,1,2,a,2016-09-18 20:30:00
+1823,Real Sociedad,Las Palmas,2.81655,1.02708,4,1,h,2016-09-22 00:00:00
+1830,Real Sociedad,Eibar,0.0863513,1.67754,0,2,a,2016-09-24 15:00:00
+1839,Real Sociedad,Real Betis,1.18527,0.68749,1,0,h,2016-09-30 22:45:00
+1855,Real Sociedad,Athletic Club,0.618302,1.53028,2,3,a,2016-10-16 18:15:00
+1862,Real Sociedad,Alaves,1.84569,0.772306,3,0,h,2016-10-22 20:30:00
+3308,Real Sociedad,Leganes,1.47952,0.192695,2,0,a,2016-10-28 22:45:00
+2778,Real Sociedad,Atletico Madrid,1.99325,0.581093,2,0,h,2016-11-05 19:15:00
+2793,Real Sociedad,Sporting Gijon,2.1535,0.197028,3,1,a,2016-11-20 21:30:00
+2804,Real Sociedad,Barcelona,1.0404,0.648004,1,1,h,2016-11-27 23:45:00
+3172,Real Sociedad,Deportivo La Coruna,0.569103,2.21106,1,5,a,2016-12-05 23:45:00
+3175,Real Sociedad,Valencia,2.70322,1.58335,3,2,h,2016-12-10 19:15:00
+3186,Real Sociedad,Granada,2.10663,0.649888,2,0,a,2016-12-17 21:30:00
+3888,Real Sociedad,Sevilla,0.437028,1.78204,0,4,h,2017-01-07 23:45:00
+3903,Real Sociedad,Malaga,0.927504,0.67373,2,0,a,2017-01-16 23:45:00
+3913,Real Sociedad,Celta Vigo,1.37408,0.664992,1,0,h,2017-01-22 20:30:00
+3922,Real Sociedad,Real Madrid,0.250453,1.06592,0,3,a,2017-01-29 22:45:00
+3932,Real Sociedad,Osasuna,1.00374,0.985019,3,2,h,2017-02-05 17:30:00
+3942,Real Sociedad,Espanyol,0.957027,0.287829,2,1,a,2017-02-10 19:45:00
+3951,Real Sociedad,Villarreal,0.993635,0.998736,0,1,h,2017-02-19 11:00:00
+3963,Real Sociedad,Las Palmas,0.900432,1.71708,1,0,a,2017-02-24 19:45:00
+3974,Real Sociedad,Eibar,1.97746,0.677011,2,2,h,2017-02-28 18:30:00
+3981,Real Sociedad,Real Betis,0.586888,1.0855,3,2,a,2017-03-03 19:45:00
+3988,Real Sociedad,Athletic Club,0.651635,1.90097,0,2,h,2017-03-12 11:00:00
+4004,Real Sociedad,Alaves,0.418478,2.12281,0,1,a,2017-03-18 17:30:00
+4009,Real Sociedad,Leganes,1.53494,0.391696,1,1,h,2017-04-01 17:30:00
+4018,Real Sociedad,Atletico Madrid,0.354952,2.8366,0,1,a,2017-04-04 20:30:00
+4027,Real Sociedad,Sporting Gijon,1.98867,0.399035,3,1,h,2017-04-10 19:45:00
+4039,Real Sociedad,Barcelona,1.33399,3.1445,2,3,a,2017-04-15 19:45:00
+4048,Real Sociedad,Deportivo La Coruna,0.940566,0.299326,1,0,h,2017-04-23 11:00:00
+4057,Real Sociedad,Valencia,1.68807,2.32672,3,2,a,2017-04-26 19:30:00
+4067,Real Sociedad,Granada,2.10139,0.589329,2,1,h,2017-04-29 12:00:00
+4076,Real Sociedad,Sevilla,0.908736,1.0447,1,1,a,2017-05-05 20:00:00
+4094,Real Sociedad,Malaga,1.85706,1.08273,2,2,h,2017-05-14 19:00:00
+4104,Real Sociedad,Celta Vigo,1.43204,1.30693,2,2,a,2017-05-21 15:45:00

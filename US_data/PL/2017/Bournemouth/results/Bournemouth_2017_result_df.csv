@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+7121,Bournemouth,West Bromwich Albion,0.378659,1.18399,0,1,a,2017-08-12 15:00:00
+7131,Bournemouth,Watford,0.766694,2.17717,0,2,h,2017-08-19 15:00:00
+7139,Bournemouth,Manchester City,0.415402,1.76626,1,2,h,2017-08-26 12:30:00
+7152,Bournemouth,Arsenal,0.577291,2.48732,0,3,a,2017-09-09 15:00:00
+7159,Bournemouth,Brighton,1.39529,0.874276,2,1,h,2017-09-15 20:00:00
+7175,Bournemouth,Everton,0.384728,2.21092,1,2,a,2017-09-23 15:00:00
+7184,Bournemouth,Leicester,1.39901,0.594808,0,0,h,2017-09-30 15:00:00
+7197,Bournemouth,Tottenham,0.17504,1.95684,0,1,a,2017-10-14 15:00:00
+7205,Bournemouth,Stoke,1.11834,1.60117,2,1,a,2017-10-21 15:00:00
+7210,Bournemouth,Chelsea,0.455055,1.78362,0,1,h,2017-10-28 17:30:00
+7222,Bournemouth,Newcastle United,1.28703,0.676091,1,0,a,2017-11-04 15:00:00
+7237,Bournemouth,Huddersfield,1.38782,1.1633,4,0,h,2017-11-18 15:00:00
+7240,Bournemouth,Swansea,0.449075,0.879594,0,0,a,2017-11-25 15:00:00
+7253,Bournemouth,Burnley,0.915088,1.08519,1,2,h,2017-11-29 19:45:00
+7267,Bournemouth,Southampton,1.11195,1.00264,1,1,h,2017-12-03 13:30:00
+7273,Bournemouth,Crystal Palace,0.962374,4.61208,2,2,a,2017-12-09 15:00:00
+7283,Bournemouth,Manchester United,0.815792,1.24043,0,1,a,2017-12-13 20:00:00
+7290,Bournemouth,Liverpool,0.539178,3.25041,0,4,h,2017-12-17 16:30:00
+7308,Bournemouth,Manchester City,0.334896,1.55724,0,4,a,2017-12-23 15:00:00
+7309,Bournemouth,West Ham,2.84928,1.87596,3,3,h,2017-12-26 15:00:00
+7319,Bournemouth,Everton,1.39955,0.599608,2,1,h,2017-12-30 15:00:00
+7331,Bournemouth,Brighton,1.28248,2.37332,2,2,a,2018-01-01 12:30:00
+7339,Bournemouth,Arsenal,0.822285,1.00956,2,1,h,2018-01-14 13:30:00
+7358,Bournemouth,West Ham,0.501886,0.980241,1,1,a,2018-01-20 15:00:00
+7362,Bournemouth,Chelsea,1.42447,1.14795,3,0,a,2018-01-31 19:45:00
+7370,Bournemouth,Stoke,1.91091,0.721222,2,1,h,2018-02-03 15:00:00
+7381,Bournemouth,Huddersfield,0.433555,2.56699,1,4,a,2018-02-11 12:00:00
+7390,Bournemouth,Newcastle United,1.20646,4.23567,2,2,h,2018-02-24 15:00:00
+7402,Bournemouth,Leicester,1.4035,2.97799,1,1,a,2018-03-03 15:00:00
+7410,Bournemouth,Tottenham,1.17387,2.53124,1,4,h,2018-03-11 16:00:00
+7419,Bournemouth,West Bromwich Albion,0.685329,1.74488,2,1,h,2018-03-17 15:00:00
+7437,Bournemouth,Watford,2.1146,0.76133,2,2,a,2018-03-31 15:00:00
+7440,Bournemouth,Crystal Palace,2.09227,1.14558,2,2,h,2018-04-07 14:00:00
+7452,Bournemouth,Liverpool,0.540593,2.6402,0,3,a,2018-04-14 16:30:00
+7463,Bournemouth,Manchester United,1.18301,1.61597,0,2,h,2018-04-18 18:45:00
+7475,Bournemouth,Southampton,1.01741,1.72584,1,2,a,2018-04-28 14:00:00
+7488,Bournemouth,Swansea,1.69618,1.0138,1,0,h,2018-05-05 15:00:00
+7492,Bournemouth,Burnley,1.38551,1.16179,2,1,a,2018-05-13 15:00:00

@@ -1,0 +1,31 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+11025,Spartak Moscow,PFC Sochi,0.892691,1.80674,1,0,h,2019-07-13 16:00:00
+11034,Spartak Moscow,FC Rostov,1.78371,2.57037,2,2,a,2019-07-20 18:30:00
+11041,Spartak Moscow,FC Tambov,0.842638,1.73925,0,2,a,2019-07-27 13:30:00
+11049,Spartak Moscow,Dinamo Moscow,0.580905,0.844036,0,0,h,2019-08-03 17:00:00
+11061,Spartak Moscow,FK Akhmat,0.800104,1.01237,3,1,a,2019-08-11 19:30:00
+11070,Spartak Moscow,CSKA Moscow,2.18446,1.30039,2,1,h,2019-08-19 18:00:00
+11074,Spartak Moscow,Krylya Sovetov Samara,1.80278,1.08984,2,1,a,2019-08-25 17:00:00
+11086,Spartak Moscow,Zenit St. Petersburg,0.639681,0.901396,0,1,h,2019-09-01 17:00:00
+11091,Spartak Moscow,Ural,0.839131,0.652485,1,2,h,2019-09-14 13:30:00
+11099,Spartak Moscow,FC Ufa,2.44372,0.920475,0,1,a,2019-09-20 14:30:00
+11107,Spartak Moscow,FC Orenburg,1.73011,0.695329,1,2,h,2019-09-29 13:30:00
+11116,Spartak Moscow,FC Krasnodar,1.0025,1.63984,1,2,a,2019-10-06 17:00:00
+11126,Spartak Moscow,Rubin Kazan,1.23863,0.659502,0,0,h,2019-10-19 14:30:00
+11130,Spartak Moscow,Lokomotiv Moscow,1.62803,0.82244,3,0,a,2019-10-27 13:30:00
+11139,Spartak Moscow,Arsenal Tula,2.2369,0.434157,0,1,h,2019-11-04 16:00:00
+11150,Spartak Moscow,Krylya Sovetov Samara,3.0737,0.486694,2,0,h,2019-11-09 16:00:00
+11157,Spartak Moscow,Ural,2.47478,0.667782,0,0,a,2019-11-24 11:00:00
+11165,Spartak Moscow,Zenit St. Petersburg,0.878405,1.46174,0,1,a,2019-12-01 16:00:00
+11173,Spartak Moscow,FC Rostov,1.90259,3.58481,1,4,h,2019-12-08 16:00:00
+11179,Spartak Moscow,Dinamo Moscow,2.06749,0.770056,2,0,a,2020-02-29 13:30:00
+11183,Spartak Moscow,FC Krasnodar,0.67401,1.764,0,1,h,2020-03-09 13:30:00
+11198,Spartak Moscow,FC Orenburg,1.15891,1.38111,3,1,a,2020-03-14 11:00:00
+11203,Spartak Moscow,Arsenal Tula,0.800618,1.58279,3,2,a,2020-06-20 13:30:00
+11208,Spartak Moscow,FC Ufa,1.00112,0.25207,0,0,h,2020-06-27 13:30:00
+11217,Spartak Moscow,CSKA Moscow,0.967182,1.02841,0,2,a,2020-06-30 17:30:00
+11223,Spartak Moscow,FC Tambov,1.74519,1.57503,2,3,h,2020-07-04 15:30:00
+11232,Spartak Moscow,Lokomotiv Moscow,0.389443,1.3552,1,1,h,2020-07-08 17:30:00
+11244,Spartak Moscow,PFC Sochi,1.07609,0.0501716,0,1,a,2020-07-11 17:30:00
+11248,Spartak Moscow,FK Akhmat,0.89047,0.258556,3,0,h,2020-07-15 15:00:00
+11259,Spartak Moscow,Rubin Kazan,2.78668,1.44313,2,1,a,2020-07-22 16:00:00

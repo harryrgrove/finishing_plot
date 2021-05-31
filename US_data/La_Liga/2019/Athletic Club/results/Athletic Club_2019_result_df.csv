@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+12026,Athletic Club,Barcelona,0.457129,1.03621,1,0,h,2019-08-16 20:00:00
+12038,Athletic Club,Getafe,0.454246,0.265811,1,1,a,2019-08-24 20:00:00
+12047,Athletic Club,Real Sociedad,1.16451,0.217717,2,0,h,2019-08-30 21:00:00
+12059,Athletic Club,Mallorca,1.39203,2.1905,0,0,a,2019-09-13 19:00:00
+12063,Athletic Club,Alaves,1.9352,0.522331,2,0,h,2019-09-22 16:30:00
+12080,Athletic Club,Leganes,1.29281,0.496204,1,1,a,2019-09-25 17:00:00
+12084,Athletic Club,Valencia,1.04848,2.10545,0,1,h,2019-09-28 11:00:00
+12095,Athletic Club,Celta Vigo,0.127135,1.91529,0,1,a,2019-10-06 13:00:00
+12104,Athletic Club,Real Valladolid,1.50554,0.672979,1,1,h,2019-10-20 17:30:00
+12115,Athletic Club,Atletico Madrid,0.328031,1.94897,0,2,a,2019-10-26 20:00:00
+12124,Athletic Club,Espanyol,0.410171,0.561641,3,0,h,2019-10-30 19:00:00
+12141,Athletic Club,Villarreal,1.31553,1.01674,0,0,a,2019-11-03 13:00:00
+12144,Athletic Club,Levante,1.79133,0.873861,2,1,h,2019-11-10 13:00:00
+12159,Athletic Club,Osasuna,1.21625,1.27092,2,1,a,2019-11-24 13:00:00
+12164,Athletic Club,Granada,1.82466,0.233324,2,0,h,2019-12-01 13:00:00
+12174,Athletic Club,Real Betis,0.985449,1.98458,2,3,a,2019-12-08 13:00:00
+12184,Athletic Club,Eibar,0.358952,0.276155,0,0,h,2019-12-14 17:30:00
+12200,Athletic Club,Real Madrid,0.415201,2.95373,0,0,a,2019-12-22 20:00:00
+12210,Athletic Club,Sevilla,0.237728,1.07523,1,1,a,2020-01-03 20:00:00
+12213,Athletic Club,Celta Vigo,3.43632,0.716642,1,1,h,2020-01-19 17:30:00
+12226,Athletic Club,Espanyol,0.660786,0.552668,1,1,a,2020-01-25 12:00:00
+12242,Athletic Club,Getafe,0.734487,2.25172,0,2,h,2020-02-02 15:00:00
+12247,Athletic Club,Real Sociedad,0.643736,2.27376,1,2,a,2020-02-09 13:00:00
+12253,Athletic Club,Osasuna,0.763109,0.836206,0,1,h,2020-02-16 17:30:00
+12263,Athletic Club,Alaves,0.593519,1.84055,1,2,a,2020-02-23 13:00:00
+12273,Athletic Club,Villarreal,2.72308,0.879429,1,0,h,2020-03-01 13:00:00
+12289,Athletic Club,Real Valladolid,1.59457,2.03703,4,1,a,2020-03-08 13:00:00
+12293,Athletic Club,Atletico Madrid,0.362873,1.18398,1,1,h,2020-06-14 12:00:00
+12305,Athletic Club,Eibar,1.72308,1.83348,2,2,a,2020-06-17 17:30:00
+12313,Athletic Club,Real Betis,2.24762,2.13638,1,0,h,2020-06-20 15:00:00
+12324,Athletic Club,Barcelona,0.649841,1.8377,0,1,a,2020-06-23 20:00:00
+12333,Athletic Club,Mallorca,2.76806,1.16492,3,1,h,2020-06-27 16:30:00
+12351,Athletic Club,Valencia,0.91393,1.27025,2,0,a,2020-07-01 17:30:00
+12353,Athletic Club,Real Madrid,0.240102,2.90047,0,1,h,2020-07-05 12:00:00
+12363,Athletic Club,Sevilla,1.6153,1.80682,1,2,h,2020-07-09 20:00:00
+12374,Athletic Club,Levante,0.979209,1.10257,2,1,a,2020-07-12 15:00:00
+12386,Athletic Club,Leganes,0.62086,1.84675,0,2,h,2020-07-16 19:00:00
+12397,Athletic Club,Granada,0.564731,2.33033,0,4,a,2020-07-19 19:00:00

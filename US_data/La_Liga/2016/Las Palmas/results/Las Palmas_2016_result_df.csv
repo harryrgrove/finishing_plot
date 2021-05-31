@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1788,Las Palmas,Valencia,1.2781,1.27123,4,2,a,2016-08-23 00:00:00
+1795,Las Palmas,Granada,2.78367,0.431857,5,1,h,2016-08-28 20:15:00
+1802,Las Palmas,Sevilla,0.642731,3.53881,1,2,a,2016-09-10 20:15:00
+1813,Las Palmas,Malaga,0.869251,0.645227,1,0,h,2016-09-17 22:45:00
+1823,Las Palmas,Real Sociedad,1.02708,2.81655,1,4,a,2016-09-22 00:00:00
+1833,Las Palmas,Real Madrid,1.31532,2.7519,2,2,h,2016-09-24 22:45:00
+1842,Las Palmas,Osasuna,1.37115,0.988479,2,2,a,2016-10-01 20:30:00
+1849,Las Palmas,Espanyol,1.07463,0.318729,0,0,h,2016-10-14 22:45:00
+1867,Las Palmas,Villarreal,0.5357,1.67294,1,2,a,2016-10-23 20:30:00
+3316,Las Palmas,Celta Vigo,2.07556,1.23697,3,3,h,2016-10-30 23:45:00
+2780,Las Palmas,Eibar,1.59273,0.983024,1,0,h,2016-11-05 23:45:00
+2786,Las Palmas,Real Betis,0.358719,0.590307,0,2,a,2016-11-18 23:45:00
+2805,Las Palmas,Athletic Club,1.05931,1.73341,3,1,h,2016-11-28 23:45:00
+3170,Las Palmas,Alaves,0.495163,1.0718,1,1,a,2016-12-04 21:30:00
+3176,Las Palmas,Leganes,0.889018,1.26322,1,1,h,2016-12-10 21:30:00
+3185,Las Palmas,Atletico Madrid,0.516549,0.86238,0,1,a,2016-12-17 19:15:00
+3887,Las Palmas,Sporting Gijon,2.50535,0.715563,1,0,h,2017-01-07 21:30:00
+3895,Las Palmas,Barcelona,0.406868,3.95422,0,5,a,2017-01-14 19:15:00
+3904,Las Palmas,Deportivo La Coruna,0.510785,0.329111,1,1,h,2017-01-20 22:45:00
+3923,Las Palmas,Valencia,0.864443,0.984988,3,1,h,2017-01-30 22:45:00
+3929,Las Palmas,Granada,0.797005,0.545986,0,1,a,2017-02-06 22:45:00
+3940,Las Palmas,Sevilla,0.841648,1.41556,0,1,h,2017-02-12 17:30:00
+3950,Las Palmas,Malaga,0.574955,2.39662,1,2,a,2017-02-20 19:45:00
+3963,Las Palmas,Real Sociedad,1.71708,0.900432,0,1,h,2017-02-24 19:45:00
+3965,Las Palmas,Real Madrid,2.1904,3.09385,3,3,a,2017-03-01 20:30:00
+3983,Las Palmas,Osasuna,1.52118,1.30591,5,2,h,2017-03-05 17:30:00
+3991,Las Palmas,Espanyol,1.21087,1.66149,3,4,a,2017-03-10 19:45:00
+3996,Las Palmas,Villarreal,1.57565,0.339418,1,0,h,2017-03-17 19:45:00
+4013,Las Palmas,Celta Vigo,0.943845,1.96679,1,3,a,2017-04-03 19:45:00
+4015,Las Palmas,Eibar,0.811517,1.84235,1,3,a,2017-04-06 18:30:00
+4034,Las Palmas,Real Betis,2.25513,1.01656,4,1,h,2017-04-09 19:45:00
+4042,Las Palmas,Athletic Club,0.665833,3.27145,1,5,a,2017-04-14 19:45:00
+4045,Las Palmas,Alaves,0.969015,0.488145,1,1,h,2017-04-23 17:30:00
+4061,Las Palmas,Leganes,0.116739,2.5676,0,3,a,2017-04-26 19:30:00
+4071,Las Palmas,Atletico Madrid,0.530853,2.6956,0,5,h,2017-04-29 17:30:00
+4080,Las Palmas,Sporting Gijon,0.298784,1.55328,0,1,a,2017-05-06 12:00:00
+4085,Las Palmas,Barcelona,0.614019,1.60991,1,4,h,2017-05-14 19:00:00
+4103,Las Palmas,Deportivo La Coruna,0.990264,1.56248,0,3,a,2017-05-20 18:00:00

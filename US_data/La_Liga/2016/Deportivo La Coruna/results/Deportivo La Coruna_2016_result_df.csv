@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1780,Deportivo La Coruna,Eibar,1.6197,0.359012,2,1,h,2016-08-20 00:00:00
+1789,Deportivo La Coruna,Real Betis,0.590187,0.593093,0,0,a,2016-08-26 22:45:00
+1808,Deportivo La Coruna,Athletic Club,0.708733,0.239631,0,1,h,2016-09-11 22:30:00
+1818,Deportivo La Coruna,Alaves,0.671784,0.45933,0,0,a,2016-09-19 22:45:00
+1826,Deportivo La Coruna,Leganes,1.64049,1.06372,1,2,h,2016-09-22 22:00:00
+1835,Deportivo La Coruna,Atletico Madrid,0.2328,2.13155,0,1,a,2016-09-25 18:15:00
+1843,Deportivo La Coruna,Sporting Gijon,1.26977,0.234392,2,1,h,2016-10-01 22:45:00
+1851,Deportivo La Coruna,Barcelona,0.278286,4.85964,0,4,a,2016-10-15 18:15:00
+1864,Deportivo La Coruna,Celta Vigo,0.72415,1.82791,1,4,a,2016-10-23 14:00:00
+3317,Deportivo La Coruna,Valencia,1.3997,1.03333,1,1,h,2016-10-31 23:45:00
+2777,Deportivo La Coruna,Granada,1.71185,2.10437,1,1,a,2016-11-05 16:00:00
+2787,Deportivo La Coruna,Sevilla,0.382392,2.28865,2,3,h,2016-11-19 16:00:00
+2797,Deportivo La Coruna,Malaga,2.70531,1.28044,3,4,a,2016-11-26 16:00:00
+3172,Deportivo La Coruna,Real Sociedad,2.21106,0.569103,5,1,h,2016-12-05 23:45:00
+3177,Deportivo La Coruna,Real Madrid,0.648444,1.17016,2,3,a,2016-12-10 23:45:00
+3189,Deportivo La Coruna,Osasuna,1.12829,0.426863,2,0,h,2016-12-18 21:30:00
+3884,Deportivo La Coruna,Espanyol,0.521167,1.51212,1,1,a,2017-01-06 23:45:00
+3897,Deportivo La Coruna,Villarreal,0.523704,0.144553,0,0,h,2017-01-14 23:45:00
+3904,Deportivo La Coruna,Las Palmas,0.329111,0.510785,1,1,a,2017-01-20 22:45:00
+3917,Deportivo La Coruna,Eibar,1.03408,1.44709,1,3,a,2017-01-28 20:30:00
+3937,Deportivo La Coruna,Athletic Club,0.584147,1.73424,1,2,a,2017-02-11 17:30:00
+3946,Deportivo La Coruna,Alaves,1.57995,1.33904,0,1,h,2017-02-18 17:30:00
+3960,Deportivo La Coruna,Leganes,1.13768,0.743759,0,4,a,2017-02-25 17:30:00
+3969,Deportivo La Coruna,Atletico Madrid,1.23691,0.370998,1,1,h,2017-03-02 19:45:00
+3976,Deportivo La Coruna,Sporting Gijon,1.62631,0.924431,1,0,a,2017-03-05 11:00:00
+3927,Deportivo La Coruna,Real Betis,1.42173,0.569912,1,1,h,2017-03-08 17:45:00
+3985,Deportivo La Coruna,Barcelona,1.38936,1.50728,2,1,h,2017-03-12 15:15:00
+3997,Deportivo La Coruna,Celta Vigo,0.806674,0.868296,0,1,h,2017-03-19 17:30:00
+4006,Deportivo La Coruna,Valencia,1.54959,1.45999,0,3,a,2017-04-02 17:30:00
+4024,Deportivo La Coruna,Granada,1.34824,0.409132,0,0,h,2017-04-05 19:30:00
+4029,Deportivo La Coruna,Sevilla,0.521612,3.09093,2,4,a,2017-04-08 17:30:00
+4040,Deportivo La Coruna,Malaga,0.97862,0.284772,2,0,h,2017-04-15 12:00:00
+4048,Deportivo La Coruna,Real Sociedad,0.299326,0.940566,0,1,a,2017-04-23 11:00:00
+4058,Deportivo La Coruna,Real Madrid,1.39884,4.95101,2,6,h,2017-04-26 20:30:00
+4069,Deportivo La Coruna,Osasuna,1.56321,1.45216,2,2,a,2017-04-30 11:00:00
+4079,Deportivo La Coruna,Espanyol,1.58012,1.116,1,2,h,2017-05-07 17:30:00
+4089,Deportivo La Coruna,Villarreal,0.0795451,1.5957,0,0,a,2017-05-14 19:00:00
+4103,Deportivo La Coruna,Las Palmas,1.56248,0.990264,3,0,h,2017-05-20 18:00:00

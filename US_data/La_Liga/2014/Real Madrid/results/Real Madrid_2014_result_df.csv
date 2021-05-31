@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+5834,Real Madrid,Cordoba,0.612645,0.37841,2,0,h,2014-08-25 19:00:00
+5844,Real Madrid,Real Sociedad,2.31574,2.74099,2,4,a,2014-08-31 20:00:00
+5789,Real Madrid,Atletico Madrid,1.58778,1.11054,1,2,h,2014-09-13 19:00:00
+5797,Real Madrid,Deportivo La Coruna,2.05644,1.74836,8,2,a,2014-09-20 15:00:00
+5806,Real Madrid,Elche,3.93785,1.07447,5,1,h,2014-09-23 19:00:00
+5817,Real Madrid,Villarreal,0.976346,0.951263,2,0,a,2014-09-27 15:00:00
+5763,Real Madrid,Athletic Club,3.61471,0.744918,5,0,h,2014-10-05 20:00:00
+5765,Real Madrid,Levante,4.276,0.488171,5,0,a,2014-10-18 15:00:00
+5776,Real Madrid,Barcelona,1.87887,1.30281,3,1,h,2014-10-25 17:00:00
+5716,Real Madrid,Granada,2.84686,1.07775,4,0,a,2014-11-01 15:00:00
+5728,Real Madrid,Rayo Vallecano,2.69643,0.843676,5,1,h,2014-11-08 19:00:00
+5737,Real Madrid,Eibar,4.68657,0.87358,4,0,a,2014-11-22 17:00:00
+5748,Real Madrid,Malaga,4.15129,1.16042,2,1,a,2014-11-29 19:00:00
+5689,Real Madrid,Celta Vigo,2.59443,0.552243,3,0,h,2014-12-06 19:00:00
+5697,Real Madrid,Almeria,1.25169,1.33389,4,1,a,2014-12-12 19:45:00
+5648,Real Madrid,Valencia,2.63452,0.708983,1,2,a,2015-01-04 16:00:00
+5653,Real Madrid,Espanyol,1.73073,0.367803,3,0,h,2015-01-10 15:00:00
+5667,Real Madrid,Getafe,2.41204,0.544312,3,0,a,2015-01-18 11:00:00
+5672,Real Madrid,Cordoba,1.99717,1.63834,2,1,a,2015-01-24 15:00:00
+5683,Real Madrid,Real Sociedad,4.01477,1.0602,4,1,h,2015-01-31 15:00:00
+5607,Real Madrid,Sevilla,2.44168,2.47777,2,1,h,2015-02-04 19:45:00
+5609,Real Madrid,Atletico Madrid,0.102273,2.27475,0,4,a,2015-02-07 15:00:00
+5620,Real Madrid,Deportivo La Coruna,1.47812,0.618923,2,0,h,2015-02-14 17:00:00
+5636,Real Madrid,Elche,1.93223,0.113848,2,0,a,2015-02-22 20:00:00
+5569,Real Madrid,Villarreal,2.94269,0.830645,1,1,h,2015-03-01 20:00:00
+5573,Real Madrid,Athletic Club,0.880869,0.351052,0,1,a,2015-03-07 17:00:00
+5589,Real Madrid,Levante,2.53951,0.58311,2,0,h,2015-03-15 20:00:00
+5600,Real Madrid,Barcelona,1.69907,2.29612,1,2,a,2015-03-22 23:00:00
+5510,Real Madrid,Granada,6.61091,0.602945,9,1,h,2015-04-05 11:00:00
+5521,Real Madrid,Rayo Vallecano,1.94497,1.19622,2,0,a,2015-04-08 21:00:00
+5525,Real Madrid,Eibar,2.99344,0.143497,3,0,h,2015-04-11 15:00:00
+5538,Real Madrid,Malaga,3.03655,1.04346,3,1,h,2015-04-18 19:00:00
+5553,Real Madrid,Celta Vigo,2.11441,2.11816,4,2,a,2015-04-26 20:00:00
+5559,Real Madrid,Almeria,2.72518,0.248127,3,0,h,2015-04-29 19:00:00
+5468,Real Madrid,Sevilla,1.7552,2.92695,3,2,a,2015-05-02 19:00:00
+5478,Real Madrid,Valencia,2.73249,1.59908,2,2,h,2015-05-09 19:00:00
+5492,Real Madrid,Espanyol,2.42924,1.5021,4,1,a,2015-05-17 18:00:00
+5504,Real Madrid,Getafe,3.13453,0.979312,7,3,h,2015-05-23 19:30:00

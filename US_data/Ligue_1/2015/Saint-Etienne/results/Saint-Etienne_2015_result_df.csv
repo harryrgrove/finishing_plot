@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1876,Saint-Etienne,Toulouse,0.928139,0.483519,1,2,a,2015-08-09 19:00:00
+1880,Saint-Etienne,Bordeaux,0.468482,1.47305,1,1,h,2015-08-15 19:00:00
+1897,Saint-Etienne,Lorient,2.35602,0.548561,1,0,a,2015-08-23 19:00:00
+1906,Saint-Etienne,SC Bastia,1.86817,0.607724,2,1,h,2015-08-30 16:00:00
+1911,Saint-Etienne,Montpellier,1.00785,1.54974,2,1,a,2015-09-12 22:00:00
+1927,Saint-Etienne,Nantes,1.36073,0.375954,2,0,h,2015-09-20 19:00:00
+1931,Saint-Etienne,Troyes,1.5576,0.421449,1,0,a,2015-09-23 21:00:00
+1947,Saint-Etienne,Nice,2.3979,1.06192,1,4,h,2015-09-27 23:00:00
+1955,Saint-Etienne,Caen,0.761122,1.48946,0,1,a,2015-10-04 19:00:00
+1962,Saint-Etienne,GFC Ajaccio,0.616442,0.0897244,2,0,h,2015-10-17 22:00:00
+1977,Saint-Etienne,Paris Saint Germain,0.565349,4.46576,1,4,a,2015-10-26 00:00:00
+1979,Saint-Etienne,Reims,3.28677,0.336436,3,0,h,2015-10-31 20:00:00
+1997,Saint-Etienne,Lyon,0.186858,2.31074,0,3,a,2015-11-09 00:00:00
+2008,Saint-Etienne,Marseille,0.711899,1.77851,0,2,h,2015-11-23 00:00:00
+2016,Saint-Etienne,Guingamp,2.58964,1.78537,3,0,h,2015-11-29 17:00:00
+2027,Saint-Etienne,Lille,0.367291,0.408642,0,1,a,2015-12-03 00:00:00
+2038,Saint-Etienne,Rennes,1.47089,0.765019,1,1,h,2015-12-07 00:00:00
+2045,Saint-Etienne,Monaco,0.470198,1.45029,0,1,a,2015-12-13 17:00:00
+2056,Saint-Etienne,Angers,1.10724,0.421122,1,0,h,2015-12-20 17:00:00
+2066,Saint-Etienne,Nantes,1.2147,1.96071,1,2,a,2016-01-10 17:00:00
+2078,Saint-Etienne,Lyon,0.629161,1.40956,1,0,h,2016-01-18 00:00:00
+2087,Saint-Etienne,Reims,0.279599,1.93279,1,1,a,2016-01-24 20:00:00
+2098,Saint-Etienne,Paris Saint Germain,0.66288,2.05075,0,2,h,2016-02-01 00:00:00
+2108,Saint-Etienne,Rennes,0.660476,0.601554,1,0,a,2016-02-05 00:00:00
+2117,Saint-Etienne,Bordeaux,3.2558,0.852137,4,1,a,2016-02-07 20:00:00
+2127,Saint-Etienne,Monaco,2.03388,1.23838,1,1,h,2016-02-14 20:00:00
+2135,Saint-Etienne,Marseille,0.984151,0.839334,1,1,a,2016-02-21 17:00:00
+2145,Saint-Etienne,Caen,1.76354,1.45084,1,2,h,2016-02-28 20:00:00
+2150,Saint-Etienne,Angers,1.16763,0.284604,0,0,a,2016-03-05 23:00:00
+2162,Saint-Etienne,Guingamp,0.636957,1.4605,0,2,a,2016-03-12 23:00:00
+2170,Saint-Etienne,Montpellier,2.13151,0.582112,3,0,h,2016-03-19 20:00:00
+2181,Saint-Etienne,GFC Ajaccio,0.56491,0.920517,2,0,a,2016-04-02 22:00:00
+2192,Saint-Etienne,Troyes,2.04874,0.202203,1,0,h,2016-04-09 22:00:00
+2201,Saint-Etienne,SC Bastia,0.724081,0.926243,1,0,a,2016-04-16 22:00:00
+2213,Saint-Etienne,Lorient,0.980333,0.291292,2,0,h,2016-04-24 19:00:00
+2220,Saint-Etienne,Toulouse,0.43469,2.18848,0,0,h,2016-04-30 19:00:00
+2228,Saint-Etienne,Nice,0.520259,2.0258,0,2,a,2016-05-07 23:00:00
+2240,Saint-Etienne,Lille,0.691544,1.61764,0,1,h,2016-05-14 23:00:00

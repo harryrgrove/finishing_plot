@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+81,Tottenham,Manchester United,0.6746,0.627539,0,1,a,2015-08-08 15:45:00
+95,Tottenham,Stoke,1.70614,2.80956,2,2,h,2015-08-15 18:00:00
+105,Tottenham,Leicester,1.89437,0.829012,1,1,a,2015-08-22 18:00:00
+118,Tottenham,Everton,1.99917,0.694692,0,0,h,2015-08-29 20:30:00
+128,Tottenham,Sunderland,1.45615,1.0407,1,0,a,2015-09-13 16:30:00
+138,Tottenham,Crystal Palace,1.01573,0.538439,1,0,h,2015-09-20 16:30:00
+141,Tottenham,Manchester City,2.30799,1.57842,4,1,h,2015-09-26 15:45:00
+159,Tottenham,Swansea,1.18142,0.774806,2,2,a,2015-10-04 19:00:00
+161,Tottenham,Liverpool,0.586228,0.715892,0,0,h,2015-10-17 15:45:00
+178,Tottenham,Bournemouth,3.43313,0.490581,5,1,a,2015-10-25 18:05:00
+190,Tottenham,Aston Villa,1.14374,0.325711,3,1,h,2015-11-03 00:00:00
+199,Tottenham,Arsenal,0.90585,2.01767,1,1,a,2015-11-08 20:00:00
+209,Tottenham,West Ham,3.22353,0.818937,4,1,h,2015-11-22 20:00:00
+217,Tottenham,Chelsea,0.333494,0.283375,0,0,h,2015-11-29 16:00:00
+224,Tottenham,West Bromwich Albion,1.12876,1.48695,1,1,a,2015-12-05 19:00:00
+239,Tottenham,Newcastle United,1.03317,1.55252,1,2,h,2015-12-13 20:00:00
+242,Tottenham,Southampton,1.47453,0.83385,2,0,a,2015-12-19 19:00:00
+253,Tottenham,Norwich,2.40666,0.452019,3,0,h,2015-12-26 19:00:00
+262,Tottenham,Watford,0.527248,1.13011,2,1,a,2015-12-28 19:00:00
+280,Tottenham,Everton,0.75907,0.721603,1,1,a,2016-01-03 20:00:00
+290,Tottenham,Leicester,1.2301,0.588708,0,1,h,2016-01-14 00:00:00
+291,Tottenham,Sunderland,2.02579,0.617306,4,1,h,2016-01-16 16:45:00
+302,Tottenham,Crystal Palace,1.74368,0.930792,3,1,a,2016-01-23 19:00:00
+313,Tottenham,Norwich,2.75469,0.929319,3,0,a,2016-02-02 23:45:00
+324,Tottenham,Watford,2.00475,0.149839,1,0,h,2016-02-06 19:00:00
+340,Tottenham,Manchester City,1.23517,1.97876,2,1,a,2016-02-14 20:15:00
+347,Tottenham,Swansea,3.57325,1.24938,2,1,h,2016-02-28 18:05:00
+354,Tottenham,West Ham,1.22673,0.784319,0,1,a,2016-03-02 23:45:00
+359,Tottenham,Arsenal,1.88378,0.543157,2,2,h,2016-03-05 16:45:00
+372,Tottenham,Aston Villa,2.00141,1.84022,2,0,a,2016-03-13 20:00:00
+383,Tottenham,Bournemouth,2.02694,0.120366,3,0,h,2016-03-20 20:00:00
+391,Tottenham,Liverpool,1.23579,1.37954,1,1,a,2016-04-02 20:30:00
+402,Tottenham,Manchester United,1.79647,0.341238,3,0,h,2016-04-10 19:00:00
+414,Tottenham,Stoke,2.89775,0.458376,4,0,a,2016-04-18 23:00:00
+426,Tottenham,West Bromwich Albion,1.26346,0.894413,1,1,h,2016-04-25 23:00:00
+436,Tottenham,Chelsea,1.90407,0.81661,2,2,a,2016-05-02 23:00:00
+444,Tottenham,Southampton,2.55547,1.30812,1,2,h,2016-05-08 16:30:00
+454,Tottenham,Newcastle United,0.869082,2.42808,1,5,a,2016-05-15 18:00:00

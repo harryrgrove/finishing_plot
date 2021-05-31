@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1329,Hamburger SV,Ingolstadt,0.309707,1.20744,1,1,h,2016-08-27 17:30:00
+1341,Hamburger SV,Bayer Leverkusen,0.65629,2.1378,1,3,a,2016-09-10 17:30:00
+1346,Hamburger SV,RasenBallsport Leipzig,1.08134,3.30009,0,4,h,2016-09-17 17:30:00
+1357,Hamburger SV,Freiburg,0.647916,1.78293,0,1,a,2016-09-20 22:00:00
+1366,Hamburger SV,Bayern Munich,0.304936,2.12276,0,1,h,2016-09-24 17:30:00
+1374,Hamburger SV,Hertha Berlin,1.11245,2.44266,0,2,a,2016-10-01 17:30:00
+1382,Hamburger SV,Borussia M.Gladbach,0.209913,3.46166,0,0,a,2016-10-15 17:30:00
+1390,Hamburger SV,Eintracht Frankfurt,0.163638,1.31119,0,3,h,2016-10-21 22:30:00
+3307,Hamburger SV,FC Cologne,0.307566,2.93112,0,3,a,2016-10-30 20:30:00
+2807,Hamburger SV,Borussia Dortmund,0.716262,2.88584,2,5,h,2016-11-05 18:30:00
+2822,Hamburger SV,Hoffenheim,1.80116,2.31892,2,2,a,2016-11-20 18:30:00
+2827,Hamburger SV,Werder Bremen,2.17271,1.21396,2,2,h,2016-11-26 18:30:00
+3199,Hamburger SV,Darmstadt,2.12004,0.567564,2,0,a,2016-12-04 18:30:00
+3204,Hamburger SV,Augsburg,0.886586,0.952731,1,0,h,2016-12-10 18:30:00
+3215,Hamburger SV,Mainz 05,0.900534,1.36545,1,3,a,2016-12-17 18:30:00
+3221,Hamburger SV,Schalke 04,2.47737,0.439814,2,1,h,2016-12-20 23:00:00
+3724,Hamburger SV,Wolfsburg,0.666936,1.13564,0,1,a,2017-01-21 17:30:00
+3734,Hamburger SV,Ingolstadt,0.491104,1.41586,1,3,a,2017-01-28 17:30:00
+3740,Hamburger SV,Bayer Leverkusen,1.0957,0.258906,1,0,h,2017-02-03 19:30:00
+3752,Hamburger SV,RasenBallsport Leipzig,1.4821,1.39703,3,0,a,2017-02-11 14:30:00
+3764,Hamburger SV,Freiburg,1.63591,0.940296,2,2,h,2017-02-18 17:30:00
+3772,Hamburger SV,Bayern Munich,0.228928,3.61743,0,8,a,2017-02-25 14:30:00
+3784,Hamburger SV,Hertha Berlin,0.696504,0.385743,1,0,h,2017-03-05 16:30:00
+3793,Hamburger SV,Borussia M.Gladbach,1.4575,1.31382,2,1,h,2017-03-12 16:30:00
+3800,Hamburger SV,Eintracht Frankfurt,0.134726,1.03591,0,0,a,2017-03-18 17:30:00
+3804,Hamburger SV,FC Cologne,1.36149,1.13052,2,1,h,2017-04-01 14:30:00
+3812,Hamburger SV,Borussia Dortmund,1.01065,3.96885,0,3,a,2017-04-04 19:00:00
+3826,Hamburger SV,Hoffenheim,0.920754,1.40908,2,1,h,2017-04-08 14:30:00
+3832,Hamburger SV,Werder Bremen,0.695911,1.74435,1,2,a,2017-04-16 14:30:00
+3841,Hamburger SV,Darmstadt,1.14997,1.31693,1,2,h,2017-04-22 14:30:00
+3853,Hamburger SV,Augsburg,0.294926,2.14215,0,4,a,2017-04-30 14:30:00
+3864,Hamburger SV,Mainz 05,0.327514,1.37521,0,0,h,2017-05-07 14:30:00
+3867,Hamburger SV,Schalke 04,1.82811,1.23798,1,1,a,2017-05-13 14:30:00
+3879,Hamburger SV,Wolfsburg,0.566862,0.872557,2,1,h,2017-05-20 14:30:00

@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+5826,Athletic Club,Malaga,1.14151,1.32107,0,1,a,2014-08-23 18:00:00
+5839,Athletic Club,Levante,2.25621,0.331502,3,0,h,2014-08-30 18:00:00
+5787,Athletic Club,Barcelona,0.0979707,2.1772,0,2,a,2014-09-13 15:00:00
+5798,Athletic Club,Granada,0.452668,0.385966,0,1,h,2014-09-20 17:00:00
+5809,Athletic Club,Rayo Vallecano,1.06179,3.17965,1,2,a,2014-09-24 19:00:00
+5820,Athletic Club,Eibar,1.16599,0.518244,0,0,h,2014-09-27 21:00:00
+5763,Athletic Club,Real Madrid,0.744918,3.61471,0,5,a,2014-10-05 20:00:00
+5766,Athletic Club,Celta Vigo,2.66245,0.221015,1,1,h,2014-10-18 17:00:00
+5775,Athletic Club,Almeria,0.921626,0.310169,1,0,a,2014-10-25 15:00:00
+5720,Athletic Club,Sevilla,0.43055,0.151226,1,0,h,2014-11-02 11:00:00
+5733,Athletic Club,Valencia,0.767828,0.766329,0,0,a,2014-11-09 18:00:00
+5735,Athletic Club,Espanyol,0.829053,0.746307,3,1,h,2014-11-21 19:45:00
+5746,Athletic Club,Getafe,0.518302,0.704685,2,1,a,2014-11-29 15:00:00
+5688,Athletic Club,Cordoba,0.611024,1.1939,0,1,h,2014-12-06 17:00:00
+5705,Athletic Club,Real Sociedad,0.932204,1.86676,1,1,a,2014-12-14 20:00:00
+5715,Athletic Club,Atletico Madrid,0.294125,2.16168,1,4,h,2014-12-21 20:00:00
+5645,Athletic Club,Deportivo La Coruna,0.999235,0.604346,0,1,a,2015-01-03 21:00:00
+5658,Athletic Club,Elche,1.29276,1.18469,1,2,h,2015-01-11 16:00:00
+5665,Athletic Club,Villarreal,0.646477,2.35698,0,2,a,2015-01-17 19:00:00
+5678,Athletic Club,Malaga,0.959466,1.25659,1,1,h,2015-01-25 16:00:00
+5602,Athletic Club,Levante,1.65235,1.0606,2,0,a,2015-02-01 11:00:00
+5616,Athletic Club,Barcelona,1.8275,4.6084,2,5,h,2015-02-08 20:00:00
+5621,Athletic Club,Granada,0.732856,0.476819,0,0,a,2015-02-14 19:00:00
+5634,Athletic Club,Rayo Vallecano,1.93713,0.144942,1,0,h,2015-02-22 16:00:00
+5567,Athletic Club,Eibar,1.81458,0.282177,1,0,a,2015-03-01 16:00:00
+5573,Athletic Club,Real Madrid,0.351052,0.880869,1,0,h,2015-03-07 17:00:00
+5585,Athletic Club,Celta Vigo,2.77225,1.93556,2,1,a,2015-03-14 21:00:00
+5595,Athletic Club,Almeria,1.43356,0.341584,2,1,h,2015-03-21 21:00:00
+5506,Athletic Club,Sevilla,0.480128,1.36462,0,2,a,2015-04-04 15:00:00
+5522,Athletic Club,Valencia,1.30831,1.12945,1,1,h,2015-04-09 19:00:00
+5531,Athletic Club,Espanyol,0.269712,0.512811,0,1,a,2015-04-12 16:00:00
+5539,Athletic Club,Getafe,4.04338,0.0426725,4,0,h,2015-04-18 21:00:00
+5545,Athletic Club,Cordoba,1.4308,2.18715,1,0,a,2015-04-24 19:45:00
+5556,Athletic Club,Real Sociedad,1.32188,0.41352,1,1,h,2015-04-28 21:00:00
+5467,Athletic Club,Atletico Madrid,0.887369,0.962339,0,0,a,2015-05-02 17:00:00
+5479,Athletic Club,Deportivo La Coruna,0.764287,0.443144,1,1,h,2015-05-09 21:00:00
+5486,Athletic Club,Elche,1.27624,1.28526,3,2,a,2015-05-17 18:00:00
+5498,Athletic Club,Villarreal,2.45261,0.981771,4,0,h,2015-05-23 17:30:00

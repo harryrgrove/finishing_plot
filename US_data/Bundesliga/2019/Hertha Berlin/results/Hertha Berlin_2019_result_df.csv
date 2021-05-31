@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+12403,Hertha Berlin,Bayern Munich,1.18459,2.47707,2,2,a,2019-08-16 19:30:00
+12420,Hertha Berlin,Wolfsburg,0.936557,1.33245,0,3,h,2019-08-25 17:00:00
+12424,Hertha Berlin,Schalke 04,0.771094,1.16546,0,3,a,2019-08-31 14:30:00
+12431,Hertha Berlin,Mainz 05,2.07839,1.1162,1,2,a,2019-09-14 13:30:00
+12440,Hertha Berlin,Paderborn,0.983173,1.89015,2,1,h,2019-09-21 13:30:00
+12456,Hertha Berlin,FC Cologne,2.20336,0.533432,4,0,a,2019-09-29 16:00:00
+12459,Hertha Berlin,Fortuna Duesseldorf,2.0219,1.1795,3,1,h,2019-10-04 19:30:00
+12472,Hertha Berlin,Werder Bremen,0.353813,0.967641,1,1,a,2019-10-19 14:30:00
+12482,Hertha Berlin,Hoffenheim,2.37055,2.93074,2,3,h,2019-10-26 14:30:00
+12492,Hertha Berlin,Union Berlin,0.415645,1.31187,0,1,a,2019-11-02 17:30:00
+12494,Hertha Berlin,RasenBallsport Leipzig,0.46433,1.93927,2,4,h,2019-11-09 14:30:00
+12510,Hertha Berlin,Augsburg,0.801011,1.76885,0,4,a,2019-11-24 14:30:00
+12513,Hertha Berlin,Borussia Dortmund,0.751161,1.48269,1,2,h,2019-11-30 14:30:00
+12524,Hertha Berlin,Eintracht Frankfurt,1.43518,2.6934,2,2,a,2019-12-06 19:30:00
+12533,Hertha Berlin,Freiburg,0.930886,0.816692,1,0,h,2019-12-14 14:30:00
+12539,Hertha Berlin,Bayer Leverkusen,1.51156,1.32267,1,0,a,2019-12-18 17:30:00
+12551,Hertha Berlin,Borussia M.Gladbach,0.804328,0.633262,0,0,h,2019-12-21 17:30:00
+12559,Hertha Berlin,Bayern Munich,0.82925,2.96455,0,4,h,2020-01-19 14:30:00
+12569,Hertha Berlin,Wolfsburg,1.71603,1.14053,2,1,a,2020-01-25 14:30:00
+12578,Hertha Berlin,Schalke 04,0.417351,1.11364,0,0,h,2020-01-31 19:30:00
+12589,Hertha Berlin,Mainz 05,0.811018,2.85074,1,3,h,2020-02-08 14:30:00
+12599,Hertha Berlin,Paderborn,2.10688,0.920452,2,1,a,2020-02-15 14:30:00
+12607,Hertha Berlin,FC Cologne,0.449209,2.89736,0,5,h,2020-02-22 14:30:00
+12614,Hertha Berlin,Fortuna Duesseldorf,3.03938,1.45773,3,3,a,2020-02-28 19:30:00
+12623,Hertha Berlin,Werder Bremen,0.896654,1.51105,2,2,h,2020-03-07 14:30:00
+12632,Hertha Berlin,Hoffenheim,1.55073,2.79087,3,0,a,2020-05-16 13:30:00
+12641,Hertha Berlin,Union Berlin,2.51634,0.273771,4,0,h,2020-05-22 18:30:00
+12653,Hertha Berlin,RasenBallsport Leipzig,1.57339,0.612996,2,2,a,2020-05-27 16:30:00
+12658,Hertha Berlin,Augsburg,3.05122,1.13484,2,0,h,2020-05-30 13:30:00
+12664,Hertha Berlin,Borussia Dortmund,0.108241,1.84639,0,1,a,2020-06-06 16:30:00
+12677,Hertha Berlin,Eintracht Frankfurt,0.602622,2.94287,1,4,h,2020-06-13 13:30:00
+12688,Hertha Berlin,Freiburg,1.43031,1.80838,1,2,a,2020-06-16 18:30:00
+12695,Hertha Berlin,Bayer Leverkusen,2.3555,0.679286,2,0,h,2020-06-20 13:30:00
+12702,Hertha Berlin,Borussia M.Gladbach,0.827053,3.07113,1,2,a,2020-06-27 13:30:00

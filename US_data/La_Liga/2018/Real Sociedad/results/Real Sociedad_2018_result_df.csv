@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+9960,Real Sociedad,Villarreal,0.410646,1.39716,2,1,a,2018-08-18 21:15:00
+9968,Real Sociedad,Leganes,1.69572,1.67636,2,2,a,2018-08-24 23:15:00
+9978,Real Sociedad,Eibar,1.32388,0.798059,1,2,a,2018-08-31 23:00:00
+9989,Real Sociedad,Barcelona,1.47969,1.7617,1,2,h,2018-09-15 14:15:00
+10003,Real Sociedad,SD Huesca,0.200875,0.565773,1,0,a,2018-09-21 19:00:00
+10008,Real Sociedad,Rayo Vallecano,1.23911,1.77977,2,2,h,2018-09-25 19:00:00
+10023,Real Sociedad,Valencia,1.12097,0.924746,0,1,h,2018-09-29 11:00:00
+10035,Real Sociedad,Athletic Club,2.11494,1.18842,3,1,a,2018-10-05 19:00:00
+10039,Real Sociedad,Girona,0.57678,0.53783,0,0,h,2018-10-22 19:00:00
+10053,Real Sociedad,Atletico Madrid,0.211158,1.41243,0,2,a,2018-10-27 18:45:00
+10064,Real Sociedad,Sevilla,0.74078,0.413773,0,0,h,2018-11-04 17:30:00
+10071,Real Sociedad,Levante,1.43351,1.06813,3,1,a,2018-11-09 20:00:00
+10078,Real Sociedad,Celta Vigo,2.07409,0.545872,2,1,h,2018-11-26 20:00:00
+10094,Real Sociedad,Real Betis,1.39194,1.31385,0,1,a,2018-12-02 11:00:00
+10102,Real Sociedad,Real Valladolid,1.7451,1.31256,1,2,h,2018-12-09 17:30:00
+10113,Real Sociedad,Getafe,0.608285,0.358274,0,1,a,2018-12-15 12:00:00
+10123,Real Sociedad,Alaves,1.06219,0.877996,0,1,h,2018-12-21 20:00:00
+10133,Real Sociedad,Real Madrid,2.29324,2.2027,2,0,a,2019-01-06 17:30:00
+10138,Real Sociedad,Espanyol,2.68319,2.4151,3,2,h,2019-01-14 20:00:00
+10149,Real Sociedad,Rayo Vallecano,1.82818,0.768424,2,2,a,2019-01-20 17:30:00
+10158,Real Sociedad,SD Huesca,0.307366,0.549205,0,0,h,2019-01-27 17:30:00
+10171,Real Sociedad,Athletic Club,1.63134,1.22419,2,1,h,2019-02-02 15:15:00
+10186,Real Sociedad,Valencia,0.502054,1.62448,0,0,a,2019-02-10 15:15:00
+10188,Real Sociedad,Leganes,1.87893,1.05178,3,0,h,2019-02-16 17:30:00
+10201,Real Sociedad,Girona,0.422429,1.09767,0,0,a,2019-02-25 20:00:00
+10209,Real Sociedad,Atletico Madrid,0.727428,2.1178,0,2,h,2019-03-03 17:30:00
+10225,Real Sociedad,Sevilla,1.23303,2.88735,2,5,a,2019-03-10 17:30:00
+10228,Real Sociedad,Levante,2.68033,1.05307,1,1,h,2019-03-15 20:00:00
+10242,Real Sociedad,Real Valladolid,0.736713,1.99145,1,1,a,2019-03-31 16:30:00
+10249,Real Sociedad,Real Betis,2.57254,1.42634,2,1,h,2019-04-04 20:30:00
+10264,Real Sociedad,Celta Vigo,1.24845,3.30598,1,3,a,2019-04-07 17:30:00
+10270,Real Sociedad,Eibar,0.293383,0.99834,1,1,h,2019-04-14 15:15:00
+10285,Real Sociedad,Barcelona,0.883156,1.2673,1,2,a,2019-04-20 19:45:00
+10293,Real Sociedad,Villarreal,0.843995,1.06313,0,1,h,2019-04-25 19:30:00
+10298,Real Sociedad,Getafe,2.18907,0.470273,2,1,h,2019-04-28 15:15:00
+10307,Real Sociedad,Alaves,0.746692,0.684194,1,0,a,2019-05-04 17:30:00
+10326,Real Sociedad,Real Madrid,2.53737,0.901711,3,1,h,2019-05-12 17:30:00
+10334,Real Sociedad,Espanyol,0.318551,1.06125,0,2,a,2019-05-18 14:15:00

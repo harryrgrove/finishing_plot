@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+4756,Liverpool,Southampton,1.33192,1.55248,2,1,h,2014-08-17 13:30:00
+4768,Liverpool,Manchester City,0.901889,1.31375,1,3,a,2014-08-25 20:00:00
+4777,Liverpool,Tottenham,2.74317,0.48592,3,0,a,2014-08-31 13:30:00
+4726,Liverpool,Aston Villa,0.728097,0.701676,0,1,h,2014-09-13 17:30:00
+4734,Liverpool,West Ham,0.37835,1.26032,1,3,a,2014-09-20 17:30:00
+4739,Liverpool,Everton,1.5286,0.475885,1,1,h,2014-09-27 12:45:00
+4691,Liverpool,West Bromwich Albion,1.56163,1.4384,2,1,h,2014-10-04 15:00:00
+4706,Liverpool,Queens Park Rangers,1.51813,2.60852,3,2,a,2014-10-19 13:30:00
+4713,Liverpool,Hull,0.678924,0.222999,0,0,h,2014-10-25 15:00:00
+4649,Liverpool,Newcastle United,0.258953,1.56863,0,1,a,2014-11-01 12:45:00
+4659,Liverpool,Chelsea,0.531905,1.97201,1,2,h,2014-11-08 12:45:00
+4676,Liverpool,Crystal Palace,0.952958,1.47309,1,3,a,2014-11-23 13:30:00
+4682,Liverpool,Stoke,1.71025,0.875424,1,0,h,2014-11-29 15:00:00
+4590,Liverpool,Leicester,1.3012,1.23928,3,1,a,2014-12-02 19:45:00
+4604,Liverpool,Sunderland,0.663875,0.268395,0,0,h,2014-12-06 15:00:00
+4616,Liverpool,Manchester United,1.87114,1.79543,0,3,a,2014-12-14 13:30:00
+4627,Liverpool,Arsenal,1.31858,0.754219,2,2,h,2014-12-21 16:00:00
+4630,Liverpool,Burnley,1.06708,0.61207,1,0,a,2014-12-26 15:00:00
+4648,Liverpool,Swansea,3.27658,1.00374,4,1,h,2014-12-29 20:00:00
+4559,Liverpool,Leicester,2.38944,1.09438,2,2,h,2015-01-01 15:00:00
+4561,Liverpool,Sunderland,2.16251,0.250077,1,0,a,2015-01-10 12:45:00
+4571,Liverpool,Aston Villa,1.54424,0.845309,2,0,a,2015-01-17 15:00:00
+4582,Liverpool,West Ham,2.28203,0.383092,2,0,h,2015-01-31 15:00:00
+4521,Liverpool,Everton,1.03601,0.227711,0,0,a,2015-02-07 17:30:00
+4528,Liverpool,Tottenham,2.76444,1.71247,3,2,h,2015-02-10 20:00:00
+4544,Liverpool,Southampton,0.695778,0.869183,2,0,a,2015-02-22 16:15:00
+4480,Liverpool,Manchester City,0.769022,1.12846,2,1,h,2015-03-01 12:00:00
+4491,Liverpool,Burnley,1.30453,0.319239,2,0,h,2015-03-04 20:00:00
+4502,Liverpool,Swansea,1.69506,0.438751,1,0,a,2015-03-16 20:00:00
+4510,Liverpool,Manchester United,0.557648,1.22632,1,2,h,2015-03-22 13:30:00
+4440,Liverpool,Arsenal,1.21414,1.45672,1,4,a,2015-04-04 12:45:00
+4460,Liverpool,Newcastle United,1.26534,0.363343,2,0,h,2015-04-13 20:00:00
+4471,Liverpool,West Bromwich Albion,1.41235,0.507754,0,0,a,2015-04-25 15:00:00
+4478,Liverpool,Hull,0.523697,0.730978,0,1,a,2015-04-28 19:45:00
+4400,Liverpool,Queens Park Rangers,2.28745,0.386314,2,1,h,2015-05-02 15:00:00
+4417,Liverpool,Chelsea,1.33324,0.535272,1,1,a,2015-05-10 16:00:00
+4425,Liverpool,Crystal Palace,1.11415,1.99504,1,3,h,2015-05-16 17:30:00
+4439,Liverpool,Stoke,1.02292,2.15707,1,6,a,2015-05-24 15:00:00

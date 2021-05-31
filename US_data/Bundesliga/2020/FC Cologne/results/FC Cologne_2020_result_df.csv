@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+14176,FC Cologne,Hoffenheim,2.40801,2.9032,2,3,h,2020-09-19 13:30:00
+14185,FC Cologne,Arminia Bielefeld,1.3741,0.163242,0,1,a,2020-09-26 13:30:00
+15159,FC Cologne,Borussia M.Gladbach,0.244959,2.0629,1,3,h,2020-10-03 13:30:00
+15174,FC Cologne,Eintracht Frankfurt,1.41695,1.54892,1,1,h,2020-10-18 13:30:00
+15176,FC Cologne,VfB Stuttgart,2.37516,0.722179,1,1,a,2020-10-23 18:30:00
+15186,FC Cologne,Bayern Munich,0.681548,0.992927,1,2,h,2020-10-31 14:30:00
+15194,FC Cologne,Werder Bremen,0.399372,1.35118,1,1,a,2020-11-06 19:30:00
+15211,FC Cologne,Union Berlin,1.08472,1.89238,1,2,h,2020-11-22 17:00:00
+15212,FC Cologne,Borussia Dortmund,1.59253,2.76041,2,1,a,2020-11-28 14:30:00
+15227,FC Cologne,Wolfsburg,1.08565,1.90682,2,2,h,2020-12-05 14:30:00
+15237,FC Cologne,Mainz 05,0.838955,1.26169,1,0,a,2020-12-12 14:30:00
+15241,FC Cologne,Bayer Leverkusen,0.251532,1.93376,0,4,h,2020-12-16 19:30:00
+15248,FC Cologne,RasenBallsport Leipzig,0.205395,1.57839,0,0,a,2020-12-19 14:30:00
+15262,FC Cologne,Augsburg,0.454651,1.23997,0,1,h,2021-01-02 14:30:00
+15269,FC Cologne,Freiburg,0.139728,2.91627,0,5,a,2021-01-09 14:30:00
+15281,FC Cologne,Hertha Berlin,0.336553,0.419961,0,0,h,2021-01-16 14:30:00
+15289,FC Cologne,Schalke 04,1.7479,1.14009,2,1,a,2021-01-20 17:30:00
+15295,FC Cologne,Hoffenheim,2.28505,2.66263,0,3,a,2021-01-24 17:00:00
+15308,FC Cologne,Arminia Bielefeld,1.50709,0.949382,3,1,h,2021-01-31 14:30:00
+15311,FC Cologne,Borussia M.Gladbach,0.816611,0.42778,2,1,a,2021-02-06 17:30:00
+15325,FC Cologne,Eintracht Frankfurt,0.554721,2.94491,0,2,a,2021-02-14 14:30:00
+15335,FC Cologne,VfB Stuttgart,0.650885,0.606729,0,1,h,2021-02-20 14:30:00
+15338,FC Cologne,Bayern Munich,0.985369,2.40221,1,5,a,2021-02-27 14:30:00
+15349,FC Cologne,Werder Bremen,1.50386,1.20768,1,1,h,2021-03-07 14:30:00
+15360,FC Cologne,Union Berlin,1.05403,2.37875,1,2,a,2021-03-13 14:30:00
+15371,FC Cologne,Borussia Dortmund,1.32405,1.81107,2,2,h,2021-03-20 14:30:00
+15378,FC Cologne,Wolfsburg,1.20907,0.729338,0,1,a,2021-04-03 13:30:00
+15388,FC Cologne,Mainz 05,2.49731,1.51737,2,3,h,2021-04-11 16:00:00
+15395,FC Cologne,Bayer Leverkusen,0.828829,1.98802,0,3,a,2021-04-17 16:30:00
+15406,FC Cologne,RasenBallsport Leipzig,0.594852,2.01175,2,1,h,2021-04-20 16:30:00
+15418,FC Cologne,Augsburg,1.82475,1.84086,3,2,a,2021-04-23 18:30:00
+15425,FC Cologne,Freiburg,1.72084,2.49672,1,4,h,2021-05-09 11:30:00
+15432,FC Cologne,Hertha Berlin,1.65371,0.0752744,0,0,a,2021-05-15 13:30:00
+15443,FC Cologne,Schalke 04,1.98992,0.337227,1,0,h,2021-05-22 13:30:00

@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1329,Ingolstadt,Hamburger SV,1.20744,0.309707,1,1,a,2016-08-27 17:30:00
+1338,Ingolstadt,Hertha Berlin,0.986677,0.854096,0,2,h,2016-09-10 17:30:00
+1349,Ingolstadt,Bayern Munich,1.54672,0.446972,1,3,a,2016-09-17 17:30:00
+1355,Ingolstadt,Eintracht Frankfurt,0.782075,0.352096,0,2,h,2016-09-20 22:00:00
+1364,Ingolstadt,Borussia M.Gladbach,0.535119,1.18177,0,2,a,2016-09-24 17:30:00
+1375,Ingolstadt,Hoffenheim,2.21758,3.31162,1,2,h,2016-10-01 17:30:00
+1383,Ingolstadt,FC Cologne,1.07265,3.98127,1,2,a,2016-10-15 17:30:00
+1391,Ingolstadt,Borussia Dortmund,1.69325,2.51636,3,3,h,2016-10-22 17:30:00
+3300,Ingolstadt,Mainz 05,0.216935,2.21072,0,2,a,2016-10-29 17:30:00
+2808,Ingolstadt,Augsburg,0.587399,1.15792,0,2,h,2016-11-05 18:30:00
+2820,Ingolstadt,Darmstadt,1.18409,1.92547,1,0,a,2016-11-19 18:30:00
+2828,Ingolstadt,Wolfsburg,3.68791,0.504027,1,1,h,2016-11-26 18:30:00
+3197,Ingolstadt,Werder Bremen,1.09704,2.23558,1,2,a,2016-12-03 18:30:00
+3205,Ingolstadt,RasenBallsport Leipzig,0.577386,1.51305,1,0,h,2016-12-10 18:30:00
+3218,Ingolstadt,Bayer Leverkusen,2.29253,0.571467,2,1,a,2016-12-18 20:30:00
+3223,Ingolstadt,Freiburg,1.2843,1.5487,1,2,h,2016-12-21 23:00:00
+3723,Ingolstadt,Schalke 04,0.522735,2.02155,0,1,a,2017-01-21 17:30:00
+3734,Ingolstadt,Hamburger SV,1.41586,0.491104,3,1,h,2017-01-28 17:30:00
+3745,Ingolstadt,Hertha Berlin,0.523057,0.810684,0,1,a,2017-02-04 14:30:00
+3753,Ingolstadt,Bayern Munich,0.436757,1.89105,0,2,h,2017-02-11 14:30:00
+3759,Ingolstadt,Eintracht Frankfurt,1.37301,2.1199,2,0,a,2017-02-18 14:30:00
+3774,Ingolstadt,Borussia M.Gladbach,0.876174,1.15857,0,2,h,2017-02-26 14:30:00
+3780,Ingolstadt,Hoffenheim,0.755565,2.00625,2,5,a,2017-03-04 14:30:00
+3791,Ingolstadt,FC Cologne,1.42995,1.28155,2,2,h,2017-03-11 17:30:00
+3794,Ingolstadt,Borussia Dortmund,1.37608,0.574065,0,1,a,2017-03-17 19:30:00
+3810,Ingolstadt,Mainz 05,1.5092,0.767112,2,1,h,2017-04-02 14:30:00
+3817,Ingolstadt,Augsburg,1.76551,1.36168,3,2,a,2017-04-05 19:00:00
+3829,Ingolstadt,Darmstadt,3.65862,0.980139,3,2,h,2017-04-09 16:30:00
+3836,Ingolstadt,Wolfsburg,0.155444,1.60835,0,3,a,2017-04-15 14:30:00
+3846,Ingolstadt,Werder Bremen,2.2262,2.20579,2,4,h,2017-04-22 14:30:00
+3851,Ingolstadt,RasenBallsport Leipzig,0.593622,1.50493,0,0,a,2017-04-29 14:30:00
+3865,Ingolstadt,Bayer Leverkusen,0.432267,1.38231,1,1,h,2017-05-06 14:30:00
+3873,Ingolstadt,Freiburg,1.89065,1.27196,1,1,a,2017-05-13 14:30:00
+3880,Ingolstadt,Schalke 04,2.6011,1.13122,1,1,h,2017-05-20 14:30:00

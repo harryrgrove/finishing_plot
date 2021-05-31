@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1784,Athletic Club,Sporting Gijon,0.604671,1.43642,1,2,a,2016-08-21 20:15:00
+1797,Athletic Club,Barcelona,0.625251,2.33658,0,1,h,2016-08-28 22:15:00
+1808,Athletic Club,Deportivo La Coruna,0.239631,0.708733,1,0,a,2016-09-11 22:30:00
+1815,Athletic Club,Valencia,1.34212,1.53251,2,1,h,2016-09-18 18:15:00
+1824,Athletic Club,Granada,1.57519,0.887639,2,1,a,2016-09-22 00:00:00
+1832,Athletic Club,Sevilla,2.14897,0.607158,3,1,h,2016-09-24 20:30:00
+1846,Athletic Club,Malaga,0.599527,1.38797,1,2,a,2016-10-02 20:30:00
+1855,Athletic Club,Real Sociedad,1.53028,0.618302,3,2,h,2016-10-16 18:15:00
+1868,Athletic Club,Real Madrid,1.38084,3.52634,1,2,a,2016-10-23 22:45:00
+3314,Athletic Club,Osasuna,1.4373,0.338045,1,1,h,2016-10-30 19:15:00
+2782,Athletic Club,Espanyol,0.151209,0.277247,0,0,a,2016-11-06 19:15:00
+2794,Athletic Club,Villarreal,2.15189,0.173272,1,0,h,2016-11-20 23:45:00
+2805,Athletic Club,Las Palmas,1.73341,1.05931,1,3,a,2016-11-28 23:45:00
+3168,Athletic Club,Eibar,1.4438,0.988471,3,1,h,2016-12-04 19:15:00
+3181,Athletic Club,Real Betis,0.562742,0.684846,0,1,a,2016-12-11 23:45:00
+3191,Athletic Club,Celta Vigo,1.74819,1.79023,2,1,h,2016-12-19 23:45:00
+3889,Athletic Club,Alaves,1.15744,0.825588,0,0,h,2017-01-08 15:00:00
+3894,Athletic Club,Leganes,0.319775,1.61086,0,0,a,2017-01-14 16:00:00
+3910,Athletic Club,Atletico Madrid,0.67787,0.577363,2,2,h,2017-01-22 18:15:00
+3921,Athletic Club,Sporting Gijon,2.01155,0.989558,2,1,h,2017-01-29 20:30:00
+3926,Athletic Club,Barcelona,0.733014,1.54919,0,3,a,2017-02-04 15:15:00
+3937,Athletic Club,Deportivo La Coruna,1.73424,0.584147,2,1,h,2017-02-11 17:30:00
+3947,Athletic Club,Valencia,1.2272,1.47536,0,2,a,2017-02-19 15:15:00
+3958,Athletic Club,Granada,1.72074,0.520455,3,1,h,2017-02-26 17:30:00
+3972,Athletic Club,Sevilla,0.514869,1.76475,0,1,a,2017-03-02 20:30:00
+3980,Athletic Club,Malaga,1.51926,0.786509,1,0,h,2017-03-05 19:45:00
+3988,Athletic Club,Real Sociedad,1.90097,0.651635,2,0,a,2017-03-12 11:00:00
+3999,Athletic Club,Real Madrid,1.96298,2.09036,1,2,h,2017-03-18 15:15:00
+4010,Athletic Club,Osasuna,1.34566,0.536243,2,1,a,2017-04-01 15:15:00
+4021,Athletic Club,Espanyol,2.30916,0.406301,2,0,h,2017-04-04 18:30:00
+4031,Athletic Club,Villarreal,0.771423,1.58988,1,3,a,2017-04-07 19:45:00
+4042,Athletic Club,Las Palmas,3.27145,0.665833,5,1,h,2017-04-14 19:45:00
+4052,Athletic Club,Eibar,0.448314,0.249566,1,0,a,2017-04-24 19:45:00
+4063,Athletic Club,Real Betis,2.56597,1.04653,2,1,h,2017-04-27 20:30:00
+4073,Athletic Club,Celta Vigo,2.1267,0.231412,3,0,a,2017-04-30 19:45:00
+4083,Athletic Club,Alaves,1.07917,0.327836,0,1,a,2017-05-07 11:00:00
+4092,Athletic Club,Leganes,1.40486,0.533837,1,1,h,2017-05-14 19:00:00
+4101,Athletic Club,Atletico Madrid,1.00363,3.08909,1,3,a,2017-05-21 15:45:00

@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+9204,Southampton,Burnley,1.01994,1.40827,0,0,h,2018-08-12 15:30:00
+9211,Southampton,Everton,1.77471,2.02004,1,2,a,2018-08-18 17:00:00
+9218,Southampton,Leicester,0.542494,0.517935,1,2,h,2018-08-25 17:00:00
+9230,Southampton,Crystal Palace,3.13612,2.35193,2,0,a,2018-09-01 14:00:00
+9246,Southampton,Brighton,2.19521,1.97094,2,2,h,2018-09-17 19:00:00
+9249,Southampton,Liverpool,0.310467,1.77893,0,3,a,2018-09-22 14:00:00
+9258,Southampton,Wolverhampton Wanderers,0.679627,1.42507,0,2,a,2018-09-29 14:00:00
+9275,Southampton,Chelsea,1.487,3.54699,0,3,h,2018-10-07 13:15:00
+9283,Southampton,Bournemouth,0.589633,0.840403,0,0,a,2018-10-20 14:00:00
+9292,Southampton,Newcastle United,1.19216,0.297646,0,0,h,2018-10-27 14:00:00
+9300,Southampton,Manchester City,1.81466,2.76272,1,6,a,2018-11-04 15:00:00
+9308,Southampton,Watford,1.20211,1.07573,1,1,h,2018-11-10 15:00:00
+9320,Southampton,Fulham,1.67163,1.3875,2,3,a,2018-11-24 15:00:00
+9327,Southampton,Manchester United,0.623954,0.904803,2,2,h,2018-12-01 17:30:00
+9346,Southampton,Tottenham,1.82434,1.73642,1,3,a,2018-12-05 20:00:00
+9353,Southampton,Cardiff,0.501128,1.55832,0,1,a,2018-12-08 15:00:00
+9360,Southampton,Arsenal,1.21163,1.85763,3,2,h,2018-12-16 13:30:00
+9371,Southampton,Huddersfield,2.60172,1.0038,3,1,a,2018-12-22 15:00:00
+9379,Southampton,West Ham,1.28665,1.26973,1,2,h,2018-12-27 19:45:00
+9389,Southampton,Manchester City,0.221381,2.96802,1,3,h,2018-12-30 14:15:00
+9403,Southampton,Chelsea,0.158168,0.850791,0,0,a,2019-01-02 19:45:00
+9410,Southampton,Leicester,1.41659,1.75983,2,1,a,2019-01-12 15:00:00
+9419,Southampton,Everton,1.06009,1.31169,2,1,h,2019-01-19 15:00:00
+9433,Southampton,Crystal Palace,1.33257,1.53294,1,1,h,2019-01-30 19:45:00
+9445,Southampton,Burnley,0.787747,2.00175,1,1,a,2019-02-02 15:00:00
+9453,Southampton,Cardiff,1.70666,0.980673,1,2,h,2019-02-09 15:00:00
+9466,Southampton,Arsenal,0.613167,2.35088,0,2,a,2019-02-24 14:05:00
+9472,Southampton,Fulham,1.15823,0.798715,2,0,h,2019-02-27 19:45:00
+9481,Southampton,Manchester United,0.578485,2.54216,2,3,a,2019-03-02 15:00:00
+9487,Southampton,Tottenham,2.07772,1.26876,2,1,h,2019-03-09 15:00:00
+9516,Southampton,Brighton,0.857436,0.560521,1,0,a,2019-03-30 15:00:00
+9520,Southampton,Liverpool,0.718394,2.00654,1,3,h,2019-04-05 20:00:00
+9529,Southampton,Wolverhampton Wanderers,3.80842,0.642825,3,1,h,2019-04-13 15:00:00
+9539,Southampton,Newcastle United,1.27102,1.23033,1,3,a,2019-04-20 17:30:00
+9499,Southampton,Watford,2.11999,1.27253,1,1,a,2019-04-23 19:45:00
+9549,Southampton,Bournemouth,2.73537,2.62214,3,3,h,2019-04-27 15:00:00
+9558,Southampton,West Ham,0.443686,1.99866,0,3,a,2019-05-04 14:00:00
+9569,Southampton,Huddersfield,0.941018,0.857152,1,1,h,2019-05-12 14:00:00

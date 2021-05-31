@@ -1,0 +1,31 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+8945,Anzhi Makhachkala,Ural,0.0551835,1.0408,1,0,a,2018-07-28 16:30:00
+8960,Anzhi Makhachkala,FC Ufa,0.0666186,1.10699,0,3,a,2018-08-06 17:30:00
+8963,Anzhi Makhachkala,Spartak Moscow,0.0220797,1.77821,0,1,a,2018-08-11 19:00:00
+8969,Anzhi Makhachkala,FC Orenburg,0.886545,1.22131,1,3,h,2018-08-17 19:30:00
+8983,Anzhi Makhachkala,Lokomotiv Moscow,0.86284,0.71144,1,2,a,2018-08-26 19:00:00
+8986,Anzhi Makhachkala,Krylya Sovetov Samara,0.482191,0.979388,0,1,a,2018-09-01 11:00:00
+8993,Anzhi Makhachkala,FC Krasnodar,0.50198,1.82009,0,4,h,2018-09-16 13:30:00
+9008,Anzhi Makhachkala,Dinamo Moscow,0.23284,2.57615,1,0,a,2018-09-22 11:00:00
+9010,Anzhi Makhachkala,Zenit St. Petersburg,0.935851,1.11558,2,1,h,2018-09-30 11:00:00
+9023,Anzhi Makhachkala,FK Akhmat,0.522147,0.935584,0,0,a,2018-10-07 11:00:00
+9031,Anzhi Makhachkala,CSKA Moscow,0.257891,1.38446,0,2,h,2018-10-19 15:00:00
+9034,Anzhi Makhachkala,FC Rostov,0.601056,1.1945,0,1,a,2018-10-27 16:00:00
+9043,Anzhi Makhachkala,FC Yenisey Krasnoyarsk,1.72972,1.03159,2,1,h,2018-11-05 16:00:00
+9049,Anzhi Makhachkala,Arsenal Tula,0.790198,1.27383,0,2,a,2018-11-09 16:30:00
+9061,Anzhi Makhachkala,Rubin Kazan,0.629542,1.2036,1,1,h,2018-11-24 16:00:00
+9072,Anzhi Makhachkala,FC Ufa,2.04341,0.511755,0,0,h,2018-12-01 16:00:00
+9080,Anzhi Makhachkala,Spartak Moscow,0.971855,3.35541,0,3,h,2018-12-08 17:00:00
+9088,Anzhi Makhachkala,FC Orenburg,0.257685,1.13185,1,0,a,2019-03-01 13:30:00
+9096,Anzhi Makhachkala,Lokomotiv Moscow,0.331727,2.94502,0,2,h,2019-03-10 18:00:00
+9097,Anzhi Makhachkala,Krylya Sovetov Samara,0.312381,1.52371,0,2,h,2019-03-15 16:30:00
+9112,Anzhi Makhachkala,FC Krasnodar,0.0821372,5.16488,0,5,a,2019-03-31 16:00:00
+9120,Anzhi Makhachkala,Dinamo Moscow,0.531895,2.80375,1,1,h,2019-04-06 12:00:00
+9127,Anzhi Makhachkala,Zenit St. Petersburg,0.411044,3.56344,0,5,a,2019-04-14 14:30:00
+9135,Anzhi Makhachkala,FK Akhmat,0.360564,0.853618,0,1,h,2019-04-19 17:30:00
+9140,Anzhi Makhachkala,CSKA Moscow,0.534659,2.0741,0,2,a,2019-04-24 17:30:00
+9146,Anzhi Makhachkala,FC Rostov,0.923193,1.49277,1,1,h,2019-04-27 14:30:00
+9155,Anzhi Makhachkala,FC Yenisey Krasnoyarsk,1.08058,1.46955,1,3,a,2019-05-03 12:00:00
+9164,Anzhi Makhachkala,Arsenal Tula,0.217792,1.6843,0,1,h,2019-05-10 14:30:00
+9173,Anzhi Makhachkala,Rubin Kazan,0.343259,0.745119,0,0,a,2019-05-20 16:00:00
+9182,Anzhi Makhachkala,Ural,0.713663,0.78925,0,2,h,2019-05-26 11:00:00

@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+14175,Union Berlin,Augsburg,1.04515,1.42046,1,3,h,2020-09-19 13:30:00
+14186,Union Berlin,Borussia M.Gladbach,0.771461,1.47627,1,1,a,2020-09-26 13:30:00
+15158,Union Berlin,Mainz 05,2.07145,0.189144,4,0,h,2020-10-02 18:30:00
+15175,Union Berlin,Schalke 04,0.831403,0.250814,1,1,a,2020-10-18 16:00:00
+15177,Union Berlin,Freiburg,1.28488,0.271576,1,1,h,2020-10-24 13:30:00
+15193,Union Berlin,Hoffenheim,3.66229,1.49329,3,1,a,2020-11-02 19:30:00
+15197,Union Berlin,Arminia Bielefeld,2.25166,0.259002,5,0,h,2020-11-07 14:30:00
+15211,Union Berlin,FC Cologne,1.89238,1.08472,2,1,a,2020-11-22 17:00:00
+15217,Union Berlin,Eintracht Frankfurt,1.95856,1.33746,3,3,h,2020-11-28 14:30:00
+15225,Union Berlin,Hertha Berlin,0.268079,0.768378,1,3,a,2020-12-04 19:30:00
+15236,Union Berlin,Bayern Munich,1.08682,1.06474,1,1,h,2020-12-12 17:30:00
+15244,Union Berlin,VfB Stuttgart,1.01547,2.18597,2,2,a,2020-12-15 19:30:00
+15253,Union Berlin,Borussia Dortmund,1.38214,1.1837,2,1,h,2020-12-18 19:30:00
+15263,Union Berlin,Werder Bremen,1.30377,1.0178,2,0,a,2021-01-02 14:30:00
+15270,Union Berlin,Wolfsburg,1.00289,1.89061,2,2,h,2021-01-09 14:30:00
+15280,Union Berlin,Bayer Leverkusen,1.21832,0.794473,1,0,h,2021-01-15 19:30:00
+15284,Union Berlin,RasenBallsport Leipzig,0.121799,1.34987,0,1,a,2021-01-20 19:30:00
+15300,Union Berlin,Augsburg,1.62585,0.94986,1,2,a,2021-01-23 14:30:00
+15307,Union Berlin,Borussia M.Gladbach,0.691595,0.580509,1,1,h,2021-01-30 14:30:00
+15317,Union Berlin,Mainz 05,0.937962,2.20728,0,1,a,2021-02-06 14:30:00
+15326,Union Berlin,Schalke 04,1.9379,0.335784,0,0,h,2021-02-13 17:30:00
+15331,Union Berlin,Freiburg,1.49682,0.836092,1,0,a,2021-02-20 14:30:00
+15343,Union Berlin,Hoffenheim,0.958613,1.53526,1,1,h,2021-02-28 12:30:00
+15350,Union Berlin,Arminia Bielefeld,1.49282,0.213406,0,0,a,2021-03-07 17:00:00
+15360,Union Berlin,FC Cologne,2.37875,1.05403,2,1,h,2021-03-13 14:30:00
+15368,Union Berlin,Eintracht Frankfurt,2.9206,2.53513,2,5,a,2021-03-20 14:30:00
+15379,Union Berlin,Hertha Berlin,0.801212,0.850228,1,1,h,2021-04-04 16:00:00
+15383,Union Berlin,Bayern Munich,0.908459,0.809251,1,1,a,2021-04-10 13:30:00
+15398,Union Berlin,VfB Stuttgart,1.53511,0.790129,2,1,h,2021-04-17 13:30:00
+15402,Union Berlin,Borussia Dortmund,0.274853,6.37227,0,2,a,2021-04-21 18:30:00
+15415,Union Berlin,Werder Bremen,1.69915,0.44826,3,1,h,2021-04-24 13:30:00
+15422,Union Berlin,Wolfsburg,0.577025,1.94262,0,3,a,2021-05-08 13:30:00
+15430,Union Berlin,Bayer Leverkusen,1.53974,1.56402,1,1,a,2021-05-15 13:30:00
+15442,Union Berlin,RasenBallsport Leipzig,1.05622,2.4444,2,1,h,2021-05-22 13:30:00

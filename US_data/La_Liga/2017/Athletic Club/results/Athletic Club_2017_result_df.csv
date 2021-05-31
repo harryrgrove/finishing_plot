@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+7884,Athletic Club,Getafe,1.10938,0.335335,0,0,h,2017-08-20 17:15:00
+7894,Athletic Club,Eibar,1.35304,1.1133,1,0,a,2017-08-27 17:15:00
+7906,Athletic Club,Girona,1.72422,0.314128,2,0,h,2017-09-10 15:15:00
+7917,Athletic Club,Las Palmas,1.10686,0.895334,0,1,a,2017-09-17 17:30:00
+7927,Athletic Club,Atletico Madrid,1.715,2.30016,1,2,h,2017-09-20 19:00:00
+7938,Athletic Club,Malaga,1.93264,2.36068,3,3,a,2017-09-23 17:30:00
+7948,Athletic Club,Valencia,2.60881,2.6265,2,3,a,2017-10-01 17:30:00
+7951,Athletic Club,Sevilla,1.12259,1.79545,1,0,h,2017-10-14 12:00:00
+7965,Athletic Club,Leganes,0.726155,0.800353,0,1,a,2017-10-22 17:30:00
+7977,Athletic Club,Barcelona,0.880742,2.49124,0,2,h,2017-10-28 19:45:00
+7986,Athletic Club,Celta Vigo,1.26285,1.22047,1,3,a,2017-11-05 15:15:00
+7996,Athletic Club,Villarreal,1.01556,1.41304,1,1,h,2017-11-19 19:45:00
+8005,Athletic Club,Deportivo La Coruna,1.59171,1.95643,2,2,a,2017-11-26 11:00:00
+8015,Athletic Club,Real Madrid,1.34381,1.88247,0,0,h,2017-12-02 19:45:00
+8024,Athletic Club,Levante,1.98411,1.1149,2,1,a,2017-12-10 17:30:00
+8035,Athletic Club,Real Sociedad,0.880943,0.474349,0,0,h,2017-12-16 15:15:00
+8043,Athletic Club,Real Betis,3.01564,1.26749,2,0,a,2017-12-22 18:30:00
+8052,Athletic Club,Alaves,2.55044,0.232281,2,0,h,2018-01-07 17:30:00
+8062,Athletic Club,Espanyol,1.22268,0.540004,1,1,a,2018-01-14 17:30:00
+8073,Athletic Club,Getafe,1.39419,3.76973,2,2,a,2018-01-19 20:00:00
+8082,Athletic Club,Eibar,1.70978,0.488401,1,1,h,2018-01-26 20:00:00
+8096,Athletic Club,Girona,0.352756,3.07987,0,2,a,2018-02-04 17:30:00
+8107,Athletic Club,Las Palmas,0.651789,0.351625,0,0,h,2018-02-09 20:00:00
+8115,Athletic Club,Atletico Madrid,0.192651,0.916751,0,2,a,2018-02-18 15:15:00
+8126,Athletic Club,Malaga,0.620357,1.38648,2,1,h,2018-02-25 15:15:00
+8136,Athletic Club,Valencia,1.91273,0.195723,1,1,h,2018-02-28 18:30:00
+8148,Athletic Club,Sevilla,0.513503,2.46092,0,2,a,2018-03-03 15:15:00
+8157,Athletic Club,Leganes,1.26084,1.34791,2,0,h,2018-03-11 19:45:00
+8167,Athletic Club,Barcelona,0.9045,2.93887,0,2,a,2018-03-18 15:15:00
+8176,Athletic Club,Celta Vigo,1.85897,0.487787,1,1,h,2018-03-31 00:00:00
+8181,Athletic Club,Villarreal,3.71849,0.559924,3,1,a,2018-04-09 19:00:00
+8195,Athletic Club,Deportivo La Coruna,0.765312,1.29636,2,3,h,2018-04-14 18:45:00
+8205,Athletic Club,Real Madrid,0.929328,1.42965,1,1,a,2018-04-18 19:30:00
+8214,Athletic Club,Levante,1.7848,1.50007,1,3,h,2018-04-23 19:00:00
+8223,Athletic Club,Real Sociedad,1.09625,1.76162,1,3,a,2018-04-28 00:00:00
+8233,Athletic Club,Real Betis,1.08298,0.179778,2,0,h,2018-05-05 15:15:00
+8243,Athletic Club,Alaves,1.03761,0.335029,1,3,a,2018-05-12 17:30:00
+8252,Athletic Club,Espanyol,0.851602,1.08743,0,1,h,2018-05-20 16:00:00

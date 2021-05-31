@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+9197,Manchester United,Leicester,1.5137,1.73813,2,1,h,2018-08-10 22:00:00
+9215,Manchester United,Brighton,1.56579,1.63672,2,3,a,2018-08-19 18:00:00
+9226,Manchester United,Tottenham,1.40321,1.80811,0,3,h,2018-08-27 22:00:00
+9232,Manchester United,Burnley,2.90359,1.09923,2,0,a,2018-09-02 15:00:00
+9243,Manchester United,Watford,1.64902,1.17523,2,1,a,2018-09-15 16:30:00
+9248,Manchester United,Wolverhampton Wanderers,0.62283,1.1185,1,1,h,2018-09-22 14:00:00
+9257,Manchester United,West Ham,0.865739,1.3029,1,3,a,2018-09-29 11:30:00
+9273,Manchester United,Newcastle United,2.40631,1.55962,3,2,h,2018-10-06 16:30:00
+9277,Manchester United,Chelsea,1.11454,2.21163,2,2,a,2018-10-20 11:30:00
+9287,Manchester United,Everton,2.51393,1.67348,2,1,h,2018-10-28 15:00:00
+9297,Manchester United,Bournemouth,3.29249,1.928,2,1,a,2018-11-03 12:30:00
+9315,Manchester United,Manchester City,0.97089,2.02764,1,3,a,2018-11-11 16:30:00
+9319,Manchester United,Crystal Palace,1.34245,1.05292,0,0,h,2018-11-24 15:00:00
+9327,Manchester United,Southampton,0.904803,0.623954,2,2,a,2018-12-01 17:30:00
+9344,Manchester United,Arsenal,1.33679,1.73226,2,2,h,2018-12-05 20:00:00
+9349,Manchester United,Fulham,3.15444,1.23251,4,1,h,2018-12-08 15:00:00
+9362,Manchester United,Liverpool,0.658049,2.60435,1,3,a,2018-12-16 16:00:00
+9374,Manchester United,Cardiff,2.72523,1.27173,5,1,a,2018-12-22 17:30:00
+9380,Manchester United,Huddersfield,1.79848,1.40594,3,1,h,2018-12-26 15:00:00
+9390,Manchester United,Bournemouth,3.41874,0.705549,4,1,h,2018-12-30 16:30:00
+9399,Manchester United,Newcastle United,2.6754,0.691878,2,0,a,2019-01-02 20:00:00
+9408,Manchester United,Tottenham,0.957777,1.80359,1,0,a,2019-01-13 16:30:00
+9421,Manchester United,Brighton,2.64005,0.635111,2,1,h,2019-01-19 15:00:00
+9432,Manchester United,Burnley,3.23417,0.934603,2,2,h,2019-01-29 20:00:00
+9440,Manchester United,Leicester,1.49717,1.40067,1,0,a,2019-02-03 14:05:00
+9447,Manchester United,Fulham,2.13209,2.18741,3,0,a,2019-02-09 12:30:00
+9459,Manchester United,Liverpool,0.474869,0.380519,0,0,h,2019-02-24 14:05:00
+9471,Manchester United,Crystal Palace,1.54089,1.69334,3,1,a,2019-02-27 20:00:00
+9481,Manchester United,Southampton,2.54216,0.578485,3,2,h,2019-03-02 15:00:00
+9496,Manchester United,Arsenal,2.3703,1.52723,0,2,a,2019-03-10 16:30:00
+9509,Manchester United,Watford,1.98052,1.35208,2,1,h,2019-03-30 15:00:00
+9517,Manchester United,Wolverhampton Wanderers,2.03847,1.65044,1,2,a,2019-04-02 19:45:00
+9530,Manchester United,West Ham,2.65125,1.42817,2,1,h,2019-04-13 17:30:00
+9542,Manchester United,Everton,0.305982,1.5204,0,4,a,2019-04-21 13:30:00
+9501,Manchester United,Manchester City,0.514509,0.530481,0,2,h,2019-04-24 20:00:00
+9550,Manchester United,Chelsea,1.12483,1.6298,1,1,h,2019-04-28 16:30:00
+9561,Manchester United,Huddersfield,1.88049,0.73663,1,1,a,2019-05-05 13:00:00
+9570,Manchester United,Cardiff,1.89555,1.71095,0,2,h,2019-05-12 14:00:00

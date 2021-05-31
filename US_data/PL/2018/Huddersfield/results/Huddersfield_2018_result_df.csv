@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+9200,Huddersfield,Chelsea,0.396115,2.31427,0,3,h,2018-08-11 17:00:00
+9213,Huddersfield,Manchester City,0.663731,4.60356,1,6,a,2018-08-19 15:30:00
+9219,Huddersfield,Cardiff,0.203453,1.06351,0,0,h,2018-08-25 17:00:00
+9229,Huddersfield,Everton,0.660035,0.616013,1,1,a,2018-09-01 14:00:00
+9240,Huddersfield,Crystal Palace,0.87744,0.746631,0,1,h,2018-09-15 14:00:00
+9250,Huddersfield,Leicester,0.688176,1.80404,1,3,a,2018-09-22 14:00:00
+9261,Huddersfield,Tottenham,0.339245,2.33733,0,2,h,2018-09-29 14:00:00
+9272,Huddersfield,Burnley,1.02549,0.353128,1,1,a,2018-10-06 14:00:00
+9284,Huddersfield,Liverpool,0.638341,0.663819,0,1,h,2018-10-20 16:30:00
+9291,Huddersfield,Watford,0.479655,2.29622,0,3,a,2018-10-27 14:00:00
+9306,Huddersfield,Fulham,0.51433,0.354166,1,0,h,2018-11-05 20:00:00
+9311,Huddersfield,West Ham,1.17524,1.44113,1,1,h,2018-11-10 15:00:00
+9325,Huddersfield,Wolverhampton Wanderers,0.627281,0.701036,2,0,a,2018-11-25 16:00:00
+9332,Huddersfield,Brighton,0.558083,1.67998,1,2,h,2018-12-01 15:00:00
+9338,Huddersfield,Bournemouth,1.5631,1.07393,1,2,a,2018-12-04 19:45:00
+9356,Huddersfield,Arsenal,0.308361,2.02156,0,1,a,2018-12-08 15:00:00
+9363,Huddersfield,Newcastle United,0.671382,0.931041,0,1,h,2018-12-15 15:00:00
+9371,Huddersfield,Southampton,1.0038,2.60172,1,3,h,2018-12-22 15:00:00
+9380,Huddersfield,Manchester United,1.40594,1.79848,1,3,a,2018-12-26 15:00:00
+9393,Huddersfield,Fulham,0.276791,1.72386,0,1,a,2018-12-29 15:00:00
+9401,Huddersfield,Burnley,0.621818,2.66309,1,2,h,2019-01-02 19:45:00
+9414,Huddersfield,Cardiff,0.39468,0.124558,0,0,a,2019-01-12 15:00:00
+9423,Huddersfield,Manchester City,0.764264,2.01376,0,3,h,2019-01-20 13:30:00
+9428,Huddersfield,Everton,0.73078,1.05995,0,1,h,2019-01-29 19:45:00
+9443,Huddersfield,Chelsea,0.260391,2.94236,0,5,a,2019-02-02 15:00:00
+9456,Huddersfield,Arsenal,1.96816,1.46751,1,2,h,2019-02-09 15:00:00
+9458,Huddersfield,Newcastle United,0.133934,3.03313,0,2,a,2019-02-23 15:00:00
+9468,Huddersfield,Wolverhampton Wanderers,1.46224,0.573166,1,0,h,2019-02-26 19:45:00
+9485,Huddersfield,Brighton,0.2014,1.39896,0,1,a,2019-03-02 15:00:00
+9492,Huddersfield,Bournemouth,0.339087,2.16389,0,2,h,2019-03-09 15:00:00
+9498,Huddersfield,West Ham,1.66909,1.88114,3,4,a,2019-03-16 15:00:00
+9513,Huddersfield,Crystal Palace,0.926991,2.84701,0,2,a,2019-03-30 15:00:00
+9523,Huddersfield,Leicester,1.62301,3.61876,1,4,h,2019-04-06 15:00:00
+9528,Huddersfield,Tottenham,0.983527,2.78596,0,4,a,2019-04-13 12:30:00
+9541,Huddersfield,Watford,1.09072,1.08462,1,2,h,2019-04-20 15:00:00
+9551,Huddersfield,Liverpool,0.1624,3.58922,0,5,a,2019-04-26 20:00:00
+9561,Huddersfield,Manchester United,0.73663,1.88049,1,1,h,2019-05-05 13:00:00
+9569,Huddersfield,Southampton,0.857152,0.941018,1,1,a,2019-05-12 14:00:00

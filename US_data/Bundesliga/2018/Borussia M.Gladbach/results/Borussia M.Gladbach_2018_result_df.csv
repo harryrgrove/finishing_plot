@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+10343,Borussia M.Gladbach,Bayer Leverkusen,3.34179,1.05775,2,0,h,2018-08-25 19:30:00
+10349,Borussia M.Gladbach,Augsburg,1.31189,1.7521,1,1,a,2018-09-01 13:30:00
+10361,Borussia M.Gladbach,Schalke 04,1.4002,0.729351,2,1,h,2018-09-15 16:30:00
+10366,Borussia M.Gladbach,Hertha Berlin,2.64706,3.9572,2,4,a,2018-09-22 13:30:00
+10380,Borussia M.Gladbach,Eintracht Frankfurt,1.5541,1.11709,3,1,h,2018-09-26 18:30:00
+10386,Borussia M.Gladbach,Wolfsburg,0.849348,0.802752,2,2,a,2018-09-29 13:30:00
+10391,Borussia M.Gladbach,Bayern Munich,0.559058,0.595523,3,0,a,2018-10-06 16:30:00
+10404,Borussia M.Gladbach,Mainz 05,3.00692,0.472964,4,0,h,2018-10-21 16:00:00
+10414,Borussia M.Gladbach,Freiburg,1.14643,1.41352,1,3,a,2018-10-26 18:30:00
+10426,Borussia M.Gladbach,Fortuna Duesseldorf,3.16198,0.719516,3,0,h,2018-11-04 14:30:00
+10431,Borussia M.Gladbach,Werder Bremen,2.73709,1.50955,3,1,a,2018-11-10 14:30:00
+10439,Borussia M.Gladbach,Hannover 96,1.70943,0.459166,4,1,h,2018-11-25 17:00:00
+10447,Borussia M.Gladbach,RasenBallsport Leipzig,0.628352,2.39576,0,2,a,2018-12-02 14:30:00
+10457,Borussia M.Gladbach,VfB Stuttgart,2.61136,0.678537,3,0,h,2018-12-09 17:00:00
+10463,Borussia M.Gladbach,Hoffenheim,0.584205,3.933,0,0,a,2018-12-15 14:30:00
+10479,Borussia M.Gladbach,Nuernberg,3.61765,1.13637,2,0,h,2018-12-18 17:30:00
+10483,Borussia M.Gladbach,Borussia Dortmund,0.517203,1.79527,1,2,a,2018-12-21 19:30:00
+10498,Borussia M.Gladbach,Bayer Leverkusen,0.747044,1.20925,1,0,a,2019-01-19 14:30:00
+10501,Borussia M.Gladbach,Augsburg,2.08047,0.777086,2,0,h,2019-01-26 14:30:00
+10516,Borussia M.Gladbach,Schalke 04,1.87388,0.663579,2,0,a,2019-02-02 17:30:00
+10520,Borussia M.Gladbach,Hertha Berlin,1.30285,2.49289,0,3,h,2019-02-09 14:30:00
+10529,Borussia M.Gladbach,Eintracht Frankfurt,1.17016,1.16069,1,1,a,2019-02-17 14:30:00
+10538,Borussia M.Gladbach,Wolfsburg,1.18063,0.794633,0,3,h,2019-02-23 14:30:00
+10548,Borussia M.Gladbach,Bayern Munich,0.58281,5.94023,1,5,h,2019-03-02 17:30:00
+10559,Borussia M.Gladbach,Mainz 05,1.20097,0.578029,1,0,a,2019-03-09 17:30:00
+10569,Borussia M.Gladbach,Freiburg,1.17388,0.514838,1,1,h,2019-03-15 19:30:00
+10579,Borussia M.Gladbach,Fortuna Duesseldorf,1.34223,1.66988,1,3,a,2019-03-30 14:30:00
+10584,Borussia M.Gladbach,Werder Bremen,1.99752,1.05039,1,1,h,2019-04-07 17:00:00
+10595,Borussia M.Gladbach,Hannover 96,1.76261,1.36963,1,0,a,2019-04-13 14:30:00
+10604,Borussia M.Gladbach,RasenBallsport Leipzig,2.19831,2.13066,1,2,h,2019-04-20 17:30:00
+10610,Borussia M.Gladbach,VfB Stuttgart,1.30221,1.59767,0,1,a,2019-04-27 17:30:00
+10619,Borussia M.Gladbach,Hoffenheim,1.23948,3.2364,2,2,h,2019-05-04 14:30:00
+10633,Borussia M.Gladbach,Nuernberg,1.75711,0.797591,4,0,a,2019-05-11 14:30:00
+10639,Borussia M.Gladbach,Borussia Dortmund,0.629959,2.35948,0,2,h,2019-05-18 13:30:00

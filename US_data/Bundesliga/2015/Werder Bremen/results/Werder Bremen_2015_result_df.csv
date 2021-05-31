@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1024,Werder Bremen,Schalke 04,0.914717,1.4498,0,3,h,2015-08-15 17:30:00
+1030,Werder Bremen,Hertha Berlin,0.957641,0.494279,1,1,a,2015-08-21 22:30:00
+1047,Werder Bremen,Borussia M.Gladbach,3.23257,0.755739,2,1,h,2015-08-30 19:30:00
+1055,Werder Bremen,Hoffenheim,2.2128,0.694948,3,1,a,2015-09-13 17:30:00
+1061,Werder Bremen,Ingolstadt,1.22829,1.47429,0,1,h,2015-09-19 17:30:00
+1069,Werder Bremen,Darmstadt,1.19628,1.91868,1,2,a,2015-09-22 22:00:00
+1079,Werder Bremen,Bayer Leverkusen,0.326706,1.3026,0,3,h,2015-09-26 17:30:00
+1086,Werder Bremen,Hannover 96,1.50158,0.695247,0,1,a,2015-10-03 17:30:00
+1095,Werder Bremen,Bayern Munich,0.691198,2.13219,0,1,h,2015-10-17 17:30:00
+1103,Werder Bremen,Mainz 05,2.29004,1.53001,3,1,a,2015-10-24 17:30:00
+1115,Werder Bremen,Borussia Dortmund,0.983033,3.35901,1,3,h,2015-10-31 18:30:00
+1128,Werder Bremen,Augsburg,1.31037,1.70717,2,1,a,2015-11-08 20:30:00
+1134,Werder Bremen,Wolfsburg,0.724132,4.16408,0,6,a,2015-11-21 18:30:00
+1139,Werder Bremen,Hamburger SV,0.977105,1.13161,1,3,h,2015-11-28 18:30:00
+1154,Werder Bremen,VfB Stuttgart,0.886678,1.49974,1,1,a,2015-12-06 18:30:00
+1159,Werder Bremen,FC Cologne,1.34869,1.22073,1,1,h,2015-12-12 18:30:00
+1168,Werder Bremen,Eintracht Frankfurt,0.87057,1.84525,1,2,a,2015-12-19 18:30:00
+1182,Werder Bremen,Schalke 04,1.82961,2.01652,3,1,a,2016-01-24 20:30:00
+1188,Werder Bremen,Hertha Berlin,2.40454,1.33238,3,3,h,2016-01-30 18:30:00
+1192,Werder Bremen,Borussia M.Gladbach,1.67818,3.16316,1,5,a,2016-02-05 23:30:00
+1206,Werder Bremen,Hoffenheim,1.83283,0.57006,1,1,h,2016-02-13 18:30:00
+1214,Werder Bremen,Ingolstadt,0.572222,1.85348,0,2,a,2016-02-20 18:30:00
+1220,Werder Bremen,Darmstadt,2.2106,1.16123,2,2,h,2016-02-27 18:30:00
+1235,Werder Bremen,Bayer Leverkusen,1.88024,1.00958,4,1,a,2016-03-02 23:00:00
+1239,Werder Bremen,Hannover 96,2.14361,1.14266,4,1,h,2016-03-05 18:30:00
+1252,Werder Bremen,Bayern Munich,0.0947484,3.14093,0,5,a,2016-03-12 21:30:00
+1258,Werder Bremen,Mainz 05,1.15003,0.685087,1,1,h,2016-03-19 18:30:00
+1270,Werder Bremen,Borussia Dortmund,0.436067,2.84328,2,3,a,2016-04-02 20:30:00
+1277,Werder Bremen,Augsburg,0.716015,0.923628,1,2,h,2016-04-09 17:30:00
+1287,Werder Bremen,Wolfsburg,3.58106,1.09409,3,2,h,2016-04-16 17:30:00
+1291,Werder Bremen,Hamburger SV,2.52835,1.90362,1,2,a,2016-04-22 22:30:00
+1308,Werder Bremen,VfB Stuttgart,2.87488,0.814877,6,2,h,2016-05-02 22:15:00
+1314,Werder Bremen,FC Cologne,0.585339,0.578238,0,0,a,2016-05-07 17:30:00
+1320,Werder Bremen,Eintracht Frankfurt,1.9531,0.191835,1,0,h,2016-05-14 17:30:00

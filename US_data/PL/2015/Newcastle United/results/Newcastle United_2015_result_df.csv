@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+87,Newcastle United,Southampton,1.54613,1.2529,2,2,h,2015-08-09 16:30:00
+94,Newcastle United,Swansea,0.113109,1.97424,0,2,a,2015-08-15 18:00:00
+101,Newcastle United,Manchester United,0.4384,1.2491,0,0,a,2015-08-22 15:45:00
+111,Newcastle United,Arsenal,0.0319694,2.33948,0,1,h,2015-08-29 15:45:00
+130,Newcastle United,West Ham,0.716599,1.71282,0,2,a,2015-09-14 23:00:00
+132,Newcastle United,Watford,1.15114,1.33961,1,2,h,2015-09-19 18:00:00
+148,Newcastle United,Chelsea,0.702109,1.30593,2,2,h,2015-09-26 20:30:00
+154,Newcastle United,Manchester City,0.980279,3.3346,1,6,a,2015-10-03 18:00:00
+169,Newcastle United,Norwich,2.24896,1.34395,6,2,h,2015-10-18 19:00:00
+177,Newcastle United,Sunderland,1.41744,2.37969,0,3,a,2015-10-25 16:00:00
+184,Newcastle United,Stoke,1.26075,1.38017,0,0,h,2015-10-31 19:00:00
+191,Newcastle United,Bournemouth,0.504409,1.00427,1,0,a,2015-11-07 16:45:00
+205,Newcastle United,Leicester,0.372387,3.27478,0,3,h,2015-11-21 19:00:00
+214,Newcastle United,Crystal Palace,0.791299,1.67836,1,5,a,2015-11-28 19:00:00
+229,Newcastle United,Liverpool,0.646346,0.999043,2,0,h,2015-12-06 20:00:00
+239,Newcastle United,Tottenham,1.55252,1.03317,2,1,a,2015-12-13 20:00:00
+247,Newcastle United,Aston Villa,1.28189,0.404373,1,1,h,2015-12-19 21:30:00
+259,Newcastle United,Everton,1.35711,1.69923,0,1,h,2015-12-26 21:30:00
+261,Newcastle United,West Bromwich Albion,0.456189,2.1039,0,1,a,2015-12-28 19:00:00
+273,Newcastle United,Arsenal,1.15339,1.93025,0,1,a,2016-01-02 19:00:00
+281,Newcastle United,Manchester United,1.81304,2.36216,3,3,h,2016-01-12 23:45:00
+293,Newcastle United,West Ham,1.84261,1.08248,2,1,h,2016-01-16 19:00:00
+307,Newcastle United,Watford,1.29267,2.58707,1,2,a,2016-01-23 19:00:00
+319,Newcastle United,Everton,0.626239,2.48447,0,3,a,2016-02-03 23:45:00
+322,Newcastle United,West Bromwich Albion,2.41057,0.472556,1,0,h,2016-02-06 19:00:00
+337,Newcastle United,Chelsea,0.430664,2.0858,1,5,a,2016-02-13 21:30:00
+356,Newcastle United,Stoke,0.270782,0.298318,0,1,a,2016-03-02 23:45:00
+365,Newcastle United,Bournemouth,0.833931,1.26853,1,3,h,2016-03-05 19:00:00
+373,Newcastle United,Leicester,0.518715,0.846771,0,1,a,2016-03-14 00:00:00
+381,Newcastle United,Sunderland,0.940593,0.785017,1,1,h,2016-03-20 17:30:00
+387,Newcastle United,Norwich,1.46835,1.65216,2,3,a,2016-04-02 18:00:00
+396,Newcastle United,Southampton,0.165982,1.78477,1,3,a,2016-04-09 18:00:00
+408,Newcastle United,Swansea,1.5024,0.787081,3,0,h,2016-04-16 18:00:00
+415,Newcastle United,Manchester City,0.455246,0.522043,1,1,h,2016-04-19 22:45:00
+423,Newcastle United,Liverpool,0.253033,0.712881,2,2,a,2016-04-23 18:00:00
+428,Newcastle United,Crystal Palace,0.53407,1.05079,1,0,h,2016-04-30 18:00:00
+440,Newcastle United,Aston Villa,1.09626,0.0312154,0,0,a,2016-05-07 18:00:00
+454,Newcastle United,Tottenham,2.42808,0.869082,5,1,h,2016-05-15 18:00:00

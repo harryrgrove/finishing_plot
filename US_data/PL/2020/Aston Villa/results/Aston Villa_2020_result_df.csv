@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+14104,Aston Villa,Sheffield United,0.80527,0.849709,1,0,h,2020-09-21 17:00:00
+14114,Aston Villa,Fulham,2.03222,0.534675,3,0,a,2020-09-28 17:00:00
+14466,Aston Villa,Liverpool,3.07626,1.65705,7,2,h,2020-10-04 18:15:00
+14479,Aston Villa,Leicester,0.873776,0.671595,1,0,a,2020-10-18 18:15:00
+14486,Aston Villa,Leeds,1.50125,2.37695,0,3,h,2020-10-23 19:00:00
+14495,Aston Villa,Southampton,2.44855,1.00333,3,4,h,2020-11-01 12:00:00
+14505,Aston Villa,Arsenal,1.98553,1.39037,3,0,a,2020-11-08 19:15:00
+14515,Aston Villa,Brighton,1.76514,1.50038,1,2,h,2020-11-21 15:00:00
+14526,Aston Villa,West Ham,2.39051,0.571633,1,2,a,2020-11-30 20:00:00
+14552,Aston Villa,Wolverhampton Wanderers,1.26872,1.1356,1,0,a,2020-12-12 12:30:00
+14556,Aston Villa,Burnley,1.81142,0.316737,0,0,h,2020-12-17 18:00:00
+14574,Aston Villa,West Bromwich Albion,2.61964,0.0388442,3,0,a,2020-12-20 19:15:00
+14576,Aston Villa,Crystal Palace,4.58214,0.849086,3,0,h,2020-12-26 15:00:00
+14586,Aston Villa,Chelsea,0.730859,1.53701,1,1,a,2020-12-28 17:30:00
+14596,Aston Villa,Manchester United,1.56434,2.46473,1,2,a,2021-01-01 20:00:00
+14089,Aston Villa,Manchester City,0.601768,3.34385,0,2,a,2021-01-20 20:00:00
+14535,Aston Villa,Newcastle United,2.6026,0.400364,2,0,h,2021-01-23 20:00:00
+14626,Aston Villa,Burnley,2.70718,0.717681,2,3,a,2021-01-27 18:00:00
+14641,Aston Villa,Southampton,0.795508,2.22557,1,0,a,2021-01-30 20:00:00
+14645,Aston Villa,West Ham,0.741154,1.79064,1,3,h,2021-02-03 20:15:00
+14655,Aston Villa,Arsenal,1.19792,0.679649,1,0,h,2021-02-06 12:30:00
+14666,Aston Villa,Brighton,0.144036,2.33232,0,0,a,2021-02-13 20:00:00
+14676,Aston Villa,Leicester,1.7084,1.23852,1,2,h,2021-02-21 14:00:00
+14691,Aston Villa,Leeds,0.876255,1.00106,1,0,a,2021-02-27 17:30:00
+14721,Aston Villa,Sheffield United,1.44176,0.716254,0,1,a,2021-03-03 18:00:00
+14695,Aston Villa,Wolverhampton Wanderers,0.956392,2.15087,0,0,h,2021-03-06 17:30:00
+14712,Aston Villa,Newcastle United,0.748665,0.873171,1,1,a,2021-03-12 20:00:00
+14606,Aston Villa,Tottenham,0.439681,1.72011,0,2,h,2021-03-21 19:30:00
+14726,Aston Villa,Fulham,1.52229,1.52172,3,1,h,2021-04-04 15:30:00
+14739,Aston Villa,Liverpool,0.760621,2.14592,1,2,a,2021-04-10 14:00:00
+14746,Aston Villa,Manchester City,0.801733,1.5634,1,2,h,2021-04-21 19:15:00
+14756,Aston Villa,West Bromwich Albion,2.65394,1.56764,2,2,h,2021-04-25 18:00:00
+14769,Aston Villa,Everton,1.58811,1.223,2,1,a,2021-05-01 19:00:00
+14776,Aston Villa,Manchester United,0.565472,1.88793,1,3,h,2021-05-09 13:05:00
+14616,Aston Villa,Everton,0.558976,0.975408,0,0,h,2021-05-13 21:00:00
+14794,Aston Villa,Crystal Palace,1.2303,1.95285,2,3,a,2021-05-16 11:00:00
+14803,Aston Villa,Tottenham,1.63669,0.89279,2,1,a,2021-05-19 17:00:00
+14806,Aston Villa,Chelsea,0.980413,3.43414,2,1,h,2021-05-23 15:00:00

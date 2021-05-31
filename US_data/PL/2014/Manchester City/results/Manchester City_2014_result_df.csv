@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+4757,Manchester City,Newcastle United,1.48053,0.965583,2,0,a,2014-08-17 16:00:00
+4768,Manchester City,Liverpool,1.31375,0.901889,3,1,h,2014-08-25 20:00:00
+4770,Manchester City,Stoke,0.891768,0.299792,0,1,h,2014-08-30 15:00:00
+4719,Manchester City,Arsenal,2.30834,2.07804,2,2,a,2014-09-13 12:45:00
+4737,Manchester City,Chelsea,1.05592,1.02093,1,1,h,2014-09-21 16:00:00
+4744,Manchester City,Hull,1.78953,1.12374,4,2,a,2014-09-27 15:00:00
+4694,Manchester City,Aston Villa,2.30634,0.690283,2,0,a,2014-10-04 17:30:00
+4699,Manchester City,Tottenham,3.75041,2.32314,4,1,h,2014-10-18 12:45:00
+4709,Manchester City,West Ham,1.8643,2.62631,1,2,a,2014-10-25 12:45:00
+4656,Manchester City,Manchester United,2.56723,0.727924,1,0,h,2014-11-02 13:30:00
+4664,Manchester City,Queens Park Rangers,1.70189,1.86489,2,2,a,2014-11-08 17:30:00
+4671,Manchester City,Swansea,2.26312,0.957011,2,1,h,2014-11-22 15:00:00
+4687,Manchester City,Southampton,2.13214,0.804381,3,0,a,2014-11-30 13:30:00
+4597,Manchester City,Sunderland,1.0386,0.412004,4,1,a,2014-12-03 19:45:00
+4605,Manchester City,Everton,2.2487,0.385845,1,0,h,2014-12-06 17:30:00
+4614,Manchester City,Leicester,1.13411,0.360608,1,0,a,2014-12-13 15:00:00
+4619,Manchester City,Crystal Palace,1.41484,0.760531,3,0,h,2014-12-20 12:45:00
+4633,Manchester City,West Bromwich Albion,2.10224,2.64442,3,1,a,2014-12-26 15:00:00
+4643,Manchester City,Burnley,1.38586,0.962215,2,2,h,2014-12-28 15:00:00
+4552,Manchester City,Sunderland,3.63333,0.979558,3,2,h,2015-01-01 15:00:00
+4566,Manchester City,Everton,1.50724,0.95041,1,1,a,2015-01-10 15:00:00
+4579,Manchester City,Arsenal,0.561966,1.49476,0,2,h,2015-01-18 16:00:00
+4588,Manchester City,Chelsea,0.907151,0.708923,1,1,a,2015-01-31 17:30:00
+4519,Manchester City,Hull,0.992526,1.13348,1,1,h,2015-02-07 15:00:00
+4530,Manchester City,Stoke,2.13611,0.745602,4,1,a,2015-02-11 19:45:00
+4541,Manchester City,Newcastle United,3.12533,0.166685,5,0,h,2015-02-21 17:30:00
+4480,Manchester City,Liverpool,1.12846,0.769022,1,2,a,2015-03-01 12:00:00
+4486,Manchester City,Leicester,2.91599,0.217043,2,0,h,2015-03-04 19:45:00
+4498,Manchester City,Burnley,1.2576,0.242058,0,1,a,2015-03-14 17:30:00
+4503,Manchester City,West Bromwich Albion,4.90913,0.775158,3,0,h,2015-03-21 12:45:00
+4449,Manchester City,Crystal Palace,1.1129,1.32783,1,2,a,2015-04-06 20:00:00
+4459,Manchester City,Manchester United,1.75844,2.66017,2,4,a,2015-04-12 16:00:00
+4466,Manchester City,West Ham,2.05138,0.738105,2,0,h,2015-04-19 13:30:00
+4475,Manchester City,Aston Villa,1.1892,0.901376,3,2,h,2015-04-25 17:30:00
+4407,Manchester City,Tottenham,1.80612,2.07027,1,0,a,2015-05-03 16:00:00
+4416,Manchester City,Queens Park Rangers,5.35103,0.872314,6,0,h,2015-05-10 13:30:00
+4426,Manchester City,Swansea,2.28119,1.06125,4,2,a,2015-05-17 13:30:00
+4437,Manchester City,Southampton,2.44073,0.775853,2,0,h,2015-05-24 15:00:00

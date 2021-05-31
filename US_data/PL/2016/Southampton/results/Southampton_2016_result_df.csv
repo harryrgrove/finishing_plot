@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+466,Southampton,Watford,0.937328,0.180046,1,1,h,2016-08-13 18:00:00
+471,Southampton,Manchester United,0.613233,1.36553,0,2,a,2016-08-19 23:00:00
+484,Southampton,Sunderland,0.613743,1.39142,1,1,h,2016-08-27 18:00:00
+494,Southampton,Arsenal,1.17522,1.89219,1,2,a,2016-09-10 18:00:00
+509,Southampton,Swansea,2.15218,0.490661,1,0,h,2016-09-18 17:15:00
+519,Southampton,West Ham,2.97877,0.693818,3,0,a,2016-09-25 19:00:00
+528,Southampton,Leicester,0.920963,0.446309,0,0,a,2016-10-02 17:15:00
+539,Southampton,Burnley,4.21181,1.03126,3,1,h,2016-10-16 19:00:00
+549,Southampton,Manchester City,0.563752,1.15321,1,1,a,2016-10-23 16:30:00
+2685,Southampton,Chelsea,0.422364,1.14759,0,2,h,2016-10-30 20:00:00
+2694,Southampton,Hull,2.03046,0.561215,1,2,a,2016-11-06 18:15:00
+2698,Southampton,Liverpool,0.0942055,1.68802,0,0,h,2016-11-19 19:00:00
+2715,Southampton,Everton,2.80562,0.615174,1,0,h,2016-11-27 20:30:00
+3106,Southampton,Crystal Palace,0.764357,2.20073,0,3,a,2016-12-03 19:00:00
+3123,Southampton,Middlesbrough,1.72919,0.493941,1,0,h,2016-12-11 18:15:00
+3133,Southampton,Stoke,0.723114,0.333754,0,0,a,2016-12-15 00:00:00
+3141,Southampton,Bournemouth,1.69451,0.492912,3,1,a,2016-12-18 17:30:00
+3154,Southampton,Tottenham,0.403743,1.61035,1,4,h,2016-12-28 23:45:00
+3160,Southampton,West Bromwich Albion,0.371668,0.6675,1,2,h,2016-12-31 19:00:00
+3331,Southampton,Everton,1.01083,2.34997,0,3,a,2017-01-02 15:00:00
+3345,Southampton,Burnley,0.962065,0.464555,0,1,a,2017-01-14 19:00:00
+3357,Southampton,Leicester,2.49923,0.935866,3,0,h,2017-01-22 15:00:00
+3365,Southampton,Swansea,0.907103,0.760046,1,2,a,2017-01-31 22:45:00
+3376,Southampton,West Ham,1.06276,0.91785,1,3,h,2017-02-04 15:00:00
+3384,Southampton,Sunderland,1.72717,0.197925,4,0,a,2017-02-11 15:00:00
+3407,Southampton,Watford,1.33681,1.40104,4,3,a,2017-03-04 15:00:00
+3422,Southampton,Tottenham,0.839989,1.64328,1,2,a,2017-03-19 14:15:00
+3437,Southampton,Bournemouth,1.00252,2.06307,0,0,h,2017-04-01 17:30:00
+3447,Southampton,Crystal Palace,3.34327,1.73055,3,1,h,2017-04-05 19:45:00
+3454,Southampton,West Bromwich Albion,0.910339,2.01721,1,0,a,2017-04-08 15:00:00
+3462,Southampton,Manchester City,0.616753,2.74188,0,3,h,2017-04-15 17:30:00
+3473,Southampton,Chelsea,1.32952,1.4438,2,4,a,2017-04-25 19:45:00
+3484,Southampton,Hull,1.24844,0.472435,0,0,h,2017-04-29 15:00:00
+3496,Southampton,Liverpool,0.182082,1.35967,0,0,a,2017-05-07 13:30:00
+3390,Southampton,Arsenal,1.25259,1.35954,0,2,h,2017-05-10 19:45:00
+3504,Southampton,Middlesbrough,1.52569,1.32885,2,1,a,2017-05-13 15:00:00
+3412,Southampton,Manchester United,1.66533,0.45805,0,0,h,2017-05-17 19:45:00
+3517,Southampton,Stoke,1.3554,0.983464,0,1,h,2017-05-21 15:00:00

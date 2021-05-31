@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+10342,Eintracht Frankfurt,Freiburg,0.81415,1.46674,2,0,a,2018-08-25 16:30:00
+10348,Eintracht Frankfurt,Werder Bremen,1.25306,1.34271,1,2,h,2018-09-01 13:30:00
+10355,Eintracht Frankfurt,Borussia Dortmund,0.199314,1.95503,1,3,a,2018-09-14 18:30:00
+10372,Eintracht Frankfurt,RasenBallsport Leipzig,1.80358,1.8818,1,1,h,2018-09-23 16:00:00
+10380,Eintracht Frankfurt,Borussia M.Gladbach,1.11709,1.5541,1,3,a,2018-09-26 18:30:00
+10389,Eintracht Frankfurt,Hannover 96,2.76495,0.613099,4,1,h,2018-09-30 13:30:00
+10392,Eintracht Frankfurt,Hoffenheim,1.02517,2.24067,2,1,a,2018-10-07 13:30:00
+10403,Eintracht Frankfurt,Fortuna Duesseldorf,3.51257,0.666096,7,1,h,2018-10-19 18:30:00
+10417,Eintracht Frankfurt,Nuernberg,0.998569,0.949097,1,1,a,2018-10-28 11:30:00
+10425,Eintracht Frankfurt,VfB Stuttgart,3.33128,1.02365,3,0,a,2018-11-02 19:30:00
+10430,Eintracht Frankfurt,Schalke 04,2.51248,0.609591,3,0,h,2018-11-11 17:00:00
+10441,Eintracht Frankfurt,Augsburg,3.21577,2.01274,3,1,a,2018-11-24 14:30:00
+10449,Eintracht Frankfurt,Wolfsburg,1.53625,1.72581,1,2,h,2018-12-02 17:00:00
+10458,Eintracht Frankfurt,Hertha Berlin,1.12526,0.243455,0,1,a,2018-12-08 17:30:00
+10467,Eintracht Frankfurt,Bayer Leverkusen,3.59588,0.744745,2,1,h,2018-12-16 17:00:00
+10476,Eintracht Frankfurt,Mainz 05,1.09488,1.61471,2,2,a,2018-12-19 19:30:00
+10487,Eintracht Frankfurt,Bayern Munich,1.31242,2.04036,0,3,h,2018-12-22 17:30:00
+10492,Eintracht Frankfurt,Freiburg,2.9107,1.54911,3,1,h,2019-01-19 14:30:00
+10503,Eintracht Frankfurt,Werder Bremen,1.64974,2.6,2,2,a,2019-01-26 17:30:00
+10510,Eintracht Frankfurt,Borussia Dortmund,1.44338,1.8842,1,1,h,2019-02-02 14:30:00
+10519,Eintracht Frankfurt,RasenBallsport Leipzig,0.501519,1.59427,0,0,a,2019-02-09 14:30:00
+10529,Eintracht Frankfurt,Borussia M.Gladbach,1.16069,1.17016,1,1,h,2019-02-17 14:30:00
+10540,Eintracht Frankfurt,Hannover 96,2.33768,0.392236,3,0,a,2019-02-24 14:30:00
+10547,Eintracht Frankfurt,Hoffenheim,2.30575,1.76367,3,2,h,2019-03-02 14:30:00
+10558,Eintracht Frankfurt,Fortuna Duesseldorf,2.76254,0.837274,3,0,a,2019-03-11 19:30:00
+10570,Eintracht Frankfurt,Nuernberg,2.58949,0.702802,1,0,h,2019-03-17 14:30:00
+10574,Eintracht Frankfurt,VfB Stuttgart,2.00509,0.569489,3,0,h,2019-03-31 16:00:00
+10581,Eintracht Frankfurt,Schalke 04,2.24621,1.19525,2,1,a,2019-04-06 14:30:00
+10593,Eintracht Frankfurt,Augsburg,2.09741,2.22016,1,3,h,2019-04-14 17:00:00
+10605,Eintracht Frankfurt,Wolfsburg,1.62116,2.01024,1,1,a,2019-04-22 19:30:00
+10611,Eintracht Frankfurt,Hertha Berlin,2.16123,1.17855,0,0,h,2019-04-27 14:30:00
+10618,Eintracht Frankfurt,Bayer Leverkusen,0.17067,2.78767,1,6,a,2019-05-05 17:00:00
+10630,Eintracht Frankfurt,Mainz 05,1.71254,1.2497,0,2,h,2019-05-12 17:00:00
+10635,Eintracht Frankfurt,Bayern Munich,0.954021,4.62869,1,5,a,2019-05-18 13:30:00

@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1028,Eintracht Frankfurt,Wolfsburg,0.950098,0.740041,1,2,a,2015-08-16 17:30:00
+1033,Eintracht Frankfurt,Augsburg,0.945278,1.26112,1,1,h,2015-08-22 17:30:00
+1040,Eintracht Frankfurt,VfB Stuttgart,1.9601,2.52237,4,1,a,2015-08-29 17:30:00
+1054,Eintracht Frankfurt,FC Cologne,2.93005,0.902695,6,2,h,2015-09-12 20:30:00
+1060,Eintracht Frankfurt,Hamburger SV,0.221397,0.909692,0,0,a,2015-09-19 17:30:00
+1071,Eintracht Frankfurt,Schalke 04,0.952574,2.25209,0,2,a,2015-09-23 22:00:00
+1082,Eintracht Frankfurt,Hertha Berlin,1.41369,2.23038,1,1,h,2015-09-27 17:30:00
+1089,Eintracht Frankfurt,Ingolstadt,0.740308,1.185,0,2,a,2015-10-03 17:30:00
+1099,Eintracht Frankfurt,Borussia M.Gladbach,0.990091,3.50891,1,5,h,2015-10-17 20:30:00
+1105,Eintracht Frankfurt,Hannover 96,0.74964,0.454178,2,1,a,2015-10-24 17:30:00
+1111,Eintracht Frankfurt,Bayern Munich,0.251519,1.38915,0,0,h,2015-10-30 23:30:00
+1121,Eintracht Frankfurt,Hoffenheim,1.60253,0.680401,0,0,a,2015-11-07 18:30:00
+1131,Eintracht Frankfurt,Bayer Leverkusen,0.620149,1.67235,1,3,h,2015-11-21 18:30:00
+1143,Eintracht Frankfurt,Mainz 05,0.62621,2.44079,1,2,a,2015-11-28 18:45:00
+1155,Eintracht Frankfurt,Darmstadt,1.0568,1.55006,0,1,h,2015-12-06 20:30:00
+1164,Eintracht Frankfurt,Borussia Dortmund,0.133013,6.02931,1,4,a,2015-12-13 20:30:00
+1168,Eintracht Frankfurt,Werder Bremen,1.84525,0.87057,2,1,h,2015-12-19 18:30:00
+1181,Eintracht Frankfurt,Wolfsburg,1.18879,2.75506,3,2,h,2016-01-24 18:30:00
+1187,Eintracht Frankfurt,Augsburg,1.25574,0.609193,0,0,a,2016-01-30 18:30:00
+1194,Eintracht Frankfurt,VfB Stuttgart,2.36752,3.36402,2,4,h,2016-02-06 18:30:00
+1207,Eintracht Frankfurt,FC Cologne,0.606015,2.27377,1,3,a,2016-02-13 21:30:00
+1210,Eintracht Frankfurt,Hamburger SV,0.45464,0.807708,0,0,h,2016-02-19 23:30:00
+1227,Eintracht Frankfurt,Schalke 04,0.775413,0.223305,0,0,h,2016-02-28 22:30:00
+1231,Eintracht Frankfurt,Hertha Berlin,0.339767,1.21008,0,2,a,2016-03-02 23:00:00
+1240,Eintracht Frankfurt,Ingolstadt,2.63935,1.55385,1,1,h,2016-03-05 18:30:00
+1250,Eintracht Frankfurt,Borussia M.Gladbach,0.0789648,1.87363,0,3,a,2016-03-12 18:30:00
+1261,Eintracht Frankfurt,Hannover 96,1.3943,0.381106,1,0,h,2016-03-19 21:30:00
+1265,Eintracht Frankfurt,Bayern Munich,0.118042,1.08122,0,1,a,2016-04-02 17:30:00
+1278,Eintracht Frankfurt,Hoffenheim,0.581161,1.3548,0,2,h,2016-04-09 17:30:00
+1285,Eintracht Frankfurt,Bayer Leverkusen,0.878427,1.12161,0,3,a,2016-04-16 17:30:00
+1299,Eintracht Frankfurt,Mainz 05,0.547038,0.490667,2,1,h,2016-04-24 19:30:00
+1304,Eintracht Frankfurt,Darmstadt,0.846611,1.19136,2,1,a,2016-04-30 17:30:00
+1313,Eintracht Frankfurt,Borussia Dortmund,0.697175,1.4668,1,0,h,2016-05-07 17:30:00
+1320,Eintracht Frankfurt,Werder Bremen,0.191835,1.9531,0,1,a,2016-05-14 17:30:00

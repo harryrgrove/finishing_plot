@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+89,Liverpool,Stoke,0.329873,0.381274,1,0,a,2015-08-09 19:00:00
+100,Liverpool,Bournemouth,2.15062,0.460805,1,0,h,2015-08-17 23:00:00
+110,Liverpool,Arsenal,1.29206,1.83755,0,0,a,2015-08-24 23:00:00
+116,Liverpool,West Ham,0.561737,0.97217,0,3,h,2015-08-29 18:00:00
+127,Liverpool,Manchester United,1.02572,1.46206,1,3,a,2015-09-12 20:30:00
+140,Liverpool,Norwich,1.90447,0.556271,1,1,h,2015-09-20 19:00:00
+145,Liverpool,Aston Villa,1.78331,0.892054,3,2,h,2015-09-26 18:00:00
+158,Liverpool,Everton,1.30844,1.20063,1,1,a,2015-10-04 16:30:00
+161,Liverpool,Tottenham,0.715892,0.586228,0,0,a,2015-10-17 15:45:00
+180,Liverpool,Southampton,0.682823,1.56383,1,1,h,2015-10-25 20:15:00
+181,Liverpool,Chelsea,0.839342,0.735762,3,1,a,2015-10-31 16:45:00
+200,Liverpool,Crystal Palace,2.15673,0.849281,1,2,h,2015-11-08 20:00:00
+208,Liverpool,Manchester City,2.61697,1.08612,4,1,a,2015-11-21 21:30:00
+219,Liverpool,Swansea,1.19358,0.367517,1,0,h,2015-11-29 20:15:00
+229,Liverpool,Newcastle United,0.999043,0.646346,0,2,a,2015-12-06 20:00:00
+238,Liverpool,West Bromwich Albion,2.12583,0.835885,2,2,h,2015-12-13 20:00:00
+248,Liverpool,Watford,0.376313,1.99336,0,3,a,2015-12-20 17:30:00
+257,Liverpool,Leicester,1.37933,0.505167,1,0,h,2015-12-26 19:00:00
+270,Liverpool,Sunderland,1.80743,0.481551,1,0,a,2015-12-30 23:45:00
+271,Liverpool,West Ham,1.86591,2.06737,0,2,a,2016-01-02 16:45:00
+289,Liverpool,Arsenal,1.16222,2.22912,3,3,h,2016-01-14 00:00:00
+298,Liverpool,Manchester United,0.952974,0.715703,0,1,h,2016-01-17 18:05:00
+301,Liverpool,Norwich,1.44943,1.03432,5,4,a,2016-01-23 16:45:00
+312,Liverpool,Leicester,0.580791,1.34566,0,2,a,2016-02-02 23:45:00
+327,Liverpool,Sunderland,1.57712,0.491843,2,2,h,2016-02-06 19:00:00
+339,Liverpool,Aston Villa,2.00756,0.174868,6,0,a,2016-02-14 18:05:00
+357,Liverpool,Manchester City,1.16781,0.180318,3,0,h,2016-03-03 00:00:00
+367,Liverpool,Crystal Palace,2.27087,1.43901,2,1,a,2016-03-06 17:30:00
+380,Liverpool,Southampton,1.29046,1.56873,2,3,a,2016-03-20 17:30:00
+391,Liverpool,Tottenham,1.37954,1.23579,1,1,h,2016-04-02 20:30:00
+403,Liverpool,Stoke,2.21484,0.85508,4,1,h,2016-04-10 19:00:00
+412,Liverpool,Bournemouth,1.81443,0.85914,2,1,a,2016-04-17 16:30:00
+418,Liverpool,Everton,3.24472,0.0886329,4,0,h,2016-04-20 23:00:00
+423,Liverpool,Newcastle United,0.712881,0.253033,2,2,h,2016-04-23 18:00:00
+433,Liverpool,Swansea,0.776186,2.31862,1,3,a,2016-05-01 15:00:00
+445,Liverpool,Watford,2.38919,0.930803,2,0,h,2016-05-08 19:00:00
+450,Liverpool,Chelsea,1.83934,0.812268,1,1,h,2016-05-11 23:00:00
+459,Liverpool,West Bromwich Albion,0.419877,1.86869,1,1,a,2016-05-15 18:00:00

@@ -1,0 +1,31 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+8951,Lokomotiv Moscow,FC Ufa,1.04565,1.95799,0,0,a,2018-07-30 18:00:00
+8956,Lokomotiv Moscow,Spartak Moscow,0.533667,1.47596,0,0,h,2018-08-04 19:00:00
+8965,Lokomotiv Moscow,FC Orenburg,0.681723,0.183598,0,1,a,2018-08-12 14:00:00
+8973,Lokomotiv Moscow,Krylya Sovetov Samara,1.23643,0.478626,1,0,a,2018-08-19 16:30:00
+8983,Lokomotiv Moscow,Anzhi Makhachkala,0.71144,0.86284,2,1,h,2018-08-26 19:00:00
+8988,Lokomotiv Moscow,FC Krasnodar,1.57872,1.30048,1,2,a,2018-09-01 16:00:00
+9000,Lokomotiv Moscow,Dinamo Moscow,1.84517,1.56513,1,1,h,2018-09-14 16:30:00
+9007,Lokomotiv Moscow,Zenit St. Petersburg,0.580973,2.79425,3,5,a,2018-09-23 13:30:00
+9011,Lokomotiv Moscow,FK Akhmat,1.64623,0.244911,2,0,h,2018-09-29 16:00:00
+9022,Lokomotiv Moscow,CSKA Moscow,1.02269,0.600398,1,0,a,2018-10-07 16:00:00
+9026,Lokomotiv Moscow,FC Rostov,1.42539,0.829372,2,1,h,2018-10-19 17:30:00
+9035,Lokomotiv Moscow,FC Yenisey Krasnoyarsk,1.13195,1.4174,3,0,a,2018-10-28 10:00:00
+9044,Lokomotiv Moscow,Arsenal Tula,1.59687,1.1611,3,1,h,2018-11-03 11:00:00
+9050,Lokomotiv Moscow,Rubin Kazan,0.247569,1.18265,0,0,a,2018-11-11 13:30:00
+9062,Lokomotiv Moscow,Ural,2.00409,1.1596,1,2,h,2018-11-23 17:30:00
+9070,Lokomotiv Moscow,Spartak Moscow,2.67071,1.52218,1,2,a,2018-12-02 16:00:00
+9073,Lokomotiv Moscow,FC Orenburg,1.79516,1.65472,2,1,h,2018-12-08 14:30:00
+9081,Lokomotiv Moscow,Krylya Sovetov Samara,1.15602,0.494145,2,2,h,2019-03-02 13:30:00
+9096,Lokomotiv Moscow,Anzhi Makhachkala,2.94502,0.331727,2,0,a,2019-03-10 18:00:00
+9104,Lokomotiv Moscow,FC Krasnodar,2.13072,0.34657,1,0,h,2019-03-17 13:30:00
+9111,Lokomotiv Moscow,Dinamo Moscow,1.1451,0.934754,1,0,a,2019-03-30 11:00:00
+9119,Lokomotiv Moscow,Zenit St. Petersburg,0.44108,1.13404,1,1,h,2019-04-07 17:00:00
+9126,Lokomotiv Moscow,FK Akhmat,1.64265,0.621722,3,1,a,2019-04-13 17:30:00
+9134,Lokomotiv Moscow,CSKA Moscow,1.27918,0.725716,1,1,h,2019-04-20 17:00:00
+9144,Lokomotiv Moscow,FC Rostov,1.97717,1.3087,2,1,a,2019-04-24 17:00:00
+9147,Lokomotiv Moscow,FC Yenisey Krasnoyarsk,1.42064,1.24675,2,1,h,2019-04-28 12:00:00
+9156,Lokomotiv Moscow,Arsenal Tula,0.680991,0.568376,0,2,a,2019-05-04 17:00:00
+9165,Lokomotiv Moscow,Rubin Kazan,2.76163,1.01756,4,0,h,2019-05-10 17:00:00
+9174,Lokomotiv Moscow,Ural,1.43832,0.820168,2,2,a,2019-05-19 08:30:00
+9183,Lokomotiv Moscow,FC Ufa,1.47519,0.178104,1,0,h,2019-05-26 11:00:00

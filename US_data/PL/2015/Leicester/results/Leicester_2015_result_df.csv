@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+84,Leicester,Sunderland,2.56803,1.45946,4,2,h,2015-08-08 18:00:00
+97,Leicester,West Ham,1.80939,0.513491,2,1,a,2015-08-15 18:00:00
+105,Leicester,Tottenham,0.829012,1.89437,1,1,h,2015-08-22 18:00:00
+114,Leicester,Bournemouth,0.919097,0.321432,1,1,a,2015-08-29 18:00:00
+129,Leicester,Aston Villa,1.34987,0.953181,3,2,h,2015-09-13 19:00:00
+135,Leicester,Stoke,1.22582,1.14717,2,2,a,2015-09-19 18:00:00
+144,Leicester,Arsenal,1.38516,3.89623,2,5,h,2015-09-26 18:00:00
+155,Leicester,Norwich,3.00282,1.18074,2,1,a,2015-10-03 18:00:00
+162,Leicester,Southampton,2.78648,1.46668,2,2,a,2015-10-17 18:00:00
+172,Leicester,Crystal Palace,1.33502,0.240008,1,0,h,2015-10-24 18:00:00
+187,Leicester,West Bromwich Albion,2.22545,1.50447,3,2,a,2015-10-31 19:00:00
+192,Leicester,Watford,1.56389,1.00531,2,1,h,2015-11-07 19:00:00
+205,Leicester,Newcastle United,3.27478,0.372387,3,0,a,2015-11-21 19:00:00
+216,Leicester,Manchester United,0.876256,1.05613,1,1,h,2015-11-28 21:30:00
+222,Leicester,Swansea,2.20962,0.780602,3,0,a,2015-12-05 19:00:00
+240,Leicester,Chelsea,0.708846,2.26887,2,1,h,2015-12-15 00:00:00
+245,Leicester,Everton,2.02911,1.48982,3,2,a,2015-12-19 19:00:00
+257,Leicester,Liverpool,0.505167,1.37933,0,1,a,2015-12-26 19:00:00
+269,Leicester,Manchester City,0.810377,1.66777,0,0,h,2015-12-29 23:45:00
+274,Leicester,Bournemouth,2.28506,1.2593,0,0,h,2016-01-02 19:00:00
+290,Leicester,Tottenham,0.588708,1.2301,1,0,a,2016-01-14 00:00:00
+297,Leicester,Aston Villa,2.21525,0.665386,1,1,a,2016-01-16 21:30:00
+304,Leicester,Stoke,2.25906,0.340483,3,0,h,2016-01-23 19:00:00
+312,Leicester,Liverpool,1.34566,0.580791,2,0,h,2016-02-02 23:45:00
+321,Leicester,Manchester City,2.50168,1.70719,3,1,a,2016-02-06 16:45:00
+338,Leicester,Arsenal,1.31246,2.36319,1,2,a,2016-02-14 16:00:00
+343,Leicester,Norwich,1.7645,0.814784,1,0,h,2016-02-27 19:00:00
+351,Leicester,West Bromwich Albion,3.04626,1.29485,2,2,h,2016-03-01 23:45:00
+366,Leicester,Watford,1.47042,0.829318,1,0,a,2016-03-05 21:30:00
+373,Leicester,Newcastle United,0.846771,0.518715,1,0,h,2016-03-14 00:00:00
+375,Leicester,Crystal Palace,1.20315,0.784339,1,0,a,2016-03-19 19:00:00
+392,Leicester,Southampton,1.38701,0.670068,1,0,h,2016-04-03 16:30:00
+401,Leicester,Sunderland,2.60072,0.872232,2,0,a,2016-04-10 16:30:00
+411,Leicester,West Ham,1.95296,1.56819,2,2,h,2016-04-17 16:30:00
+425,Leicester,Swansea,3.31579,0.576457,4,0,h,2016-04-24 19:15:00
+434,Leicester,Manchester United,1.16622,1.18462,1,1,a,2016-05-01 17:05:00
+443,Leicester,Everton,4.50525,1.30184,3,1,h,2016-05-07 20:30:00
+452,Leicester,Chelsea,1.23491,1.86065,1,1,a,2016-05-15 18:00:00

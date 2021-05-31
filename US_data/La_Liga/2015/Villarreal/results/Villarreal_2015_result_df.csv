@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1407,Villarreal,Real Betis,1.63096,1.4954,1,1,a,2015-08-24 00:30:00
+1409,Villarreal,Espanyol,1.59386,0.721424,3,1,h,2015-08-28 22:30:00
+1424,Villarreal,Granada,1.48742,0.817524,3,1,a,2015-09-13 14:00:00
+1436,Villarreal,Athletic Club,1.61474,1.26405,3,1,h,2015-09-20 20:15:00
+1446,Villarreal,Malaga,0.933564,0.878256,1,0,a,2015-09-24 00:00:00
+1453,Villarreal,Atletico Madrid,0.871094,0.466414,1,0,h,2015-09-26 22:30:00
+1467,Villarreal,Levante,0.114789,1.06144,0,1,a,2015-10-04 20:15:00
+1474,Villarreal,Celta Vigo,0.995361,1.62408,1,2,h,2015-10-18 14:00:00
+1485,Villarreal,Las Palmas,0.205133,0.189007,0,0,a,2015-10-25 19:00:00
+1491,Villarreal,Sevilla,1.03337,0.880961,2,1,h,2015-10-31 21:15:00
+1506,Villarreal,Barcelona,0.278588,3.0769,0,3,a,2015-11-08 19:00:00
+1515,Villarreal,Eibar,1.78239,2.61337,1,1,h,2015-11-22 19:00:00
+1525,Villarreal,Getafe,0.7886,1.67288,0,2,a,2015-11-29 15:00:00
+1535,Villarreal,Rayo Vallecano,1.60179,0.325638,2,1,h,2015-12-06 19:00:00
+1548,Villarreal,Real Madrid,0.940499,1.45508,1,0,h,2015-12-13 23:30:00
+1554,Villarreal,Real Sociedad,0.797645,1.02445,2,0,a,2015-12-20 21:15:00
+1567,Villarreal,Valencia,0.420594,0.339183,1,0,h,2015-12-31 19:00:00
+1575,Villarreal,Deportivo La Coruna,1.55208,1.15796,2,1,a,2016-01-03 21:15:00
+1583,Villarreal,Sporting Gijon,1.53045,0.960625,2,0,h,2016-01-10 15:00:00
+1590,Villarreal,Real Betis,0.806178,0.839004,0,0,h,2016-01-16 23:30:00
+1600,Villarreal,Espanyol,1.50472,1.36067,2,2,a,2016-01-23 21:15:00
+1611,Villarreal,Granada,1.95153,0.91326,1,0,h,2016-01-30 23:30:00
+1621,Villarreal,Athletic Club,0.628815,0.56818,0,0,a,2016-02-06 23:30:00
+1630,Villarreal,Malaga,0.760756,0.671008,1,0,h,2016-02-13 21:15:00
+1648,Villarreal,Atletico Madrid,0.663896,0.769511,0,0,a,2016-02-21 23:30:00
+1655,Villarreal,Levante,1.6962,0.664928,3,0,h,2016-02-28 15:00:00
+1663,Villarreal,Celta Vigo,0.328383,0.846173,0,0,a,2016-03-02 23:00:00
+1670,Villarreal,Las Palmas,1.15088,0.52008,0,1,h,2016-03-05 21:15:00
+1685,Villarreal,Sevilla,1.70728,3.1376,2,4,a,2016-03-13 19:00:00
+1696,Villarreal,Barcelona,0.980467,2.14473,2,2,h,2016-03-20 19:00:00
+1706,Villarreal,Eibar,2.08255,0.804064,2,1,a,2016-04-03 20:15:00
+1716,Villarreal,Getafe,2.05697,0.718479,2,0,h,2016-04-10 20:15:00
+1727,Villarreal,Rayo Vallecano,0.631315,1.08503,1,2,a,2016-04-17 20:15:00
+1736,Villarreal,Real Madrid,0.226133,1.75884,0,3,a,2016-04-21 00:00:00
+1747,Villarreal,Real Sociedad,0.65957,0.640832,0,0,h,2016-04-24 22:30:00
+1757,Villarreal,Valencia,1.05764,0.259066,2,0,a,2016-05-01 22:30:00
+1763,Villarreal,Deportivo La Coruna,0.701392,0.388761,0,2,h,2016-05-08 19:00:00
+1777,Villarreal,Sporting Gijon,0.721212,1.51593,0,2,a,2016-05-15 21:30:00

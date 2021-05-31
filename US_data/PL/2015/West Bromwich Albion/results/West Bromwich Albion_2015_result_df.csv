@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+90,West Bromwich Albion,Manchester City,0.435238,1.9242,0,3,h,2015-08-10 23:00:00
+96,West Bromwich Albion,Watford,0.684036,0.760848,0,0,a,2015-08-15 18:00:00
+107,West Bromwich Albion,Chelsea,1.42622,2.02778,2,3,h,2015-08-23 16:30:00
+112,West Bromwich Albion,Stoke,0.881194,1.21771,1,0,a,2015-08-29 18:00:00
+125,West Bromwich Albion,Southampton,0.409143,1.00731,0,0,h,2015-09-12 18:00:00
+133,West Bromwich Albion,Aston Villa,0.632761,0.876719,1,0,a,2015-09-19 18:00:00
+150,West Bromwich Albion,Everton,1.27511,2.30159,2,3,h,2015-09-28 23:00:00
+151,West Bromwich Albion,Crystal Palace,0.255528,1.99083,0,2,a,2015-10-03 15:45:00
+163,West Bromwich Albion,Sunderland,2.07781,0.658473,1,0,h,2015-10-17 18:00:00
+174,West Bromwich Albion,Norwich,1.45436,1.03228,1,0,a,2015-10-24 18:00:00
+187,West Bromwich Albion,Leicester,1.50447,2.22545,2,3,h,2015-10-31 19:00:00
+193,West Bromwich Albion,Manchester United,0.594031,1.2779,0,2,a,2015-11-07 19:00:00
+204,West Bromwich Albion,Arsenal,0.332888,2.08956,2,1,h,2015-11-21 19:00:00
+218,West Bromwich Albion,West Ham,0.866305,1.41404,1,1,a,2015-11-29 18:05:00
+224,West Bromwich Albion,Tottenham,1.48695,1.12876,1,1,h,2015-12-05 19:00:00
+238,West Bromwich Albion,Liverpool,0.835885,2.12583,2,2,a,2015-12-13 20:00:00
+241,West Bromwich Albion,Bournemouth,0.698255,1.89177,1,2,h,2015-12-19 19:00:00
+252,West Bromwich Albion,Swansea,0.554583,1.21243,0,1,a,2015-12-26 19:00:00
+261,West Bromwich Albion,Newcastle United,2.1039,0.456189,1,0,h,2015-12-28 19:00:00
+272,West Bromwich Albion,Stoke,1.72318,0.917526,2,1,h,2016-01-02 19:00:00
+287,West Bromwich Albion,Chelsea,0.704263,1.38532,2,2,a,2016-01-13 23:45:00
+294,West Bromwich Albion,Southampton,0.410757,1.42623,0,3,a,2016-01-16 19:00:00
+305,West Bromwich Albion,Aston Villa,0.23184,0.562461,0,0,h,2016-01-23 19:00:00
+318,West Bromwich Albion,Swansea,2.30645,1.17928,1,1,h,2016-02-03 00:00:00
+322,West Bromwich Albion,Newcastle United,0.472556,2.41057,0,1,a,2016-02-06 19:00:00
+334,West Bromwich Albion,Everton,1.1974,1.82912,1,0,a,2016-02-13 19:00:00
+346,West Bromwich Albion,Crystal Palace,2.07488,1.21638,3,2,h,2016-02-27 21:30:00
+351,West Bromwich Albion,Leicester,1.29485,3.04626,2,2,a,2016-03-01 23:45:00
+368,West Bromwich Albion,Manchester United,0.565787,0.417622,1,0,h,2016-03-06 20:00:00
+378,West Bromwich Albion,Norwich,0.332789,0.799255,0,1,h,2016-03-19 19:00:00
+389,West Bromwich Albion,Sunderland,0.0635563,1.54544,0,0,a,2016-04-02 18:00:00
+400,West Bromwich Albion,Manchester City,1.09413,2.07325,1,2,a,2016-04-09 20:30:00
+409,West Bromwich Albion,Watford,2.2915,0.364852,0,1,h,2016-04-16 18:00:00
+419,West Bromwich Albion,Arsenal,0.839742,1.37348,0,2,a,2016-04-21 22:45:00
+426,West Bromwich Albion,Tottenham,0.894413,1.26346,1,1,a,2016-04-25 23:00:00
+431,West Bromwich Albion,West Ham,1.5346,1.27183,0,3,h,2016-04-30 18:00:00
+441,West Bromwich Albion,Bournemouth,1.34282,0.814964,1,1,a,2016-05-07 18:00:00
+459,West Bromwich Albion,Liverpool,1.86869,0.419877,1,1,h,2016-05-15 18:00:00

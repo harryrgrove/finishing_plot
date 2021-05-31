@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1327,Bayern Munich,Werder Bremen,4.53263,0.185791,6,0,h,2016-08-26 22:30:00
+1336,Bayern Munich,Schalke 04,2.2266,0.965209,2,0,a,2016-09-09 22:30:00
+1349,Bayern Munich,Ingolstadt,0.446972,1.54672,3,1,h,2016-09-17 17:30:00
+1360,Bayern Munich,Hertha Berlin,2.71721,0.153422,3,0,h,2016-09-21 22:00:00
+1366,Bayern Munich,Hamburger SV,2.12276,0.304936,1,0,a,2016-09-24 17:30:00
+1373,Bayern Munich,FC Cologne,2.20563,0.899194,1,1,h,2016-10-01 17:30:00
+1386,Bayern Munich,Eintracht Frankfurt,1.4782,2.01559,2,2,a,2016-10-15 17:30:00
+1396,Bayern Munich,Borussia M.Gladbach,1.73353,0.49977,2,0,h,2016-10-22 20:30:00
+3302,Bayern Munich,Augsburg,3.47304,0.724858,3,1,a,2016-10-29 17:30:00
+2809,Bayern Munich,Hoffenheim,1.49595,0.24666,1,1,h,2016-11-05 18:30:00
+2821,Bayern Munich,Borussia Dortmund,0.929514,1.55352,0,1,a,2016-11-19 21:30:00
+2830,Bayern Munich,Bayer Leverkusen,1.68783,1.26793,2,1,h,2016-11-26 21:30:00
+3192,Bayern Munich,Mainz 05,1.67552,0.47533,3,1,a,2016-12-02 23:30:00
+3206,Bayern Munich,Wolfsburg,2.18433,0.422847,5,0,h,2016-12-10 18:30:00
+3217,Bayern Munich,Darmstadt,1.21772,0.869666,1,0,a,2016-12-18 18:30:00
+3227,Bayern Munich,RasenBallsport Leipzig,4.92205,0.135897,3,0,h,2016-12-21 23:00:00
+3722,Bayern Munich,Freiburg,0.60487,0.696302,2,1,a,2017-01-20 19:30:00
+3735,Bayern Munich,Werder Bremen,0.664364,0.740585,2,1,a,2017-01-28 17:30:00
+3743,Bayern Munich,Schalke 04,1.20803,0.933229,1,1,h,2017-02-04 14:30:00
+3753,Bayern Munich,Ingolstadt,1.89105,0.436757,2,0,a,2017-02-11 14:30:00
+3762,Bayern Munich,Hertha Berlin,1.28308,0.925318,1,1,a,2017-02-18 14:30:00
+3772,Bayern Munich,Hamburger SV,3.61743,0.228928,8,0,h,2017-02-25 14:30:00
+3778,Bayern Munich,FC Cologne,1.609,0.184391,3,0,a,2017-03-04 14:30:00
+3786,Bayern Munich,Eintracht Frankfurt,2.93121,0.753534,3,0,h,2017-03-11 14:30:00
+3802,Bayern Munich,Borussia M.Gladbach,2.21621,0.75605,1,0,a,2017-03-19 16:30:00
+3805,Bayern Munich,Augsburg,3.67736,0.186673,6,0,h,2017-04-01 14:30:00
+3815,Bayern Munich,Hoffenheim,1.89107,0.972676,0,1,a,2017-04-04 19:00:00
+3827,Bayern Munich,Borussia Dortmund,1.9556,0.696828,4,1,h,2017-04-08 17:30:00
+3831,Bayern Munich,Bayer Leverkusen,2.14432,0.380752,0,0,a,2017-04-15 17:30:00
+3839,Bayern Munich,Mainz 05,0.916519,1.75151,2,2,h,2017-04-22 14:30:00
+3854,Bayern Munich,Wolfsburg,2.26407,0.364748,6,0,a,2017-04-29 17:30:00
+3859,Bayern Munich,Darmstadt,2.4342,1.1907,1,0,h,2017-05-06 14:30:00
+3874,Bayern Munich,RasenBallsport Leipzig,3.61687,2.0471,5,4,a,2017-05-13 14:30:00
+3883,Bayern Munich,Freiburg,3.93385,1.52892,4,1,h,2017-05-20 14:30:00

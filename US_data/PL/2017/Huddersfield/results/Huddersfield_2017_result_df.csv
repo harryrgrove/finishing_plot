@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+7124,Huddersfield,Crystal Palace,1.73657,0.988934,3,0,a,2017-08-12 15:00:00
+7136,Huddersfield,Newcastle United,0.267008,0.973322,1,0,h,2017-08-20 13:30:00
+7144,Huddersfield,Southampton,1.51605,0.795911,0,0,h,2017-08-26 15:00:00
+7158,Huddersfield,West Ham,0.339338,1.94969,0,2,a,2017-09-11 20:00:00
+7161,Huddersfield,Leicester,0.700349,1.24181,1,1,h,2017-09-16 15:00:00
+7174,Huddersfield,Burnley,0.312561,0.369454,0,0,a,2017-09-23 15:00:00
+7179,Huddersfield,Tottenham,0.196648,1.56089,0,4,h,2017-09-30 12:30:00
+7196,Huddersfield,Swansea,0.596086,1.65446,0,2,a,2017-10-14 15:00:00
+7201,Huddersfield,Manchester United,1.26744,0.807135,2,1,h,2017-10-21 15:00:00
+7217,Huddersfield,Liverpool,0.0554802,2.14257,0,3,a,2017-10-28 15:00:00
+7221,Huddersfield,West Bromwich Albion,0.260436,0.382005,1,0,h,2017-11-04 15:00:00
+7237,Huddersfield,Bournemouth,1.1633,1.38782,0,4,a,2017-11-18 15:00:00
+7245,Huddersfield,Manchester City,0.537698,2.66178,1,2,h,2017-11-26 16:00:00
+7254,Huddersfield,Arsenal,0.475716,4.47889,0,5,a,2017-11-29 19:45:00
+7260,Huddersfield,Everton,0.223429,0.820024,0,2,a,2017-12-02 15:00:00
+7274,Huddersfield,Brighton,2.68125,0.273809,2,0,h,2017-12-09 15:00:00
+7280,Huddersfield,Chelsea,0.476748,1.8707,1,3,h,2017-12-12 20:00:00
+7296,Huddersfield,Watford,3.49193,0.589103,4,1,a,2017-12-16 15:00:00
+7307,Huddersfield,Southampton,1.09381,1.73805,1,1,a,2017-12-23 15:00:00
+7312,Huddersfield,Stoke,1.8756,1.19984,1,1,h,2017-12-26 15:00:00
+7322,Huddersfield,Burnley,0.049118,1.20923,0,0,h,2017-12-30 15:00:00
+7334,Huddersfield,Leicester,0.226625,1.45074,0,3,a,2018-01-01 15:00:00
+7342,Huddersfield,West Ham,0.681,0.986853,1,4,h,2018-01-13 15:00:00
+7356,Huddersfield,Stoke,0.238458,0.987799,0,2,a,2018-01-20 15:00:00
+7359,Huddersfield,Liverpool,0.288048,2.05148,0,3,h,2018-01-30 20:00:00
+7376,Huddersfield,Manchester United,0.13049,1.63389,0,2,a,2018-02-03 15:00:00
+7381,Huddersfield,Bournemouth,2.56699,0.433555,4,1,h,2018-02-11 12:00:00
+7394,Huddersfield,West Bromwich Albion,1.18101,1.50162,2,1,a,2018-02-24 15:00:00
+7407,Huddersfield,Tottenham,0.138106,1.63794,0,2,a,2018-03-03 15:00:00
+7413,Huddersfield,Swansea,1.39381,0.0,0,0,h,2018-03-10 15:00:00
+7421,Huddersfield,Crystal Palace,0.220381,2.74705,0,2,h,2018-03-17 15:00:00
+7436,Huddersfield,Newcastle United,0.280847,2.53617,0,1,a,2018-03-31 15:00:00
+7441,Huddersfield,Brighton,1.48964,1.53244,1,1,a,2018-04-07 14:00:00
+7451,Huddersfield,Watford,0.929512,0.306273,1,0,h,2018-04-14 14:00:00
+7471,Huddersfield,Everton,0.56538,0.943754,0,2,h,2018-04-28 14:00:00
+7480,Huddersfield,Manchester City,0.54565,0.78641,0,0,a,2018-05-06 13:30:00
+7460,Huddersfield,Chelsea,0.631021,2.25256,1,1,a,2018-05-09 19:45:00
+7494,Huddersfield,Arsenal,1.31031,2.3322,0,1,h,2018-05-13 15:00:00

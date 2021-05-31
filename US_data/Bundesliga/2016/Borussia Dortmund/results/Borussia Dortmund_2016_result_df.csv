@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1332,Borussia Dortmund,Mainz 05,1.81984,1.07885,2,1,h,2016-08-27 17:30:00
+1342,Borussia Dortmund,RasenBallsport Leipzig,0.482478,0.950658,0,1,a,2016-09-10 20:30:00
+1350,Borussia Dortmund,Darmstadt,4.05385,0.179729,6,0,h,2016-09-17 17:30:00
+1354,Borussia Dortmund,Wolfsburg,2.34245,2.71087,5,1,a,2016-09-20 22:00:00
+1363,Borussia Dortmund,Freiburg,3.2333,1.05384,3,1,h,2016-09-23 22:30:00
+1378,Borussia Dortmund,Bayer Leverkusen,0.837447,1.52698,0,2,a,2016-10-01 20:30:00
+1381,Borussia Dortmund,Hertha Berlin,2.60334,0.994838,1,1,h,2016-10-14 22:30:00
+1391,Borussia Dortmund,Ingolstadt,2.51636,1.69325,3,3,a,2016-10-22 17:30:00
+3305,Borussia Dortmund,Schalke 04,0.816002,0.46649,0,0,h,2016-10-29 20:30:00
+2807,Borussia Dortmund,Hamburger SV,2.88584,0.716262,5,2,a,2016-11-05 18:30:00
+2821,Borussia Dortmund,Bayern Munich,1.55352,0.929514,1,0,h,2016-11-19 21:30:00
+2829,Borussia Dortmund,Eintracht Frankfurt,1.66759,0.686336,1,2,a,2016-11-26 18:30:00
+3194,Borussia Dortmund,Borussia M.Gladbach,2.39193,0.731465,4,1,h,2016-12-03 18:30:00
+3203,Borussia Dortmund,FC Cologne,0.740252,0.905376,1,1,a,2016-12-10 18:30:00
+3210,Borussia Dortmund,Hoffenheim,1.48937,1.54298,2,2,a,2016-12-16 19:30:00
+3222,Borussia Dortmund,Augsburg,1.98186,1.18385,1,1,h,2016-12-20 23:00:00
+3726,Borussia Dortmund,Werder Bremen,2.86037,0.683532,2,1,a,2017-01-21 14:30:00
+3739,Borussia Dortmund,Mainz 05,1.16864,0.681513,1,1,a,2017-01-29 19:30:00
+3746,Borussia Dortmund,RasenBallsport Leipzig,3.12438,0.0680623,1,0,h,2017-02-04 17:30:00
+3751,Borussia Dortmund,Darmstadt,0.746753,1.93475,1,2,a,2017-02-11 14:30:00
+3763,Borussia Dortmund,Wolfsburg,2.5227,0.213682,3,0,h,2017-02-18 14:30:00
+3770,Borussia Dortmund,Freiburg,5.0778,0.318406,3,0,a,2017-02-25 14:30:00
+3781,Borussia Dortmund,Bayer Leverkusen,4.87346,0.634697,6,2,h,2017-03-04 14:30:00
+3790,Borussia Dortmund,Hertha Berlin,1.08133,1.73774,1,2,a,2017-03-11 14:30:00
+3794,Borussia Dortmund,Ingolstadt,0.574065,1.37608,1,0,h,2017-03-17 19:30:00
+3806,Borussia Dortmund,Schalke 04,0.916317,0.578624,1,1,a,2017-04-01 14:30:00
+3812,Borussia Dortmund,Hamburger SV,3.96885,1.01065,3,0,h,2017-04-04 19:00:00
+3827,Borussia Dortmund,Bayern Munich,0.696828,1.9556,1,4,a,2017-04-08 17:30:00
+3830,Borussia Dortmund,Eintracht Frankfurt,2.56997,0.981383,3,1,h,2017-04-15 14:30:00
+3840,Borussia Dortmund,Borussia M.Gladbach,1.94133,0.855144,3,2,a,2017-04-22 17:30:00
+3848,Borussia Dortmund,FC Cologne,2.67669,0.275427,0,0,h,2017-04-29 14:30:00
+3860,Borussia Dortmund,Hoffenheim,2.58723,1.03413,2,1,h,2017-05-06 14:30:00
+3870,Borussia Dortmund,Augsburg,1.7547,1.27027,1,1,a,2017-05-13 14:30:00
+3875,Borussia Dortmund,Werder Bremen,4.35162,1.6445,4,3,h,2017-05-20 14:30:00

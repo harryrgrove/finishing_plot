@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+5450,Werder Bremen,Hertha Berlin,1.19453,1.75585,2,2,a,2014-08-23 14:30:00
+5457,Werder Bremen,Hoffenheim,2.51429,1.29948,1,1,h,2014-08-30 14:30:00
+5411,Werder Bremen,Bayer Leverkusen,1.72618,1.98321,3,3,a,2014-09-12 19:30:00
+5425,Werder Bremen,Augsburg,2.02462,2.91201,2,4,a,2014-09-20 14:30:00
+5431,Werder Bremen,Schalke 04,0.992105,1.36741,0,3,h,2014-09-23 19:00:00
+5444,Werder Bremen,Wolfsburg,0.32535,1.24302,1,2,a,2014-09-27 17:30:00
+5384,Werder Bremen,Freiburg,1.21503,1.03746,1,1,h,2014-10-04 14:30:00
+5392,Werder Bremen,Bayern Munich,0.0,2.49826,0,6,a,2014-10-18 14:30:00
+5401,Werder Bremen,FC Cologne,0.514564,0.519282,0,1,h,2014-10-24 19:30:00
+5348,Werder Bremen,Mainz 05,1.65943,1.19297,2,1,a,2014-11-01 14:30:00
+5362,Werder Bremen,VfB Stuttgart,0.645076,0.774005,2,0,h,2014-11-08 17:30:00
+5372,Werder Bremen,Hamburger SV,1.14769,2.60596,0,2,a,2014-11-23 14:30:00
+5379,Werder Bremen,Paderborn,4.47976,0.839366,4,0,h,2014-11-29 14:30:00
+5320,Werder Bremen,Eintracht Frankfurt,1.44207,3.8335,2,5,a,2014-12-07 16:30:00
+5323,Werder Bremen,Hannover 96,1.84609,1.54036,3,3,h,2014-12-13 14:30:00
+5336,Werder Bremen,Borussia M.Gladbach,0.308689,2.06898,1,4,a,2014-12-17 19:00:00
+5341,Werder Bremen,Borussia Dortmund,2.36795,0.602289,2,1,h,2014-12-20 14:30:00
+5260,Werder Bremen,Hertha Berlin,0.839904,0.0990819,2,0,h,2015-02-01 14:30:00
+5270,Werder Bremen,Hoffenheim,0.576349,1.33156,2,1,a,2015-02-04 19:00:00
+5278,Werder Bremen,Bayer Leverkusen,0.885549,1.74921,2,1,h,2015-02-08 14:30:00
+5284,Werder Bremen,Augsburg,2.62945,0.585109,3,2,h,2015-02-14 14:30:00
+5293,Werder Bremen,Schalke 04,1.38186,1.19124,1,1,a,2015-02-21 14:30:00
+5232,Werder Bremen,Wolfsburg,1.44281,2.5513,3,5,h,2015-03-01 16:30:00
+5237,Werder Bremen,Freiburg,0.649704,0.430875,1,0,a,2015-03-07 14:30:00
+5246,Werder Bremen,Bayern Munich,0.290321,2.18396,0,4,h,2015-03-14 14:30:00
+5252,Werder Bremen,FC Cologne,0.570166,1.76655,1,1,a,2015-03-21 14:30:00
+5195,Werder Bremen,Mainz 05,0.718931,0.92075,0,0,h,2015-04-04 14:30:00
+5212,Werder Bremen,VfB Stuttgart,0.448325,2.35291,2,3,a,2015-04-12 16:30:00
+5220,Werder Bremen,Hamburger SV,1.3478,0.433841,1,0,h,2015-04-19 14:30:00
+5229,Werder Bremen,Paderborn,0.959164,1.96537,2,2,a,2015-04-26 14:30:00
+5163,Werder Bremen,Eintracht Frankfurt,2.86921,1.2158,1,0,h,2015-05-02 14:30:00
+5172,Werder Bremen,Hannover 96,0.490122,1.17255,1,1,a,2015-05-09 14:30:00
+5182,Werder Bremen,Borussia M.Gladbach,1.20572,1.45177,0,2,h,2015-05-16 14:30:00
+5193,Werder Bremen,Borussia Dortmund,0.964946,2.90398,2,3,a,2015-05-23 14:30:00

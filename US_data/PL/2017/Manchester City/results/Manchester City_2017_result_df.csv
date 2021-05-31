@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+7126,Manchester City,Brighton,1.86751,0.276343,2,0,a,2017-08-12 17:30:00
+7138,Manchester City,Everton,1.14216,0.59971,1,1,h,2017-08-21 20:00:00
+7139,Manchester City,Bournemouth,1.76626,0.415402,2,1,a,2017-08-26 12:30:00
+7149,Manchester City,Liverpool,3.14589,0.665186,5,0,h,2017-09-09 12:30:00
+7164,Manchester City,Watford,3.99349,0.803933,6,0,a,2017-09-16 15:00:00
+7173,Manchester City,Crystal Palace,5.72543,0.611018,5,0,h,2017-09-23 15:00:00
+7185,Manchester City,Chelsea,1.23068,0.911532,1,0,a,2017-09-30 17:30:00
+7194,Manchester City,Stoke,4.45388,0.681236,7,2,h,2017-10-14 15:00:00
+7202,Manchester City,Burnley,3.71812,0.14859,3,0,h,2017-10-21 15:00:00
+7215,Manchester City,West Bromwich Albion,2.77085,1.11852,3,2,a,2017-10-28 15:00:00
+7228,Manchester City,Arsenal,2.15028,0.340407,3,1,h,2017-11-05 14:15:00
+7235,Manchester City,Leicester,2.40056,0.0970457,2,0,a,2017-11-18 15:00:00
+7245,Manchester City,Huddersfield,2.66178,0.537698,2,1,a,2017-11-26 16:00:00
+7257,Manchester City,Southampton,1.64952,1.7066,2,1,h,2017-11-29 20:00:00
+7262,Manchester City,West Ham,2.45603,0.474483,2,1,h,2017-12-03 16:00:00
+7276,Manchester City,Manchester United,2.03041,1.43756,2,1,a,2017-12-10 16:30:00
+7281,Manchester City,Swansea,3.56828,0.589496,4,0,a,2017-12-13 19:45:00
+7298,Manchester City,Tottenham,4.14588,0.182456,4,1,h,2017-12-16 17:30:00
+7308,Manchester City,Bournemouth,1.55724,0.334896,4,0,h,2017-12-23 15:00:00
+7315,Manchester City,Newcastle United,1.93187,0.174705,1,0,a,2017-12-27 19:45:00
+7321,Manchester City,Crystal Palace,1.09586,1.72153,0,0,a,2017-12-31 12:00:00
+7335,Manchester City,Watford,2.77398,0.965283,3,1,h,2018-01-02 20:00:00
+7343,Manchester City,Liverpool,0.722959,1.01595,3,4,a,2018-01-14 16:00:00
+7354,Manchester City,Newcastle United,2.5505,0.992018,3,1,h,2018-01-20 17:30:00
+7366,Manchester City,West Bromwich Albion,2.68955,0.118043,3,0,h,2018-01-31 20:00:00
+7372,Manchester City,Burnley,2.24914,0.795971,1,1,a,2018-02-03 12:30:00
+7382,Manchester City,Leicester,2.59121,0.109716,5,1,h,2018-02-10 17:30:00
+7389,Manchester City,Arsenal,1.92605,1.30172,3,0,a,2018-03-01 19:45:00
+7404,Manchester City,Chelsea,0.953312,0.118301,1,0,h,2018-03-04 16:00:00
+7416,Manchester City,Stoke,1.64562,0.157023,2,0,a,2018-03-12 20:00:00
+7433,Manchester City,Everton,1.91312,0.859628,3,1,a,2018-03-31 17:30:00
+7445,Manchester City,Manchester United,3.42967,1.21683,2,3,h,2018-04-07 16:30:00
+7457,Manchester City,Tottenham,3.61987,0.445014,3,1,a,2018-04-14 18:45:00
+7465,Manchester City,Swansea,3.41675,0.297493,5,0,h,2018-04-22 15:30:00
+7478,Manchester City,West Ham,2.29076,0.228917,4,1,a,2018-04-29 13:15:00
+7480,Manchester City,Huddersfield,0.78641,0.54565,0,0,h,2018-05-06 13:30:00
+7424,Manchester City,Brighton,1.64765,1.00939,3,1,h,2018-05-09 20:00:00
+7498,Manchester City,Southampton,0.765614,0.506624,1,0,a,2018-05-13 15:00:00

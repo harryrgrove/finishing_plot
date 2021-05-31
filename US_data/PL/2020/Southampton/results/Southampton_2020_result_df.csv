@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+14087,Southampton,Crystal Palace,1.26267,1.39569,0,1,a,2020-09-12 14:00:00
+14100,Southampton,Tottenham,2.27708,2.28004,2,5,h,2020-09-20 11:00:00
+14109,Southampton,Burnley,0.706632,0.347136,1,0,a,2020-09-26 19:00:00
+14473,Southampton,West Bromwich Albion,0.949079,0.161283,2,0,h,2020-10-04 11:00:00
+14475,Southampton,Chelsea,1.42348,1.98708,3,3,a,2020-10-17 14:00:00
+14492,Southampton,Everton,0.74151,0.287054,2,0,h,2020-10-25 14:00:00
+14495,Southampton,Aston Villa,1.00333,2.44855,4,3,a,2020-11-01 12:00:00
+14512,Southampton,Newcastle United,0.985828,0.175633,2,0,h,2020-11-06 20:00:00
+14524,Southampton,Wolverhampton Wanderers,1.0785,1.57479,1,1,a,2020-11-23 20:00:00
+14534,Southampton,Manchester United,0.498783,2.47547,2,3,h,2020-11-29 14:00:00
+14536,Southampton,Brighton,1.34801,2.03376,2,1,a,2020-12-07 20:00:00
+14551,Southampton,Sheffield United,2.27973,0.219115,3,0,h,2020-12-13 12:00:00
+14555,Southampton,Arsenal,1.11296,0.661135,1,1,a,2020-12-16 18:00:00
+14572,Southampton,Manchester City,0.586972,1.15599,0,1,h,2020-12-19 15:00:00
+14577,Southampton,Fulham,0.119709,0.781855,0,0,a,2020-12-26 15:00:00
+14588,Southampton,West Ham,0.670996,1.07246,0,0,h,2020-12-29 18:00:00
+14598,Southampton,Liverpool,0.500436,1.37204,1,0,h,2021-01-04 20:00:00
+14619,Southampton,Leicester,0.378147,2.12019,0,2,a,2021-01-16 20:00:00
+14632,Southampton,Arsenal,0.99504,2.4339,1,3,h,2021-01-26 20:15:00
+14641,Southampton,Aston Villa,2.22557,0.795508,0,1,h,2021-01-30 20:00:00
+14651,Southampton,Manchester United,0.507893,5.0325,0,9,a,2021-02-02 20:15:00
+14661,Southampton,Newcastle United,1.43445,0.910553,2,3,a,2021-02-06 15:00:00
+14672,Southampton,Wolverhampton Wanderers,0.8536,1.09361,1,2,h,2021-02-14 12:00:00
+14682,Southampton,Chelsea,0.496603,1.44849,1,1,h,2021-02-20 12:30:00
+14608,Southampton,Leeds,1.47981,1.84753,0,3,a,2021-02-23 20:00:00
+14686,Southampton,Everton,0.665743,1.42054,0,1,a,2021-03-01 20:00:00
+14701,Southampton,Sheffield United,2.37386,0.908155,2,0,a,2021-03-06 15:00:00
+14761,Southampton,Manchester City,1.60561,3.10503,2,5,a,2021-03-10 18:00:00
+14713,Southampton,Brighton,1.03495,0.895967,1,2,h,2021-03-14 12:00:00
+14733,Southampton,Burnley,2.40272,1.50285,3,2,h,2021-04-04 11:00:00
+14743,Southampton,West Bromwich Albion,1.5002,2.77089,0,3,a,2021-04-12 17:00:00
+14722,Southampton,Tottenham,1.06134,1.28824,1,2,a,2021-04-21 19:00:00
+14772,Southampton,Leicester,0.954057,2.51518,1,1,h,2021-04-30 19:00:00
+14780,Southampton,Liverpool,1.2289,2.26367,0,2,a,2021-05-08 19:15:00
+14753,Southampton,Crystal Palace,1.58872,1.32586,3,1,h,2021-05-11 21:00:00
+14792,Southampton,Fulham,2.29146,0.875957,3,1,h,2021-05-15 14:00:00
+14802,Southampton,Leeds,1.3084,1.58132,0,2,h,2021-05-18 17:00:00
+14813,Southampton,West Ham,1.35179,1.98344,0,3,a,2021-05-23 15:00:00

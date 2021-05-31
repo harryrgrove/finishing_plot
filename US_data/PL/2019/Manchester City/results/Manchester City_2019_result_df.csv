@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+11644,Manchester City,West Ham,3.18377,1.2003,5,0,a,2019-08-10 12:30:00
+11659,Manchester City,Tottenham,3.20076,0.074542,2,2,h,2019-08-17 17:30:00
+11671,Manchester City,Bournemouth,3.12856,1.89345,3,1,a,2019-08-25 14:00:00
+11678,Manchester City,Brighton,2.30818,0.861035,4,0,h,2019-08-31 15:00:00
+11689,Manchester City,Norwich,2.34436,1.7413,2,3,a,2019-09-14 16:30:00
+11695,Manchester City,Watford,6.63049,0.344718,8,0,h,2019-09-21 14:00:00
+11711,Manchester City,Everton,3.1082,2.35854,3,1,a,2019-09-28 16:30:00
+11716,Manchester City,Wolverhampton Wanderers,1.61884,1.18825,0,2,h,2019-10-06 14:00:00
+11726,Manchester City,Crystal Palace,4.02104,0.616864,2,0,a,2019-10-19 17:30:00
+11737,Manchester City,Aston Villa,3.19004,0.980145,3,0,h,2019-10-26 12:30:00
+11749,Manchester City,Southampton,3.36132,0.893889,2,1,h,2019-11-02 15:00:00
+11755,Manchester City,Liverpool,1.48104,1.3319,1,3,a,2019-11-10 16:30:00
+11769,Manchester City,Chelsea,1.23596,0.820474,2,1,h,2019-11-23 17:30:00
+11777,Manchester City,Newcastle United,2.44389,0.208252,2,2,a,2019-11-30 12:30:00
+11784,Manchester City,Burnley,2.56057,0.486548,4,1,a,2019-12-03 20:15:00
+11797,Manchester City,Manchester United,2.07108,1.63385,1,2,h,2019-12-07 17:30:00
+11803,Manchester City,Arsenal,1.69553,0.28161,3,0,a,2019-12-15 16:30:00
+11817,Manchester City,Leicester,3.59139,1.01388,3,1,h,2019-12-21 17:30:00
+11832,Manchester City,Wolverhampton Wanderers,1.52044,2.39405,2,3,a,2019-12-27 19:45:00
+11837,Manchester City,Sheffield United,1.08628,1.23346,2,0,h,2019-12-29 18:00:00
+11848,Manchester City,Everton,1.79757,0.848942,2,1,h,2020-01-01 17:30:00
+11856,Manchester City,Aston Villa,3.75131,1.12565,6,1,a,2020-01-12 16:30:00
+11864,Manchester City,Crystal Palace,2.47314,0.586716,2,2,h,2020-01-18 15:00:00
+11875,Manchester City,Sheffield United,2.873,0.774943,1,0,a,2020-01-21 19:30:00
+11890,Manchester City,Tottenham,3.25139,0.420293,0,2,a,2020-02-02 16:30:00
+11898,Manchester City,West Ham,2.13777,0.0895892,2,0,h,2020-02-19 19:30:00
+11904,Manchester City,Leicester,2.42749,0.723269,1,0,a,2020-02-22 17:30:00
+11932,Manchester City,Manchester United,0.585469,1.7389,0,2,a,2020-03-08 16:30:00
+11917,Manchester City,Arsenal,2.73725,0.496759,3,0,h,2020-06-17 19:15:00
+11939,Manchester City,Burnley,2.71096,0.0303408,5,0,h,2020-06-22 19:00:00
+11946,Manchester City,Chelsea,0.690594,4.206,1,2,a,2020-06-25 19:15:00
+11959,Manchester City,Liverpool,2.65433,0.819606,4,0,h,2020-07-02 19:15:00
+11970,Manchester City,Southampton,3.39575,0.628765,0,1,a,2020-07-05 18:00:00
+11979,Manchester City,Newcastle United,3.28662,0.21643,5,0,h,2020-07-08 17:00:00
+11985,Manchester City,Brighton,5.51767,0.149588,5,0,a,2020-07-11 19:00:00
+11999,Manchester City,Bournemouth,0.82755,1.66635,2,1,h,2020-07-15 17:00:00
+12011,Manchester City,Watford,3.73814,0.131868,4,0,a,2020-07-21 17:00:00
+12017,Manchester City,Norwich,3.56749,0.786563,5,0,h,2020-07-26 15:00:00

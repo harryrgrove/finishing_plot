@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+6185,Paris Saint Germain,Reims,2.65538,1.36787,2,2,a,2014-08-08 19:30:00
+6196,Paris Saint Germain,SC Bastia,1.50758,0.164539,2,0,h,2014-08-16 16:00:00
+6205,Paris Saint Germain,Evian Thonon Gaillard,0.388902,0.632883,0,0,a,2014-08-22 19:30:00
+6224,Paris Saint Germain,Saint-Etienne,1.60888,0.384577,5,0,h,2014-08-31 20:00:00
+6146,Paris Saint Germain,Rennes,1.49453,0.28586,1,1,a,2014-09-13 16:00:00
+6164,Paris Saint Germain,Lyon,1.71499,0.538028,1,1,h,2014-09-21 20:00:00
+6173,Paris Saint Germain,Caen,2.14743,0.943355,2,0,a,2014-09-24 20:00:00
+6176,Paris Saint Germain,Toulouse,0.504659,0.661996,1,1,a,2014-09-27 16:00:00
+6123,Paris Saint Germain,Monaco,1.23205,1.28795,1,1,h,2014-10-05 20:00:00
+6124,Paris Saint Germain,Lens,2.32314,0.887858,3,1,a,2014-10-17 19:30:00
+6135,Paris Saint Germain,Bordeaux,2.26339,0.451124,3,0,h,2014-10-25 16:00:00
+6076,Paris Saint Germain,Lorient,1.72464,1.17192,2,1,a,2014-11-01 16:00:00
+6094,Paris Saint Germain,Marseille,2.92373,0.757773,2,0,h,2014-11-09 20:00:00
+6095,Paris Saint Germain,Metz,2.21682,2.04314,3,2,a,2014-11-21 19:30:00
+6105,Paris Saint Germain,Nice,1.77541,0.367226,1,0,h,2014-11-29 16:00:00
+6044,Paris Saint Germain,Lille,3.24668,1.32825,1,1,a,2014-12-03 20:00:00
+6047,Paris Saint Germain,Nantes,1.86018,0.152992,2,1,h,2014-12-06 16:00:00
+6063,Paris Saint Germain,Guingamp,1.24333,0.67697,0,1,a,2014-12-14 16:00:00
+6067,Paris Saint Germain,Montpellier,0.514465,0.0415991,0,0,h,2014-12-20 16:00:00
+6000,Paris Saint Germain,SC Bastia,1.31274,1.4467,2,4,a,2015-01-10 16:00:00
+6016,Paris Saint Germain,Evian Thonon Gaillard,3.42779,0.39894,4,2,h,2015-01-18 13:00:00
+6028,Paris Saint Germain,Saint-Etienne,2.36079,0.351107,1,0,a,2015-01-25 20:00:00
+6029,Paris Saint Germain,Rennes,1.84905,0.464159,1,0,h,2015-01-30 19:30:00
+5972,Paris Saint Germain,Lyon,2.59822,0.719121,1,1,a,2015-02-08 20:00:00
+5974,Paris Saint Germain,Caen,1.58468,0.674238,2,2,h,2015-02-14 15:00:00
+5983,Paris Saint Germain,Toulouse,1.89117,1.00428,3,1,h,2015-02-21 16:00:00
+5928,Paris Saint Germain,Monaco,1.25139,0.269429,0,0,a,2015-03-01 20:00:00
+5931,Paris Saint Germain,Lens,4.74794,0.623449,4,1,h,2015-03-07 16:00:00
+5948,Paris Saint Germain,Bordeaux,2.24977,2.38445,2,3,a,2015-03-15 16:00:00
+5950,Paris Saint Germain,Lorient,3.60171,0.385115,3,1,h,2015-03-20 19:30:00
+5894,Paris Saint Germain,Marseille,0.396874,0.634944,3,2,a,2015-04-05 20:00:00
+5906,Paris Saint Germain,Nice,2.84076,1.35219,3,1,a,2015-04-18 16:00:00
+5916,Paris Saint Germain,Lille,2.94967,0.30206,6,1,h,2015-04-25 16:00:00
+5925,Paris Saint Germain,Metz,1.0084,0.447795,3,1,h,2015-04-28 20:00:00
+5854,Paris Saint Germain,Nantes,2.21276,0.51294,2,0,a,2015-05-03 20:00:00
+5855,Paris Saint Germain,Guingamp,4.38112,0.23496,6,0,h,2015-05-08 19:30:00
+5872,Paris Saint Germain,Montpellier,2.33917,0.344417,2,1,a,2015-05-16 20:00:00
+5878,Paris Saint Germain,Reims,2.06974,1.54416,3,2,h,2015-05-23 20:00:00

@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+14105,Manchester City,Wolverhampton Wanderers,2.07651,0.727677,3,1,a,2020-09-21 19:15:00
+14112,Manchester City,Leicester,1.44633,2.86721,2,5,h,2020-09-27 15:30:00
+14469,Manchester City,Leeds,1.41533,2.56662,1,1,a,2020-10-03 16:30:00
+14480,Manchester City,Arsenal,1.43023,0.838322,1,0,h,2020-10-17 16:30:00
+14493,Manchester City,West Ham,0.892456,0.263739,1,1,a,2020-10-24 11:30:00
+14502,Manchester City,Sheffield United,1.89643,0.687544,1,0,a,2020-10-31 12:30:00
+14511,Manchester City,Liverpool,1.58487,1.18789,1,1,h,2020-11-08 16:30:00
+14523,Manchester City,Tottenham,1.66325,0.761142,0,2,a,2020-11-21 17:30:00
+14533,Manchester City,Burnley,2.26129,0.419877,5,0,h,2020-11-28 15:00:00
+14540,Manchester City,Fulham,3.26328,0.287444,2,0,h,2020-12-05 15:00:00
+14549,Manchester City,Manchester United,1.28434,0.591617,0,0,a,2020-12-12 17:30:00
+14564,Manchester City,West Bromwich Albion,2.58593,0.210243,1,1,h,2020-12-15 20:00:00
+14572,Manchester City,Southampton,1.15599,0.586972,1,0,a,2020-12-19 15:00:00
+14581,Manchester City,Newcastle United,3.19575,0.200953,2,0,h,2020-12-26 20:00:00
+14603,Manchester City,Chelsea,3.18063,0.691013,3,1,a,2021-01-03 16:30:00
+14614,Manchester City,Brighton,2.90855,0.177084,1,0,h,2021-01-13 18:00:00
+14621,Manchester City,Crystal Palace,0.961088,0.0515836,4,0,h,2021-01-17 19:15:00
+14089,Manchester City,Aston Villa,3.34385,0.601768,2,0,h,2021-01-20 20:00:00
+14629,Manchester City,West Bromwich Albion,2.24838,0.568258,5,0,a,2021-01-26 20:15:00
+14642,Manchester City,Sheffield United,1.53116,0.154537,1,0,h,2021-01-30 15:00:00
+14646,Manchester City,Burnley,2.12153,0.0489155,2,0,a,2021-02-03 18:00:00
+14659,Manchester City,Liverpool,3.55196,1.17728,4,1,a,2021-02-07 16:30:00
+14671,Manchester City,Tottenham,2.46219,0.4235,3,0,h,2021-02-13 17:30:00
+14593,Manchester City,Everton,1.23218,1.04664,3,1,a,2021-02-17 20:15:00
+14675,Manchester City,Arsenal,2.08868,0.331188,1,0,a,2021-02-21 16:30:00
+14689,Manchester City,West Ham,0.760574,1.92892,2,1,h,2021-02-27 12:30:00
+14720,Manchester City,Wolverhampton Wanderers,3.26196,0.318824,4,1,h,2021-03-02 20:00:00
+14700,Manchester City,Manchester United,1.27561,2.11411,0,2,h,2021-03-07 16:30:00
+14761,Manchester City,Southampton,3.10503,1.60561,5,2,h,2021-03-10 18:00:00
+14708,Manchester City,Fulham,2.72578,0.449499,3,0,a,2021-03-13 20:00:00
+14730,Manchester City,Leicester,1.98438,0.284781,2,0,a,2021-04-03 16:30:00
+14740,Manchester City,Leeds,1.98825,0.17525,1,2,h,2021-04-10 11:30:00
+14746,Manchester City,Aston Villa,1.5634,0.801733,2,1,a,2021-04-21 19:15:00
+14768,Manchester City,Crystal Palace,2.04443,0.361866,2,0,a,2021-05-01 11:30:00
+14781,Manchester City,Chelsea,1.79168,0.619724,1,2,h,2021-05-08 16:30:00
+14791,Manchester City,Newcastle United,1.477,2.18312,4,3,a,2021-05-14 19:00:00
+14795,Manchester City,Brighton,1.07139,1.22824,2,3,a,2021-05-18 18:00:00
+14811,Manchester City,Everton,2.88355,1.07258,5,0,h,2021-05-23 15:00:00

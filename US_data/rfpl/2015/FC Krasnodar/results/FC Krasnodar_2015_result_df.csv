@@ -1,0 +1,31 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+2355,FC Krasnodar,Amkar,0.839486,0.132366,1,0,a,2015-07-20 18:00:00
+2363,FC Krasnodar,Spartak Moscow,0.544814,1.11679,0,1,h,2015-07-26 21:00:00
+2371,FC Krasnodar,FC Rostov,1.07707,1.05419,0,0,a,2015-08-02 21:00:00
+2380,FC Krasnodar,Kuban Krasnodar,0.838512,0.524728,1,1,h,2015-08-10 21:15:00
+2383,FC Krasnodar,Zenit St. Petersburg,0.719358,0.56666,2,0,a,2015-08-15 17:30:00
+2394,FC Krasnodar,Mordovya,1.55153,0.337717,0,0,h,2015-08-23 21:00:00
+2402,FC Krasnodar,Lokomotiv Moscow,0.445379,1.2514,1,2,a,2015-08-30 14:30:00
+2409,FC Krasnodar,Dinamo Moscow,1.47954,1.2373,4,0,h,2015-09-13 17:30:00
+2419,FC Krasnodar,Ural,0.860796,1.52104,1,3,a,2015-09-21 17:30:00
+2425,FC Krasnodar,FK Akhmat,0.636757,0.956022,1,1,h,2015-09-27 17:30:00
+2435,FC Krasnodar,FC Ufa,1.45252,0.326268,1,1,a,2015-10-04 17:00:00
+2443,FC Krasnodar,Anzhi Makhachkala,1.72226,1.4435,2,2,a,2015-10-18 19:30:00
+2450,FC Krasnodar,Rubin Kazan,2.33883,1.06358,2,1,h,2015-10-25 17:30:00
+2455,FC Krasnodar,Krylya Sovetov Samara,2.8451,0.284119,4,0,a,2015-11-01 15:00:00
+2467,FC Krasnodar,CSKA Moscow,1.04769,0.756333,2,1,h,2015-11-08 18:00:00
+2475,FC Krasnodar,Spartak Moscow,1.57606,2.74712,2,3,a,2015-11-22 20:30:00
+2483,FC Krasnodar,FC Rostov,2.5869,1.01818,2,1,h,2015-11-30 20:00:00
+2488,FC Krasnodar,Kuban Krasnodar,2.31085,0.997974,3,2,a,2015-12-04 20:00:00
+2495,FC Krasnodar,Zenit St. Petersburg,0.842128,0.603571,0,0,h,2016-03-05 20:30:00
+2505,FC Krasnodar,Mordovya,0.805481,1.99788,1,0,a,2016-03-13 15:30:00
+2516,FC Krasnodar,Lokomotiv Moscow,0.855595,0.928545,1,2,h,2016-03-20 20:30:00
+2524,FC Krasnodar,Dinamo Moscow,1.73274,1.33322,4,1,a,2016-04-04 20:30:00
+2530,FC Krasnodar,Ural,3.36367,0.956799,6,0,h,2016-04-10 18:00:00
+2534,FC Krasnodar,FK Akhmat,0.771547,0.400723,1,0,a,2016-04-16 15:30:00
+2545,FC Krasnodar,FC Ufa,1.45926,0.122253,4,0,h,2016-04-24 15:30:00
+2556,FC Krasnodar,Anzhi Makhachkala,1.54054,0.208808,3,0,h,2016-05-01 20:30:00
+2562,FC Krasnodar,Rubin Kazan,2.34379,0.678231,1,1,a,2016-05-07 20:30:00
+2567,FC Krasnodar,Krylya Sovetov Samara,1.74083,0.346712,3,0,h,2016-05-11 20:30:00
+2577,FC Krasnodar,CSKA Moscow,0.605535,1.41211,0,2,a,2016-05-16 20:30:00
+2583,FC Krasnodar,Amkar,0.888159,0.132987,1,0,h,2016-05-21 14:30:00

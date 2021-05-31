@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+10337,Hoffenheim,Bayern Munich,0.697274,3.08883,1,3,a,2018-08-24 21:30:00
+10350,Hoffenheim,Freiburg,3.48013,1.53718,3,1,h,2018-09-01 13:30:00
+10359,Hoffenheim,Fortuna Duesseldorf,2.19977,1.78366,1,2,a,2018-09-15 13:30:00
+10365,Hoffenheim,Borussia Dortmund,1.92814,1.4456,1,1,h,2018-09-22 13:30:00
+10374,Hoffenheim,Hannover 96,1.98958,2.06878,3,1,a,2018-09-25 18:30:00
+10385,Hoffenheim,RasenBallsport Leipzig,1.77221,1.47287,1,2,h,2018-09-29 13:30:00
+10392,Hoffenheim,Eintracht Frankfurt,2.24067,1.02517,1,2,h,2018-10-07 13:30:00
+10408,Hoffenheim,Nuernberg,2.46148,1.11043,3,1,a,2018-10-20 13:30:00
+10409,Hoffenheim,VfB Stuttgart,2.93243,0.253449,4,0,h,2018-10-27 16:30:00
+10424,Hoffenheim,Bayer Leverkusen,1.93557,2.21447,4,1,a,2018-11-03 14:30:00
+10427,Hoffenheim,Augsburg,1.82862,1.14191,2,1,h,2018-11-10 14:30:00
+10440,Hoffenheim,Hertha Berlin,1.68148,2.69304,3,3,a,2018-11-24 14:30:00
+10445,Hoffenheim,Schalke 04,2.35914,2.15866,1,1,h,2018-12-01 17:30:00
+10462,Hoffenheim,Wolfsburg,2.10256,0.515385,2,2,a,2018-12-08 14:30:00
+10463,Hoffenheim,Borussia M.Gladbach,3.933,0.584205,0,0,h,2018-12-15 14:30:00
+10474,Hoffenheim,Werder Bremen,1.90654,2.39195,1,1,a,2018-12-19 19:30:00
+10482,Hoffenheim,Mainz 05,2.21326,0.963816,1,1,h,2018-12-23 17:00:00
+10497,Hoffenheim,Bayern Munich,1.1596,3.31311,1,3,h,2019-01-18 19:30:00
+10504,Hoffenheim,Freiburg,3.27125,1.77454,4,2,a,2019-01-26 14:30:00
+10515,Hoffenheim,Fortuna Duesseldorf,1.63645,1.17944,1,1,h,2019-02-02 14:30:00
+10518,Hoffenheim,Borussia Dortmund,2.47538,1.99653,3,3,a,2019-02-09 14:30:00
+10526,Hoffenheim,Hannover 96,3.59387,0.41327,3,0,h,2019-02-16 14:30:00
+10537,Hoffenheim,RasenBallsport Leipzig,1.30993,1.91108,1,1,a,2019-02-25 19:30:00
+10547,Hoffenheim,Eintracht Frankfurt,1.76367,2.30575,2,3,a,2019-03-02 14:30:00
+10554,Hoffenheim,Nuernberg,2.64002,0.79045,2,1,h,2019-03-10 14:30:00
+10562,Hoffenheim,VfB Stuttgart,2.90274,1.35935,1,1,a,2019-03-16 14:30:00
+10571,Hoffenheim,Bayer Leverkusen,2.4473,1.71436,4,1,h,2019-03-29 19:30:00
+10586,Hoffenheim,Augsburg,3.60653,0.653608,4,0,a,2019-04-07 14:30:00
+10589,Hoffenheim,Hertha Berlin,3.53386,0.305091,2,0,h,2019-04-14 12:30:00
+10600,Hoffenheim,Schalke 04,1.87167,2.02105,5,2,a,2019-04-20 19:30:00
+10608,Hoffenheim,Wolfsburg,3.38957,2.05348,1,4,h,2019-04-28 14:30:00
+10619,Hoffenheim,Borussia M.Gladbach,3.2364,1.23948,2,2,a,2019-05-04 14:30:00
+10625,Hoffenheim,Werder Bremen,1.80986,0.931751,0,1,h,2019-05-11 14:30:00
+10642,Hoffenheim,Mainz 05,1.64469,2.87626,2,4,a,2019-05-18 13:30:00

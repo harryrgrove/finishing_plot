@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+5447,Bayern Munich,Wolfsburg,2.57012,1.19842,2,1,h,2014-08-22 19:30:00
+5462,Bayern Munich,Schalke 04,1.50328,1.30795,1,1,a,2014-08-30 17:30:00
+5413,Bayern Munich,VfB Stuttgart,1.22987,0.310166,2,0,h,2014-09-13 14:30:00
+5422,Bayern Munich,Hamburger SV,1.03519,0.203118,0,0,a,2014-09-20 14:30:00
+5430,Bayern Munich,Paderborn,3.48286,0.402844,4,0,h,2014-09-23 19:00:00
+5442,Bayern Munich,FC Cologne,3.46966,0.821798,2,0,a,2014-09-27 14:30:00
+5385,Bayern Munich,Hannover 96,2.69879,0.443178,4,0,h,2014-10-04 14:30:00
+5392,Bayern Munich,Werder Bremen,2.49826,0.0,6,0,h,2014-10-18 14:30:00
+5409,Bayern Munich,Borussia M.Gladbach,1.2047,0.648384,0,0,a,2014-10-26 16:30:00
+5352,Bayern Munich,Borussia Dortmund,2.64367,0.942884,2,1,h,2014-11-01 17:30:00
+5360,Bayern Munich,Eintracht Frankfurt,3.03467,0.222447,4,0,a,2014-11-08 14:30:00
+5365,Bayern Munich,Hoffenheim,2.08656,1.38014,4,0,h,2014-11-22 14:30:00
+5378,Bayern Munich,Hertha Berlin,1.94047,0.25622,1,0,a,2014-11-29 14:30:00
+5318,Bayern Munich,Bayer Leverkusen,0.947473,0.389245,1,0,h,2014-12-06 17:30:00
+5324,Bayern Munich,Augsburg,2.21868,0.286173,4,0,a,2014-12-13 14:30:00
+5333,Bayern Munich,Freiburg,2.98351,0.0497566,2,0,h,2014-12-16 19:00:00
+5339,Bayern Munich,Mainz 05,0.831278,0.490212,2,1,a,2014-12-19 19:30:00
+5305,Bayern Munich,Wolfsburg,1.91633,2.18248,1,4,a,2015-01-30 19:30:00
+5264,Bayern Munich,Schalke 04,0.376661,0.994575,1,1,h,2015-02-03 19:00:00
+5274,Bayern Munich,VfB Stuttgart,0.0975022,0.132112,2,0,a,2015-02-07 14:30:00
+5285,Bayern Munich,Hamburger SV,4.17851,0.230619,8,0,h,2015-02-14 14:30:00
+5294,Bayern Munich,Paderborn,3.12815,0.380499,6,0,a,2015-02-21 14:30:00
+5298,Bayern Munich,FC Cologne,3.92268,0.494166,4,1,h,2015-02-27 19:30:00
+5236,Bayern Munich,Hannover 96,1.33559,0.205925,3,1,a,2015-03-07 14:30:00
+5246,Bayern Munich,Werder Bremen,2.18396,0.290321,4,0,a,2015-03-14 14:30:00
+5259,Bayern Munich,Borussia M.Gladbach,0.70739,0.604102,0,2,h,2015-03-22 16:30:00
+5201,Bayern Munich,Borussia Dortmund,0.759126,0.51879,1,0,a,2015-04-04 17:30:00
+5205,Bayern Munich,Eintracht Frankfurt,2.15165,0.243596,3,0,h,2015-04-11 14:30:00
+5215,Bayern Munich,Hoffenheim,1.52453,0.668652,2,0,a,2015-04-18 14:30:00
+5228,Bayern Munich,Hertha Berlin,0.896545,0.951998,1,0,h,2015-04-25 17:30:00
+5165,Bayern Munich,Bayer Leverkusen,1.20915,1.12021,0,2,a,2015-05-02 17:30:00
+5169,Bayern Munich,Augsburg,1.17797,2.58299,0,1,h,2015-05-09 14:30:00
+5185,Bayern Munich,Freiburg,1.91964,0.656099,1,2,a,2015-05-16 14:30:00
+5192,Bayern Munich,Mainz 05,2.34132,0.328659,2,0,h,2015-05-23 14:30:00

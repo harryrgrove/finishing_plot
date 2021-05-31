@@ -1,0 +1,39 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+11645,Bournemouth,Sheffield United,1.34099,1.59864,1,1,h,2019-08-10 15:00:00
+11654,Bournemouth,Aston Villa,1.62777,1.65069,2,1,a,2019-08-17 15:00:00
+11671,Bournemouth,Manchester City,1.89345,3.12856,1,3,h,2019-08-25 14:00:00
+11677,Bournemouth,Leicester,0.554726,2.23766,1,3,a,2019-08-31 15:00:00
+11690,Bournemouth,Everton,1.41542,1.50641,3,1,h,2019-09-15 13:00:00
+11693,Bournemouth,Southampton,1.29773,2.18021,3,1,a,2019-09-20 19:00:00
+11707,Bournemouth,West Ham,2.31957,1.29546,2,2,h,2019-09-28 14:00:00
+11722,Bournemouth,Arsenal,0.683967,1.24109,0,1,a,2019-10-06 14:00:00
+11724,Bournemouth,Norwich,0.675554,0.402873,0,0,h,2019-10-19 15:00:00
+11741,Bournemouth,Watford,0.899526,0.674903,0,0,a,2019-10-26 15:00:00
+11745,Bournemouth,Manchester United,1.86862,0.641129,1,0,h,2019-11-02 12:30:00
+11756,Bournemouth,Newcastle United,1.9213,2.3306,1,2,a,2019-11-09 15:00:00
+11765,Bournemouth,Wolverhampton Wanderers,0.849789,1.2765,1,2,h,2019-11-23 15:00:00
+11779,Bournemouth,Tottenham,1.02949,2.93189,2,3,a,2019-11-30 15:00:00
+11791,Bournemouth,Crystal Palace,0.342799,0.383763,0,1,a,2019-12-03 19:30:00
+11794,Bournemouth,Liverpool,0.154608,3.04446,0,3,h,2019-12-07 15:00:00
+11805,Bournemouth,Chelsea,1.20777,2.02119,1,0,a,2019-12-14 15:00:00
+11814,Bournemouth,Burnley,0.138532,0.144318,0,1,h,2019-12-21 15:00:00
+11824,Bournemouth,Arsenal,1.55463,1.42464,1,1,h,2019-12-26 15:00:00
+11834,Bournemouth,Brighton,0.500726,1.05876,0,2,a,2019-12-28 12:30:00
+11843,Bournemouth,West Ham,0.720709,2.32825,0,4,a,2020-01-01 17:30:00
+11857,Bournemouth,Watford,0.320447,2.29827,0,3,h,2020-01-12 14:00:00
+11869,Bournemouth,Norwich,0.558298,1.76046,0,1,a,2020-01-18 15:00:00
+11878,Bournemouth,Brighton,1.92315,1.97227,3,1,h,2020-01-21 19:30:00
+11883,Bournemouth,Aston Villa,2.72236,1.40955,2,1,h,2020-02-01 15:00:00
+11900,Bournemouth,Sheffield United,1.07183,2.04467,1,2,a,2020-02-09 14:00:00
+11907,Bournemouth,Burnley,1.75718,3.09935,0,3,a,2020-02-22 15:00:00
+11914,Bournemouth,Chelsea,1.58495,1.98271,2,2,h,2020-02-29 15:00:00
+11928,Bournemouth,Liverpool,1.29544,1.89453,1,2,a,2020-03-07 12:30:00
+11942,Bournemouth,Crystal Palace,0.363637,0.788453,0,2,h,2020-06-20 18:45:00
+11947,Bournemouth,Wolverhampton Wanderers,0.0619009,0.715002,0,1,a,2020-06-24 17:00:00
+11955,Bournemouth,Newcastle United,1.27503,2.23457,1,4,h,2020-07-01 17:00:00
+11967,Bournemouth,Manchester United,1.52161,2.63259,2,5,a,2020-07-04 14:00:00
+11975,Bournemouth,Tottenham,0.960349,0.479274,0,0,h,2020-07-09 17:00:00
+11984,Bournemouth,Leicester,2.54311,1.66084,4,1,h,2020-07-12 18:00:00
+11999,Bournemouth,Manchester City,1.66635,0.82755,1,2,a,2020-07-15 17:00:00
+12004,Bournemouth,Southampton,0.583117,2.24527,0,2,h,2020-07-19 13:00:00
+12019,Bournemouth,Everton,1.46461,1.74699,3,1,a,2020-07-26 15:00:00

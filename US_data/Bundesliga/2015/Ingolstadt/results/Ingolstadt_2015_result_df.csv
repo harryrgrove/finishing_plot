@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+1025,Ingolstadt,Mainz 05,0.577316,0.547769,1,0,a,2015-08-15 17:30:00
+1037,Ingolstadt,Borussia Dortmund,0.0514071,3.63386,0,4,h,2015-08-23 17:30:00
+1041,Ingolstadt,Augsburg,1.24787,0.832315,1,0,a,2015-08-29 17:30:00
+1052,Ingolstadt,Wolfsburg,0.178191,0.732037,0,0,h,2015-09-12 17:30:00
+1061,Ingolstadt,Werder Bremen,1.47429,1.22829,1,0,a,2015-09-19 17:30:00
+1068,Ingolstadt,Hamburger SV,0.718034,1.16174,0,1,h,2015-09-22 22:00:00
+1075,Ingolstadt,FC Cologne,0.638071,1.3352,1,1,a,2015-09-25 22:30:00
+1089,Ingolstadt,Eintracht Frankfurt,1.185,0.740308,2,0,h,2015-10-03 17:30:00
+1101,Ingolstadt,VfB Stuttgart,1.63336,1.33256,0,1,a,2015-10-18 19:30:00
+1108,Ingolstadt,Hertha Berlin,0.66126,0.702791,0,1,h,2015-10-24 20:30:00
+1116,Ingolstadt,Schalke 04,0.26092,1.07951,1,1,a,2015-10-31 18:30:00
+1124,Ingolstadt,Borussia M.Gladbach,0.939938,1.28313,0,0,a,2015-11-07 18:30:00
+1137,Ingolstadt,Darmstadt,2.73623,0.58372,3,1,h,2015-11-22 20:40:00
+1140,Ingolstadt,Hannover 96,0.366248,1.50396,0,4,a,2015-11-28 18:30:00
+1152,Ingolstadt,Hoffenheim,0.489495,1.12887,1,1,h,2015-12-05 18:30:00
+1161,Ingolstadt,Bayern Munich,1.00727,2.49703,0,2,a,2015-12-12 18:30:00
+1166,Ingolstadt,Bayer Leverkusen,0.461211,0.717973,0,1,h,2015-12-19 18:30:00
+1179,Ingolstadt,Mainz 05,1.79614,0.651914,1,0,h,2016-01-23 18:30:00
+1185,Ingolstadt,Borussia Dortmund,0.145484,2.19495,0,2,a,2016-01-30 18:30:00
+1197,Ingolstadt,Augsburg,2.8596,0.232784,2,1,h,2016-02-06 18:30:00
+1204,Ingolstadt,Wolfsburg,0.549133,1.37415,0,2,a,2016-02-13 18:30:00
+1214,Ingolstadt,Werder Bremen,1.85348,0.572222,2,0,h,2016-02-20 18:30:00
+1222,Ingolstadt,Hamburger SV,1.01142,0.897328,1,1,a,2016-02-27 18:30:00
+1229,Ingolstadt,FC Cologne,1.40092,1.14458,1,1,h,2016-03-01 23:00:00
+1240,Ingolstadt,Eintracht Frankfurt,1.55385,2.63935,1,1,a,2016-03-05 18:30:00
+1248,Ingolstadt,VfB Stuttgart,1.86907,3.11394,3,3,h,2016-03-12 18:30:00
+1260,Ingolstadt,Hertha Berlin,0.67263,1.12049,1,2,a,2016-03-19 18:30:00
+1267,Ingolstadt,Schalke 04,1.86933,0.864055,3,0,h,2016-04-02 17:30:00
+1274,Ingolstadt,Borussia M.Gladbach,2.04687,0.311628,1,0,h,2016-04-09 17:30:00
+1284,Ingolstadt,Darmstadt,0.351721,1.24602,0,2,a,2016-04-16 17:30:00
+1296,Ingolstadt,Hannover 96,1.16542,1.22986,2,2,h,2016-04-23 17:30:00
+1302,Ingolstadt,Hoffenheim,2.37831,1.82345,1,2,a,2016-04-30 17:30:00
+1317,Ingolstadt,Bayern Munich,1.94299,2.27556,1,2,h,2016-05-07 17:30:00
+1323,Ingolstadt,Bayer Leverkusen,2.93125,3.08569,2,3,a,2016-05-14 17:30:00

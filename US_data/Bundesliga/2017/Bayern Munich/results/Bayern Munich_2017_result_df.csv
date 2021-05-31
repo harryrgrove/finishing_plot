@@ -1,0 +1,35 @@
+,team,opponent,xG_scored,xG_conceded,goals_scored,goals_conceded,location,date
+8259,Bayern Munich,Bayer Leverkusen,2.77906,1.8866,3,1,h,2017-08-18 19:30:00
+8269,Bayern Munich,Werder Bremen,1.39955,0.229698,2,0,a,2017-08-26 14:30:00
+8283,Bayern Munich,Hoffenheim,1.51192,0.612108,0,2,a,2017-09-09 17:30:00
+8289,Bayern Munich,Mainz 05,4.4171,0.711282,4,0,h,2017-09-16 14:30:00
+8296,Bayern Munich,Schalke 04,2.45506,1.16279,3,0,a,2017-09-19 19:30:00
+8304,Bayern Munich,Wolfsburg,2.33812,0.470696,2,2,h,2017-09-22 19:30:00
+8317,Bayern Munich,Hertha Berlin,1.51044,1.66354,2,2,a,2017-10-01 14:30:00
+8322,Bayern Munich,Freiburg,1.586,0.345885,5,0,h,2017-10-14 14:30:00
+8338,Bayern Munich,Hamburger SV,2.29592,0.162992,1,0,a,2017-10-21 17:30:00
+8340,Bayern Munich,RasenBallsport Leipzig,2.03827,0.314536,2,0,h,2017-10-28 17:30:00
+8357,Bayern Munich,Borussia Dortmund,1.27845,1.89107,3,1,a,2017-11-04 17:30:00
+8358,Bayern Munich,Augsburg,1.91503,0.28233,3,0,h,2017-11-18 14:30:00
+8371,Bayern Munich,Borussia M.Gladbach,0.900051,2.12791,1,2,a,2017-11-25 17:30:00
+8376,Bayern Munich,Hannover 96,3.86566,1.08319,3,1,h,2017-12-02 14:30:00
+8391,Bayern Munich,Eintracht Frankfurt,0.364594,0.486786,1,0,a,2017-12-09 14:30:00
+8394,Bayern Munich,FC Cologne,3.34396,0.303914,1,0,h,2017-12-13 19:30:00
+8410,Bayern Munich,VfB Stuttgart,1.44251,1.0958,1,0,a,2017-12-16 14:30:00
+8417,Bayern Munich,Bayer Leverkusen,1.48773,0.615242,3,1,a,2018-01-12 19:30:00
+8421,Bayern Munich,Werder Bremen,1.89433,0.862595,4,2,h,2018-01-21 14:30:00
+8431,Bayern Munich,Hoffenheim,2.83832,1.01591,5,2,h,2018-01-27 14:30:00
+8445,Bayern Munich,Mainz 05,1.61624,1.12443,2,0,a,2018-02-03 14:30:00
+8451,Bayern Munich,Schalke 04,1.20152,0.90129,2,1,h,2018-02-10 17:30:00
+8465,Bayern Munich,Wolfsburg,3.22804,0.469077,2,1,a,2018-02-17 14:30:00
+8466,Bayern Munich,Hertha Berlin,1.65693,0.0979538,0,0,h,2018-02-24 14:30:00
+8477,Bayern Munich,Freiburg,1.98824,0.471821,4,0,a,2018-03-04 17:00:00
+8484,Bayern Munich,Hamburger SV,4.9158,0.00671621,6,0,h,2018-03-10 14:30:00
+8494,Bayern Munich,RasenBallsport Leipzig,1.40277,2.78372,1,2,a,2018-03-18 17:00:00
+8502,Bayern Munich,Borussia Dortmund,4.59926,0.485044,6,0,h,2018-03-31 14:30:00
+8517,Bayern Munich,Augsburg,2.32217,0.886211,4,1,a,2018-04-07 13:30:00
+8520,Bayern Munich,Borussia M.Gladbach,3.36215,0.196571,5,1,h,2018-04-14 16:30:00
+8536,Bayern Munich,Hannover 96,2.00929,0.243137,3,0,a,2018-04-21 13:30:00
+8538,Bayern Munich,Eintracht Frankfurt,1.89862,1.25053,4,1,h,2018-04-28 13:30:00
+8552,Bayern Munich,FC Cologne,2.76039,1.9373,3,1,a,2018-05-05 14:30:00
+8556,Bayern Munich,VfB Stuttgart,1.92541,2.45916,1,4,h,2018-05-12 14:30:00
