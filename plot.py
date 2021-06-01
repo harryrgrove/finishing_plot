@@ -5,10 +5,11 @@ import os
 import matplotlib.pyplot as plt
 import seaborn as sns
 from progress.bar import ChargingBar
+from datetime import datetime, timedelta
 
 
 def plot(collect_new_data=True, source='StatsBomb', league='PL',
-         window=50, player_colors=None, print_names=False):
+         window=50, player_colors=None, print_names=False, axis='volume', annotate=True):
     """
     :param collect_new_data:
         If True, refreshes data for data.json
@@ -22,6 +23,10 @@ def plot(collect_new_data=True, source='StatsBomb', league='PL',
         Print names of players (useful to check spelling)
     :param player_colors:
         Dict of highlighted data
+    :param axis:
+        Plot by 'volume' or 'time' (time for StatsBomb data only)
+    :param annotate:
+        Label player names for coloured lines
     """
 
     if collect_new_data:
@@ -29,7 +34,8 @@ def plot(collect_new_data=True, source='StatsBomb', league='PL',
             df = pd.read_csv(f'SB_data/{league}_data.csv').sort_values(by='date')
             players = df['player'].unique()
 
-            lines = {}
+            volume_lines = {}
+            time_lines = {}
             bar = ChargingBar('Loading Data', max=len(players))
             for player in players:
                 bar.next()
@@ -41,22 +47,22 @@ def plot(collect_new_data=True, source='StatsBomb', league='PL',
 
                 # Build 50-shot rolling averages
                 if player_df['shots'].sum() >= window:
-                    goal_counts, xg_counts = [], []
-                    goal_sum, xg_sum = 0, 0
+                    dates, match_goal_counts, match_xg_counts, shot_goal_counts, shot_xg_counts = [], [], [], [], []
                     run_start, run_end = 0, 0
                     shot_list = []
                     for iloc, i in enumerate(player_df.index):
                         if sum(shot_list) < window:
                             shot_list.append(player_df.loc[i, 'shots'])
-                            goal_sum += player_df.loc[i, 'goals']
-                            xg_sum += player_df.loc[i, 'npxg']
                         else:
                             run_end = iloc
                             break
                     for i in range(run_end, len(player_df)):
+                        dates.append(player_df.iloc[i]['date'])
                         for r in range(shot_list[-1]):
-                            goal_counts.append(sum(player_df['goals'][run_start:run_end]))
-                            xg_counts.append(sum(player_df['npxg'][run_start:run_end]))
+                            shot_goal_counts.append(sum(player_df['goals'][run_start:run_end]))
+                            shot_xg_counts.append(sum(player_df['npxg'][run_start:run_end]))
+                        match_goal_counts.append(sum(player_df['goals'][run_start:run_end]))
+                        match_xg_counts.append(sum(player_df['npxg'][run_start:run_end]))
                         last_removed = 0
                         shot_list.append(player_df.iloc[i]['shots'])
                         run_end += 1
@@ -67,12 +73,16 @@ def plot(collect_new_data=True, source='StatsBomb', league='PL',
                         shot_list.insert(0, last_removed)
                         run_start -= 1
 
-                    lines[player_df['player'].tolist()[0]] = list((np.array(goal_counts) -
-                                                                   np.array(xg_counts)) / window)
+                    volume_lines[player_df['player'].iloc[0]] = list((np.array(shot_goal_counts) -
+                                                                   np.array(shot_xg_counts)) / window)
+                    time_lines[player_df['player'].iloc[0]] = {d: (match_goal_counts[i] - match_xg_counts[i]) / window
+                                                               for i, d in enumerate(dates)}
             bar.finish()
 
-            with open('data.json', 'w') as outfile:
-                json.dump(lines, outfile)
+            with open('volume_data.json', 'w') as outfile:
+                json.dump(volume_lines, outfile)
+            with open('time_data.json', 'w') as outfile:
+                json.dump(time_lines, outfile)
 
         elif source == 'Understat':
             seasons = np.arange(2014, 2021)
@@ -101,46 +111,106 @@ def plot(collect_new_data=True, source='StatsBomb', league='PL',
                     lines[player] = player_df['rolling'].tolist()
             bar.finish()
 
-            with open('data.json', 'w') as outfile:
+            with open('volume_data.json', 'w') as outfile:
                 json.dump(lines, outfile)
         else:
             raise Exception('Invalid Data Source')
-    with open('data.json') as json_file:
-        lines = json.load(json_file)
 
-    bar = ChargingBar('Drawing Lines', max=len(lines))
+    if axis == 'volume':
+        with open('volume_data.json') as json_file:
+            lines = json.load(json_file)
 
-    # Draw lines
-    for player in lines:
-        bar.next()
-        sns.lineplot(x=range(len(lines[player])), y=lines[player], color='#c0c0c0', alpha=0.5)
-    bar.finish()
+        # Draw lines
+        bar = ChargingBar('Drawing Lines', max=len(lines))
+        for player in lines:
+            bar.next()
+            sns.lineplot(x=range(len(lines[player])), y=lines[player], color='#c0c0c0', alpha=0.5)
+        bar.finish()
 
-    plt.axhline(0, ls='dashed', color='k', linewidth=1)
+        plt.axhline(0, ls='dashed', color='k', linewidth=1)
 
-    if player_colors is None:
-        player_colors = {
-            'Sadio Mané': '#da2b35',
-            'Jamie Vardy': 'darkblue'
-        }
+        if player_colors is None:
+            player_colors = {
+                'Sadio Mané': '#da2b35',
+                'Jamie Vardy': 'darkblue'
+            }
 
-    for player in player_colors:
+        for player in player_colors:
+            try:
+                sns.lineplot(x=range(len(lines[player])), y=lines[player], color=player_colors[player])
+                if annotate:
+                    plt.annotate(player, xy=(len(lines[player]), lines[player][-1] - 0.01), color=player_colors[player],
+                                 size=5, va="top", ha="left", bbox=dict(boxstyle="round", fc="w",
+                                                                        edgecolor=player_colors[player]))
+            except KeyError:
+                pass
+
+        # Set graphical params
+        plt.ylim(-0.21, 0.31)
+        plt.ylabel(f'Average of previous {window} shots', style='italic')
+        plt.xlabel('Shots (non-penalty)', style='italic')
+        plt.title(f'Over/Under Goals to xG ({league} since 2017-18)', {'fontname': 'Helvetica'}, size=12)
+        plt.text(0.99, 0.01, f'Data via {source}\n@ff_trout',
+                 fontsize=8, color='gray',
+                 ha='right', va='bottom', alpha=0.5, transform=plt.gca().transAxes)
+        plt.show()
+
+    elif axis == 'time':
+        if source == 'Understat':
+            raise Exception('time axis only available for Statsbomb data')
+
+        with open('time_data.json') as json_file:
+            lines = json.load(json_file)
+
+        # Draw lines
+        bar = ChargingBar('Drawing Lines', max=len(lines))
+        for player in lines:
+            bar.next()
+            sns.lineplot(x=[datetime.strptime(k, '%Y-%m-%d') for k in lines[player].keys()], y=lines[player].values(),
+                         color='#c0c0c0', alpha=0.5)
+        bar.finish()
+
+        plt.axhline(0, ls='dashed', color='k', linewidth=1)
+
+        if player_colors is None:
+            player_colors = {
+                'Sadio Mané': '#da2b35',
+                'Jamie Vardy': 'darkblue'
+            }
+
+        dates = []
+
+        for player in player_colors:
+            try:
+                sns.lineplot(x=[datetime.strptime(date, '%Y-%m-%d') for date in lines[player].keys()],
+                             y=lines[player].values(), color=player_colors[player])
+                if annotate:
+                    plt.annotate(player, xy=(datetime.strptime(list(lines[player].keys())[-1], '%Y-%m-%d'),
+                                             list(lines[player].values())[-1] - 0.01),
+                                 color=player_colors[player], size=5, va="bottom", ha="left",
+                                 bbox=dict(boxstyle="round", fc="w", edgecolor=player_colors[player]))
+                    for date in list(lines[player].keys()):
+                        dates.append(datetime.strptime(date, '%Y-%m-%d'))
+            except KeyError:
+                pass
+
+        # Set graphical params
         try:
-            sns.lineplot(x=range(len(lines[player])), y=lines[player], color=player_colors[player])
-            plt.annotate(player, xy=(len(lines[player]), lines[player][-1] - 0.01), color=player_colors[player], size=5,
-                         va="top", ha="left", bbox=dict(boxstyle="round", fc="w", edgecolor=player_colors[player]))
-        except KeyError:
+            plt.xlim(min(dates) - timedelta(days=50), max(dates))
+        except ValueError:
             pass
+        plt.ylim(-0.21, 0.31)
+        plt.ylabel('Average of previous 50 shots', style='italic')
+        plt.xlabel('Shots (non-penalty)', style='italic')
+        plt.title(f'Over/Under Goals to xG ({league} since 2017-18)', {'fontname': 'Helvetica'}, size=12)
+        plt.text(0.99, 0.01, f'Data via {source}\n@ff_trout',
+                 fontsize=8, color='gray',
+                 ha='right', va='bottom', alpha=0.5, transform=plt.gca().transAxes)
+        plt.show()
+    else:
+        raise Exception('Invalid Axis')
 
-    # Set graphical params
-    plt.ylim(-0.21, 0.31)
-    plt.ylabel('Average of previous 50 shots', style='italic')
-    plt.xlabel('Shots (non-penalty)', style='italic')
-    plt.title(f'Over/Under Goals to xG ({league} since 2017-18)', {'fontname':'Helvetica'}, size=12)
-    plt.text(0.99, 0.01, f'Data via {source}\n@ff_trout',
-             fontsize=8, color='gray',
-             ha='right', va='bottom', alpha=0.5, transform=plt.gca().transAxes)
-    plt.show()
+
 
 
 plot(
@@ -151,5 +221,7 @@ plot(
     player_colors={
         'Sadio Mané': '#da2b35',
         'Jamie Vardy': 'darkblue'
-    }
+    },
+    axis='volume',
+    annotate=True
 )
